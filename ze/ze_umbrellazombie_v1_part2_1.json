@@ -1,0 +1,326 @@
+[
+  {
+    "original": "Map Creator : Platin",
+    "en_trans": "",
+    "zh_trans": "地图制作：Platin",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Test Server : Mapeadores | GFL",
+    "en_trans": "",
+    "zh_trans": "测试服：Mapeadores | GFL",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "RUN !!!",
+    "en_trans": "",
+    "zh_trans": "润！！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** The door will open in 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 大门将在 30 秒后打开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** ZOMBIE TELEPORT 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "***僵尸将在10秒后传送***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE DOOR OPENING ***",
+    "en_trans": "",
+    "zh_trans": "*** 大门开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** 30 seconds left for the wall to break ***",
+    "en_trans": "",
+    "zh_trans": "***墙将在30秒后破裂***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** WALL IS BREAK, LETS GOO ***",
+    "en_trans": "",
+    "zh_trans": "***墙破了，该润了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** defend to 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "***坚持30秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** ZOMBIE TELEPORT 10 SECONDS, GO BACK ***",
+    "en_trans": "",
+    "zh_trans": "***僵尸将在10秒后传送，撤退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** barrier opened go go ***",
+    "en_trans": "",
+    "zh_trans": "*** 障碍物已清除，出发！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DONT DEFENDS, RUN RUN ***",
+    "en_trans": "",
+    "zh_trans": "***不要恋战，撤退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** PRESS THE DOOR OPEN BUTTON ***",
+    "en_trans": "",
+    "zh_trans": "***请按下开门键***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** defend door to 20 seconds ***",
+    "en_trans": "",
+    "zh_trans": "***坚守大门20秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** door opening go go ***",
+    "en_trans": "",
+    "zh_trans": "*** 门开了，撤！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** defend to 50 seconds ***",
+    "en_trans": "",
+    "zh_trans": "***坚守50秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** ZOMBIE TELEPORT 5 SECONDS, GO BACK ***",
+    "en_trans": "",
+    "zh_trans": "***僵尸将在10秒后传送，撤退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** RUN RUN ***",
+    "en_trans": "",
+    "zh_trans": "***润润润***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** The elevator will move in 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "***电梯将在25秒后启动***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** The Elevator moving, GO BACK ***",
+    "en_trans": "",
+    "zh_trans": "***电梯来了，撤退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** follow the path above ***",
+    "en_trans": "",
+    "zh_trans": "***看着头顶的路线走***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** defend door to 40 seconds ***",
+    "en_trans": "",
+    "zh_trans": "***坚守大门40秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE DOOR OPENING GO GO ***",
+    "en_trans": "",
+    "zh_trans": "*** 门开了，撤！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE DOOR CLOSING ***",
+    "en_trans": "",
+    "zh_trans": "*** 大门正在关闭 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Zombie detected in the test area. Mission failed. ***",
+    "en_trans": "",
+    "zh_trans": "***任务失败，测试区域检测到僵尸***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND THE AREA OR MAKE THE LASER ***",
+    "en_trans": "",
+    "zh_trans": "***坚守本区域或去跳激光***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LASER ACTIVATED ***",
+    "en_trans": "",
+    "zh_trans": "***激光已激活***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LASER RETURN ***",
+    "en_trans": "",
+    "zh_trans": "***激光从你的背后来了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DOOR OPENING ***",
+    "en_trans": "",
+    "zh_trans": "*** 大门开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** PRESS TO BUTTON ***",
+    "en_trans": "",
+    "zh_trans": "*** 按下按钮！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FINAL DOOR CLOSES IN TO 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "***最后的门将在20秒后关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FINAL DOOR CLOSES IN TO 5 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "***最后的门将在5秒后关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** part3(final) cooming soon ***",
+    "en_trans": "",
+    "zh_trans": "***第三章（最终关卡）已制作完成，感谢游玩***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE LASER DOOR OPENING ***",
+    "en_trans": "",
+    "zh_trans": "*** 激光门正在开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEND ***",
+    "en_trans": "",
+    "zh_trans": "*** 防守 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "* Next Map : ze_umbrellazombie_v1_p3_final *",
+    "en_trans": "",
+    "zh_trans": "ze_umbrellazombie_v1_p3_final 现已推出",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

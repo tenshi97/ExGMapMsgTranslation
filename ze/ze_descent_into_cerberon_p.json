@@ -1,0 +1,884 @@
+[
+  {
+    "original": "<<MAP BY TORMACOY>>",
+    "en_trans": "",
+    "zh_trans": "<<地图制作 TORMACOY>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THIS THE LOCATION OUR AGENTS REPORTED. THERE SHOULD BE AN ENEMY FACILITY SOMEWHERE INSIDE THIS TEMPLE***",
+    "en_trans": "",
+    "zh_trans": "***这是我们特工报告的地点。 这座寺庙里应该有敌人的设施***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WE MUST FIND AND DESTROY IT. WATCH OUT FOR ZOMBIES, THIS PLACE IS INFESTED WITH THEM***",
+    "en_trans": "",
+    "zh_trans": "*** 我们必须找到并摧毁它。小心僵尸，这里到处都是***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***NOW LET'S MOVE ON***",
+    "en_trans": "",
+    "zh_trans": "***现在，让我们继续前进****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THIS PLATFORM SEEM LIKE AN ELEVATOR...***",
+    "en_trans": "",
+    "zh_trans": "***这个平台看起来像电梯......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***UNLOCKING THE FRONT DOOR...***",
+    "en_trans": "",
+    "zh_trans": "***前门正在开启......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THIS IS THE ENTRANCE TO THE TEMPLE...***",
+    "en_trans": "",
+    "zh_trans": "*** 这里是寺庙的入口......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD THEM OFF WHILE WE FIGURE OUT HOW TO OPEN IT***",
+    "en_trans": "",
+    "zh_trans": "*** 拖住他们，我们再想办法打开 ****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ALMOST THERE...***",
+    "en_trans": "",
+    "zh_trans": "***差不多了......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DONE. ITS OPENING. RUN ***",
+    "en_trans": "",
+    "zh_trans": "*** 搞定。门现在开了！撤退 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD THE LINE WHILE THE OTHERS INVESTIGATE THE AREA***",
+    "en_trans": "",
+    "zh_trans": "***在其他人调查该区域时，守住阵线***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THAT BUTTON ON THE FLOOR SHOULD OPEN THE DOOR***",
+    "en_trans": "",
+    "zh_trans": "***地板上的那个按钮应该能打开门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WELL DONE. THAT SHOULD OPEN THE DOOR***",
+    "en_trans": "",
+    "zh_trans": "*** 干得好，这应该能打开大门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WATCH OUT THE BUTTON OPENED ALL THE DOORS IN THE AREA***",
+    "en_trans": "",
+    "zh_trans": "*** 小心，这个按钮打开了这个区域的所有门 ****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***UNLOCKING SIDE DOOR...***",
+    "en_trans": "",
+    "zh_trans": "*** 侧门开启中......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***5 SECONDS LEFT. PREPARE TO RUN***",
+    "en_trans": "",
+    "zh_trans": "***还剩5秒。准备撤退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE DOOR IS OPENING. RUN***",
+    "en_trans": "",
+    "zh_trans": "*** 门正在开启 撤退！****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WE SHOULD SPLIT UP HERE AND CHECK BOTH PATHS***",
+    "en_trans": "",
+    "zh_trans": "*** 我们应该分头检查这两条路 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD FOR A BIT , THE DOOR SHOULD OPEN SOON***",
+    "en_trans": "",
+    "zh_trans": "***稍等片刻，门很快就会打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD HERE A FEW SECONDS WHILE WE UNLOCK THE DOOR***",
+    "en_trans": "",
+    "zh_trans": "***请稍等片刻，我们去开门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THAT SHOULD OPEN THE DOOR IN 25 SECONDS. DEFEND***",
+    "en_trans": "",
+    "zh_trans": "***大门应该在25秒后开启。防守这里***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** HOLD THEM OFF! THE OTHER TEAM NEEDS TIME TO OPEN THE DOOR***",
+    "en_trans": "",
+    "zh_trans": "*** 拖住他们。另一个小队需要点时间来开门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***10 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩 10 秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***5 SECONDS. PREPARE TO RUN***",
+    "en_trans": "",
+    "zh_trans": "***还剩 5 秒，准备跑****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** HOLD A FEW SECONDS WHILE THE DOOR OPENS***",
+    "en_trans": "",
+    "zh_trans": "***在门打开时再防守几秒钟 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***KEEP IT UP***",
+    "en_trans": "",
+    "zh_trans": "***坚持住***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ITS GONNA OPEN PREPARE TO RUN***",
+    "en_trans": "",
+    "zh_trans": "***要打开了 准备跑***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***WE NEED TO KEEP GOING. WATCH OUT FOR THE TRAPS HERE!***",
+    "en_trans": "",
+    "zh_trans": "***我们得继续前进。小心这里的陷阱！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SEEMS LIKE THE LEFT SIDE IS BLOCKED, GO TO THE RIGHT***",
+    "en_trans": "",
+    "zh_trans": "***左边好像被堵住了，去右边****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE WAY IS BLOCKED TOO, WE MUST FIND A WAY TO UNLOCK THOSE BARS***",
+    "en_trans": "",
+    "zh_trans": "***这里的路也被堵住了，我们必须想办法打开那些栅栏***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THAT SOULD OPEN THE BARS***",
+    "en_trans": "",
+    "zh_trans": "***这样就能打开铁栅栏了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***KEEP DEFENDING. WE DONT KNOW HOW MUCH TIME IT WILL TAKE TO OPEN**",
+    "en_trans": "",
+    "zh_trans": "***继续防守 我们不知道打开需要多少时间**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE BARS ARE OPENING! GO GO GO!***",
+    "en_trans": "",
+    "zh_trans": "***铁栅栏打开了！快撤！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE STAIRS ARE BLOCKED. BREAK THROUGH THE CAVE ***",
+    "en_trans": "",
+    "zh_trans": "***楼梯被堵住了。从洞穴突破 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE ENEMY FACILITY SHOULD BE AT THE OTHER SIDE OF THIS CAVE. SET UP A C4 IN THAT WALL.***",
+    "en_trans": "",
+    "zh_trans": "*** 敌人的设施应该在洞穴的另一侧。在墙壁上安放一个 C4.***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**C4 ARMED. IT WILL EXPLODE IN 20 SECONDS.***",
+    "en_trans": "",
+    "zh_trans": "**C4 已安放。在 20 秒后爆炸。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** 10 SECONDS LEFT!***",
+    "en_trans": "",
+    "zh_trans": "*** 还剩 10 秒！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** GET OUT IT'S GOING TO EXPLODE ***",
+    "en_trans": "",
+    "zh_trans": "*** 远离炸弹！要爆炸了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THIS IS THE ENEMY FACILITY. NOW WE NEED TO MAKE OUR WAY TO THE CORE AND DESTROY IT***",
+    "en_trans": "",
+    "zh_trans": "***这是敌人的设施。现在我们需要前往核心区并摧毁它****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SEND A TEAM AHEAD TO EXPLORE , WHILE THE REST KEEPS WINNING TIME!!!***",
+    "en_trans": "",
+    "zh_trans": "***派一队人前去探索，其余的人继续争取时间！！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***WE WILL USE THIS ELEVATOR TO MAKE OUR WAY TO THE CORE***",
+    "en_trans": "",
+    "zh_trans": "***我们将乘坐这部电梯前往核心区***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***IT'S NOT WORKING...***",
+    "en_trans": "",
+    "zh_trans": "***这个电梯好像用不了......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SHIT!! THE SYSTEM IS PROTECTED!. GIVE ME SOME TIME TO CRACK INTO IT***",
+    "en_trans": "",
+    "zh_trans": "***妈的！系统受到保护。给我点时间破解它***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HALF WAY THERE...***",
+    "en_trans": "",
+    "zh_trans": "***破解到一半了......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CRACKED!! THE ELEVATOR LEAVES IN 10 SECONDS. GET IN TEAM!!",
+    "en_trans": "",
+    "zh_trans": "***破解成功！电梯10秒后离开。快上来！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***KEEP GOING. I WILL OPEN THE DOORS FOR YOU***",
+    "en_trans": "",
+    "zh_trans": "***继续前进 我会为你打开大门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FIRST DOOR OPENS IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "*** 第一扇门在 5 秒后打开****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** SECOND DOOR OPENS IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "*** 第二扇门将在 10 秒后打开****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THIRD DOOR OPENS IN 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 第三扇门将在 10 秒后打开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THIS DOOR MAY TAKE SOME TIME TO OPEN. HOLD YOUR GROUND ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 这扇门可能需要一些时间才能打开。坚守阵地 ！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** 5 MORE SECONDS***",
+    "en_trans": "",
+    "zh_trans": "*** 还有 5 秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***FUCK!! THERES A SECOND DOOR!! GIVE ME 10 MORE SECONDS TO OPEN IT ***",
+    "en_trans": "",
+    "zh_trans": "***他妈的！还有一扇门 再给我10秒钟打开它***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** LIFT WARMING UP. HOLD THEM***",
+    "en_trans": "",
+    "zh_trans": "***电梯正在预热。守住***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LIFT LEAVING IN 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯将在 10 秒后离开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***ANOTHER WAREHOUSE...DOESNT SEEM TO HAVE AN EXIT***",
+    "en_trans": "",
+    "zh_trans": "****另一个仓库......似乎没有出口****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***OUR INFO POINTS THAT THE CORE IS STILL FAR FROM US. WE NEED TO KEEP GOING.***",
+    "en_trans": "",
+    "zh_trans": "***我们的情报表明，我们距离核心区仍有一段距离。我们需要继续前进***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MAYBE WE CAN TAKE THAT VENT ON SIDE TO SEE WHERE IT TAKES US***",
+    "en_trans": "",
+    "zh_trans": "*** 我们或许可以打开旁边的通风管道，看看它能把我们带到哪里去****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***FUCK! THAT DOOR HAS SOME EXTRA SECURITY. GIVE ME A FEW SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***妈的 那扇门有额外的安全措施 给我几秒钟***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SHIIIT!! SECURITY IS REALLY STRONG ON THIS ONE!! NEED MORE TIME TEAM! RESIST THERE!***",
+    "en_trans": "",
+    "zh_trans": "***我靠!! 这扇门的安全系统是块硬骨头!! 再给我一点时间!! 守住!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ITS OPEN . MOVE TEAM!! GO!!",
+    "en_trans": "",
+    "zh_trans": "*** 门已经打开。 队伍动起来！ 走！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Cracking sewer doors...***",
+    "en_trans": "",
+    "zh_trans": "***下水道门破解中...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** 10 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "*** 还剩10秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***THE TRAM STATION IS AHEAD. HOLD YOUR GROUND WHILE OTHERS GO AHEAD TO POWER IT ON***",
+    "en_trans": "",
+    "zh_trans": "***电车站就在前面。 需要有人去打开电源，其他人则坚守阵地***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TRAM ACTIVATED. IT WILL LEAVE IN 30 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***电车已启动 30秒后出发***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TRAM LEAVES IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***电车 10 秒后出发***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***ELEVATOR LEAVING IN 25 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***电梯 25 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***ELEVATOR LEAVING IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***电梯 10 秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***ELEVATOR LEAVING IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***电梯 5 秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***OPENING DOOR...***",
+    "en_trans": "",
+    "zh_trans": "***大门开启......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD FOR A MOMENT HERE...***",
+    "en_trans": "",
+    "zh_trans": "***在这里多守会......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THIS MUST BE THE LAST DOOR BEFORE THE REACTOR AREA. GET READY....***",
+    "en_trans": "",
+    "zh_trans": "***这一定是前往核心区的最后一扇门。做好准备....****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE DOOR TO ACCESS THE CORE IS LOCKED...***",
+    "en_trans": "",
+    "zh_trans": "***进入核心的门被锁住了......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TO OPEN IT GO TO THOSE DOORS ON THE SIDE OF THIS ROOM AND FIND SOME COMPUTERS TO CRACK THE SYSTEM***",
+    "en_trans": "",
+    "zh_trans": "***请前往两边侧门的房间，并找到电脑破解系统来打开这扇门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THEN USE THE COMPUTER IN THE MIDDLE ROOM TO UNLOCK IT***",
+    "en_trans": "",
+    "zh_trans": "***然后用中间房间里的电脑解锁大门****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***RIGHT SIDE BUTTON PRESSED. CRACKING...***",
+    "en_trans": "",
+    "zh_trans": "***右侧按钮已按下，破解中...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***RIGHT SIDE CRACKED***",
+    "en_trans": "",
+    "zh_trans": "***右侧已破解***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SHOOT THOSE THINGS. THAT WILL DESTROY THE REACTOR***",
+    "en_trans": "",
+    "zh_trans": "***向反应堆开枪！这样可以摧毁核心***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEFT SIDE BUTTON PRESSED. CRACKING...***",
+    "en_trans": "",
+    "zh_trans": "***左侧按钮已按下，破解中...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ONCE DONE ESCAPE THROUGH THE DOOR ON THE OTHER SIDE OF THE ROOM***",
+    "en_trans": "",
+    "zh_trans": "***一旦完成从房间另一侧的门逃走***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEFT SIDE CRACKED***",
+    "en_trans": "",
+    "zh_trans": "***左侧已破解***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BOTH SIDES HAVE BEEN CRACKED. USE THE CENTRAL COMPUTER TO GAIN ACCESS TO THE CORE***",
+    "en_trans": "",
+    "zh_trans": "***两侧均已破解。 使用中央计算机获取核心访问权限***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE DOOR SHOULD OPEN SOON...***",
+    "en_trans": "",
+    "zh_trans": "***门应该很快就会打开......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD THEM OFF, THESE DOORS WILL TAKE SOME TIME TO OPEN...***",
+    "en_trans": "",
+    "zh_trans": "***拖住他们，这些门需要一些时间才能打开......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***WE ARE CLOSE THE EXIT TEAM. THE DOORS SHOULD OPEN SOON. HOLD THEM OFF***",
+    "en_trans": "",
+    "zh_trans": "**我们正在接近撤离小组。门很快开启，守住***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DOORS OPEN IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***门在 10 秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CRACKING ELEVATOR SYSTEM...***",
+    "en_trans": "",
+    "zh_trans": "*** 破解电梯系统中......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ELEVATOR LEAVES IN 10 SECONDS. GET IN TEAM!!!***",
+    "en_trans": "",
+    "zh_trans": "***电梯 10 秒钟后启动，快上来！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** MISSION COMPLETE. NICE WORK TEAM***",
+    "en_trans": "",
+    "zh_trans": "*** 任务完成。干得好，伙计们****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DEPLOYING BRIDGE IN A FEW SECONDS...***",
+    "en_trans": "",
+    "zh_trans": "*** 几秒钟后部署桥梁......***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CANT ACCESS THOSE DOORS, FIND A COMPUTER AND OPEN THEM***",
+    "en_trans": "",
+    "zh_trans": "***无法进入这些门，找台电脑打开它们***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BOTTOM DOOR OPENS IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***底部的门在10秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***THIS LEADS TO THE REACTOR AREA.USE THAT COMPUTER TO GIVE ME ACCESS TO THE DOOR SYSTEM AND CRACK INTO IT***",
+    "en_trans": "",
+    "zh_trans": "***这里通向核心区，使用那台电脑我才能进入门禁系统并破解它****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***UPPER DOOR OPENS IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "*** 上层门将在 10 秒后打开 ****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CRACKING INTO THE DOOR SYSTEM...***",
+    "en_trans": "",
+    "zh_trans": "***正在破解门禁系统...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***25%...***",
+    "en_trans": "",
+    "zh_trans": "***25%...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***50%...***",
+    "en_trans": "",
+    "zh_trans": "***50%...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "***75%...***",
+    "en_trans": "",
+    "zh_trans": "***75%...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 75,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CRACK COMPLETED. GO NOW TEAM!***",
+    "en_trans": "",
+    "zh_trans": "***破解完成。撤退!！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

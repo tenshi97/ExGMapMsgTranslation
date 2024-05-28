@@ -1,0 +1,632 @@
+[
+  {
+    "original": "STAGE 1 - Infiltration",
+    "en_trans": "",
+    "zh_trans": "第一关 - 渗透",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Evac requested, ETA: UNKNOWN...",
+    "en_trans": "",
+    "zh_trans": "[通信]: 请求撤离。预计抵达时间：未知",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Inquiring evac ETA.",
+    "en_trans": "",
+    "zh_trans": "[通信]：查询预计逃亡时间",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Evac ETA 60 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：预计逃亡时间：60秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Evac ETA 30 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：预计逃亡时间：30秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Evac ETA 15 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：预计逃亡时间：15秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Evac ETA 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：预计逃亡时间：5秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Evac helicopter inbound.",
+    "en_trans": "",
+    "zh_trans": "[通信]：逃亡直升机已抵达",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Heli is leaving in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：直升机20秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Heli is departing.",
+    "en_trans": "",
+    "zh_trans": "[通信]：直升机已起飞",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Infiltration has been successfully evacuated.",
+    "en_trans": "",
+    "zh_trans": "[通信]：渗透小队已成功撤离",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Seems like the power is out, try looking for a switch.",
+    "en_trans": "",
+    "zh_trans": "[通信]：似乎停电了，试着找一下开关",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Ok, the power should be on, the gate button should be active.",
+    "en_trans": "",
+    "zh_trans": "[通信]：ok，电力应该恢复了。大门按钮应该处于可激活状态",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Gate will open in 15 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门15秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Gate will open in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门10秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Gate will open in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门5秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Gate is opening.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门正在开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: C4 has been armed.",
+    "en_trans": "",
+    "zh_trans": "[通信]：炸弹已经安放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: C4 will explode in 25 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：炸弹25秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: C4 will explode in 15 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：炸弹15秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: C4 will explode in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：炸弹5秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: C4 is about to explode.",
+    "en_trans": "",
+    "zh_trans": "[通信]：炸弹已经引爆",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Gate will open in 35 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门35秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Gate will open in 25 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门25秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Breach Charge has been armed.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置已启动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Breach Charge will explode in 40 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置将于40秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Breach Charge will explode in 30 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置将于30秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Breach Charge will explode in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置将于20秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Breach Charge will explode in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置将于10秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Breach Charge will explode in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置将于5秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Breach Charge is about to explode.",
+    "en_trans": "",
+    "zh_trans": "[通信]：爆破装置即将爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Find the keycard to get access to the elevator.",
+    "en_trans": "",
+    "zh_trans": "[通信]：找到钥匙卡才能进电梯",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: I've located the keycard, retrieve it.",
+    "en_trans": "",
+    "zh_trans": "[通信]：我已经定位到钥匙卡了，去拿它",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Zombies picked up the keycard, elevator speed reduced by 75%",
+    "en_trans": "",
+    "zh_trans": "[通信]：僵尸拾取到钥匙卡，电梯速度降低了75%",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 75,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Elevator should arrive soon.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯很快抵达",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯20秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯10秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯5秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Find a control panel to move the platform.",
+    "en_trans": "",
+    "zh_trans": "[通信]：找到控制面板以移动平台",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Platform will start moving in 30 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：平台将在30秒后移动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Platform will start moving in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：平台将在20秒后移动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Platform will start moving in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：平台将在10秒后移动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Platform will start moving in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：平台将在5秒后移动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Platform is on its way.",
+    "en_trans": "",
+    "zh_trans": "[通信]：平台正在路上",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Platform has arrived.",
+    "en_trans": "",
+    "zh_trans": "[通信]：平台已抵达",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Gate will open in 40 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门在40秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Gate will open in 30 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门在30秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Gate will open in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：大门在20秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: You've got the keycard, now call the elevator asap.",
+    "en_trans": "",
+    "zh_trans": "[通信]：你们拿到钥匙卡了，现在尽快呼叫电梯",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 45 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯将在45秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 35 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯将在35秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 25 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯将在25秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Elevator is leaving in 15 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：电梯将在15秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Mission failed, infected detected in rescue zone.",
+    "en_trans": "",
+    "zh_trans": "[通信]：任务失败，救援区检测到感染者",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Item]: Human picked up Bear Trap. (30s CD)",
+    "en_trans": "",
+    "zh_trans": "[神器]：人类捡到了 \"捕熊夹\"。(30秒 CD）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Item]: Human picked up Medic Bag. (150s cd)",
+    "en_trans": "",
+    "zh_trans": "[神器]: 人类拾取到了 医疗包。(150秒冷却)",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 150,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Infiltration squad has successfully escaped.",
+    "en_trans": "",
+    "zh_trans": "[通信]：渗透小队成功逃脱。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "STAGE 2 - Investigation",
+    "en_trans": "",
+    "zh_trans": "第二关 - 调查",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Doors will open in 40 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：门将在 40 秒后打开。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Doors will open in 30 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：门将在 30 秒后打开。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Doors will open in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：门将在 20 秒后打开。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Doors will open in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：门将在 10 秒后打开。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Doors will open in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[通信]：门将在 5 秒后打开。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Comms]: Doors are opening.",
+    "en_trans": "",
+    "zh_trans": "[通信]：门正在开启中。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Get up to the tower and radio in evac!",
+    "en_trans": "",
+    "zh_trans": "[通信]： 登上塔顶，用无线电通知撤离！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Comms]: Mission failed, infected detected onboard helicopter.",
+    "en_trans": "",
+    "zh_trans": "[通信]:任务失败，直升机上检测到感染者",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Item]: Zombie picked up Breach Charge. (30s CD)",
+    "en_trans": "",
+    "zh_trans": "[神器]： 僵尸拾取了 \"突破冲锋\" 道具。(30 秒 CD）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Item]: Human picked up Claymore. (45s CD)",
+    "en_trans": "",
+    "zh_trans": "[神器]： 人类捡到了大剑。(45秒 CD）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Item]: Human picked up Ammo Crate. (1 time use)",
+    "en_trans": "",
+    "zh_trans": "[神器]：人类拾取到了 弹药箱。（一次性物品）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Item]: Zombie picked up Poison Grenade. (45s CD)",
+    "en_trans": "",
+    "zh_trans": "[神器]：僵尸捡到 毒气弹（45秒 CD）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  }
+]

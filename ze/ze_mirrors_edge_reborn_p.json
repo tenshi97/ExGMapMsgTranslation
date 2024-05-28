@@ -1,0 +1,524 @@
+[
+  {
+    "original": "<<< DIFFICULTY LEVEL : EASY >>>",
+    "en_trans": "",
+    "zh_trans": "<<<难度等级 : 简单 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 第一个触发直升机的胜利 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Map created by Dark Arrow<<<",
+    "en_trans": "",
+    "zh_trans": ">>>地图制作 Dark Arrow<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Edited first by [pF]Detonator<<<",
+    "en_trans": "",
+    "zh_trans": ">>>由 [pF]Detonator 首次编辑<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Finished by Hallucinogenic Troll<<<",
+    "en_trans": "",
+    "zh_trans": ">>>由 Hallucinogenic Troll 完成<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< DIFFICULTY LEVEL : NORMAL >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 难度等级 : 正常 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 在音频设置中设置音量 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< OBJECTIVE : RUN TO THE CHOPPER >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 目标：跑到直升机上 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Door Opens In 15 sec >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在15秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Door Opens In 10 sec >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在10秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Door Opens In 5 sec >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在5秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< HOLD HERE FOR 20 SEC >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 在这里防守20秒 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< RUN!!! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 撤退！！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Hold For 25 secs >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 防守25秒 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< 10 Seconds Remaining >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 还剩10秒 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Heli leaves in 30 seconds >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 直升机30秒后起飞 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Heli leaves in 20 seconds >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 直升机20秒后起飞 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Heli leaves in 10 seconds >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 直升机10秒后起飞 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Heli is leaving hop on >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 直升机已起飞 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< WELL DONE YOU WIN >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 干得漂亮，你赢了！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Nuke launched>>>",
+    "en_trans": "",
+    "zh_trans": "<<< 核爆启动 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< 4 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 4 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< 3 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 4 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< 2 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 2 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< 1 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 1 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< DIFFICULTY LEVEL : HARD >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 困难等级 : 困难 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< OBJECTIVE : COLLECT 1 SUITCASE >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 目标 : 收集 1 个手提箱>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Door Opens In 20 sec >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在20秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 获取行李箱的门将在10秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< SUITCASE DOOR IS OPENING!>>>",
+    "en_trans": "",
+    "zh_trans": "<<< 获取行李箱的门已开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< SUITCASE COLLECTED! RUN! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 行李箱已获取！撤退！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸上飞机了。你输了！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< SUITCASE MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 行李箱已经上飞机了。干得好，你赢了！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Helicopter will leave in 3 seconds...<<<",
+    "en_trans": "",
+    "zh_trans": ">>>直升机3秒后离开...<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>2<<<",
+    "en_trans": "",
+    "zh_trans": ">>>2<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>1<<<",
+    "en_trans": "",
+    "zh_trans": ">>>1<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>HELICOPTER IS LEAVING<<<",
+    "en_trans": "",
+    "zh_trans": ">>>直升机已离开<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< DIFFICULTY LEVEL : EXTREME >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 难度等级 : 极限 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< OBJECTIVE: COLLECT 2 SUITCASES >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 目标: 收集2个行李箱 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 僵尸拥有更高的速度和更厚的血量 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Door Opens In 30 sec >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在30秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>",
+    "en_trans": "",
+    "zh_trans": "<<< 获取行李箱的门将在10秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>",
+    "en_trans": "",
+    "zh_trans": "<<< 获取行李箱的门已开启！快触发按钮！ >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>Hold more 25 seconds<<<",
+    "en_trans": "",
+    "zh_trans": ">>>再坚持25秒<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Unlimited ammo has been picked >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 无限子弹 已被拾起 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<TIME'S OUT!! YOU LOSE>>>",
+    "en_trans": "",
+    "zh_trans": "<<<超时了!! 你输了>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< SUITCASES MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 行李箱成功登上直升机。干得漂亮 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< DIFFICULTY LEVEL : GOD / IMPOSSIBLE>>>",
+    "en_trans": "",
+    "zh_trans": "<<< 困难等级：不可能>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 你将没有神器掩护 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< DOOR WILL BREAK IN 20 SECONDS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在 20 秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< DOOR WILL BREAK IN 10 SECONDS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门将在 10 秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< DOOR WILL BREAK IN 5 SECONDS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门将在 5 秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< DOOR ITS BROKEN!! RUN!!!! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门开了!! 快跑!!!! >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< Door Opens In 35 sec >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门在 35 秒后开启 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!",
+    "en_trans": "",
+    "zh_trans": "<<< 路被堵住了！！我们需要按下按钮！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 门已经完全打开了!! 快按下按钮 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< BUTTON IS PRESSED! RUN!! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 已按下按钮!! 快走!! >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< ADMIN HAS PRESSED KILL ALL BUTTON >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 管理员按下了 处死 按钮 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

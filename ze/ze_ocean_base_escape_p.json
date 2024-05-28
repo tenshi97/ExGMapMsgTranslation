@@ -1,0 +1,434 @@
+[
+  {
+    "original": "***The Ocean Base is starting to explode!***",
+    "en_trans": "",
+    "zh_trans": "***深海基地正在发生爆炸！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Find a place to hide and hold here for 45secs until a path is clear!!***",
+    "en_trans": "",
+    "zh_trans": "***找到地方藏起来并坚守到45秒，直至路障清除***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Path clear. Make your way to the other end of the base before it's too late!***",
+    "en_trans": "",
+    "zh_trans": "***路障已清除。请尽快赶到基地的另一端！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Research path opening in 7secs. RUN!!***",
+    "en_trans": "",
+    "zh_trans": "***研究所道路将在7秒后开启，准备撤退！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Swim to the wrecked ship. We'll have to go through the hole in the hull.***",
+    "en_trans": "",
+    "zh_trans": "***游到那艘失事的船上。我们必须穿过船体上的缺口***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Old Lab path opening in 5secs. RUN!!***",
+    "en_trans": "",
+    "zh_trans": "***旧实验室的路还有5秒钟开启，快跑！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Break the glass and make your way across the ship's hull.***",
+    "en_trans": "",
+    "zh_trans": "***打破玻璃，穿过船体的外壳！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***The lift is out of power. We'll have to go through the hole in the hull.***",
+    "en_trans": "",
+    "zh_trans": "***电梯没电了。我们不得不穿过船体上的缺口***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***If we break the weak glass we can't make it back into the base.***",
+    "en_trans": "",
+    "zh_trans": "***如果我们打碎那些脆弱的玻璃，我们将无法返回基地***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Ocean Base status critical!***",
+    "en_trans": "",
+    "zh_trans": "***深海基地状态：危急！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hit the switch to activate the door.***",
+    "en_trans": "",
+    "zh_trans": "***触发开关以激活大门***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Modern Lab path opening in 5secs. RUN!!***",
+    "en_trans": "",
+    "zh_trans": "***现代实验室的道路将在5秒后开启。快撤退！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Activate the lift and hold the boxes while it powers up!***",
+    "en_trans": "",
+    "zh_trans": "***激活电梯，并守住箱子！直到电力恢复***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Tram leaving in 25secs!***",
+    "en_trans": "",
+    "zh_trans": "***缆车25秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Careful scaling across the top on the crates!***",
+    "en_trans": "",
+    "zh_trans": "***小心翼翼地从箱子顶部横越过去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Tram leaving in 5secs!***",
+    "en_trans": "",
+    "zh_trans": "***缆车5秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Tram leaving!***",
+    "en_trans": "",
+    "zh_trans": "***缆车已开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Tram power has shut down! Zombies can now walk across!***",
+    "en_trans": "",
+    "zh_trans": "***缆车电力现在彻底关停了！僵尸现在可以从轨道上走过去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Use the pipes along the wall to get across the pit of fire!***",
+    "en_trans": "",
+    "zh_trans": "***沿着墙边的管道越过火坑！不要掉下去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Make your way to the other end of the ballroom! There's a hole in the railing to can use to make it to the second floor!***",
+    "en_trans": "",
+    "zh_trans": "***走到舞厅的另一端！那里有个缺口，你可以在那里爬上二楼***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Launch Bay Open!***",
+    "en_trans": "",
+    "zh_trans": "***发射仓开启！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***RUN! Get into the Submarine! Zombie can't get in!***",
+    "en_trans": "",
+    "zh_trans": "***快跑！赶紧进潜艇！僵尸们进不去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Submarine leaving in 30secs!***",
+    "en_trans": "",
+    "zh_trans": "***潜艇30秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Grab any weapons or nades you might need!***",
+    "en_trans": "",
+    "zh_trans": "***拿起任何你需要的武器或手雷***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Get in and hold the control room!***",
+    "en_trans": "",
+    "zh_trans": "***进去并守住控制室!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Jump and slide down to use the ladders to get off the ceiling!***",
+    "en_trans": "",
+    "zh_trans": "***跳下并滑落以使用梯子从天花板上下来！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***We made it just in time!***",
+    "en_trans": "",
+    "zh_trans": "***我们及时赶到了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***OH NO! They got on board!***",
+    "en_trans": "",
+    "zh_trans": "***啊不！它们上船了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***We can't let them reach the surface!***",
+    "en_trans": "",
+    "zh_trans": "***我们不能让它们抵达地表!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Damn! The only way to get rid of them is to activate the Atomic Core overload program!***",
+    "en_trans": "",
+    "zh_trans": "***妈的! 只有启动核能核心超载程序才能摆脱它们！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ACTIVATE THE CORE OVERLOAD FROM THE CONSOLE!!!***",
+    "en_trans": "",
+    "zh_trans": "***在终端启动核心超载程序！！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Submarine Atomic Core overload activated! Full overload in 45secs!***",
+    "en_trans": "",
+    "zh_trans": "***潜艇核能核心超载程序已启动！距离完全超载还有45秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Submarine Atomic Core overload at 25%!***",
+    "en_trans": "",
+    "zh_trans": "***潜艇核心超载 25%***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Submarine Atomic Core overload at 60%!***",
+    "en_trans": "",
+    "zh_trans": "***潜艇核心超载 60%***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Right Gate opening in 20secs!***",
+    "en_trans": "",
+    "zh_trans": "***右门在 20 秒后打开！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Right Gate opening!***",
+    "en_trans": "",
+    "zh_trans": "***右门已经打开！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Submarine Atomic Core overload at 95%!***",
+    "en_trans": "",
+    "zh_trans": "***潜艇核心超载 95%！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 95,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CORE OVERLOAD ERROR**",
+    "en_trans": "",
+    "zh_trans": "*** 核心超载发生错误**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Manual activation required!**",
+    "en_trans": "",
+    "zh_trans": "*** 需要手动操作！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Someone has to go back there and activate the core!***",
+    "en_trans": "",
+    "zh_trans": "***必须有人回去激活核心！****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Someone take the overhead ladder! Everyone else give them cover fire!***",
+    "en_trans": "",
+    "zh_trans": "***快去架梯子，其他人火力掩护！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hurry up! We only have to 10secs left!!***",
+    "en_trans": "",
+    "zh_trans": "***快点！我们只剩 10 秒了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CORE OVERLOAD 100%!**",
+    "en_trans": "",
+    "zh_trans": "*** 核心超载 100%!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": "***...We made it...**",
+    "en_trans": "",
+    "zh_trans": "***......我们成功了...**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***...Thank you...<<Insert Name Here>>...**",
+    "en_trans": "",
+    "zh_trans": "***...感谢你......**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Thank You for Playing!!***",
+    "en_trans": "",
+    "zh_trans": "***感谢您的游玩!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Left Gate opening in 20secs!***",
+    "en_trans": "",
+    "zh_trans": "*** 左门在 20 秒后打开！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Left Gate opening!***",
+    "en_trans": "",
+    "zh_trans": "***左门已经打开!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

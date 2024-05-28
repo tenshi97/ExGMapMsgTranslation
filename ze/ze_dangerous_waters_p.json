@@ -1,0 +1,452 @@
+[
+  {
+    "original": "[***Map made by AttenseFX***]",
+    "en_trans": "",
+    "zh_trans": "[***地图由AttenseFX制作***]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Special Thanks to Sleepy and Neuro Toxin***",
+    "en_trans": "",
+    "zh_trans": "*** 特别感谢 Sleepy 和 Neuro Toxin***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Main Lift is leaving in 15 seconds***",
+    "en_trans": "",
+    "zh_trans": "***主电梯15秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Main Lift has left***",
+    "en_trans": "",
+    "zh_trans": "***主升降机已离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***The boat must reach the walls in order to continue***",
+    "en_trans": "",
+    "zh_trans": "***船必须到达墙壁才能继续航行***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Main Boat has left***",
+    "en_trans": "",
+    "zh_trans": "***主船已经离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Wall has collapsed***",
+    "en_trans": "",
+    "zh_trans": "***墙已经倒塌***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombies are blocked for 7 seconds***",
+    "en_trans": "",
+    "zh_trans": "***僵尸被阻挡7秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Raft leaving in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***木筏5秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Boat is almost here begin to FALL BACK***",
+    "en_trans": "",
+    "zh_trans": "***船快到了，开始准备后退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Water after waterfall is very hazardous Instant-death***",
+    "en_trans": "",
+    "zh_trans": "***瀑布后的水非常危险不要碰，不然会瞬间死亡***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Oh god, get out. GET OUT OF THE BOAT NOW!",
+    "en_trans": "",
+    "zh_trans": "***天啊，快出去。马上快下船！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Second wall has collapsed***",
+    "en_trans": "",
+    "zh_trans": "***第二堵墙倒塌了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombies are held for 10 seconds***",
+    "en_trans": "",
+    "zh_trans": "***僵尸被阻挡10秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Shoot at the tree or we will crash!***",
+    "en_trans": "",
+    "zh_trans": "***快朝那棵树开枪，否则我们会相撞的***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombie ladder is down***",
+    "en_trans": "",
+    "zh_trans": "***僵尸从梯子掉下来了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Small boat 1 leaving in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***1号小船5秒后出发****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Teleport to other island available in 20 seconds***",
+    "en_trans": "",
+    "zh_trans": "*** 在20秒后传送到其他岛屿 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Teleport to other island is now available***",
+    "en_trans": "",
+    "zh_trans": "***传送到其他岛屿现在可用***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Small boat 2 leaving in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***2号小船5秒钟后出发****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Helicopter is leaving in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***直升机5秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Washtub 1 will leave in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***1号洗涤盆将在5秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Washtub 2 will leave in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***2号洗涤盆将在5秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Washtub 3 will leave in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***3号洗涤盆将在5秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Washtub 4 will leave in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***4号洗涤盆将在5秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Melon]",
+    "en_trans": "",
+    "zh_trans": "西瓜",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Washtub 5 will leave in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***5号洗涤盆将在5秒钟后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Second Main Lift is leaving in 10 seconds***",
+    "en_trans": "",
+    "zh_trans": "***第二部电梯将在10秒内离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Second Main Lift has left***",
+    "en_trans": "",
+    "zh_trans": "***第二部电梯已离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hold here for 35 seconds while the boats refuel***",
+    "en_trans": "",
+    "zh_trans": "***在这里停留防守35秒，等待船只加油***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Zombies are blocked for 10 seconds. get on the boats!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸被阻挡10秒。上船***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Speed Boats are leaving in 8 seconds***",
+    "en_trans": "",
+    "zh_trans": "***船只将在8秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Speed Boats have left***",
+    "en_trans": "",
+    "zh_trans": "***船只已经离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleport past the course is now enabled***",
+    "en_trans": "",
+    "zh_trans": "***穿过航线的传送已启用***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hold here for 45 seconds***",
+    "en_trans": "",
+    "zh_trans": "***守住45秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Drawbridge is down***",
+    "en_trans": "",
+    "zh_trans": "***已降下吊桥***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Lift is leaving***",
+    "en_trans": "",
+    "zh_trans": "***电梯正在离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Wait for the exterior doors to open, 20 seconds***",
+    "en_trans": "",
+    "zh_trans": "***外部大门还有20秒打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "--------Laser initiating (Crouch!)--------",
+    "en_trans": "",
+    "zh_trans": "--------激光初始化中 (蹲!)--------",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Exterior doors are opening, 8 seconds till bunker door opens***",
+    "en_trans": "",
+    "zh_trans": "***外部大门正在打开，8秒后掩体开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Bunker doors are opening***",
+    "en_trans": "",
+    "zh_trans": "***掩体入口正在开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Nuclear bomb on it's way doors closing in 20 seconds***",
+    "en_trans": "",
+    "zh_trans": "***核弹已在路上，门20秒后关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Nuclear bomb has been sent***",
+    "en_trans": "",
+    "zh_trans": "***核弹已经发射***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Detonation in 3***",
+    "en_trans": "",
+    "zh_trans": "***爆炸倒计时：3***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "***2***",
+    "en_trans": "",
+    "zh_trans": "***爆炸倒计时：2***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "***1***",
+    "en_trans": "",
+    "zh_trans": "***爆炸倒计时：1***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "=--[Get off the Helicopter and help defend]--=",
+    "en_trans": "",
+    "zh_trans": "=--[下飞机，协助防守！]--=",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--------Get out and fight you cowards!--------",
+    "en_trans": "",
+    "zh_trans": "--------出来！和我战斗！懦夫！--------",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Shoot the rock sticking out of the wall!***",
+    "en_trans": "",
+    "zh_trans": "***射击墙上突出的岩石！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "__The boats hatch can only be opened from this side__",
+    "en_trans": "",
+    "zh_trans": "__船只舱门只能从这边打开__",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

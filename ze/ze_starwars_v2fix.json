@@ -1,0 +1,875 @@
+[
+  {
+    "original": "**MAP BY MAKVI_ANKOM**",
+    "en_trans": "",
+    "zh_trans": "**地图作者：MAKVI_ANKOM**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Ze_Star_wars**",
+    "en_trans": "",
+    "zh_trans": "**星球大战**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The bridge will open in 15 seconds**",
+    "en_trans": "",
+    "zh_trans": "**桥梁将于 15 秒后开放通行**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The bridge will open in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "**桥梁还有 5 秒就开放通行**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Fall back! The bridge open**",
+    "en_trans": "",
+    "zh_trans": "**撤退！桥梁已经可以通行了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The doors will open in 15 seconds**",
+    "en_trans": "",
+    "zh_trans": "**大门将于 15 秒后打开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The doors will open in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "**大门还有 5 秒就打开了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Fall back! The doors are open**",
+    "en_trans": "",
+    "zh_trans": "**撤退！大门已经打开了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The barricade will explode in 10 seconds**",
+    "en_trans": "",
+    "zh_trans": "**挡路的路障将会在10秒后爆炸**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**barricade exploded**",
+    "en_trans": "",
+    "zh_trans": "**路障爆炸**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Destroy the barricade 15 second**",
+    "en_trans": "",
+    "zh_trans": "**我们需要 15 秒的时间来摧毁路障**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Destroy the barricade 5 second**",
+    "en_trans": "",
+    "zh_trans": "**再给我 5 秒就能摧毁路障了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The palace doors will open in 30 seconds**",
+    "en_trans": "",
+    "zh_trans": "**宫殿大门将于 30 秒后打开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "AFK TELEPORT IN 5 SECOND",
+    "en_trans": "",
+    "zh_trans": "挂机和没追上进度的玩家将于 5 秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The palace doors will open in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "**宫殿大门还有 5 秒就要打开了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Destroy the barricade in 20 second**",
+    "en_trans": "",
+    "zh_trans": "**我们需要 20 秒的时间来摧毁路障**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Last door will open in 30 seconds**",
+    "en_trans": "",
+    "zh_trans": "**最后一扇大门将于 30 秒后打开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**FALL BACK**",
+    "en_trans": "",
+    "zh_trans": "**该撤退了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Fall back close door in 20 second**",
+    "en_trans": "",
+    "zh_trans": "**防守20秒后大门会重新关上**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Level changes to NORMAL**",
+    "en_trans": "",
+    "zh_trans": "**下一关卡：普通**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The doors will open in 3 seconds**",
+    "en_trans": "",
+    "zh_trans": "**大门3秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The droids will be killed in 10 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机器人将在10秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Fall back! Droids are killed**",
+    "en_trans": "",
+    "zh_trans": "**撤退! 机器人已经报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The doors will open in 30 seconds**",
+    "en_trans": "",
+    "zh_trans": "**大门30秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The droids will be killed in 30 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机器人30秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The droids will be killed in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机器人5秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The doors will open in 20 seconds**",
+    "en_trans": "",
+    "zh_trans": "**门在20秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**AFK TELEPORT IN 5 SECOND**",
+    "en_trans": "",
+    "zh_trans": "**挂机玩家5秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The droids will be killed in 20 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机器人20秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The droids will be killed in 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机器人25秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The hangar doors will open in 20 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机库门20秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The hangar doors will open in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "**机库门5秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Activate the ship**",
+    "en_trans": "",
+    "zh_trans": "**激活飞船！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**OMG! This is Darth Vader! SHOOT!**",
+    "en_trans": "",
+    "zh_trans": "**我去! 是达斯·维德! 快向他射击!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The ship will move in 15 seconds**",
+    "en_trans": "",
+    "zh_trans": "**飞船15秒后离开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Fall back! The ship will move in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "**快撤退! 飞船还有5秒离开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Level changes to HARD**",
+    "en_trans": "",
+    "zh_trans": "**难度更改为 困难**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The bridge will open in 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "**桥梁将于 25 秒后开放通行**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Fall back! The bridge has closed**",
+    "en_trans": "",
+    "zh_trans": "**撤退！桥梁已经断开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*The doors will open in 10 seconds*",
+    "en_trans": "",
+    "zh_trans": "* 门在10秒后开启 *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*The doors will open in 5 seconds*",
+    "en_trans": "",
+    "zh_trans": "* 门在5秒后开启 *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "BOSS USE RAGE. BACK BACK BACK!!!!!!",
+    "en_trans": "",
+    "zh_trans": "Boss使用了狂暴。快往后走!!!!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "get to the side GET TO THE SIDE",
+    "en_trans": "",
+    "zh_trans": "快去贴墙角！快去贴墙角！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*The droids will be killed in 20 seconds*",
+    "en_trans": "",
+    "zh_trans": "**机器人20秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*Droids cover the vicegerent. Capture him!*",
+    "en_trans": "",
+    "zh_trans": "*机器人掩护着代理人。快去抓捕他！*",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*The droids will be killed in 5 seconds*",
+    "en_trans": "",
+    "zh_trans": "**机器人5秒后报废**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*The doors will open in 15 seconds*",
+    "en_trans": "",
+    "zh_trans": "**大门将于 15 秒后打开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*Fall back door close in 15 second*",
+    "en_trans": "",
+    "zh_trans": "*撤退，大门将在15秒后关闭*",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Darth maul dead**",
+    "en_trans": "",
+    "zh_trans": "**达斯·摩尔 已死亡**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Level changes to EXTREME**",
+    "en_trans": "",
+    "zh_trans": "**难度更改为 极限**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Boss fight in 25 second",
+    "en_trans": "",
+    "zh_trans": "25秒后Boss战",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "Boss fight in 10 second",
+    "en_trans": "",
+    "zh_trans": "10秒后Boss战",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Boss fight in 5 second",
+    "en_trans": "",
+    "zh_trans": "5秒后Boss战",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Boss Fight",
+    "en_trans": "",
+    "zh_trans": "Boss战！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "BOSS USE ANGER",
+    "en_trans": "",
+    "zh_trans": "Boss使用了愤怒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "BOSS USE PUSH",
+    "en_trans": "",
+    "zh_trans": "Boss使用了推力",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "BOSS USE RAGE",
+    "en_trans": "",
+    "zh_trans": "Boss使用了狂暴",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The wall will explode in 30 second**",
+    "en_trans": "",
+    "zh_trans": "**墙在35秒后炸开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "The ship will fly away in 35 seconds",
+    "en_trans": "",
+    "zh_trans": "飞船35秒后启航",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "Jumping on platform",
+    "en_trans": "",
+    "zh_trans": "跳上平台！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Level changes to EPIC**",
+    "en_trans": "",
+    "zh_trans": "**难度更改为 史诗**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "First door will open in 10 seconds",
+    "en_trans": "",
+    "zh_trans": "第一扇门将在10秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Third door will open in 10 seconds",
+    "en_trans": "",
+    "zh_trans": "第三扇门将在10秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Second door will open in 10 seconds",
+    "en_trans": "",
+    "zh_trans": "第二扇门将在10秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Last door will open in 40 seconds",
+    "en_trans": "",
+    "zh_trans": "最后一扇门将在40秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "AFK TELEPORT 5 IN SECOND",
+    "en_trans": "",
+    "zh_trans": "挂机玩家5秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**First door will open in 45 seconds**",
+    "en_trans": "",
+    "zh_trans": "**第一扇门将在45秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "Second door will open in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "第二扇门将在15秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Third door will open in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "第三扇门将在30秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "5 SECOND",
+    "en_trans": "",
+    "zh_trans": "还有5秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "The ship will departs after in 20 second",
+    "en_trans": "",
+    "zh_trans": "飞船20秒后起飞",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "The magnetic field will destroyed in 25 second",
+    "en_trans": "",
+    "zh_trans": "磁场将在25秒后被摧毁",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "FALL BACK!!!!!!!!!",
+    "en_trans": "",
+    "zh_trans": "撤退！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FALL BACK!!!!!!!!!!!!",
+    "en_trans": "",
+    "zh_trans": "撤退！！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The magnetic field will destroyed in 20 second",
+    "en_trans": "",
+    "zh_trans": "磁场将在20秒后被摧毁",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "AFK TELEPORT IN 10 SECOND",
+    "en_trans": "",
+    "zh_trans": "挂机玩家10秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "RATHER!!!!!!! Press button!!!!",
+    "en_trans": "",
+    "zh_trans": "快点！！！！！！按下按钮！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "RUN!!!! RUN!!!! RUN!!!!!! The wal willl explode in 15 second",
+    "en_trans": "",
+    "zh_trans": "撤退！！撤退！！撤退！！！！墙将在15秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "The magnetic field will destroyed in 30 second",
+    "en_trans": "",
+    "zh_trans": "磁场将在30秒后被摧毁",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "The teleport will earn in 25 second",
+    "en_trans": "",
+    "zh_trans": "传送将在25秒后完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "The teleport will earn in 5 second",
+    "en_trans": "",
+    "zh_trans": "传送将在5秒后完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "FALL BACK",
+    "en_trans": "",
+    "zh_trans": "撤退！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Shoot in middle the station of droids!",
+    "en_trans": "",
+    "zh_trans": "射击中间的机器人站点！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Good station explode! Shoot ZM!",
+    "en_trans": "",
+    "zh_trans": "干得漂亮！向僵尸射击！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Teleport activates in 10 second",
+    "en_trans": "",
+    "zh_trans": "传送10秒后激活",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "OMG! It is ship of Darth Maul!",
+    "en_trans": "",
+    "zh_trans": "我去！达斯·摩尔的飞船！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Run!!! The ship will departs after in 20 second",
+    "en_trans": "",
+    "zh_trans": "撤退！！飞船将在20秒后启航",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "BOSS USE GRIP",
+    "en_trans": "",
+    "zh_trans": "Boss使用了吸力",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "BOSS USE THUNDER",
+    "en_trans": "",
+    "zh_trans": "Boss使用了雷电",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "BOSS USE SWORD. CROUCH!!!!!!",
+    "en_trans": "",
+    "zh_trans": "Boss使用了刀。快蹲！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!",
+    "en_trans": "",
+    "zh_trans": "最后的攻击！！让我们彻底摧毁达斯·摩尔！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A player picked up Force Grip",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A player picked up Force Heal",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A player picked up Force Push",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A player picked up Force Speed",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A player picked up Force Lightning",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A player picked up Force Rage",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "original": "Map Creator : Platin",
+    "en_trans": "",
+    "zh_trans": "地图制作:Platin",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**TEST MAP**",
+    "en_trans": "",
+    "zh_trans": "**当前版本为测试版**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BLUE LIGHTS WILL SHOW YOU THE WAY **",
+    "en_trans": "",
+    "zh_trans": "** 蓝色的灯光将为你指引前进的道路  **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** DEFENSE AREAS WILL APPEAR AS BLUE PROTECTION **",
+    "en_trans": "",
+    "zh_trans": "** 防守区域将显示为蓝色保护区 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 20 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 大门将在20秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** ZOMBIE TELEPORT 5 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "**僵尸传送将在5秒后启动**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR OPENING **",
+    "en_trans": "",
+    "zh_trans": "** 门正在打开中 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 30 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 大门将在30秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 25 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "**大门将在25秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 5 SECONDS, GO BACK **",
+    "en_trans": "",
+    "zh_trans": "**大门还有5秒就要打开了! 准备撤退 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR OPENING , GO BACK **",
+    "en_trans": "",
+    "zh_trans": "** 门开了赶紧撤退! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 35 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 大门将在35秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR OPENING! ,GO TO THE NEXT DEFENSE AREA **",
+    "en_trans": "",
+    "zh_trans": "** 门已打开! 赶紧逃离到下一个安全区域 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** GO BACK!!,GO TO THE NEXT DEFENSE AREA **",
+    "en_trans": "",
+    "zh_trans": "** 赶紧撤退!!逃往下个安全区域 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** DOOR OPENING, GO BACK **",
+    "en_trans": "",
+    "zh_trans": "** 门开了赶紧撤退! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 15 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "***大门还有 15 秒就打开了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR WILL CLOSE AFTER 10 SECONDS RUN RUN RUN **",
+    "en_trans": "",
+    "zh_trans": "**门将在10秒后关闭 赶紧跑过来 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR CLOSING **",
+    "en_trans": "",
+    "zh_trans": "** 大门正在关闭 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** DESTROY YOUR MACHINE **",
+    "en_trans": "",
+    "zh_trans": "** 销毁掉眼前的机器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** WATCH OUT FOR FIRES AND ZOMBIE CAGES **",
+    "en_trans": "",
+    "zh_trans": "**小心火焰与僵尸进攻 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ZOMBIE GATES OPENING, DEFEND ***",
+    "en_trans": "",
+    "zh_trans": "*** 大门将被僵尸冲破 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ACTIVATING FLAME LAUNCH ***",
+    "en_trans": "",
+    "zh_trans": "*** 火焰陷阱已经被触发 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-*- The machine was destroyed.-*-",
+    "en_trans": "",
+    "zh_trans": "-*-机器已经被破坏-*-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** STOP EVACUATION **",
+    "en_trans": "",
+    "zh_trans": "**停止疏散行动**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** DOOR OPRNING **",
+    "en_trans": "",
+    "zh_trans": "** 大门已经打开中 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 5 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 大门还有5秒就要打开了! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** GO BACK! GO TO THE NEXT DEFENSE AREA **",
+    "en_trans": "",
+    "zh_trans": "** 赶快撤离这块区域 前往新的防守区域 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ZOMBIE TELEPORT 10 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "**僵尸传送在 10 秒后生效 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR OPENING, RUN RUN **",
+    "en_trans": "",
+    "zh_trans": "** 大门已打开,赶紧离开这里 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR WILL OPEN IN 25 SECONDS , GO BACK**",
+    "en_trans": "",
+    "zh_trans": "** 大门将在25秒后开启,赶紧撤离 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** GO TO THE NEXT DEFENSE AREA **",
+    "en_trans": "",
+    "zh_trans": "** 赶紧撤退!!逃往下个安全区域 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THE DOOR OPENING , GO BACK**",
+    "en_trans": "",
+    "zh_trans": "** 门开了赶紧撤退! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "* EVACUATION WILL STOP AFTER 30 SECONDS *",
+    "en_trans": "",
+    "zh_trans": "*疏散撤离将在30秒后离开*",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "* ZOMBIE TELEPORT 5 SECONDS *",
+    "en_trans": "",
+    "zh_trans": "**僵尸传送将在5秒后启动**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "* HUMAN TELEPORT 3 SECONDS *",
+    "en_trans": "",
+    "zh_trans": "***人类将在3秒后传送***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "* EVACUATION HALTED! MISSION COMPLATED *",
+    "en_trans": "",
+    "zh_trans": "* 疏散行动已成功!小队已完成任务 * ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "* EVACUATION HALTED *",
+    "en_trans": "",
+    "zh_trans": "**疏散行动已停止**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "* ZOMBIE TELEPORT 3 SECONDS *",
+    "en_trans": "",
+    "zh_trans": "*僵尸将在3秒后传送*",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** LASER ACTIVATED ***",
+    "en_trans": "",
+    "zh_trans": "*** 激光武器已激活 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HUMAN WIN ***",
+    "en_trans": "",
+    "zh_trans": "*** 小队成功完成任务 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**TEST SERVER : MAPEADORES**",
+    "en_trans": "",
+    "zh_trans": "** 感谢测试服务器:MAPEADORES **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** GO BACK!! GO TO THE NEXT DEFENSE AREA **",
+    "en_trans": "",
+    "zh_trans": "** 赶快撤离这块区域 前往新的防守区域 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

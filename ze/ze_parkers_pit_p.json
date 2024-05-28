@@ -1,0 +1,443 @@
+[
+  {
+    "original": "*** MAP BY JB_GAMBLE ***",
+    "en_trans": "",
+    "zh_trans": "*** 地图制作 JB_GAMBLE ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ROUND 1/5 ***",
+    "en_trans": "",
+    "zh_trans": "*** 回合数 1/5 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LEFT ROUTE | HOLD HERE ***",
+    "en_trans": "",
+    "zh_trans": "*** 左侧路线 | 坚持住 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LEFT ROUTE | FALL BACK ***",
+    "en_trans": "",
+    "zh_trans": "***左侧路线 | 撤退！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DOORS OPEN - 5 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 门开倒计时 - 5 秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** RIGHT ROUTE | HOLD HERE ***",
+    "en_trans": "",
+    "zh_trans": "*** 右侧路线 | 坚持住 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HOLD HERE ***",
+    "en_trans": "",
+    "zh_trans": "*** 坚持住 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** RIGHT ROUTE | FALL BACK ***",
+    "en_trans": "",
+    "zh_trans": "*** 右侧路线 | 撤退 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FALL BACK | FALL BACK ***",
+    "en_trans": "",
+    "zh_trans": "*** 撤退！ | 撤退！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DOOR OPEN - 5 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 门开倒计时 - 5 秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** FALL BACK ***",
+    "en_trans": "",
+    "zh_trans": "*** 撤退 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MELON FOUND ***",
+    "en_trans": "",
+    "zh_trans": "*** 西瓜已找到 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HOLD HERE! ***",
+    "en_trans": "",
+    "zh_trans": "*** 坚守这里！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ROUND 2/5 ***",
+    "en_trans": "",
+    "zh_trans": "*** 回合数 2/5 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** BOAT HERE ***",
+    "en_trans": "",
+    "zh_trans": "*** 船在这 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ROUND 3/5 ***",
+    "en_trans": "",
+    "zh_trans": "*** 回合数 3/5 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** STAIRS OPEN ***",
+    "en_trans": "",
+    "zh_trans": "*** 楼梯已打开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MINE OPEN ***",
+    "en_trans": "",
+    "zh_trans": "*** 矿洞已开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WAIT HERE ***",
+    "en_trans": "",
+    "zh_trans": "*** 守住这里 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** STAY BACK !! ***",
+    "en_trans": "",
+    "zh_trans": "*** 待在后面 !! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ITEM UNLOCK - FIRST AID KIT ***",
+    "en_trans": "",
+    "zh_trans": "*** 物品解锁 - 急救箱 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ROUND 4/5 ***",
+    "en_trans": "",
+    "zh_trans": "*** 回合数 4/5 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** BRIDGE MIDDLE - OPEN ***",
+    "en_trans": "",
+    "zh_trans": "*** 桥中心 - 开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TRAIN LEAVING ***",
+    "en_trans": "",
+    "zh_trans": "*** 火车已离开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ROUND 5/5 ***",
+    "en_trans": "",
+    "zh_trans": "*** 回合数 5/5 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TELEPORT OPEN ***",
+    "en_trans": "",
+    "zh_trans": "*** 传送开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FIRST AID ***",
+    "en_trans": "",
+    "zh_trans": "*** 急救 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LIFT LEAVING ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯离开中 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** COMBINE ADVISORS - SHOOT ***",
+    "en_trans": "",
+    "zh_trans": "*** Combine Advisors - 向他们射击！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** INFO - RED LIGHTS - ADVISORS HEALTH ***",
+    "en_trans": "",
+    "zh_trans": "*** 信息 - 红灯 - Advisors血量 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** INFO - STAND ON ROCKS TO AVOID FIRE ***",
+    "en_trans": "",
+    "zh_trans": "*** 信息 - 站在石头上避免被火灼烧 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DEFEATED THE ADVISORS! ***",
+    "en_trans": "",
+    "zh_trans": "*** Advisors 已被击败！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MAP COMPLETED ***",
+    "en_trans": "",
+    "zh_trans": "*** 地图完成 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MELON KILLER ***",
+    "en_trans": "",
+    "zh_trans": "*** 西瓜杀手 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ITEM UNLOCK - UNLIMITED AMMO CRATE ***",
+    "en_trans": "",
+    "zh_trans": "*** 物品解锁 - 无限子弹箱 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** GOT THE GNOME! ***",
+    "en_trans": "",
+    "zh_trans": "*** 抓到了地精! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LET'EM BURN ***",
+    "en_trans": "",
+    "zh_trans": "*** 让他们燃烧吧！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** UNLOCKED | THE IGNITER ***",
+    "en_trans": "",
+    "zh_trans": "*** 已解锁点火器***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ZOMBIES IN TRAIN - YOU FAILED! ***",
+    "en_trans": "",
+    "zh_trans": "*** 火车上有僵尸 - 你失败了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** JUMPED THE GAP ***",
+    "en_trans": "",
+    "zh_trans": "*** 跳过断口 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MR B. HOP ***",
+    "en_trans": "",
+    "zh_trans": "***B.HOP先生***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HEADS UP ***",
+    "en_trans": "",
+    "zh_trans": "*** 小心 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MASS TELEPORT IN 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 10 秒后大量传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** MASS TELEPORT IN 10 SECONDS",
+    "en_trans": "",
+    "zh_trans": "*** 10 秒后大量传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** IGNITER - LEFT ROUTE ***",
+    "en_trans": "",
+    "zh_trans": "*** 点火器 - 左侧路线 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** GOT THE IGNITER ***",
+    "en_trans": "",
+    "zh_trans": "*** 已取得 点火器 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** SETS ZOMBIES ON FIRE ***",
+    "en_trans": "",
+    "zh_trans": "*** 点燃僵尸 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EXTINGUISHS FIRE ON HUMANS ***",
+    "en_trans": "",
+    "zh_trans": "*** 扑灭人类身上的火焰 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MASS TELEPORT IN 20 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 20 秒后大量传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  }
+]

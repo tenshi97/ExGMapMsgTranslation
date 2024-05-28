@@ -1,0 +1,785 @@
+[
+  {
+    "original": "Map created by Bart",
+    "en_trans": "",
+    "zh_trans": "地图制作：Bart",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Door will open in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "门将在15秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Spawn teleport will activate in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "出生点传送将在15秒后激活",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Hold for 30 seconds",
+    "en_trans": "",
+    "zh_trans": "坚持30秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Weedle is attacking us",
+    "en_trans": "",
+    "zh_trans": "独角虫正在攻击我们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Weedle is using poison sting",
+    "en_trans": "",
+    "zh_trans": "独角虫正在使用毒刺！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Weedle is dead",
+    "en_trans": "",
+    "zh_trans": "独角虫 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Rattatas is attacking viridian city, kill them all",
+    "en_trans": "",
+    "zh_trans": "小拉达正在攻击常青市，杀了他们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Going into pokemon center will fully heal you",
+    "en_trans": "",
+    "zh_trans": "你可以在宝可梦中心接受治疗",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Second path have opened",
+    "en_trans": "",
+    "zh_trans": "第二条道路已经打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "All Rattatas have been killed, guard door will open in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "所有小拉达已经被杀死了，防护门在30秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombies will TP  in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸在15秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Bulbasaur is attacking us",
+    "en_trans": "",
+    "zh_trans": "妙蛙种子正在攻击我们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Bulbasaur is using razor leaf",
+    "en_trans": "",
+    "zh_trans": "妙蛙种子正在使用飞叶快刀",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Bulbasaur is dead",
+    "en_trans": "",
+    "zh_trans": "妙蛙种子 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A Magikarp is in the way",
+    "en_trans": "",
+    "zh_trans": "鲤鱼王挡住了我们的去路！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Magikarp is dead",
+    "en_trans": "",
+    "zh_trans": "鲤鱼王 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Pikachu is attacking us",
+    "en_trans": "",
+    "zh_trans": "皮卡丘正在攻击我们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Pikachu is using spark attack",
+    "en_trans": "",
+    "zh_trans": "皮卡丘正在使用十万伏特！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Pikachu is dead",
+    "en_trans": "",
+    "zh_trans": "皮卡丘 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold for 25 seconds",
+    "en_trans": "",
+    "zh_trans": "坚持25秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombies will TP in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸20秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gym will open in 40 seconds",
+    "en_trans": "",
+    "zh_trans": "体育馆在40秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "Hold bridge for 30 seconds",
+    "en_trans": "",
+    "zh_trans": "守住这座桥！30秒！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gym is open!",
+    "en_trans": "",
+    "zh_trans": "体育馆已开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Brock is challenging you",
+    "en_trans": "",
+    "zh_trans": "小刚向你发起挑战！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Brock is picking Onix",
+    "en_trans": "",
+    "zh_trans": "小刚选择了大岩蛇",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Onix is using Rock Throw",
+    "en_trans": "",
+    "zh_trans": "大岩石正在使用落石",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Onix is using earthquake",
+    "en_trans": "",
+    "zh_trans": "大岩蛇正在使用地震",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Onix is defeated",
+    "en_trans": "",
+    "zh_trans": "大岩蛇已被击败",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Stage 1 complete",
+    "en_trans": "",
+    "zh_trans": "第一关完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Spawn teleport will activate in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "出生点传送将在20秒后激活",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Voltorb is blocking the way, kill him",
+    "en_trans": "",
+    "zh_trans": "霹雳电球挡住了我们的去路！杀了它！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold for 20 seconds",
+    "en_trans": "",
+    "zh_trans": "坚持20秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Find and kill all digletts",
+    "en_trans": "",
+    "zh_trans": "找到并杀死全部的地鼠",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "All digletts have been killed, ladder will open in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "全部的地鼠已死亡，梯子在30秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombies will TP in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸将在15秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zubat is attacking us",
+    "en_trans": "",
+    "zh_trans": "超音蝠正在攻击我们",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zubat is using Absorb",
+    "en_trans": "",
+    "zh_trans": "超音蝠正在使用吸取！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zubat is dead",
+    "en_trans": "",
+    "zh_trans": "超音蝠 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Golem is attacking us",
+    "en_trans": "",
+    "zh_trans": "隆隆岩正在攻击我们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Golem is using rock throw",
+    "en_trans": "",
+    "zh_trans": "隆隆岩正在使用落石！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Golem is dead",
+    "en_trans": "",
+    "zh_trans": "隆隆岩 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold for 40 seconds",
+    "en_trans": "",
+    "zh_trans": "坚持40秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gym is open",
+    "en_trans": "",
+    "zh_trans": "体育馆已开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Misty is challenging you",
+    "en_trans": "",
+    "zh_trans": "小霞向你发起挑战！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Misty is picking Starmie",
+    "en_trans": "",
+    "zh_trans": "小霞选择了宝石海星",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Starmie is using Surf",
+    "en_trans": "",
+    "zh_trans": "宝石海星正在使用冲浪",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Starmie is using Blizzard attack",
+    "en_trans": "",
+    "zh_trans": "宝石海星正在使用暴风雪",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Starmie have been defeated!",
+    "en_trans": "",
+    "zh_trans": "宝石海星 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Stage 2 complete",
+    "en_trans": "",
+    "zh_trans": "第二关完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombies will TP in 10 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸10秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Nidorino is attacking us",
+    "en_trans": "",
+    "zh_trans": "尼多力诺正在攻击我们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Nidorino is using horn attack",
+    "en_trans": "",
+    "zh_trans": "尼多力诺正在使用角撞！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Nidorino is dead",
+    "en_trans": "",
+    "zh_trans": "尼多力诺 已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombies will TP in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸将在30秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Door is open!",
+    "en_trans": "",
+    "zh_trans": "门开了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Golem is back for revenge",
+    "en_trans": "",
+    "zh_trans": "隆隆岩回来复仇了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold for 45 seconds",
+    "en_trans": "",
+    "zh_trans": "坚守45秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gym will open in 60 seconds",
+    "en_trans": "",
+    "zh_trans": "体育馆在60秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "Lt Surge is challenging you",
+    "en_trans": "",
+    "zh_trans": "小霞向你发起挑战！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Lt Surge is picking Raichu",
+    "en_trans": "",
+    "zh_trans": "马志士选择了雷丘",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Raichu is using electro ball",
+    "en_trans": "",
+    "zh_trans": "雷丘正在使用电球！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Raichu is using Spark attack on LEFT side",
+    "en_trans": "",
+    "zh_trans": "雷丘正在你的左边使用电光",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Raichu have been defeated",
+    "en_trans": "",
+    "zh_trans": "雷丘已被击败",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Stage 3 complete",
+    "en_trans": "",
+    "zh_trans": "第三关完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Guard door is open, fall back",
+    "en_trans": "",
+    "zh_trans": "保护门开了！撤退！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Squirtle is attacking us",
+    "en_trans": "",
+    "zh_trans": "杰尼龟正在攻击我们",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Squirtle is using surf",
+    "en_trans": "",
+    "zh_trans": "杰尼龟正在使用冲浪",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombies teleport in 25 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸将在25秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "Squirtle is dead",
+    "en_trans": "",
+    "zh_trans": "杰尼龟已死亡",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold for 50 seconds",
+    "en_trans": "",
+    "zh_trans": "坚守50秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gengar have taken over lavender town, find and kill him",
+    "en_trans": "",
+    "zh_trans": "耿鬼占领了紫苑镇！找到并消灭他们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Gengar used Curse",
+    "en_trans": "",
+    "zh_trans": "耿鬼正在使用诅咒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Gengar have been defeated, hold for 20 seconds",
+    "en_trans": "",
+    "zh_trans": "耿鬼已被击败！坚守20秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombies teleport in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸将在20秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gym opens in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "体育馆在20秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Sabrina is challenging you",
+    "en_trans": "",
+    "zh_trans": "娜姿向你发起挑战！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Sabrina is picking Alakazam",
+    "en_trans": "",
+    "zh_trans": "娜姿选择了胡地",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Alakazam is using Shadowball, GET OUT OF THE MIDDLE",
+    "en_trans": "",
+    "zh_trans": "胡地正在使用影子球！快去中间！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Alakazam is using psychic on LEFT side",
+    "en_trans": "",
+    "zh_trans": "胡地正在你的左边使用幻象斩",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Alakazam is using psychic on RIGHT side",
+    "en_trans": "",
+    "zh_trans": "胡地正在你的右边使用幻象斩",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Alakazam have been defeated",
+    "en_trans": "",
+    "zh_trans": "胡地已被击败",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Stage 4 completed",
+    "en_trans": "",
+    "zh_trans": "第四关完成",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "More stages will be added in the future",
+    "en_trans": "",
+    "zh_trans": "更多关卡将会在未来开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Map is over, RTV!",
+    "en_trans": "",
+    "zh_trans": "地图已经打完啦！快rtv！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Raichu is using Spark attack on RIGHT side",
+    "en_trans": "",
+    "zh_trans": "雷丘正在右侧使用火花攻击",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

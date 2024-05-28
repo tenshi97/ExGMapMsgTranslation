@@ -1,0 +1,992 @@
+[
+  {
+    "original": "***DIFFICULTY --- NORMAL***",
+    "en_trans": "",
+    "zh_trans": "***难度 --- 普通***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***",
+    "en_trans": "",
+    "zh_trans": "***潜入并守住游击队基地***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD FOR 50 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住50秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "***FIRST AID PICKED UP***",
+    "en_trans": "",
+    "zh_trans": "***急救箱已拾起***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***FALL BACK***",
+    "en_trans": "",
+    "zh_trans": "***撤退***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***5 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩5秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***4 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩4秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "***3 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩3秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "***2 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩2秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "***1 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩1秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "***RUN***",
+    "en_trans": "",
+    "zh_trans": "***撤退！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD THIS AREA FOR 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住这个区域10秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO COMPOUND***",
+    "en_trans": "",
+    "zh_trans": "***传送全部人至基地***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MOVE IT***",
+    "en_trans": "",
+    "zh_trans": "***前进！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ITS A PREDATOR!***",
+    "en_trans": "",
+    "zh_trans": "***这是铁血战士！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***KILL IT***",
+    "en_trans": "",
+    "zh_trans": "***杀了它***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DODGE THE LASERS***",
+    "en_trans": "",
+    "zh_trans": "***躲开这些激光***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***",
+    "en_trans": "",
+    "zh_trans": "***这看上去似乎是为了下一次蓄力攻击***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SHOOT IT BEFORE IT'S TOO LATE***",
+    "en_trans": "",
+    "zh_trans": "***向他射击！打断他的蓄力攻击！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***IT'S RUNNING AWAY***",
+    "en_trans": "",
+    "zh_trans": "***它跑了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***WELL DONE***",
+    "en_trans": "",
+    "zh_trans": "***漂亮***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP IMPULSOR***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾起了脉冲器***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD FOR 30 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住30秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO CLIFF HIDEOUT***",
+    "en_trans": "",
+    "zh_trans": "***传送所有人至悬崖藏身处***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD THIS AREA FOR 40 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住这个区域40秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO RUINS***",
+    "en_trans": "",
+    "zh_trans": "***传送所有人至遗迹***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***20 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩20秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***10 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩10秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***RUN! GO BEFORE ITS TOO LATE!***",
+    "en_trans": "",
+    "zh_trans": "***快跑！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE CHOPPER IS ON IT'S WAY!***",
+    "en_trans": "",
+    "zh_trans": "***直升机已经在路上了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CHOPPER LEAVING IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***直升机还有10秒离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CHOPPER LEAVING IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***直升机还有5秒离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CHOPPER IS LEAVING***",
+    "en_trans": "",
+    "zh_trans": "***直升机已离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE NUKE HAS EXPLODED***",
+    "en_trans": "",
+    "zh_trans": "***核弹已引爆***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***OH NO! THE NUKE EXPLODED!***",
+    "en_trans": "",
+    "zh_trans": "***Oh no! 核弹已经爆炸了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU COMPLETED NORMAL***",
+    "en_trans": "",
+    "zh_trans": "***已完成普通难度***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MOVING ON TO HARD***",
+    "en_trans": "",
+    "zh_trans": "***正在将难度更改为：困难***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DIFFICULTY --- HARD***",
+    "en_trans": "",
+    "zh_trans": "***难度 --- 困难***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP GRENADE LAUNCHER***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾取了榴弹发射器***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD AZTEC-RUINS FOR 25 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住阿兹特克遗迹25秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***RUN !***",
+    "en_trans": "",
+    "zh_trans": "***撤退 !***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD 30 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住30秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***5***",
+    "en_trans": "",
+    "zh_trans": "***5***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***4***",
+    "en_trans": "",
+    "zh_trans": "***4***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "***3***",
+    "en_trans": "",
+    "zh_trans": "***3***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "***2***",
+    "en_trans": "",
+    "zh_trans": "***2***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "***1***",
+    "en_trans": "",
+    "zh_trans": "***1***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "***GET INSIDE***",
+    "en_trans": "",
+    "zh_trans": "***快进去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU HAVE DEFEATED THE PREDATOR!***",
+    "en_trans": "",
+    "zh_trans": "***你击败了铁血战士！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU COMPLETED HARD***",
+    "en_trans": "",
+    "zh_trans": "***已完成难度：困难***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MOVING ON TO HYPER***",
+    "en_trans": "",
+    "zh_trans": "***正在将难度更改为：极难***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DIFFICULTY --- HYPER***",
+    "en_trans": "",
+    "zh_trans": "***难度 --- 极难***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ELEVATOR IS WARMING UP***",
+    "en_trans": "",
+    "zh_trans": "***电梯正在预热***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ELEVATOR IS ON THE WAY***",
+    "en_trans": "",
+    "zh_trans": "***电梯正在来的路上……***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ELEVATOR'S HERE***",
+    "en_trans": "",
+    "zh_trans": "***电梯已抵达，快上电梯***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***",
+    "en_trans": "",
+    "zh_trans": "***传送所有人至复合电梯***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***C4 ACTIVATED***",
+    "en_trans": "",
+    "zh_trans": "***炸弹已经安放***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD FOR 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住20秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***ITS THE PREDATOR!***",
+    "en_trans": "",
+    "zh_trans": "***这是铁血战士！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO COMPLEX CORE***",
+    "en_trans": "",
+    "zh_trans": "***传送所有人至复合核心***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE PREDATOR IS CHARGING AN ATTACK!***",
+    "en_trans": "",
+    "zh_trans": "***铁血战士正在发起攻击！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***",
+    "en_trans": "",
+    "zh_trans": "***必须触发4个球体才能活下去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "***HOLD ON TO YOUR HELMETS!***",
+    "en_trans": "",
+    "zh_trans": "***抓紧你的头盔！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU INTERUPTED THE PREDATORS ATTACK***",
+    "en_trans": "",
+    "zh_trans": "***你打断了铁血战士的攻击***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU KILLED THE PREDATOR***",
+    "en_trans": "",
+    "zh_trans": "***你击败了铁血战士***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***RUN TOWARDS THE ELEVATOR!***",
+    "en_trans": "",
+    "zh_trans": "***快跑去电梯那！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP ALIEN SAMPLE***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾取了异形样本***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CHOPPER IS ON IT'S WAY***",
+    "en_trans": "",
+    "zh_trans": "***直升机已在路上***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE CHOPPER IS HERE! MOVE IT!***",
+    "en_trans": "",
+    "zh_trans": "***直升机到了，快走！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CHOPPER LEAVES IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***直升机10秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CHOPPER LEAVES IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***直升机5秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***YOU COMPLETED HYPER***",
+    "en_trans": "",
+    "zh_trans": "***已完成难度：极难***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MOVING ON TO ULTIMATE***",
+    "en_trans": "",
+    "zh_trans": "***正在难度更改为：终极***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***GOOD LUCK...***",
+    "en_trans": "",
+    "zh_trans": "***武运昌隆...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DIFFICULTY --- ULTIMATE***",
+    "en_trans": "",
+    "zh_trans": "***难度 --- 终极***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***GET IN THE ELEVATOR***",
+    "en_trans": "",
+    "zh_trans": "***快上电梯***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD THIS AREA FOR 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住这个区域20秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***15 SECONDS LEFT***",
+    "en_trans": "",
+    "zh_trans": "***还剩15秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***",
+    "en_trans": "",
+    "zh_trans": "***传送所有人至飞船入口***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP ALIEN DEVICE***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾取了异形设备***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***GET INSIDE THE TRANSPORTER***",
+    "en_trans": "",
+    "zh_trans": "***快进入运输车***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TELEPORTING EVERYONE TO SPACESHIP CORE***",
+    "en_trans": "",
+    "zh_trans": "***传送所有人至飞船核心***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE PREDATOR IS IN RAGEMODE***",
+    "en_trans": "",
+    "zh_trans": "***铁血战士进入了狂暴模式！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE SPACESHIP IS STARTING TO COLLAPSE***",
+    "en_trans": "",
+    "zh_trans": "***飞船正在解体！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SOMEONE MUST JUMP INTO THE CORE***",
+    "en_trans": "",
+    "zh_trans": "***必须要有人跳进核心！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ZOMBIE BRIDGE ACTIVATED***",
+    "en_trans": "",
+    "zh_trans": "***僵尸桥梁已激活***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE CORE IS GOING UNSTABLE***",
+    "en_trans": "",
+    "zh_trans": "***核心非常的不稳定！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***RUN TOWARDS THE FINAL ROOM***",
+    "en_trans": "",
+    "zh_trans": "***快撤退至最后的房间！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THIS IS YOUR FINAL STAND***",
+    "en_trans": "",
+    "zh_trans": "***这是你的最后一战***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD YOUR GROUND***",
+    "en_trans": "",
+    "zh_trans": "***坚守阵地***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***KEEP FIRING WITH UNLIMITED AMMO***",
+    "en_trans": "",
+    "zh_trans": "***保持射击！无限子弹！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MAP BY --- PER30010 / LUFFAREN***",
+    "en_trans": "",
+    "zh_trans": "***地图制作 --- PER30010 / LUFFAREN***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30010,
+    "enable_timer": 1
+  },
+  {
+    "original": "***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***",
+    "en_trans": "",
+    "zh_trans": "***你们是ZE Hero！又给你们拿奖杯了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THANK YOU FOR PLAYING***",
+    "en_trans": "",
+    "zh_trans": "***感谢游玩***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***MAP RESET***",
+    "en_trans": "",
+    "zh_trans": "***地图重置 翻译@CuleSKY***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***OH NO! WATCH OUT!***",
+    "en_trans": "",
+    "zh_trans": "***小心!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***",
+    "en_trans": "",
+    "zh_trans": "***你本可以阻止这次攻击的...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP CLAYMORE MINES***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾起了地雷***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HOLD BOULDERAREA FOR 15 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***守住巨石区15秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***PLAYER PICKED UP PUSH GUN***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾起了推力枪***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP AMMO DISPENSER***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾取了弹药补给***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP FLAMETHROWER***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾取了喷火器***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU FAILED***",
+    "en_trans": "",
+    "zh_trans": "***你们失败了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU ARE TOO SLOW!***",
+    "en_trans": "",
+    "zh_trans": "***你们太慢了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP GAUSS RIFLE***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾起高斯步枪***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PLAYER PICKED UP MINI GUN***",
+    "en_trans": "",
+    "zh_trans": "***玩家拾起了机枪***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***A ZOMBIE GOT INSIDE THE CHOPPER***",
+    "en_trans": "",
+    "zh_trans": "***有僵尸进入了直升机****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***",
+    "en_trans": "",
+    "zh_trans": "****管理员正在调关房调整难度****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ZOMBIES ARE RELEASED!",
+    "en_trans": "",
+    "zh_trans": "尸笼已开启！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "YOU TOOK TOO LONG!",
+    "en_trans": "",
+    "zh_trans": "你花了太长时间！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

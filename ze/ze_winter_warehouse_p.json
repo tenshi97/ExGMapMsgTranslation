@@ -1,0 +1,65 @@
+[
+  {
+    "original": "*** Map by w6a7z99 ***",
+    "en_trans": "",
+    "zh_trans": "*** 地图由w6a7z99制作 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Spawn Prefab by Dawnter ***",
+    "en_trans": "",
+    "zh_trans": "*** 初始模型由Dawntee制作 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Helicopter Prefab by AuroraF ***",
+    "en_trans": "",
+    "zh_trans": "*** 直升机由AuroraF进行建模 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "TIP: You should go to the roof in less than 30 seconds.",
+    "en_trans": "",
+    "zh_trans": "提示:你应该在30秒内前往屋顶。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "TIP: Roof entry is now open. Defend for 50 seconds!",
+    "en_trans": "",
+    "zh_trans": "提示：屋顶大门已开启。守住这里50秒！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "TIP: Prepare to fall back. Helicopter leaves in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "提示:准备撤退。直升机会在20秒后启动。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "TIP: Helicopter departs in 10 seconds!",
+    "en_trans": "",
+    "zh_trans": "提示:直升机将在10秒后启动!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  }
+]

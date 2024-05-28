@@ -1,0 +1,407 @@
+[
+  {
+    "original": "*** MAP BY P'A'SS ***",
+    "en_trans": "",
+    "zh_trans": "*** 地图制作 P'A'SS ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold until the City Doors Open! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 守住，直至城市门打开！ <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Cover the windows until we find a way out of here ***",
+    "en_trans": "",
+    "zh_trans": "*** 看好窗户，不要让僵尸进来。直到我们找到路 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Kitchen and living room windows are broken! ***",
+    "en_trans": "",
+    "zh_trans": "*** 厨房和卧室的窗户被打破了! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** RESIST ***",
+    "en_trans": "",
+    "zh_trans": "*** 守住 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** GET DOWN IN THE BASEMENT NOW ***",
+    "en_trans": "",
+    "zh_trans": "*** 快进地下室 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Bathroom and living room windows are broken! ***",
+    "en_trans": "",
+    "zh_trans": "*** 厕所和卧室的窗户被打破了! ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Elevator Leaves in 10 seconds !! <<",
+    "en_trans": "",
+    "zh_trans": ">>> 电梯10秒后离开 !! <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Door Opens in 25 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门在25秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Door Opens in 15 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门在15秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Facility door opens in 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 设施大门将在25秒后开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Door opens in 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 门在25秒后开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** ELEVATOR DOORS OPEN IN 40 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯门40秒后开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** DOORS ARE OPENING ***",
+    "en_trans": "",
+    "zh_trans": "*** 大门正在开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ELEVATOR LEAVES IN 5 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯5秒后离开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THAT DIDNT SOUND GOOD ***",
+    "en_trans": "",
+    "zh_trans": "*** 这听起来不是很妙啊 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***",
+    "en_trans": "",
+    "zh_trans": "*** 整个地下设施似乎要被全部炸毁 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MAKE YOUR WAY TO THE AIRFIELD ***",
+    "en_trans": "",
+    "zh_trans": "*** 前往机场 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THERE SHOULD BE A PLANE LEAVING SOON ***",
+    "en_trans": "",
+    "zh_trans": "*** 这里有架快起飞的飞机 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***",
+    "en_trans": "",
+    "zh_trans": "*** 还有一分钟这个地方就要炸了 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** PLANE IS READY TO LEAVE ***",
+    "en_trans": "",
+    "zh_trans": "*** 飞机已准备就绪 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** GET ON NOW ***",
+    "en_trans": "",
+    "zh_trans": "*** 快上飞机 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ZOMBIE ON THE PLANE ***",
+    "en_trans": "",
+    "zh_trans": "*** 僵尸爬上飞机了！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** INVALID VICTORY ***",
+    "en_trans": "",
+    "zh_trans": "*** 你失败了 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** What is this? ***",
+    "en_trans": "",
+    "zh_trans": "*** 这是什么？ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** What is happening? ***",
+    "en_trans": "",
+    "zh_trans": "*** 发生甚么事了？ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Door opens in 20 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 20秒后开门 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Silo doors open in 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 仓库门25秒后打开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** STARTING THE REACTORS... ***",
+    "en_trans": "",
+    "zh_trans": "*** 启用反应堆 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** OH NO ***",
+    "en_trans": "",
+    "zh_trans": "*** 哦豁，艹 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THE REACTOR CORES ARE GOING UNSTABLE ***",
+    "en_trans": "",
+    "zh_trans": "*** 反应堆堆芯不稳定 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***",
+    "en_trans": "",
+    "zh_trans": "*** 你要找到前往1区地下掩体的路 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** SECTOR 1 DOORS SHOULD OPEN SOON! ***",
+    "en_trans": "",
+    "zh_trans": "*** 1区的门要打开了 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** RESIST! ***",
+    "en_trans": "",
+    "zh_trans": "*** 守住这里！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***",
+    "en_trans": "",
+    "zh_trans": "*** 这个地方两分钟后要被炸上天了 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** TRY TO ESCAPE THROUGH THE CARGO AREA ***",
+    "en_trans": "",
+    "zh_trans": "*** 试着通过卸货区逃离这里 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** CARGO AREA DOOR SHOULD OPEN SOON! ***",
+    "en_trans": "",
+    "zh_trans": "*** 卸货区的门就要打开了！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 最后一班离开这里的火车70秒后出发 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 70,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THIS PLACE IS GOING TO BLOW UP IN 30 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 还有30秒这个地方就要炸上天了！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** TRAIN IS LEAVING NOW ***",
+    "en_trans": "",
+    "zh_trans": "*** 火车正在离开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** We got a winner ***",
+    "en_trans": "",
+    "zh_trans": "*** 我们是冠军 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Losers shall die! ***",
+    "en_trans": "",
+    "zh_trans": "*** Losers~ 去死吧！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TIMES UP ***",
+    "en_trans": "",
+    "zh_trans": "*** 时间到 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HUMANS LOSE ***",
+    "en_trans": "",
+    "zh_trans": "*** 人类失败 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ZOMBIE ON THE TRAIN ***",
+    "en_trans": "",
+    "zh_trans": "*** 僵尸已爬上火车 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

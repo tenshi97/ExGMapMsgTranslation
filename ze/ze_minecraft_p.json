@@ -1,0 +1,443 @@
+[
+  {
+    "original": "***MAP BY thegregster101***",
+    "en_trans": "",
+    "zh_trans": "***地图制作: thegregster101***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***STONE DOOR OPENING***",
+    "en_trans": "",
+    "zh_trans": "***石门正在开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BOAT LEAVES IN 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***小船将于20秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***BOAT LEAVES IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***小船将于10秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***PATH BLOCKERS BREAK IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***障碍物将于5秒后碎裂***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TNT EXPLODING IN 30 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***炸药将在30秒后爆炸***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***HOLD THE CAVE!!!!***",
+    "en_trans": "",
+    "zh_trans": "***守住洞穴!!!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TNT EXPLODING IN 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***炸药将在20秒后爆炸***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TNT EXPLODING IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***炸药将在10秒后爆炸***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***TNT EXPLODING IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***炸药将在5秒后爆炸***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***GOGO.. GET TO THE SLIP GATE***",
+    "en_trans": "",
+    "zh_trans": "***快走..到大门那去***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***AFK TELE TO CAGE IN 15 SECONDS**",
+    "en_trans": "",
+    "zh_trans": "***挂机玩家将在15秒后传送至尸笼***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***PUMPKIN HEAD HAS BEEN PICKED UP***",
+    "en_trans": "",
+    "zh_trans": "***南瓜头已被拾起***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***AFK TELE 2 TELEPORTING IN 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***挂机传送将在20秒后启动***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DOOR OPENING IN 15 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***门将在15秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***DOOR OPENING IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "**门将在10秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***DOOR OPENING IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***门将在5秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***DOOR OPEN... RUN!!***",
+    "en_trans": "",
+    "zh_trans": "***门开了...快跑!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DEFEND THE CASTLE DOORS***",
+    "en_trans": "",
+    "zh_trans": "***守住城堡大门!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE BOW HAS BEEN PICKED UP***",
+    "en_trans": "",
+    "zh_trans": "***弓箭已被拾起***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***GO GO.. GET TO THE MINE!***",
+    "en_trans": "",
+    "zh_trans": "***快走快走...到矿井里去!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***DEFEND FOR 35 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***坚持35秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "***MINE CARTS ARRIVE IN 30 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***矿车30秒后到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***MINE CARTS ARRIVE IN 25 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***矿车25秒后到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***MINE CARTS ARRIVE IN 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***矿车20秒后到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***MINE CARTS ARRIVE IN 15 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***矿车15秒后到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***MINE CARTS ARRIVE IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***矿车10秒后到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***MINE CARTS ARRIVE IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***矿车5秒后到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***GET ON TOP OF THE MINE CARTS***",
+    "en_trans": "",
+    "zh_trans": "***快到矿车上来***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BUNKER HAS BEEN REACHED***",
+    "en_trans": "",
+    "zh_trans": "***已抵达地堡***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BUNKER DOOR OPENING IN 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***地堡门20秒后开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***DEFEND THE RAILWAY TRACK***",
+    "en_trans": "",
+    "zh_trans": "***守住来时的铁路***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BUNKER DOOR OPENING IN 15 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***地堡门15秒后开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***BUNKER DOOR OPENING IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***地堡门10秒后开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***BUNKER DOOR OPENING IN 5 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***地堡门5秒后开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***BUNKER DOOR OPEN!***",
+    "en_trans": "",
+    "zh_trans": "***地堡门开了!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***GET INSIDE THE BUNKER***",
+    "en_trans": "",
+    "zh_trans": "***快进来地堡***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BUNKER DOOR CLOSING***",
+    "en_trans": "",
+    "zh_trans": "***地堡门正在关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***NUKE LAUNCHED! ***",
+    "en_trans": "",
+    "zh_trans": "***核弹已发射!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***",
+    "en_trans": "",
+    "zh_trans": "***钻石剑的所有材料已经找到了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***",
+    "en_trans": "",
+    "zh_trans": "***找到在TNT守点处的工作台并使用***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THIS WILL CRAFT THE SWORD***",
+    "en_trans": "",
+    "zh_trans": "***这将铸成宝剑***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***THE SWORD HAS BEEN PICKED UP***",
+    "en_trans": "",
+    "zh_trans": "***钻石剑已被拾起***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***SWORD READY***",
+    "en_trans": "",
+    "zh_trans": "***钻石剑已准备就绪***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CREEPER HEAD HAS BEEN PICKED UP***",
+    "en_trans": "",
+    "zh_trans": "***苦力怕的头已被拾取***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***",
+    "en_trans": "",
+    "zh_trans": "***僵尸上船了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BOAT SELF DESTRUCT!!***",
+    "en_trans": "",
+    "zh_trans": "***小船已自毁!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TROLL FACE HAS BEEN PICKED UP***",
+    "en_trans": "",
+    "zh_trans": "***妖精的头已被拾起***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***YOU BE TROLL'IN***",
+    "en_trans": "",
+    "zh_trans": "***你被搞了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

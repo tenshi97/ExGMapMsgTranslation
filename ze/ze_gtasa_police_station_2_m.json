@@ -1,0 +1,398 @@
+[
+  {
+    "original": "[MAP] Game Starting For 10 Seconds...",
+    "en_trans": "",
+    "zh_trans": "[地图] 游戏10秒后开始...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP] You will not be able to (compression) the zombies in this map.",
+    "en_trans": "",
+    "zh_trans": "[地图] 你无法在此地图刷尸笼.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP] If you try to take advantage of the weaknesses of the map and defend it in positions that will squeeze the zombies, the game will teleport you to the beginning.",
+    "en_trans": "",
+    "zh_trans": "[地图] 如果你尝试用地图的Bug刷尸笼，地图将把你传送至出生点",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP] [CT] (Humans Fall Back) If you see this console message, it means there are 5 seconds left until the door opens.",
+    "en_trans": "",
+    "zh_trans": "[地图] [CT] (人类撤退) ←如果你看到这个控制台信息，这意味着门还有5秒钟开.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA] ZM TP For 5 Seconds",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 僵尸五秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA] GO! GO! GO!",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] GO! GO! GO!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans need to retreat defensively in the long corridor.",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类需要在走廊中边守边退",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[T] Zombies can crawl in through the window, and sneak in through the secret path at the bus stop.",
+    "en_trans": "",
+    "zh_trans": "[T] 僵尸可以从窗户上悄悄上来，或者去公交车站的侧路.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA] 20 Seconds For Defend (LONG CORRIDOR)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 防守20秒 (长廊)",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[CT] Break the window and get in, the door is broken. (ADVISOR)",
+    "en_trans": "",
+    "zh_trans": "[CT] 破坏窗户然后进去，门已经打开了（建议）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[T] Zombies, Break the entrance door (POLICE DEPARTMENT)",
+    "en_trans": "",
+    "zh_trans": "[T] 僵尸，破坏警察局正门",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans Fall Back",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类撤退",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA] 20 Seconds For Defend (STAFF ROOM)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 员工室防守20秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA] YOU CANNOT GO OUTSIDE",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 你不能走出去",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA] 20 Seconds For Defend (Lock Gate)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 守住20秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[CT] Humans, be careful, (?) Stay away from the sign.",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类小心，远离标志",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[T] Zombies, wait outside on the (NISSAN) branded vehicle, the shortcut will open.",
+    "en_trans": "",
+    "zh_trans": "[T] 僵尸，在日产车外面等待，侧路很快开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans Go Right! Please do not stand in the (staff room)",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类右拐！不要站在员工室里",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA] 20 Seconds For Defend (VENT)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 通风管道20秒后开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[T] Zombies, Teleporting For Red Light Place...",
+    "en_trans": "",
+    "zh_trans": "[T] 僵尸传送至红灯区域",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT+T] The humans and zombies hiding outside were teleported here.",
+    "en_trans": "",
+    "zh_trans": "[全部人] 外面躲藏的人类和僵尸将传送到这里",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans, Follow The Arrows",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类跟着箭头走",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans, Climb the blocks (Tables) and move forward on the metal above.",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类，越过障碍物（桌子），然后沿着金属管道前进",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans, Don't stop here, the black door will open, shortcut to zombies.",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类，别在这里停留！黑色栅栏门很快开启，那是僵尸侧路",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA] 20 Seconds For Defend (LADDER)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 梯子20秒后开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[T] Zombies, Your black door will open in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[T] 僵尸侧路5秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[CT] Humans, Go Left!",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类左拐！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[CT] Humans, I recommend defending on the 2nd floor, because zombies will teleport to where you are",
+    "en_trans": "",
+    "zh_trans": "[CT] 人类，我建议在2楼防守，因为僵尸会在你们所在的地方传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA] 30 Seconds For Defend",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA] 防守30秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA HARD MODE] Okay, you've come so far as a team very well.",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] ok，作为一个团队你们已经走了很远了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA HARD MODE] But now things have become difficult, there are doors on the right and left, marked Team A and B.",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 但是现在会变得更加困难，你们左右两边有着标记为Team B和Team A的两扇门",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA HARD MODE] You need to split into 2 teams. If 1 team is invaded by zombies, the game is over.",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 你们需要在这里兵分两路。如果其中一队防守失败，那么游戏结束",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA HARD MODE] GO! GO! GO!",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 冲冲冲！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[B TEAM] Humans, Please Dont Touch Fires!",
+    "en_trans": "",
+    "zh_trans": "[B TEAM] 不要触碰火焰！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Died.",
+    "en_trans": "",
+    "zh_trans": "死了。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA HARD MODE] ZM TP ACTIVATE",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 僵尸传送已激活",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA HARD MODE] 30 SECONDS... (defend)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 守住30秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA HARD MODE] 20 SECONDS... (defend)",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 守住20秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MISSION FAILED] B TEAM is invaded by Zombies.",
+    "en_trans": "",
+    "zh_trans": "[任务失败] B小队防守失败",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[GTA:SA HARD MODE] 10 SECONDS. Everyone Fall Back",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 还有10秒钟，全部人后撤！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA HARD MODE] 5 SECONDS. Door Hug!",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 还有5秒钟，贴门！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[GTA:SA HARD MODE] GET IN GREEN LIGHT",
+    "en_trans": "",
+    "zh_trans": "[GTA:SA 困难模式] 进入绿灯区域！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MISSION COMPLETED] Game Over",
+    "en_trans": "",
+    "zh_trans": "[任务完成] 游戏结束",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MISSION FAILED] A TEAM is invaded by Zombies.",
+    "en_trans": "",
+    "zh_trans": "[任务失败] A小队防守失败",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

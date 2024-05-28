@@ -1,0 +1,191 @@
+[
+  {
+    "original": "Map Created By : Platin",
+    "en_trans": "",
+    "zh_trans": "地图作者：Platin",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Test Servers : Mapeadores | GFL | ZMTR",
+    "en_trans": "",
+    "zh_trans": "测试服务器：Mapeadores | GFL | ZMTR",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Press the button in the security room",
+    "en_trans": "",
+    "zh_trans": "去按下保安室的按钮（其他人回头守主路）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EVACUATION PROTOCOL HAS BEEN INITIATED !!! ***",
+    "en_trans": "",
+    "zh_trans": "*** 疏散协议已启动！！！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** SECURITY DOORS WILL OPEN IN 25 SECONDS ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 安全撤离的大门将于 25 秒后打开！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "OPENING THE DOOR",
+    "en_trans": "",
+    "zh_trans": "大门正在打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The security door will open in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "安全撤离的大门将于 30 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombie teleport 10 seconds",
+    "en_trans": "",
+    "zh_trans": "僵尸传送在 10 秒后刷新",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Press the security button and go to the exit",
+    "en_trans": "",
+    "zh_trans": "按下安全按钮并前往出口",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Control Panel: Security door opens! 5 sec",
+    "en_trans": "",
+    "zh_trans": "控制面板：安全门即将打开！再坚持 5 秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "PRESS THE BUTTON TO OPEN THE SECURITY DOOR",
+    "en_trans": "",
+    "zh_trans": "按下按钮以开启安全门",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Control Panel: Security door opens! 25 sec",
+    "en_trans": "",
+    "zh_trans": "控制面板：安全门即将打开！再坚持 25 秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "Defend all 3 rooms",
+    "en_trans": "",
+    "zh_trans": "守住全部3个房间",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "The EXIT 1-2 doors will open in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "1号安全出口和2号安全出口将于 30 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The EXIT 3 door will open in 15 seconds",
+    "en_trans": "",
+    "zh_trans": "3号安全出口将于 15 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The EXIT 3 door will opening GO!",
+    "en_trans": "",
+    "zh_trans": "3号安全出口正在打开，快点走！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "The EXIT 1-2 door will opening GO!",
+    "en_trans": "",
+    "zh_trans": "1号和2号安全出口正在打开，快点走！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FINAL GATE CLOSES IN 90 SECONDS",
+    "en_trans": "",
+    "zh_trans": "最终撤离的大门将会在 90 秒后关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "10 SECONDS LATER THE DOOR CLOSES, RUN",
+    "en_trans": "",
+    "zh_trans": "大门 10 秒后就会关闭，马上跑起来",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "BOMBS ARE DETONED !!!",
+    "en_trans": "",
+    "zh_trans": "炸弹已引爆！！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ze_umbrellazombie_v1_part2 Cooming Soon",
+    "en_trans": "",
+    "zh_trans": "ze_umbrellazombie_v1_part2 （保护伞公司第二部分）已推出",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

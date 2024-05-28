@@ -1,0 +1,128 @@
+[
+  {
+    "original": "***Cargo Door Opens in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***货仓门还有10秒打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Main Testlab Door Opens in 10 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***实验室门10秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Bridge Activated***",
+    "en_trans": "",
+    "zh_trans": "***大桥已启动***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Bridge Deactivated***",
+    "en_trans": "",
+    "zh_trans": "***大桥已关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CartControl Door Opens in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***控制室门5秒后开启***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Cart Control Door closes in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***控制室门5秒后关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Testlab Door3 Opens in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***实验室三门5秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Rail Cart leaves in 5 seconds***",
+    "en_trans": "",
+    "zh_trans": "***轨道车5秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Refinery hatches opening***",
+    "en_trans": "",
+    "zh_trans": "***炼制室舱门正在打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Error Overflow dangerous chemicals detected***",
+    "en_trans": "",
+    "zh_trans": "***已检测到危险化学品***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Tram Tunnel Door opens in 1 Minute***",
+    "en_trans": "",
+    "zh_trans": "***隧道门60秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Tram Starts in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***电车5秒后启动***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Water Flow 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***水流还有5秒到达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Testlab Door2 Opens in 5 Seconds***",
+    "en_trans": "",
+    "zh_trans": "***实验室二号门将在5秒后打开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  }
+]

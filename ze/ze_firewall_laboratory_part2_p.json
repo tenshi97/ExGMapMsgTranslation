@@ -1,0 +1,218 @@
+[
+  {
+    "original": "Break the doors to exit the laboratory.",
+    "en_trans": "",
+    "zh_trans": "打碎门逃离实验室.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Cable Car leaving in 7 seconds...",
+    "en_trans": "",
+    "zh_trans": "缆车7s后离开...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "Pole-Rider machine leaving in 9 seconds...",
+    "en_trans": "",
+    "zh_trans": "缆车2将在9s后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Boat leaving in 6 seconds!",
+    "en_trans": "",
+    "zh_trans": "船6s后驶离！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "Truck leaving in 15 seconds!",
+    "en_trans": "",
+    "zh_trans": "卡车15s后驶离！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Station doors will open in 25 seconds.",
+    "en_trans": "",
+    "zh_trans": "车站大门将在25s后打开.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombie outbreak has been detected.",
+    "en_trans": "",
+    "zh_trans": "已检测到僵尸暴动.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Emergency protection barriers activated.",
+    "en_trans": "",
+    "zh_trans": "紧急保护屏障已启用.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Station doors have opened!",
+    "en_trans": "",
+    "zh_trans": "车站大门已开启!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The gates will open in 25 seconds.",
+    "en_trans": "",
+    "zh_trans": "门将在25s打开.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "Hold out the zombies at the ticket gates!",
+    "en_trans": "",
+    "zh_trans": "把僵尸拖住在售票口!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The teleporters at the spawn area are now working!",
+    "en_trans": "",
+    "zh_trans": "出生点的传送器已启用！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Activate the emergency button!!!",
+    "en_trans": "",
+    "zh_trans": "按下紧急按钮!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Emergency button has been activated! Emergency doors closing...",
+    "en_trans": "",
+    "zh_trans": "紧急按钮已被按下,紧急门正在关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Train arriving in approximately 35 seconds...",
+    "en_trans": "",
+    "zh_trans": "列车35s后驶入站台...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "Train arriving in approximately 20 seconds...",
+    "en_trans": "",
+    "zh_trans": "列车20s后驶入站台...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "The train has arrived and will leave in 10 seconds!",
+    "en_trans": "",
+    "zh_trans": "列车已到达站台，并10s后驶离!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Train arriving at nuclear station...",
+    "en_trans": "",
+    "zh_trans": "列车已到达核电站...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Beware of zombies coming from the back!",
+    "en_trans": "",
+    "zh_trans": "小心僵尸从后面过来",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Missile Doors 1 Opening...",
+    "en_trans": "",
+    "zh_trans": "开启导弹门1...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "Missile Doors 2 Opening...",
+    "en_trans": "",
+    "zh_trans": "开启导弹门2...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "Nuclear missile has been launched!!!",
+    "en_trans": "",
+    "zh_trans": "核弹已发射!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "MASS TP IN 20 SECONDS",
+    "en_trans": "",
+    "zh_trans": "大量传送将在20秒后",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "wait for 10 seconds",
+    "en_trans": "",
+    "zh_trans": "等待10秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  }
+]

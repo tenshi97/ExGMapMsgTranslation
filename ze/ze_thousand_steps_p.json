@@ -1,0 +1,362 @@
+[
+  {
+    "original": "++We can see you out there. Those doors will take about 20 seconds to lower++",
+    "en_trans": "",
+    "zh_trans": "++我们能看到你在外边。这两扇门需要20秒的时候降下++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "++We can see zombies behind you in the train station++",
+    "en_trans": "",
+    "zh_trans": "++我们能看到僵尸在你们来的火车站上++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Don't let them get too far or they'll open new spawn points!++",
+    "en_trans": "",
+    "zh_trans": "++别让他们走的太远！否则他们会触发新的出生点++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The first bridge can now be broken++",
+    "en_trans": "",
+    "zh_trans": "++第一座桥梁现在可以打破++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The gate switch will be inside the building++",
+    "en_trans": "",
+    "zh_trans": "++大门的开关在建筑内部++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The sliding gate is opening++",
+    "en_trans": "",
+    "zh_trans": "++滑动门正在打开++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++That gate will take about half a minute to fully open++",
+    "en_trans": "",
+    "zh_trans": "++大门需要半分钟才能完全打开++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The sliding gate is open, keep moving forward++",
+    "en_trans": "",
+    "zh_trans": "++大门已经开了，保持前进++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The big gate is opening- fall back if you are on the walkways++",
+    "en_trans": "",
+    "zh_trans": "++这扇大门正在打开，如果你还在走道上请撤退++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Try to find a good chokepoint so some of you can hold while the rest advance++",
+    "en_trans": "",
+    "zh_trans": "++找到一个好守点，分头行动。部分人守点，另一部分继续前进++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Zombies have made it to the bridge, new spawn opening++",
+    "en_trans": "",
+    "zh_trans": "++僵尸已抵达桥梁，新出生点开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++We're overriding the gates, should take about 25 seconds++",
+    "en_trans": "",
+    "zh_trans": "++我们正在覆写大门的控制系统，需要25秒++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "++Cut them off!++",
+    "en_trans": "",
+    "zh_trans": "++切断他们!++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The two gates are lowering++",
+    "en_trans": "",
+    "zh_trans": "++这两扇门正在降下++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Zombies have gotten past the middle gate, new spawn opening++",
+    "en_trans": "",
+    "zh_trans": "++僵尸已跨过中门，新出生点开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Don't let them get any further!++",
+    "en_trans": "",
+    "zh_trans": "++不要让他们走得更远了!++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The second bridge can now be broken++",
+    "en_trans": "",
+    "zh_trans": "++第二座桥现在可以破坏了++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++The third bridge can now be broken++",
+    "en_trans": "",
+    "zh_trans": "++第三座桥现在可以破坏了++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Zombies have made it past the cargo entrance, new spawn opening++",
+    "en_trans": "",
+    "zh_trans": "++僵尸已抵达货仓入口，新出生点开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Hold them back!++",
+    "en_trans": "",
+    "zh_trans": "++抵挡住他们!++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++We see you, we're triggering the override++",
+    "en_trans": "",
+    "zh_trans": "++我们看到你们了，我们正在触发覆写系统++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Hold the ledge until the door is open++",
+    "en_trans": "",
+    "zh_trans": "++守住，直到门完全开++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Door One will open in 45 seconds++",
+    "en_trans": "",
+    "zh_trans": "++第一扇大门将在45秒后开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "++Door One will open in 40 seconds++",
+    "en_trans": "",
+    "zh_trans": "++第一扇大门将在40秒后开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "++Zombies have made it past the high tower++",
+    "en_trans": "",
+    "zh_trans": "++僵尸已越过高塔++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Cut them off before they reach the tunnel!++",
+    "en_trans": "",
+    "zh_trans": "++在他们抵达通道前，切断他们！l!++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Door One will open in 20 seconds++",
+    "en_trans": "",
+    "zh_trans": "++第一扇大门将在20秒后开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "++Door One opening in 10 seconds++",
+    "en_trans": "",
+    "zh_trans": "++第一扇大门将在10秒后开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "++Tunnel Door One is opening++",
+    "en_trans": "",
+    "zh_trans": "++第一扇通道大门已开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Tunnel Door Two is opening++",
+    "en_trans": "",
+    "zh_trans": "++第二扇通道大门已开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Tunnel Door Five is Opening++",
+    "en_trans": "",
+    "zh_trans": "++第五扇通道大门已开启++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++We hear you. We're overriding Tunnel Door Six++",
+    "en_trans": "",
+    "zh_trans": "++我们已经了解到情况了，正在覆写第六扇大门系统++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Airstrike hits in 5 seconds++",
+    "en_trans": "",
+    "zh_trans": "++五秒后发动空袭++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++4++",
+    "en_trans": "",
+    "zh_trans": "++4++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "++3++",
+    "en_trans": "",
+    "zh_trans": "++3++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "++2++",
+    "en_trans": "",
+    "zh_trans": "++2++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "++1++",
+    "en_trans": "",
+    "zh_trans": "++1++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "++Airstrike has hit. Welcome home++",
+    "en_trans": "",
+    "zh_trans": "++完美命中目标，欢迎回家++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Clear out any remaining runners and it'll be over++",
+    "en_trans": "",
+    "zh_trans": "++清除掉剩下的丧尸，然后游戏结束++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Map created by Officer_B++",
+    "en_trans": "",
+    "zh_trans": "++地图制作：Officer_B++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

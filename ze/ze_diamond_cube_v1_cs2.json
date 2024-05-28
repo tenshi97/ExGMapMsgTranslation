@@ -1,0 +1,254 @@
+[
+  {
+    "original": ">>> Welcome! Ze_Diamond_Cube <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 钻石魔方,欢迎游玩!<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Map By Rio <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 地图作者: Rio <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Map ported by Kuroki <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 地图移植: Kuroki <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Special Thank Miceadf , Reflelia , Kizan <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 特别感谢: Miceadf , Reflelia , Kizan <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> wall picked up (Cool Time : 35 ) <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 墙已被拾取(冷却时间35秒) <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening in 30 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门还有30秒打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> portal opening in 20 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 传送门还有20秒打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening in 25 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门还有25秒打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 15 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 还有15秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening in 20 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门还有20秒开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening in 10 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门还有10秒开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> portal opening in 30 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 传送门还有30秒打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 5 seconds left <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 还有5秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening in 25 seconds! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 门还有25秒打开! <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> right door opening in 15 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 右侧的门15秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> left door opening in 15 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 左侧的门15秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening in 15 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 这扇门还有15秒打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> door opening 20 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 这扇门还有20秒打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> portal opening in 40 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 传送门还有40秒开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> you failed <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 你失败了 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> laser! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 跳刀时间! <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>5 seconds left <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 还有5秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> final portal opening in 30 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 最后的传送门将在30秒后开启 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> laser!!!! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 跳刀!!!! <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Good job! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 干得漂亮! <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Escape 8 seconds left <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 还有8秒离开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Humans Win <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 人类获胜 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> EXTREME MODE <<<",
+    "en_trans": "",
+    "zh_trans": ">>> EX关! <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

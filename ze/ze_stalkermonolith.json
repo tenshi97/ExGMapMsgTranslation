@@ -1,0 +1,731 @@
+[
+  {
+    "original": "**Map By Batnik_Reference.smd and Microsoft Edge**",
+    "en_trans": "",
+    "zh_trans": "**地图制作 Batnik_Reference.smd and Microsoft Edge**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Level 1**",
+    "en_trans": "",
+    "zh_trans": "**第一关**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**defend 7 sec**",
+    "en_trans": "",
+    "zh_trans": "**防守7秒钟**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "**This is a map based on the game STALKER**",
+    "en_trans": "",
+    "zh_trans": "**这张地图基于游戏 潜行者 制作**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**models and textures Zombie**",
+    "en_trans": "",
+    "zh_trans": "**并采用了其僵尸模型与材质**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Run Run**",
+    "en_trans": "",
+    "zh_trans": "**走走走**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**A player picked up firegun**",
+    "en_trans": "",
+    "zh_trans": "**一位玩家拾起了 喷火器**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**A player picked up spikeball**",
+    "en_trans": "",
+    "zh_trans": "**一位玩家拾起了刺球**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**A player picked up freez**",
+    "en_trans": "",
+    "zh_trans": "**一位玩家拾起了 冰冻枪**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend 30sec**",
+    "en_trans": "",
+    "zh_trans": "**防守30秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**ZM Teleport**",
+    "en_trans": "",
+    "zh_trans": "**僵尸传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Anomaly is open**",
+    "en_trans": "",
+    "zh_trans": "**异常区域已开放**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**hold the train for 30 sec**",
+    "en_trans": "",
+    "zh_trans": "**守住火车30秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**jump on the train**",
+    "en_trans": "",
+    "zh_trans": "**快跳上火车！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Zm Teleport 6sec**",
+    "en_trans": "",
+    "zh_trans": "**僵尸6秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "**defend 20sec**",
+    "en_trans": "",
+    "zh_trans": "**防守20秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Zm Teleport 5sec**",
+    "en_trans": "",
+    "zh_trans": "**僵尸5秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Defend 25 sec ***",
+    "en_trans": "",
+    "zh_trans": "*** 防守25秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**ZM Teleport in 6 second**",
+    "en_trans": "",
+    "zh_trans": "**僵尸6秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** lets go ***",
+    "en_trans": "",
+    "zh_trans": "*** 冲冲冲 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**kill the controller**",
+    "en_trans": "",
+    "zh_trans": "**杀死控制者**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**he uses an energy shield. Destroy 4 generators**",
+    "en_trans": "",
+    "zh_trans": "**他使用了能量护盾！破坏4个能量生成器！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Destroy them first**",
+    "en_trans": "",
+    "zh_trans": "**必须先破坏它们**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** CONTROLLER Uses electric field WARNING ***",
+    "en_trans": "",
+    "zh_trans": "*** 控制者使用了电场！小心 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**2 generator was destroyed**",
+    "en_trans": "",
+    "zh_trans": "**2号发电机已被摧毁**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "**3 generator was destroyed**",
+    "en_trans": "",
+    "zh_trans": "**3号发电机已被摧毁**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "**4 generator was destroyed**",
+    "en_trans": "",
+    "zh_trans": "**4号发电机已被摧毁**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "**1 generator was destroyed**",
+    "en_trans": "",
+    "zh_trans": "**1号发电机已被摧毁**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "**controller ran away**",
+    "en_trans": "",
+    "zh_trans": "**控制者跑了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**lets move**",
+    "en_trans": "",
+    "zh_trans": "**走，前进！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Defend 20 sec ***",
+    "en_trans": "",
+    "zh_trans": "*** 防守20秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The door will open in 15 seconds**",
+    "en_trans": "",
+    "zh_trans": "** 门在15秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**shoot the helicopter**",
+    "en_trans": "",
+    "zh_trans": "** 射击直升机！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**the helicopter is destroyed. run*",
+    "en_trans": "",
+    "zh_trans": "** 直升机已被摧毁，撤退！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**BTR will leave in 20sec**",
+    "en_trans": "",
+    "zh_trans": "**装甲车20秒后离开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door will Close 15 second**",
+    "en_trans": "",
+    "zh_trans": "** 门在15秒后关闭 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** ZM INSIDE KILL HIM ***",
+    "en_trans": "",
+    "zh_trans": "** 僵尸进到里面来了！杀了它！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LEVEL 1 WIN ***",
+    "en_trans": "",
+    "zh_trans": "** 第一关胜利 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Level 2**",
+    "en_trans": "",
+    "zh_trans": "**第二关**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**elevator will leave in 11 seconds**",
+    "en_trans": "",
+    "zh_trans": "** 电梯11秒后离开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 11,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The door will open in 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "**门将在25秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Defend 15sec**",
+    "en_trans": "",
+    "zh_trans": "**防守15秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**the door is open**",
+    "en_trans": "",
+    "zh_trans": "**门开了**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**elevator will leave in 10 seconds**",
+    "en_trans": "",
+    "zh_trans": "**电梯10秒后离开**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Teleporting Zombies in 5 sec**",
+    "en_trans": "",
+    "zh_trans": "**僵尸5秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Defend 26 second**",
+    "en_trans": "",
+    "zh_trans": "**防守26秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 26,
+    "enable_timer": 1
+  },
+  {
+    "original": "**it seems there is something wrong here**",
+    "en_trans": "",
+    "zh_trans": "**这看上去似乎有些问题**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Grenades do more damage. **",
+    "en_trans": "",
+    "zh_trans": "**手雷能造成更多伤害**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**WTF NEW MUTANT. KILL HIM**",
+    "en_trans": "",
+    "zh_trans": "**妈的，新的异形！杀了它**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**psevdogigant IS DEAD**",
+    "en_trans": "",
+    "zh_trans": "**伪巨人已死亡**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Door will Close in 15 sec**",
+    "en_trans": "",
+    "zh_trans": "**大门将在15秒后关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Burer Nearby**",
+    "en_trans": "",
+    "zh_trans": "**引力怪在这附近游荡**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Door will Close 55 sec**",
+    "en_trans": "",
+    "zh_trans": "**门将在55秒后关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 55,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** LEVEL 2 WIN ***",
+    "en_trans": "",
+    "zh_trans": "*** 第二关胜利 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Level 3**",
+    "en_trans": "",
+    "zh_trans": "**第三关**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Door will Close 15sec**",
+    "en_trans": "",
+    "zh_trans": "**门在15秒后关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door will Open 15sec**",
+    "en_trans": "",
+    "zh_trans": "**门在15秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door will Open 25sec**",
+    "en_trans": "",
+    "zh_trans": "**门在25秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** FOUND THE PASSWORD IN LABORATORY ***",
+    "en_trans": "",
+    "zh_trans": "*** 在实验室中找到密码 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The door will open in 20 seconds**",
+    "en_trans": "",
+    "zh_trans": "**门在20秒后开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Shoot Controler**",
+    "en_trans": "",
+    "zh_trans": "**射击控制者！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**2 buttons were pressed**",
+    "en_trans": "",
+    "zh_trans": "**两个按钮均已触发**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Elevator activated**",
+    "en_trans": "",
+    "zh_trans": "**电梯已激活**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Elevator 10 second**",
+    "en_trans": "",
+    "zh_trans": "**电梯还有10秒启动**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**doors will close in 50sec**",
+    "en_trans": "",
+    "zh_trans": "**门在50秒后关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "**doors will close in 20sec**",
+    "en_trans": "",
+    "zh_trans": "**门在20秒后关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**doors will close in 10sec**",
+    "en_trans": "",
+    "zh_trans": "**门在10秒后关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**doors are closing**",
+    "en_trans": "",
+    "zh_trans": "**大门正在关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LEVEL 3 WIN ***",
+    "en_trans": "",
+    "zh_trans": "*** 第三关胜利 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Level 4**",
+    "en_trans": "",
+    "zh_trans": "**第四关**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend 25sec**",
+    "en_trans": "",
+    "zh_trans": "**防守25秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**ZM Teleport 5s**",
+    "en_trans": "",
+    "zh_trans": "**僵尸5秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**ZM Teleport 9s**",
+    "en_trans": "",
+    "zh_trans": "**僵尸9秒后传送**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 9,
+    "enable_timer": 1
+  },
+  {
+    "original": "**defend 40sec**",
+    "en_trans": "",
+    "zh_trans": "**防守40秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door Close**",
+    "en_trans": "",
+    "zh_trans": "**大门已关闭**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**defend 25 sec**",
+    "en_trans": "",
+    "zh_trans": "**防守25秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Laser Monolit**",
+    "en_trans": "",
+    "zh_trans": "**跳刀！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend 15 second**",
+    "en_trans": "",
+    "zh_trans": "**防守15秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Helicopter**",
+    "en_trans": "",
+    "zh_trans": "**直升机来了！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend 20 second**",
+    "en_trans": "",
+    "zh_trans": "**防守20秒**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Level 4 Win**",
+    "en_trans": "",
+    "zh_trans": "**第四关胜利**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

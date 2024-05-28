@@ -1,0 +1,407 @@
+[
+  {
+    "original": "** Current level: EASY**",
+    "en_trans": "",
+    "zh_trans": "** 当前关卡：简单难度 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The door will open in 20 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 大门将在20秒后打开！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 5 seconds left! **",
+    "en_trans": "",
+    "zh_trans": "** 还有5秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold! The doors will open in 20 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 坚持住！大门将在20秒后打开！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 10 more seconds to go! Keep it up! **",
+    "en_trans": "",
+    "zh_trans": "** 再坚持10秒，坚持住！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Keep it up! The tunnel doors will open in 20 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 坚持！隧道门将在20秒后打开！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Just 5 more seconds! Hold it! **",
+    "en_trans": "",
+    "zh_trans": "** 再坚持5秒! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold the crypt! The door to the hangar will open in 20 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 守住洞口！门在20秒后开启！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold! The lift will move in 25 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 守住! 电梯25秒后离开! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 15 seconds left! Keep it up! **",
+    "en_trans": "",
+    "zh_trans": "** 还有15秒! 守住! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Last 5 seconds! GET ON IT! **",
+    "en_trans": "",
+    "zh_trans": "** 最后5秒！快上电梯！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The door will open in 25 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 门在25秒后开启! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The last door will open in 20 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 最后一扇门20秒后开启! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Resist! 5 seconds left! **",
+    "en_trans": "",
+    "zh_trans": "** 守住！最后5秒！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Resist! This elevator ends the cycle! 25 seconds left! **",
+    "en_trans": "",
+    "zh_trans": "** 守住! 电梯已触发! 还剩25秒! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Just 10 more seconds! Keep it up! **",
+    "en_trans": "",
+    "zh_trans": "** 最后10秒！守住！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** ZOMBIES DETECTED - INVALID VICTORY! **",
+    "en_trans": "",
+    "zh_trans": "** 检测到僵尸 - 人类失败! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** GREAT! THE CHALLENGE CONTINUES ON MODERATE MODE! **",
+    "en_trans": "",
+    "zh_trans": "** 漂亮！难度更改为：中等难度 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Current level: MODERATE **",
+    "en_trans": "",
+    "zh_trans": "** 当前关卡：中等难度 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Hold! The doors will open in 30 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 坚持住！这扇门将在30秒后开启！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 10 more seconds to go! RESIST! **",
+    "en_trans": "",
+    "zh_trans": "** 再坚持十秒！阻止它们！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold! The tunnel doors will open in 30 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**坚持住！隧道大门将在30秒后打开！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** HOLD! 10 seconds left! **",
+    "en_trans": "",
+    "zh_trans": "**防守10秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold the crypt! We need to break the wall and reach the hangar! **",
+    "en_trans": "",
+    "zh_trans": "**守住洞口！我们需要炸开这堵墙然后前往机库！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 5 more seconds! HOLD! **",
+    "en_trans": "",
+    "zh_trans": "**再坚持5秒钟！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold! The lift will move in 35 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**守住！电梯将在35秒后离开！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 15 seconds left! RESIST! **",
+    "en_trans": "",
+    "zh_trans": "**坚持15秒钟！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The door will open in 35 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**大门将在35秒后打开！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 15 seconds left! Hold it! **",
+    "en_trans": "",
+    "zh_trans": "**守住这里15秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 5 seconds! RESIST! **",
+    "en_trans": "",
+    "zh_trans": "**守住这里5秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Resist! This is our last stand! 35 seconds left! **",
+    "en_trans": "",
+    "zh_trans": "**这是我们的最后一战！防守这里35秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Just 15 more seconds! Keep it up! **",
+    "en_trans": "",
+    "zh_trans": "**最后15秒！守住！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** ASTONISHING! WILL YOU BE ABLE TO BEAT THE SAVAGE MODE? **",
+    "en_trans": "",
+    "zh_trans": "**很好！你能通过残酷模式吗？**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Current level: SAVAGE **",
+    "en_trans": "",
+    "zh_trans": "**当前关卡：残酷**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The door will open in 30 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**大门将在30秒后开启！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 10 more seconds! HOLD IT! **",
+    "en_trans": "",
+    "zh_trans": "**再坚守10秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold right here! The rock piece will break in 25 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**守住这里！石块将在25秒后破碎！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Just 10 more seconds! HOLD! **",
+    "en_trans": "",
+    "zh_trans": "**再坚守10秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Defend here! This door will open in 25 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**防守这里！大门将在25秒后开启！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** HOLD THEM! THE SECOND DOOR WILL OPEN IN 15 seconds! **",
+    "en_trans": "",
+    "zh_trans": "**阻止它们！第二扇门将在15秒后开启！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** THIS IS THE END! 45 SECONDS! HOLD! **",
+    "en_trans": "",
+    "zh_trans": "**要结束了！防守45秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "** RESIST! 20 SECONDS LEFT! **",
+    "en_trans": "",
+    "zh_trans": "**守住！最后20秒！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** GET READY TO GO! 5 SECONDS! HOP IN! **",
+    "en_trans": "",
+    "zh_trans": "**准备撤离！5秒！先上电梯！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** FANTASTIC EFFORT! YOU'VE BEATEN THE MAP! **",
+    "en_trans": "",
+    "zh_trans": "**太棒了！你们已经通过了这个地图！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The map will go back to the first level now. **",
+    "en_trans": "",
+    "zh_trans": "**这张地图将从最初的关卡重新开始**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

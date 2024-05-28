@@ -1,0 +1,587 @@
+[
+  {
+    "original": "Welcome to the city of NEO EXUYAN",
+    "en_trans": "",
+    "zh_trans": "欢迎来到Neo Exuyan市",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "There is a deadly invisible gas in this city, it seems dangerous, move quickly!",
+    "en_trans": "",
+    "zh_trans": "城市中有一种无形的致命气体，似乎非常危险。我们应该尽快撤离！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The gas has turned some of our squad into ZOMBIES",
+    "en_trans": "",
+    "zh_trans": "这些毒气将我们的一些小队成员变成了丧尸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Our mission cannot fail, we must keep moving!",
+    "en_trans": "",
+    "zh_trans": "我们的任务不能失败，我们必须前进！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "This gate will open soon, hold this bridge!",
+    "en_trans": "",
+    "zh_trans": "大门很快打开，守住这座桥！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Call the elevator, we can hack the console over there to make it faster",
+    "en_trans": "",
+    "zh_trans": "我们可以黑入终端让电梯来的快一点",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** VAL. VE MEGACORP HAS BLESSED YOU WITH INCREDIBLE HACKING SKILLS ***",
+    "en_trans": "",
+    "zh_trans": "*** VAL. VE MEGACORP 为你提供令人难以置信的黑客技术 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TIME REDUCED BY 10 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 时间缩减到10秒钟 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Elevator has been called, hold here!",
+    "en_trans": "",
+    "zh_trans": "电梯已经呼叫，坚守阵地！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold the upper walkway, the door should open soon",
+    "en_trans": "",
+    "zh_trans": "守住上层走廊，门应该很快开启！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Exit door opens soon, hold them off here",
+    "en_trans": "",
+    "zh_trans": "出口大门很快打开了，将僵尸们拦在这！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Some of you must split off into the vents, maybe we can open the door from there!",
+    "en_trans": "",
+    "zh_trans": "你们中的一些人需要分开，进入通风管道。或许我们能从那里打开这扇门。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "It should regroup us after this door...",
+    "en_trans": "",
+    "zh_trans": "在这扇门后重新集合",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "We got it! Door should open soon",
+    "en_trans": "",
+    "zh_trans": "OK，我们做到了！门应该很快打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "This should lead us into the parking lot, and into the greater downtown district!",
+    "en_trans": "",
+    "zh_trans": "这会引导我们进入停车场，然后进入市中心！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The sewers should be right behind this door",
+    "en_trans": "",
+    "zh_trans": "下水道应该就在这扇门的后面",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Exit door ahead of us should open soon, resist!",
+    "en_trans": "",
+    "zh_trans": "我们前方的出口很快打开，坚持住！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "This small side door should take us into a maintenance area",
+    "en_trans": "",
+    "zh_trans": "这个小侧门应该会让我们进入维修区",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Another door? Hold a bit longer!",
+    "en_trans": "",
+    "zh_trans": "另一扇门？再坚持一会",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The next door seems to be jammed, perhaps we can open it faster?",
+    "en_trans": "",
+    "zh_trans": "下一扇门好像被卡住了，或许我们可以让它开得快些？",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "That's it! Door should be opening soon!",
+    "en_trans": "",
+    "zh_trans": "就是这样！门很快打开！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The canals! Neo-Kowloon should be close by",
+    "en_trans": "",
+    "zh_trans": "运河！新九龙应该在这附近",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The back entrance to Neo-Kowloon! Resist until it opens",
+    "en_trans": "",
+    "zh_trans": "这是新九龙的后门！坚持到门开！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "There is a high concentration of toxic-gas here, move quickly!",
+    "en_trans": "",
+    "zh_trans": "这里毒气浓度很高，走快点！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The navigation algorithm is scrambled in here, we must keep moving",
+    "en_trans": "",
+    "zh_trans": "导航算法在这里收到了干扰，我们必须前进",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The exit should be on our left, climb through the wires!",
+    "en_trans": "",
+    "zh_trans": "出口应该在你们的左边，爬过电线就行了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The bridge across the canals should open shortly",
+    "en_trans": "",
+    "zh_trans": "运河桥梁很快就能打开了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The bridge's exit doors should be opening soon",
+    "en_trans": "",
+    "zh_trans": "桥梁出口很快开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A maintenance door! Perhaps we can reach the Prey Plaza from here?",
+    "en_trans": "",
+    "zh_trans": "维修门！或许我们可以从这里抵达Prey广场？",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "This long walkway should take us up to the side entrance of Prey Plaza",
+    "en_trans": "",
+    "zh_trans": "这条长长的人行道应该会把我们带到Prey广场的侧门",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold this wide walkway! The door will open soon",
+    "en_trans": "",
+    "zh_trans": "守住这条宽人行道！门很快打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The gate should open soon!",
+    "en_trans": "",
+    "zh_trans": "大门很快打开！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The Bar should open shortly, resist!",
+    "en_trans": "",
+    "zh_trans": "酒吧应该很快打开，坚持住！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "We have to hold both entrances to the bar! We cannot let them it at any cost!",
+    "en_trans": "",
+    "zh_trans": "我们必须守住酒吧的两个入口！我们必须不惜一切代价守住这两个入口！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Back room is opening soon",
+    "en_trans": "",
+    "zh_trans": "后面的房间很快打开！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The bar's exit hatch should be opening shortly, this should lead us to the upper walkway!",
+    "en_trans": "",
+    "zh_trans": "酒吧的出口应该很快打开。这应该会让我们抵达更高的走廊！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Be careful about these side-doors, they look like shortcuts!",
+    "en_trans": "",
+    "zh_trans": "小心这些侧门，他们似乎是僵尸侧路",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A-ha! This vent! It should take us back outside",
+    "en_trans": "",
+    "zh_trans": "啊哈！这个通风管道，会把我们带到外边！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The upper walkway door should open soon",
+    "en_trans": "",
+    "zh_trans": "上层走廊的门很快打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Watch out the for that vent! It's looking a bit suspicious",
+    "en_trans": "",
+    "zh_trans": "小心那个通风口，看上去非常可疑……",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The second upper walkway door should open soon",
+    "en_trans": "",
+    "zh_trans": "第二个上层走廊的大门很快打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The door should open shortly, this should take to the Apartment Complex",
+    "en_trans": "",
+    "zh_trans": "这扇门很快打开，这应该会把我们带到Complex公寓",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The Apartment Complex should be ahead, past this maintenance corridor!",
+    "en_trans": "",
+    "zh_trans": "公寓楼就在前面，穿过这条维修走廊！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The elevator has been called, it should arrive shortly",
+    "en_trans": "",
+    "zh_trans": "电梯已经呼叫，应该很快抵达",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "This... isn't the correct floor?",
+    "en_trans": "",
+    "zh_trans": "啊这……楼层不对吗？",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "WATCH OUT! HOLD THE ELEVATOR!",
+    "en_trans": "",
+    "zh_trans": "小心！！！守住电梯！！！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "This floor is the right floor, but be careful of more zombies from the same side!",
+    "en_trans": "",
+    "zh_trans": "这一层才是正确的楼层，但是小心更多僵尸从同一面袭来！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The doors behind us are opening! Get out quickly!",
+    "en_trans": "",
+    "zh_trans": "我们后面的门正在打开！快出去！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "We need to enter this apartment to reach the rooftop outside",
+    "en_trans": "",
+    "zh_trans": "我们需要进入这个公寓才能抵达外边的屋顶",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Hold this room! This should lead us directly into the Industrial Sector",
+    "en_trans": "",
+    "zh_trans": "守住这个房间！这应该会把我们带到工业区",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "We have no time to visit the lab, but we can use these corridors to reach the Industrial Sector",
+    "en_trans": "",
+    "zh_trans": "我们没有时间去探访实验室了，但是我们可以利用这些走廊抵达工业区",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Crossing this walkway should help us, resist until the door opens!",
+    "en_trans": "",
+    "zh_trans": "穿过这条人行道可以帮助我们，守到门开！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Keep holding them off! We're nearly at our destination",
+    "en_trans": "",
+    "zh_trans": "继续拖住他们！！我们距离目的地已经很近了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "These doors will take a long time to open, hold 'em off!",
+    "en_trans": "",
+    "zh_trans": "这些门可能需要点时间来打开，拖住他们！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "A skilled hacker may be able to reduce the timer using that console!",
+    "en_trans": "",
+    "zh_trans": "熟练的黑客或许能黑入终端让门开得更早些",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TIME REDUCED BY 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 时间缩减了十五秒 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The glass doors will open soon! Be careful of those big metal doors!",
+    "en_trans": "",
+    "zh_trans": "这扇玻璃门很快打开！小心那些金属大门！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Destroy the generator! It's hooked up to that locked glass door!",
+    "en_trans": "",
+    "zh_trans": "摧毁发电机！这和那扇锁住的玻璃门有关系！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Generator has exploded! The doors should open soon",
+    "en_trans": "",
+    "zh_trans": "发电机已经被破坏！门很快打开！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "We are nearly at the Railway Control Room, keep it up!",
+    "en_trans": "",
+    "zh_trans": "我们已经靠近铁路控制中心，坚持住！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Maintenance corridoors should lead us to the control room!",
+    "en_trans": "",
+    "zh_trans": "维修走廊可以带我们到控制室！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The control room! We need to hack the console to call the train! Defend the hacker!",
+    "en_trans": "",
+    "zh_trans": "控制室！我们需要黑入终端来呼叫火车！保护黑客！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The last door before the tracks should open very soon! HOLD IT!",
+    "en_trans": "",
+    "zh_trans": "轨道前的最后一扇门很快打开，守住！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The trains are leaving for the Upper-Echelon District! JUMP ON!!!",
+    "en_trans": "",
+    "zh_trans": "火车正在离开Upper-Echelon区！跳到火车上！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "TO BE CONTINUED IN PART 2",
+    "en_trans": "",
+    "zh_trans": "后续将在第2部",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  }
+]

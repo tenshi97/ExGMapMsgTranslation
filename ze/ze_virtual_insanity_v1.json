@@ -1,0 +1,47 @@
+[
+  {
+    "original": "***DOOR OPENING IN 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "*** 大门将在20秒后开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***DOOR OPENING IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "*** 大门将在10秒后开启 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***AFK TP IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***挂机玩家将在10秒后传送 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***GATE CLOSING IN 30 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "***大门在30秒后关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "test",
+    "en_trans": "",
+    "zh_trans": "cs2移植当前为测试版本",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

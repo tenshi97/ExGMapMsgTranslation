@@ -1,0 +1,974 @@
+[
+  {
+    "original": "Welcome on Objective NPST",
+    "en_trans": "",
+    "zh_trans": "欢迎来到行动代号: NPST",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Good Luck !",
+    "en_trans": "",
+    "zh_trans": "祝你们好运",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The door has opened>>>",
+    "en_trans": "",
+    "zh_trans": "<<<门已经开了>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The yellow door leading to the HUB will open soon>>>",
+    "en_trans": "",
+    "zh_trans": "<<<通往枢纽区域的黄门很快打开>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The yellow door Area 9 will open in 10 seconds>>>",
+    "en_trans": "",
+    "zh_trans": "<<<连通第九区的黄门 10 秒后打开>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<Get out of here !!!>>>",
+    "en_trans": "",
+    "zh_trans": "<<<快出去 !!!>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Objective NPST",
+    "en_trans": "",
+    "zh_trans": "行动代号: NPST",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "DOOR OPEN <<< 30 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 30 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 25 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 25 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 20 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 20 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 15 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 15 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 10 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 10 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 05 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 05 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 04 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 04 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 03 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 03 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 02 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 02 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 01 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 01 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN <<< 00 >>>",
+    "en_trans": "",
+    "zh_trans": "门将在 <<< 00 >>> 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The door is opening get inside !>>>",
+    "en_trans": "",
+    "zh_trans": "<<<门开了! 快进去!>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The blue door opened !",
+    "en_trans": "",
+    "zh_trans": "蓝门开了!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The elevator will open in 5 seconds",
+    "en_trans": "",
+    "zh_trans": "电梯 5 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "ELEVATOR HAS OPENED",
+    "en_trans": "",
+    "zh_trans": "电梯已开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Find a way to disable the electricity",
+    "en_trans": "",
+    "zh_trans": "想办法切断电源",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The electricity should be cut off in a few seconds>>>",
+    "en_trans": "",
+    "zh_trans": "<<<电源将在几秒后切断>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<Electricity is OFF>>>",
+    "en_trans": "",
+    "zh_trans": "<<<已切断电源>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Lasers are blocking the way",
+    "en_trans": "",
+    "zh_trans": "激光挡住了我们的去路",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "DON'T TOUCH THE LASERS",
+    "en_trans": "",
+    "zh_trans": "别碰这些激光",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Laser OFF",
+    "en_trans": "",
+    "zh_trans": "激光已关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "EXPLODE <<< 30 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 30 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 25 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 25 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 20 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 20 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 15 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 15 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 10 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 10 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 05 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 05 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 04 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 04 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 03 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 03 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 02 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 02 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "EXPLODE <<< 01 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 01 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "The ceiling has exploded you can climb the ladder now",
+    "en_trans": "",
+    "zh_trans": "天花板已经炸开了，现在爬梯子进通风管道",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "EXPLODE <<< 00 >>>",
+    "en_trans": "",
+    "zh_trans": " <<< 00 >>> 秒后爆炸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Saw is cutting door now",
+    "en_trans": "",
+    "zh_trans": "正在把这门给锯开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Door is open",
+    "en_trans": "",
+    "zh_trans": "门开了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Prepare to leave !",
+    "en_trans": "",
+    "zh_trans": "准备撤退!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The door will open in 10 seconds",
+    "en_trans": "",
+    "zh_trans": "门在 10 秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "The door opened !",
+    "en_trans": "",
+    "zh_trans": "门开了!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The door opened",
+    "en_trans": "",
+    "zh_trans": "门开了!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "RUN",
+    "en_trans": "",
+    "zh_trans": "撤退!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The door leading to the elevator are open!>>>",
+    "en_trans": "",
+    "zh_trans": "<<<去往电梯的门开了!>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<Quickly climb the ladder or the zombies will slap your ass !>>>",
+    "en_trans": "",
+    "zh_trans": "<<<快爬上梯子! 要不然僵尸就要追尾了!>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<Advance before it closes !>>>",
+    "en_trans": "",
+    "zh_trans": "<<<在门关闭前进来 !>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "JUMP BELOW",
+    "en_trans": "",
+    "zh_trans": "跳下去",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FENCE OPEN <<< 25 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 25 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 20 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 20 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 15 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 15 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 10 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 10 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 05 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 05 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 04 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 04 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 03 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 03 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 02 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 02 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "FENCE OPEN <<< 01 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 01 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<The fence has broken>>>",
+    "en_trans": "",
+    "zh_trans": "<<<栅栏已破坏>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FENCE OPEN <<< 00 >>>",
+    "en_trans": "",
+    "zh_trans": "栅栏<<< 00 >>>秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The fire is blocking the way",
+    "en_trans": "",
+    "zh_trans": "火焰挡住了我们的去路",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The fire will burn out in a few seconds",
+    "en_trans": "",
+    "zh_trans": "火焰将在一段时间后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FIRE OFF <<< 30 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 30 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 25 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 25 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 20 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 20 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 15 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 15 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 10 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 10 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 05 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 05 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 04 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 04 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 03 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 03 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 02 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 02 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "RUNNNNN !!!!",
+    "en_trans": "",
+    "zh_trans": "快撤退!!!!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "FIRE OFF <<< 01 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 01 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "FIRE OFF <<< 00 >>>",
+    "en_trans": "",
+    "zh_trans": "火焰将在 <<< 00 >>> 秒后熄灭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Climb up the ladder",
+    "en_trans": "",
+    "zh_trans": "爬上梯子",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<Call the elevator>>>",
+    "en_trans": "",
+    "zh_trans": "<<<呼叫电梯>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Elevator door opened",
+    "en_trans": "",
+    "zh_trans": "电梯门开了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "They are coming",
+    "en_trans": "",
+    "zh_trans": "来了... 它们来了...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Get inside the elevator in 10 seconds",
+    "en_trans": "",
+    "zh_trans": "10 秒内进入电梯",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<The door is going to open>>>",
+    "en_trans": "",
+    "zh_trans": "<<<门很快开启>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<Prepare to shoot>>>",
+    "en_trans": "",
+    "zh_trans": "<<<准备射击>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "THE DOOR OPENED RIGHT SIDE",
+    "en_trans": "",
+    "zh_trans": "右边的门开了!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Get inside before the door is closed !!",
+    "en_trans": "",
+    "zh_trans": "在门关闭前进来!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Look ! There is a way out in the middle of the room",
+    "en_trans": "",
+    "zh_trans": "看! 房间的中间有一条出口",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The door is opening",
+    "en_trans": "",
+    "zh_trans": "门正在开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The steam will be cut off in a few seconds",
+    "en_trans": "",
+    "zh_trans": "蒸汽将在几秒后后关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<We are not giving thanks to Waffel for hepling>>>",
+    "en_trans": "",
+    "zh_trans": "<<<我们还没感谢Waffel提供的帮助>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The steam went off !",
+    "en_trans": "",
+    "zh_trans": "蒸汽已经关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "GET BACK",
+    "en_trans": "",
+    "zh_trans": "撤退",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<The water level is increasing>>>",
+    "en_trans": "",
+    "zh_trans": "<<<水位正在上涨>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Jump into the water below",
+    "en_trans": "",
+    "zh_trans": "跳进水里",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "You have to get on the bridge again",
+    "en_trans": "",
+    "zh_trans": "你们必须再次上桥",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombies are coming!",
+    "en_trans": "",
+    "zh_trans": "僵尸要袭来了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<Prepare for the Battle of Your Life>>>",
+    "en_trans": "",
+    "zh_trans": "<<<准备好，背水一战>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<They are coming...>>>",
+    "en_trans": "",
+    "zh_trans": "<<<它们来了...>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "DOOR HAS OPENED",
+    "en_trans": "",
+    "zh_trans": "门开了",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<DOOR IS OPEN>>>",
+    "en_trans": "",
+    "zh_trans": "<<<门开了>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "GET INSIDE THE SAFE ZONE",
+    "en_trans": "",
+    "zh_trans": "快进到安全区内",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<It's not finished>>>",
+    "en_trans": "",
+    "zh_trans": "<<<未完待续>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<<5>>>",
+    "en_trans": "",
+    "zh_trans": "<<<5>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<4>>>",
+    "en_trans": "",
+    "zh_trans": "<<<4>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<3>>>",
+    "en_trans": "",
+    "zh_trans": "<<<3>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<2>>>",
+    "en_trans": "",
+    "zh_trans": "<<<2>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<1>>>",
+    "en_trans": "",
+    "zh_trans": "<<<1>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<GO GO GOOOO>>>",
+    "en_trans": "",
+    "zh_trans": "<<<GO GO GOOOO>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Map made by Trazix",
+    "en_trans": "",
+    "zh_trans": "地图制作: Trazix && 移植：小夜音",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

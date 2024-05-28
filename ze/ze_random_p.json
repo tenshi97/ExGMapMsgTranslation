@@ -1,0 +1,911 @@
+[
+  {
+    "original": "***Map by SonicTheHitManHog/RelaxingWalls***",
+    "en_trans": "",
+    "zh_trans": "***地图制作： SonicTheHitManHog/RelaxingWalls***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL -- BOX WITH A LIGHT IN IT***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 带有灯光的箱子***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***",
+    "en_trans": "",
+    "zh_trans": "***等待僵尸出现，直到你被传送至9张地图中的其中1张***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleporting in 20secs!***",
+    "en_trans": "",
+    "zh_trans": "***20秒后传送***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***3***",
+    "en_trans": "",
+    "zh_trans": "***3***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "***2***",
+    "en_trans": "",
+    "zh_trans": "***2***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "***1***",
+    "en_trans": "",
+    "zh_trans": "***1***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Good Luck!!***",
+    "en_trans": "",
+    "zh_trans": "***祝你好运***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL -- ICE CAP ESCAPE***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 冰盖逃脱***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Everyone HOLD the boxes while someone starts up the teleporter!***",
+    "en_trans": "",
+    "zh_trans": "***所有人守住箱子！直到有人触发传送器***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL -- ZOMBIE DEATHRUN***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 死亡跑酷***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Shoot wisely!***",
+    "en_trans": "",
+    "zh_trans": "***打的好！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombies try to trap the CTs!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸试图困住人类***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CTs have 120secs to escape as the temple's curse spreads!***",
+    "en_trans": "",
+    "zh_trans": "***神庙的诅咒正在蔓延！人类还有120秒的时间逃跑！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "***The curse has reached spawn!***",
+    "en_trans": "",
+    "zh_trans": "***诅咒已蔓延至出生点***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Good things come to those who wait...***",
+    "en_trans": "",
+    "zh_trans": "***好事总会降临到耐心等待的人身上...***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Did someone see an awp?***",
+    "en_trans": "",
+    "zh_trans": "***有人看到大狙了吗?***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleporter will be fully charged in 20secs!***",
+    "en_trans": "",
+    "zh_trans": "***传送器将在20秒后充满电!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Don't Delay!***",
+    "en_trans": "",
+    "zh_trans": "***别晚了!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleporter ERROR!***",
+    "en_trans": "",
+    "zh_trans": "***传送器错误！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Escape Boat leaving in 35secs!***",
+    "en_trans": "",
+    "zh_trans": "***逃生船将在35秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "***HOLD THE CRATES!***",
+    "en_trans": "",
+    "zh_trans": "***守住这些箱子!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Escape Boat engine failure!***",
+    "en_trans": "",
+    "zh_trans": "***逃生船引擎启动失败!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***...Take the Wash Bucket...?***",
+    "en_trans": "",
+    "zh_trans": "***...额……坐澡盆...?***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleporting to next map!***",
+    "en_trans": "",
+    "zh_trans": "***正在传送至下一张地图!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL -- FAIL NADES***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 失败的手雷***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombie will arrive in 10secs!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸10秒后抵达!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!***",
+    "en_trans": "",
+    "zh_trans": "***分散至两侧或者集合在一侧！不要让僵尸前进！直到两边的阀门解锁！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Valves unlocked in 35secs!***",
+    "en_trans": "",
+    "zh_trans": "***阀门还有35秒解锁!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "***LEVEL -- OPEN FIELD***",
+    "en_trans": "",
+    "zh_trans": "***关卡L -- 开阔地***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Survive for 90secs***",
+    "en_trans": "",
+    "zh_trans": "***生存90秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Beware K.'s SlenderMan!***",
+    "en_trans": "",
+    "zh_trans": "***小心K先生的细狗***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Survive for 15secs***",
+    "en_trans": "",
+    "zh_trans": "***生存15秒***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***LEVEL -- CARPET ESCAPE***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 飞毯逃亡***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Take the Carpet and make your way to the escape door!***",
+    "en_trans": "",
+    "zh_trans": "***乘上飞毯，朝着逃生门前进***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Carpet leaving in 3secs!***",
+    "en_trans": "",
+    "zh_trans": "***飞毯3秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Door breaking in 10secs!***",
+    "en_trans": "",
+    "zh_trans": "***门在10秒后开启!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Hurry through the warehouse while the carpet passes under!***",
+    "en_trans": "",
+    "zh_trans": "***快点穿过这个仓库! 要不然就上不了飞毯了***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Shoot the Block!***",
+    "en_trans": "",
+    "zh_trans": "***射击路障!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***C4 set to go off in 25secs!***",
+    "en_trans": "",
+    "zh_trans": "***炸弹还有25秒引爆!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Defend for 35secs as the Carpet...refuels...?***",
+    "en_trans": "",
+    "zh_trans": "***防守飞毯35秒...加油...?***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Carpet leaves in 5secs!***",
+    "en_trans": "",
+    "zh_trans": "***飞毯5秒后离开！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CTs have 15secs to escape!***",
+    "en_trans": "",
+    "zh_trans": "***人类还有15秒逃离!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Wait here till everyone else makes it!***",
+    "en_trans": "",
+    "zh_trans": "***在这里等一会，直到全部人逃离***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***The curse has reached the dual arch!***",
+    "en_trans": "",
+    "zh_trans": "***诅咒已经蔓延到双拱门了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Teleporting to FINAL MAP!***",
+    "en_trans": "",
+    "zh_trans": "***正在传送至最后一张地图!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***FINAL LEVEL -- ZOMBIE MURDER****",
+    "en_trans": "",
+    "zh_trans": "***最终关卡 -- 僵尸杀手****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombies will arrive soon!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸很快抵达!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hold the sign for 20secs!***",
+    "en_trans": "",
+    "zh_trans": "***守住标志20秒!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***The curse has reached Mona's Hallway!***",
+    "en_trans": "",
+    "zh_trans": "***诅咒已蔓延至莫娜门厅!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***FINAL BOSS INCOMING!***",
+    "en_trans": "",
+    "zh_trans": "***最终Boss降临!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***ZOMBIE is about to collapse! GET OFF!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸快要失败了！快下来！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL-- CITY NIGHT ESCAPE***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 夜城逃亡***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Elevator 1 coming in 10secs!***",
+    "en_trans": "",
+    "zh_trans": "***一号电梯10秒后抵达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Elevator 1 leaving in 5secs!***",
+    "en_trans": "",
+    "zh_trans": "***一号电梯5秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Power lost. Shoot the doors!***",
+    "en_trans": "",
+    "zh_trans": "***没电了！射击大门！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hold until the escape helicopter comes in pick you up!***",
+    "en_trans": "",
+    "zh_trans": "***守住! 直到直升机来接你们走***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Fall Back Balcony open!***",
+    "en_trans": "",
+    "zh_trans": "***撤退！阳台开了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Helicopter coming in 5secs!***",
+    "en_trans": "",
+    "zh_trans": "***直升机还有5秒钟抵达！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***4***",
+    "en_trans": "",
+    "zh_trans": "***4***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "***OH SH--!!***",
+    "en_trans": "",
+    "zh_trans": "***草--!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Hold W to go faster and S to slow down!***",
+    "en_trans": "",
+    "zh_trans": "***按W加速，按S减速!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Jump and be careful not to hit to many stoppers!***",
+    "en_trans": "",
+    "zh_trans": "***跳跃时要小心! 不要碰到挡板！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL -- INTERSTELLAR ESCAPE 9***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 星穹铁道***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Make your way from train to train until you reach the Black Express!***",
+    "en_trans": "",
+    "zh_trans": "***在火车之间穿梭! 直到你找到黑色特快列车***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Cargo door opening in 15secs!***",
+    "en_trans": "",
+    "zh_trans": "***货仓门15秒后开启!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Emergency doors closing in 10secs!***",
+    "en_trans": "",
+    "zh_trans": "***应急门在10秒后关闭***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Boxcar door opening in 10secs!***",
+    "en_trans": "",
+    "zh_trans": "***棚车门10秒后开启！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Final express door opening in 25secs!***",
+    "en_trans": "",
+    "zh_trans": "***特快列车车门25秒后开启!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Final express door open!***",
+    "en_trans": "",
+    "zh_trans": "***特快列车车门已开启！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***JUMP OFF!***",
+    "en_trans": "",
+    "zh_trans": "***跳下去！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Shoot it before your knocked off!!***",
+    "en_trans": "",
+    "zh_trans": "***射他！！！不要被它打败！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Final attack will be charged in 60secs!!***",
+    "en_trans": "",
+    "zh_trans": "***最后一击将在60秒后充能完毕！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Watch out for...barrel...attacks...?***",
+    "en_trans": "",
+    "zh_trans": "***小心！额...油桶...的攻击...?***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Final attack charged!!***",
+    "en_trans": "",
+    "zh_trans": "***最后一击充能完毕!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***TEXT ATTACK FIRED!!***",
+    "en_trans": "",
+    "zh_trans": "***弹幕攻击，发射!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***BACKSPACE!!!***",
+    "en_trans": "",
+    "zh_trans": "***撤退!!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CONGRATULATIONS -- ...Wait...F---!!***",
+    "en_trans": "",
+    "zh_trans": "***恭喜通关 -- ...等会...我草他妈的!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***",
+    "en_trans": "",
+    "zh_trans": "***阀门被卡住了！把两个阀门给打烂掉！我们只有20秒时间***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***If one side overrun start chucking nades over to break the valve!***",
+    "en_trans": "",
+    "zh_trans": "***如果另一侧被僵尸占领，扔手雷破坏阀门！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***LEVEL -- CLASSIC***",
+    "en_trans": "",
+    "zh_trans": "***难度 -- 经典***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombie will arrive in 20secs!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸20秒后抵达***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Survive for 75secs!***",
+    "en_trans": "",
+    "zh_trans": "***生存75秒!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 75,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Survive for 15secs!***",
+    "en_trans": "",
+    "zh_trans": "***生存15秒!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***LEVEL -- COUCH ESCAPE***",
+    "en_trans": "",
+    "zh_trans": "***关卡 -- 推沙发***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***",
+    "en_trans": "",
+    "zh_trans": "***180秒内，将沙发推到标记的箱子处，然后破坏障碍物，顺着逃生通道离开！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 180,
+    "enable_timer": 1
+  },
+  {
+    "original": "***If the world is going to end at least you'll have a warm seat!***",
+    "en_trans": "",
+    "zh_trans": "***如果世界末日来临，起码你还有一个舒服的座位!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombie barrier breaking in 20secs get moving!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸障碍20秒后移除! 快走！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Hold these crates while someone breaks the barrier and gets the couch going!***",
+    "en_trans": "",
+    "zh_trans": "***守住这些箱子！直到有人破坏障碍物并把沙发推到指定位置***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Barrier breaking in 5secs!***",
+    "en_trans": "",
+    "zh_trans": "***障碍5秒后清除***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "***The Boss has been weakened But it will recover in 60secs and use its final attack!***",
+    "en_trans": "",
+    "zh_trans": "**Boss现在处于虚弱状态！60秒后解除虚弱并发动最后一击***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "***CT's will have to jump off and activate the switches!***",
+    "en_trans": "",
+    "zh_trans": "***人类应该跳下去并去激活开关！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***",
+    "en_trans": "",
+    "zh_trans": "***打开所有4个开关以完成关卡，然后激活宝珠传送！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Switch 1 Unlocked!***",
+    "en_trans": "",
+    "zh_trans": "***一号开关已解锁!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Switch Activated!***",
+    "en_trans": "",
+    "zh_trans": "***开关已激活！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***HURRY UP!!!***",
+    "en_trans": "",
+    "zh_trans": "***搞快点!!!***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***Zombie drain open!***",
+    "en_trans": "",
+    "zh_trans": "***僵尸侧路打开！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***All Switches ON!!***",
+    "en_trans": "",
+    "zh_trans": "***所有开关打开！！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***PORTAL COLLAPSING IN 10secs!! ***",
+    "en_trans": "",
+    "zh_trans": "*** 传送门将在 10 秒后崩塌！！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***JUMP INTO THE ORB!!***",
+    "en_trans": "",
+    "zh_trans": "***跳进球体！！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***",
+    "en_trans": "",
+    "zh_trans": "***恭喜 -- 感谢您的游玩！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

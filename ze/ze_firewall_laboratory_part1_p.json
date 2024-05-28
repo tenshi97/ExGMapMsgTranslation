@@ -1,0 +1,308 @@
+[
+  {
+    "original": "Map by FW -=LightningZLaser=-",
+    "en_trans": "",
+    "zh_trans": "地图制作 FW -=LightningZLaser=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "www.FireWaLLCS.net/forums",
+    "en_trans": "",
+    "zh_trans": "www.FireWaLLCS.net/forums",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Door opening in 15 seconds...",
+    "en_trans": "",
+    "zh_trans": "门在15秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Door opening in 5 seconds...",
+    "en_trans": "",
+    "zh_trans": "门在5秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gate opening in 15 seconds...",
+    "en_trans": "",
+    "zh_trans": "门在15秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gate opening in 5 seconds...",
+    "en_trans": "",
+    "zh_trans": "门在5秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombies detected! Gate will re-open in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "检测到僵尸！大门将在5秒后重新开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Doors to Test Laboratory G opening in 15 seconds.",
+    "en_trans": "",
+    "zh_trans": "前往G测试实验室的门15秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "Doors to Test Laboratory G opening in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "前往G测试实验室的门5秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Doors to Test Laboratory G has opened!",
+    "en_trans": "",
+    "zh_trans": "前往G测试实验室的门已开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Panel Walk has been activated. Doors will open in 20 seconds.",
+    "en_trans": "",
+    "zh_trans": "平面走道已激活。门在20秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Doors opening in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "门在10秒后开启",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombies are blocked for 10 seconds!",
+    "en_trans": "",
+    "zh_trans": "僵尸被阻挡10秒钟",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Panel Walk retracting...",
+    "en_trans": "",
+    "zh_trans": "平面走道正在收起",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[TIP] Use your head to go across the Headclimber!",
+    "en_trans": "",
+    "zh_trans": "[提示] 你可以跳起来，从侧边爬上这些钢管!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Panels retracting in 7 seconds.",
+    "en_trans": "",
+    "zh_trans": "平面走道7秒后收起",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!",
+    "en_trans": "",
+    "zh_trans": "[提示] 人类有特殊实验服，穿过这些风扇的时候可以不减速",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Cable Car leaving in 5 seconds!",
+    "en_trans": "",
+    "zh_trans": "缆车5秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Activate the self-destruction sequence in the emergency room!",
+    "en_trans": "",
+    "zh_trans": "在紧急房间启动自毁程序！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "WARNING! Facility emergency self-destruction sequence activated.",
+    "en_trans": "",
+    "zh_trans": "警告！设施紧急自毁程序已启动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "===100 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：100秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": "===90 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：90秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "===80 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：80秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 80,
+    "enable_timer": 1
+  },
+  {
+    "original": "===70 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：70秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 70,
+    "enable_timer": 1
+  },
+  {
+    "original": "===60 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：60秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "Heaven Teleporter generators initiating...",
+    "en_trans": "",
+    "zh_trans": "天堂传送器初始化中……",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Notice! <Insert Player Name Here> is going to heaven!",
+    "en_trans": "",
+    "zh_trans": "注意！ 某人要去天堂了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "===50 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：50秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "===40 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "===摧毁倒计时：40秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "WARNING===30 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "警告 === 摧毁倒计时：30秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "WARNING===20 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "警告 === 摧毁倒计时：20秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "WARNING===10 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "警告 === 摧毁倒计时：10秒===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "WARNING- BLAST DOORS CLOSING",
+    "en_trans": "",
+    "zh_trans": "警告 - 防爆门正在关闭",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "EMERGENCY WARNING===5 seconds remaining to detonation===",
+    "en_trans": "",
+    "zh_trans": "紧急警告 === 摧毁倒计时：5秒 ===",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  }
+]

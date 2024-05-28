@@ -1,0 +1,632 @@
+[
+  {
+    "original": ">>> WARMUP ROUND <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 热身回 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>*** MAP BY STK ***<<",
+    "en_trans": "",
+    "zh_trans": ">>*** 地图制作 STK ***<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> STAGE 1 <<",
+    "en_trans": "",
+    "zh_trans": ">> 第一关 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has picked up Fire Staff **",
+    "en_trans": "",
+    "zh_trans": "** 一位玩家捡起了 火 神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has picked up Heal Staff **",
+    "en_trans": "",
+    "zh_trans": "** 一位玩家捡起了 治疗 神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The doors will open in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 门在20秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A player has picked up Quicksand Staff **",
+    "en_trans": "",
+    "zh_trans": "** 一位玩家捡起了 流沙 神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has picked up Tornado Staff **",
+    "en_trans": "",
+    "zh_trans": "** 一位玩家捡起了 风 神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 5 seconds left **",
+    "en_trans": "",
+    "zh_trans": "** 还剩5秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** FALL BACK **",
+    "en_trans": "",
+    "zh_trans": "** 撤退 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has picked up Earth Staff **",
+    "en_trans": "",
+    "zh_trans": "** 一位玩家捡起了 土 神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The doors will open in 25 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 门在25秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The door will open in 30 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 门在30秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The doors will open in 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 门在15秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Bomb explodes in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 炸弹20秒后爆炸 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold zombies for 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 拖住僵尸15秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** YOU WON STAGE 1 ***",
+    "en_trans": "",
+    "zh_trans": "*** 第一关完成 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> STAGE 2 <<",
+    "en_trans": "",
+    "zh_trans": ">> 第二关 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has picked up SandStorm Staff **",
+    "en_trans": "",
+    "zh_trans": "** 一位玩家捡起了 沙暴 神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Teleport will open in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 传送20秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 5 seconds left. **",
+    "en_trans": "",
+    "zh_trans": "** 还剩5秒. **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Kill him or he kills you!!! **",
+    "en_trans": "",
+    "zh_trans": "**杀了他！要不然他就把你杀了！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Grenades do more damage. ***",
+    "en_trans": "",
+    "zh_trans": "*** 手雷能造成更多伤害 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** He's dead. Run. ***",
+    "en_trans": "",
+    "zh_trans": "*** 他死了，撤退！ ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The doors will open on 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 门在15秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Press on the 4 obelisks to open the door **",
+    "en_trans": "",
+    "zh_trans": "** 激活4个方尖碑以开门 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The doors will open in 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 门在10秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Elevator leaves in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 电梯20秒后离开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** YOU WON STAGE 2 **",
+    "en_trans": "",
+    "zh_trans": "** 第二关完成**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> STAGE 3 <<",
+    "en_trans": "",
+    "zh_trans": ">> 第三关 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Hold for 20 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 坚持20秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Teleport will open in 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 传送15秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold Zombies for 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 拖住僵尸10秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** YOU WON STAGE 3 **",
+    "en_trans": "",
+    "zh_trans": "** 第三关完成 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> STAGE 4 <<",
+    "en_trans": "",
+    "zh_trans": ">> 第四关 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Meteorite arrives in 17 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 陨石17秒后抵达 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 17,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Grenades do more damage. (8 SECONDS)***",
+    "en_trans": "",
+    "zh_trans": "*** 手雷能造成更多伤害 (8 秒)***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** YOU WON STAGE 4 ***",
+    "en_trans": "",
+    "zh_trans": "*** 第四关完成 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Run into the center and break the crystal!!! **",
+    "en_trans": "",
+    "zh_trans": "** 跑到中间并破坏水晶！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> STAGE 5 <<",
+    "en_trans": "",
+    "zh_trans": ">> 第五关 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 10 seconds left **",
+    "en_trans": "",
+    "zh_trans": "** 还剩10秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Teleport will open in 20 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 传送20秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Teleport will open on 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 传送10秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Hold for 15 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 坚持15秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Grenades do more damage (4 SECONDS). ***",
+    "en_trans": "",
+    "zh_trans": "*** 手雷能造成更多伤害 (4 秒). ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Do not come to the edge of the platform! **",
+    "en_trans": "",
+    "zh_trans": "** 不要靠近平台边缘！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** AND NOW YOU WILL DIE! **",
+    "en_trans": "",
+    "zh_trans": "** 否则，你会死！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Hold for 10 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 坚持10秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** YOU WON STAGE 5 ***",
+    "en_trans": "",
+    "zh_trans": "*** 第五关完成 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Humans have become immortal!!! **",
+    "en_trans": "",
+    "zh_trans": "** 人类现在无敌了！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Zombies have 1 HP! **",
+    "en_trans": "",
+    "zh_trans": "** 僵尸现在仅有1血！ **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Victory in 230 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 230秒（3分50秒）后胜利. **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> ZM ROUND <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸感染回合 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Victory in 200 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 200秒（3分20秒）后胜利 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Victory in 150 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 150秒（2分30秒）后胜利 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Kill the remaining zombies! **",
+    "en_trans": "",
+    "zh_trans": "** 杀掉剩余的僵尸！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Victory in 100 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 100秒后核爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Victory in 50 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 50秒后核爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Victory in 10 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 10秒后核爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> VICTORY <<",
+    "en_trans": "",
+    "zh_trans": ">> 胜利 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>*** THANKS FOR PLAYING! ***<<",
+    "en_trans": "",
+    "zh_trans": ">>*** 感谢游玩！***<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|||||YOU LOSE|||||",
+    "en_trans": "",
+    "zh_trans": "||||| 你输了 |||||",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<",
+    "en_trans": "",
+    "zh_trans": ">>*** 关卡选择时间！***<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": ">| 调关房 |< 关卡五已被选择。5秒后核爆",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": ">| 调关房 |< 关卡四已被选择。5秒后核爆",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Lua scripts not loaded ***",
+    "en_trans": "",
+    "zh_trans": "*** Lua脚本未加载 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Bosses is disabled! ***",
+    "en_trans": "",
+    "zh_trans": "*** BOSS已禁用！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": ">| 调关房 |< ZM关卡已被选择。5秒后核爆",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": ">| 调关房 |< 关卡一已被选择。5秒后核爆",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": ">| 调关房 |< 关卡2已被选择。5秒后核爆",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]

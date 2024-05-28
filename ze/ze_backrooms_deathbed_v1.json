@@ -1,0 +1,560 @@
+[
+  {
+    "original": "> Backrooms Deathbed < ver 1.3",
+    "en_trans": "",
+    "zh_trans": "> 后室：死眠 < ver 1.3",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> Map by @Seth <",
+    "en_trans": "",
+    "zh_trans": "> 地图制作 @Seth <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> Warning <<",
+    "en_trans": "",
+    "zh_trans": ">> 警告 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> Platform starts in 5 sec. <",
+    "en_trans": "",
+    "zh_trans": "> 平台将在五秒后启动 <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> This map contain Jumpscare Sence!(When die) <<",
+    "en_trans": "",
+    "zh_trans": ">> 警告:本地图包含跳吓元素(死亡时) <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> 警告:本地图包含跳杀元素(死亡时) <<",
+    "en_trans": "",
+    "zh_trans": ">> 警告:本地图包含跳吓元素(死亡时) <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Speaker|: Portal is ready.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 传送门已就绪",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Speaker|: Bring up the equipment you need.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 带上你需要的设备",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">Tactical Flashlight< Press E to use,It could stop Smiler's movement.",
+    "en_trans": "",
+    "zh_trans": ">战术手电筒< 按E使用，可以阻挡笑魇的行动",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Speaker|: and check the information of this Level before you enter.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 并在进入前检查该层级的信息",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Speaker|: Operation begin in 10 sec.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 行动将在10秒后开始",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "|Speaker|: Stay safe.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 注意安全",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">a flashlight run out of power,Must fully charge to usee it again.<",
+    "en_trans": "",
+    "zh_trans": ">手电筒没电了，必须充满电才能再次使用<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 15 >",
+    "en_trans": "",
+    "zh_trans": "< 15 > 秒后障碍物清除",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "ZM TP < 10 >",
+    "en_trans": "",
+    "zh_trans": "僵尸在 < 10 > 秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Left Side < 25 >",
+    "en_trans": "",
+    "zh_trans": "左边将在 < 25 > 秒开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "Right Side < 15 >",
+    "en_trans": "",
+    "zh_trans": "右边将在 < 15 > 秒开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">A barrier has shattered.<",
+    "en_trans": "",
+    "zh_trans": ">一道障碍已打破<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> Something wicked has coming to you... <",
+    "en_trans": "",
+    "zh_trans": "> 一些邪恶的实体正向你袭来... <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> Keep an eye on it,If you don't wanna die. <",
+    "en_trans": "",
+    "zh_trans": "> 不想死的话就紧盯着它！ <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Right Side < 20 >",
+    "en_trans": "",
+    "zh_trans": "右边将在 < 20 > 秒开放",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "< Wait for your Left Side team... >",
+    "en_trans": "",
+    "zh_trans": "< 等待你左侧的队友... >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< Wait for your Right Side team... >",
+    "en_trans": "",
+    "zh_trans": "< 等待你右侧的队友... >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< Both team arrive,Hold 20 sec. >",
+    "en_trans": "",
+    "zh_trans": "< 两队均已抵达，坚持20秒 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "ZM TP < 15 >",
+    "en_trans": "",
+    "zh_trans": "僵尸在 < 15 > 秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "< 25 >",
+    "en_trans": "",
+    "zh_trans": "< 25 > 秒后障碍物清除",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "ZM TP < 5 >",
+    "en_trans": "",
+    "zh_trans": "僵尸在 < 5 > 秒后传送",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[What was that on the wall?]",
+    "en_trans": "",
+    "zh_trans": "[墙上那是什么？]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Is that...Blood?...]",
+    "en_trans": "",
+    "zh_trans": "[那是……血？……]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[I got a bad feeling,Keep your eyes around here.]",
+    "en_trans": "",
+    "zh_trans": "[我有一种不好的预感，小心点]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Defend < 10 >",
+    "en_trans": "",
+    "zh_trans": "防守 < 10 > 秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[...Don't move.]",
+    "en_trans": "",
+    "zh_trans": "[...别动]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[..Stay still...]",
+    "en_trans": "",
+    "zh_trans": "[..呆在这...]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Oh fuxk,Something behind us!]",
+    "en_trans": "",
+    "zh_trans": "[我草, 有东西在我们后边!]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Run!Just follow the damn LIGHT!We got no where to hide now!]",
+    "en_trans": "",
+    "zh_trans": "[跑！跟着他妈的光源走！我们现在无处可藏！]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[This thing is too fast!Use your gun to shoot it.]",
+    "en_trans": "",
+    "zh_trans": "[这玩意跑得太快了！快用枪射它！]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Guns won't kill it,But will slow it down.]",
+    "en_trans": "",
+    "zh_trans": "[枪不能杀死它，但能延缓它的行动]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Hide,Don't let it find you...]",
+    "en_trans": "",
+    "zh_trans": "[躲起来，别让它发现你……]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 20 >",
+    "en_trans": "",
+    "zh_trans": "< 20 > 秒后障碍物清除",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "< 10 >",
+    "en_trans": "",
+    "zh_trans": "< 10 > 秒后障碍物清除",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "[Listen to the sound,And pick the right one.]",
+    "en_trans": "",
+    "zh_trans": "[认真听洞口的声音，并选择正确的一个]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[This is the only way.]",
+    "en_trans": "",
+    "zh_trans": "[这是唯一的办法]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Those houses...is fake,just model..]",
+    "en_trans": "",
+    "zh_trans": "[这些房子……都是假的，都是模型……]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[There has to be a real one,go find it.]",
+    "en_trans": "",
+    "zh_trans": "[这里有一个真正的房屋，去找到它]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 30 >",
+    "en_trans": "",
+    "zh_trans": "< 30 > 秒后障碍物清除",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[We found the real house.]",
+    "en_trans": "",
+    "zh_trans": "[我们找到真正的房屋了]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[Might take a while to open.]",
+    "en_trans": "",
+    "zh_trans": "[需要点时间来打开它]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer Voice?|: But YOU have to listen this,stranger!",
+    "en_trans": "",
+    "zh_trans": "|剥皮者的声音？|: 但你必须听我说，陌生人！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer Voice?|: RUN,RUN FOR YOUR LIFE!",
+    "en_trans": "",
+    "zh_trans": "|剥皮者的声音？|: 快跑，逃命去吧！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Speaker|: Welcome back.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 欢迎回来",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Speaker|: Glad you still alive.",
+    "en_trans": "",
+    "zh_trans": "|对讲机|: 很高兴你还活着",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "NIGHTMARE Mode Enable.",
+    "en_trans": "",
+    "zh_trans": "启用 \"噩梦模式！\"。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Congratulations,You beat the beta version.",
+    "en_trans": "",
+    "zh_trans": "恭喜你，您通关了测试版本。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "I will award you all play LEVEL! for 2 time. B)",
+    "en_trans": "",
+    "zh_trans": "我会奖励你们玩 2 次 \"LEVEL !\"小游戏",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "After this will starts the Nightmare Mode.",
+    "en_trans": "",
+    "zh_trans": "之后将启动\"噩梦模式\"。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer?|: This,is a gift.",
+    "en_trans": "",
+    "zh_trans": "|剥皮者？|: 这是一份礼物",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer?|: to our friendly guest.",
+    "en_trans": "",
+    "zh_trans": "|剥皮者？|: 给我们友好的客人.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer?|: Relax,and Let's witness...",
+    "en_trans": "",
+    "zh_trans": "|剥皮者？|: 放轻松，让我们一起见证...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer?|: Your own new Rebirth.",
+    "en_trans": "",
+    "zh_trans": "|剥皮者？|: 你的新生.",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|Skin Stealer Voice?|: I know i can't get though this now..",
+    "en_trans": "",
+    "zh_trans": "|剥皮者的声音？|: 我知道我现在不能通过这个......",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Admin has turn off Nightmare Mode.",
+    "en_trans": "",
+    "zh_trans": "管理员已关闭 噩梦模式",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Slay all..",
+    "en_trans": "",
+    "zh_trans": "全部消灭...",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]
