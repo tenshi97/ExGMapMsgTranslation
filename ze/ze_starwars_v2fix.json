@@ -119,7 +119,7 @@
   {
     "original": "AFK TELEPORT IN 5 SECOND",
     "en_trans": "",
-    "zh_trans": "挂机和没追上进度的玩家将于 5 秒后传送",
+    "zh_trans": "挂机的玩家将于 5 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -371,7 +371,7 @@
   {
     "original": "BOSS USE RAGE. BACK BACK BACK!!!!!!",
     "en_trans": "",
-    "zh_trans": "Boss使用了狂暴。快往后走!!!!!!",
+    "zh_trans": "Boss使用了终极。快贴身后的墙!!!!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "get to the side GET TO THE SIDE",
     "en_trans": "",
-    "zh_trans": "快去贴墙角！快去贴墙角！",
+    "zh_trans": "中间的飞船炸弹!快往两边站!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "BOSS USE ANGER",
     "en_trans": "",
-    "zh_trans": "Boss使用了愤怒",
+    "zh_trans": "Boss使用了愤怒（快远离!!!）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "BOSS USE RAGE",
     "en_trans": "",
-    "zh_trans": "Boss使用了狂暴",
+    "zh_trans": "Boss使用了终极（贴墙站!!!）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "BOSS USE GRIP",
     "en_trans": "",
-    "zh_trans": "Boss使用了吸力",
+    "zh_trans": "Boss使用了吸力(按住S抵抗)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "BOSS USE THUNDER",
     "en_trans": "",
-    "zh_trans": "Boss使用了雷电",
+    "zh_trans": "Boss使用了雷电（远离电场）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "BOSS USE SWORD. CROUCH!!!!!!",
     "en_trans": "",
-    "zh_trans": "Boss使用了刀。快蹲！",
+    "zh_trans": "Boss使用了刀。快蹲下!!!!!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": "A player picked up Force Grip",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家捡起了原力(水)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": "A player picked up Force Heal",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家捡起了奶",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "A player picked up Force Push",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家捡起了风",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "A player picked up Force Speed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家捡起了加速",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": "A player picked up Force Lightning",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家捡起了电",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "A player picked up Force Rage",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家捡起了终极",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
