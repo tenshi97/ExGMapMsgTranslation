@@ -1,0 +1,407 @@
+[
+  {
+    "original": "*** Map by Airvulpes ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Hold 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "守住30秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** 10 seconds left ***",
+    "en_trans": "",
+    "zh_trans": "10秒后撤退",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Hold 20 seconds ***",
+    "en_trans": "",
+    "zh_trans": "守住20秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** 5 seconds left ***",
+    "en_trans": "",
+    "zh_trans": "5秒后撤退",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Hold 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "守住25秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** EARTHEN SHIELD ***",
+    "en_trans": "",
+    "zh_trans": "大地之盾",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** QUAKE ***",
+    "en_trans": "",
+    "zh_trans": "地震",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EARTH STOMP ***",
+    "en_trans": "",
+    "zh_trans": "地面震踏",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LAND SUBSIDENCE ***",
+    "en_trans": "",
+    "zh_trans": "地面沉降",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EARTH SHOCK ***",
+    "en_trans": "",
+    "zh_trans": "地面震击（跳刀）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EARTHQUAKE ***",
+    "en_trans": "",
+    "zh_trans": "大地震（阶段2）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Doors open in 10 seconds ***",
+    "en_trans": "",
+    "zh_trans": "门10秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Door opens in 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "门25秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Door opens in 35 seconds ***",
+    "en_trans": "",
+    "zh_trans": "门35秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** FREEZING COFFIN ***",
+    "en_trans": "",
+    "zh_trans": "冰之柩",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** BLIZZARD ***",
+    "en_trans": "",
+    "zh_trans": "暴风雪",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TIDAL WAVE ***",
+    "en_trans": "",
+    "zh_trans": "海啸",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FROZEN WATER ***",
+    "en_trans": "",
+    "zh_trans": "水面冻结",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** RISING WATER ***",
+    "en_trans": "",
+    "zh_trans": "水面上升",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DIAMOND DUST ***",
+    "en_trans": "",
+    "zh_trans": "钻石星辰",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ICICLE FALL ***",
+    "en_trans": "",
+    "zh_trans": "冰柱陨落",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** AERIAL BLAST ***",
+    "en_trans": "",
+    "zh_trans": "大气爆裂（跳刀）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** GUST ***",
+    "en_trans": "",
+    "zh_trans": "狂风",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Hold 50 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** UPDRAFT ***",
+    "en_trans": "",
+    "zh_trans": "上升气流",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DOWNBURST ***",
+    "en_trans": "",
+    "zh_trans": "下击暴流",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EYE OF THE STORM ***",
+    "en_trans": "",
+    "zh_trans": "风暴之眼",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TORNADO ***",
+    "en_trans": "",
+    "zh_trans": "龙卷风",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Level 5 set",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Hold 10 seconds ***",
+    "en_trans": "",
+    "zh_trans": "守住10秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** LIFT IS LEAVING IN 5 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "电梯5秒后离开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** MEGA FLARE ***",
+    "en_trans": "",
+    "zh_trans": "超级耀斑",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** SUN STRIKE ***",
+    "en_trans": "",
+    "zh_trans": "阳炎冲击",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FLAME RADIATION ***",
+    "en_trans": "",
+    "zh_trans": "火焰喷发",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FIREBALL ***",
+    "en_trans": "",
+    "zh_trans": "火球",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FORGE SPIRITS ***",
+    "en_trans": "",
+    "zh_trans": "铸造火魂",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FLASH OVER ***",
+    "en_trans": "",
+    "zh_trans": "闪燃",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** TERA FLARE ***",
+    "en_trans": "",
+    "zh_trans": "万亿耀斑",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** FLAMBERGE ***",
+    "en_trans": "",
+    "zh_trans": "火焰剑",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** EXA FLARE ***",
+    "en_trans": "",
+    "zh_trans": "百万耀斑",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** CURAGA ***",
+    "en_trans": "",
+    "zh_trans": "高级治疗",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HOLY ***",
+    "en_trans": "",
+    "zh_trans": "神圣",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** ZOMBIE KILLED PHILIA ***",
+    "en_trans": "",
+    "zh_trans": "僵尸击杀了火精灵",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** STAGE FAILED ***",
+    "en_trans": "",
+    "zh_trans": "关卡失败",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
+]
