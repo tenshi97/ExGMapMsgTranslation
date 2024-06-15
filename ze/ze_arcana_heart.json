@@ -2,7 +2,7 @@
   {
     "original": ">>Arcana Heart<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿卡纳之心",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">>Ver:1.6.8<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前版本为1.6.8",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "「Push」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「推力」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "「Function」Push zombies in the direction of the crosshair",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」向前方释放推力",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "「Duration」6 sec 「Cooldown」50 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」6秒 「神器CD」50秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "「Heal(ZM)」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「ZM治疗」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "「Function」 Restore zombies HP in range and increase speed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」 恢复神器使用范围内僵尸的生命值并附带加速",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "「Duration」 5 sec 「Cooldown」 50 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」5秒 「神器CD」50秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "「Cube(ZM)」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「ZM方块」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "「Function」 Create a cube that can be climbed (It can be destroyed by humans)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」生成一个可以攀爬的方块（可被人类击碎）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "「Duration」 10 sec 「Cooldown」 60 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」10秒 「神器CD」60秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "「Gravity」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「黑洞」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "「Function」 Decelerate zombies within the range",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」使神器作用范围的内僵尸减速",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "「Duration」 8 sec 「Cooldown」 60 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」8秒 「神器CD」60秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "「Barrier」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「护盾」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "「Function」 Create a circular barrier to block zombies",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」生成一个半球形立场将僵尸阻挡在外",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "「Duration」 7 sec 「Cooldown」 80 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」7秒 「神器CD」80秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "「Reverse(ZM)」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「ZM反转」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "「Function」 Reverse human items effects (except item <Heart><Push>)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」逆转人类的神器效果 (除<治疗>和<推力>)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "「Duration」 6 sec 「Cooldown」 80 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」6秒 「神器CD」80秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "「Water(ZM)」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「ZM水」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "「Function」 Create a water wave in front of you, slowing and dragging humans",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」生成直线水波，牵引受到影响的人类",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "「Duration」 7 sec 「Cooldown」 70 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」7秒 「神器CD」70秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "「Heart」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「治疗」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "「Function」 Create a heart, restore health in area",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「神器功能」生成阿卡纳之心，持续攻击它以恢复生命值",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "「Duration」 12 sec 「Cooldown」 80 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「持续时间」12秒 「神器CD」80秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -302,13 +302,13 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">Maybe the cubes can be climbed<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">也许立方体可以攀爬<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,25 +317,25 @@
   {
     "original": "「Tips」 Human can touch <Red Ball> to recover 3 HP and zombie touch it to reduce human 1 hp (CD:3s) in first part.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「提示」人类可以触碰＜红色光球＞恢复3点生命，僵尸可以触碰它减少人类1点生命（CD:3s）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "「Tips」 Human must touch <Blue Key> to recover 3 HP and avoiding damage in second part.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「提示」人类必须触碰＜蓝色钥匙＞才能回复3点生命值并避免伤害",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "「Hard Mode」",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「困难模式」",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,10 +353,28 @@
   {
     "original": "> E X <",
     "en_trans": "",
+    "zh_trans": "> EX模式 <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>Ver:1.6.11<<",
+    "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "> 2 - F <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
   }
 ]

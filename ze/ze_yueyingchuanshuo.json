@@ -2,7 +2,7 @@
   {
     "original": "You need to defend for 23 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你需要在这里防守23秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 23,
@@ -11,7 +11,7 @@
   {
     "original": "you need hold 25s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你需要守住25秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -20,7 +20,7 @@
   {
     "original": "I remember here, here is my back mountain",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我记得这里，这里是我的后山",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "From here you can reach my house directly",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你可以从这里直接到我的家",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "Zombie shortcut open",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸侧路开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "we need hold 40s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们守住40秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -56,7 +56,7 @@
   {
     "original": "you need hold 20s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你需要守住20秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -65,7 +65,7 @@
   {
     "original": "Initiate the zombie side in 4 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "4秒钟后开启僵尸侧路",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -74,7 +74,7 @@
   {
     "original": "Wooden boat leaves after 7S",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "木船离开于7秒后",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -83,7 +83,7 @@
   {
     "original": "Zombie transfer has started",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸开启传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "Zombie transmission also has 13S",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "13秒后僵尸也将传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 13,
@@ -101,7 +101,7 @@
   {
     "original": "hold 20s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住 20秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -110,7 +110,7 @@
   {
     "original": "you need hold 15s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你需要守住15秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -119,7 +119,7 @@
   {
     "original": "Zombies are still transmitted after 7S",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸还有7秒钟传进行送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -128,7 +128,7 @@
   {
     "original": "you need hold 40s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你需要守住40秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -137,7 +137,7 @@
   {
     "original": "you need hold 30s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你需要守住30秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -146,10 +146,271 @@
   {
     "original": "Zombies are still transmitted after 5S",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸还有5秒钟后进行传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Warning: zombies open near the road",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Something seems to have disappeared",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "There seems to be no road above",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "I am optimistic about the road under your feet. How come back? Do you understand?",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "zombie coming watch you back",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Warning: trap is activated",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Warning: Zombie launches near the road",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombies approaching the road",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "tip:You can't pass on the chessboard You must pass on the chess piece",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombie checkerboard teleport",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "you need hold 14s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 14,
+    "enable_timer": 1
+  },
+  {
+    "original": "you need hold 45s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "you need hold 22s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 22,
+    "enable_timer": 1
+  },
+  {
+    "original": "Zombie teleport will turn on in 30 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "I feel the earth shaking",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "No, the mountain is shaking",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Be prepared as if something is rising",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "I saw the hilt. I found a chance to get ready for the sword",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Please hold here for 18 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 18,
+    "enable_timer": 1
+  },
+  {
+    "original": "The cave is blocked, damn it",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Wait a minute, I seem to have seen this sword before",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "I'll inject strength into this sword",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The first door on the left will open in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "The first door on the right will open in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "The second door on the left will open in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "Gather on the left and wait for the meeting",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "The second door on the right will open in 20 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "After the right road meets, wait for the left team mate",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "you need hold 60s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
     "enable_timer": 1
   }
 ]
