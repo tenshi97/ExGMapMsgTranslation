@@ -18,10 +18,7 @@
   表示消息内需要作为倒计时的数字,值不需要加引号，只接受大于等于0的整数。例如消息" 5 secs to open the door"，如果需要倒计时的话这里需要填写5作为值。若在剩余15:00时触发该语句，左下角会提示 [地图消息] 5 secs to open the door@倒计时14:55
 ##timer_num辨析
     自动识别的数字可能有错误，也可能原倒计时本身就有问题。插件在做匹配时匹配的是zh_trans(中文翻译)内的数字,下面介绍一些具体情况:
-<pre><code>tell application "Foo"
-    beep
-end tell
-</code></pre>
+<pre><code>    
     "original": "The door will open in 20 seconds",
     "en_trans": "",
     "zh_trans": "大门将在20秒后打开",
@@ -29,4 +26,5 @@ end tell
     "kr_trans": "",
     "timer_num": 20,
     "enable_timer": 1
+</code></pre>
     
