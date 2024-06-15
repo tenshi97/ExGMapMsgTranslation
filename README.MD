@@ -76,4 +76,3 @@
 </code></pre>  
 这里很滑稽的把地图版本号识别做了倒计时
 修改意见:timer_num改为0即可。也可在此基础上将enable_timer改为0
-修改意见:把timer_num改为0即可，
