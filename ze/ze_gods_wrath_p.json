@@ -2,7 +2,7 @@
   {
     "original": "***Doors will break in 20 secounds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***大门将会在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -11,7 +11,7 @@
   {
     "original": "***We must get into the Other its is where the god heart lies***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***我们必须进入他境，也就是神之心所在之地***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "***We can get into the Other by takeing the portal outside these doors***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***我们可以通过进入传送门来进入他境***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "****Map created by GrandOp****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "****地图由 GrandOp 制作****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "****Zombie burner gun will set all zombies close by on fire****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "****爆炸强会让所有靠近的僵尸着火并减速****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "****Zombie burner gun/Human healer gun****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "****爆炸枪/治疗****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "***Find the next portal and jump into it***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***找到下个传送门并跳进去！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "***Dont stay here for too long!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***不要在这里待太久了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "***Wind!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***小心！强风！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "***Metal fence will be destroyed in 14 secounds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***金属栅栏会在14秒后破碎***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 14,
@@ -92,16 +92,16 @@
   {
     "original": "****Zombie burner will reset in 40 secounds****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "****爆炸枪CD40秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "****Zombies close by will burn!****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "****靠近的僵尸将会被点燃！****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "***Metal wall is down!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***铁栅栏碎了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "***Destroy the crystals and wait for the bridge to appear***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***破坏两个水晶，然后等待桥出现***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "***Bridge has been atevated***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***桥梁出现了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "***A chunk of floor is breaking off! we can ride it to the other side!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***有一小片地板断开了！或许我们可以乘着它到对面去！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "***Destroy the crystals to enable the bridge***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***摧毁两个水晶来激活桥梁***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "***Defend your self untill the gate opens***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***防守直到铁门打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "***The gate is opening!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***铁门正在打开！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "***You have made it to the Citadel***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***你们必须要进入堡垒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "***Destroy the crystals powering the God's heart***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***摧毁那些正在为神之心充能的水晶！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "***Run back to the portal!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***快！跑回传送门去！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "***You got 60 secounds to get out of the Other***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***我们只有60秒时间逃离他境了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -209,7 +209,7 @@
   {
     "original": "***The Other is going to hell! Make sure your inside the saferoom when it blows***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***他境正在崩塌！确保爆炸的时候你在安全房里***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "***Got 15 secounds to get inside the safe room!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***还剩15秒安全房的门就要关闭了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -227,7 +227,7 @@
   {
     "original": "***Safe room door is closeing***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***安全房的大门正在关闭***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

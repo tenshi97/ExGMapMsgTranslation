@@ -5,8 +5,8 @@
     "zh_trans": "**第一关 - 村庄**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Map By R1cko27**",
@@ -38,7 +38,7 @@
   {
     "original": "**Take the stairs carefully**",
     "en_trans": "",
-    "zh_trans": "**小心点！不要从台阶上掉下去了！**",
+    "zh_trans": "**小心点！不要掉下去了！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "**Just give me a few seconds, maybe I can break the bars.**",
     "en_trans": "",
-    "zh_trans": "**但是等会，给我几秒钟，或许我能把管子给撬下来！**",
+    "zh_trans": "**但是等会，给我几秒钟，或许我能把铁丝网拆掉！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -329,8 +329,8 @@
     "zh_trans": "**第一关通关！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Level 2 - Sewerage**",
@@ -338,8 +338,8 @@
     "zh_trans": "**第二关 - 下水道**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Welcome to the sewers!**",
@@ -578,7 +578,7 @@
   {
     "original": "**Boss died**",
     "en_trans": "",
-    "zh_trans": "**boss被干死了。**",
+    "zh_trans": "**boss似了！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "**There is an obstacle in the way, wait a bit to open the way**",
     "en_trans": "",
-    "zh_trans": "**再坚持一会！我来把这个障碍物移走！**",
+    "zh_trans": "**再坚持一会！我来把绳子上的障碍物移走！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "**Get inside this box to escape**",
     "en_trans": "",
-    "zh_trans": "**我们要进到箱子里才能逃走！**",
+    "zh_trans": "**快进箱子里！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -626,8 +626,8 @@
     "zh_trans": "**第二关通关！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Level 3 - Kitchen**",
@@ -635,8 +635,8 @@
     "zh_trans": "**第三关 - 厨房**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Hold 10 seconds**",
