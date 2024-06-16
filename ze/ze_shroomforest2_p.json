@@ -2,7 +2,7 @@
   {
     "original": ">> Map by Taskuvaras <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地图由 Taskuvaras 制作 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">> Finished by Moltard <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 由 Moltard 完成 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": ">> WARMUP ROUND <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 热身局 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": ">> 40 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 剩余40秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -38,7 +38,7 @@
   {
     "original": ">> LEVEL: RAVINE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡：溪谷 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "*** LEAF LEAVING IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 叶子将会在 20 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -56,7 +56,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP WATER <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 水 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP ICE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 冰 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "*** HOLD FOR 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚守 30 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -83,7 +83,7 @@
   {
     "original": "*** 5 MORE SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -92,7 +92,7 @@
   {
     "original": "*** RUUUN! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 快走！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP WIND <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 风 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP FIRE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 火 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "*** DOOR IS OPEN! RUUUN! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门打开了！快跑！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": ">> ITS THE GROKE SHOOT IT !!!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 是 GROKE ！快开枪打他！！！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP 6 MINES <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家捡起了 6 个地雷",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -146,16 +146,16 @@
   {
     "original": ">> ALL 6 MINES USED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 6 个地雷都用完了 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">> THE GROKE IS DEAD <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> GROKE 似了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": ">> ESCAPE BY THE LADDER <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 爬上梯子来逃脱 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "*** FLY LEAVING IN 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 蝴蝶将会在 15 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -182,7 +182,7 @@
   {
     "original": ">> LEVEL COMPLETED !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡通关！！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": ">> LEVEL: TV <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡：电视 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP GRAVITY <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 重力 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP HEAL <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 奶 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "*** FALL BACK !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 撤退 ！！！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "*** ELEVATOR OPENING IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯会在20秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -236,7 +236,7 @@
   {
     "original": "*** ELEVATOR LEAVING IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将会在 10 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -245,7 +245,7 @@
   {
     "original": "*** FAN STOPPING IN 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 风扇将会在 30 秒后停转 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -254,7 +254,7 @@
   {
     "original": "*** FALL BACK ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": ">> BREAK THE HEART OF THE TV <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 射击电视机的电箱 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": ">> THE TV HEART IS DESTROYED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 电箱已被摧毁 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "*** WEB LEAVING IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蛛网将会在 20 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -299,7 +299,7 @@
   {
     "original": ">> ESCAPE BY THE WEB <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 用蛛网逃离 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": ">> LEVEL COMPLETED!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡通关！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": ">> LEVEL: HEAVEN <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡：天堂 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "*** CLOUD LEAVING IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 云朵会在 20 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -335,7 +335,7 @@
   {
     "original": "*** HEAVEN GATES OPENING IN 25 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 天堂之门将会在 25 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -344,7 +344,7 @@
   {
     "original": "*** GATE OPENING IN 25 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将会在 25 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -353,7 +353,7 @@
   {
     "original": "*** DOORS OPENING IN 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将会在 30 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -362,7 +362,7 @@
   {
     "original": ">> OH NO!! ITS GOD <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 欧布！是上帝 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP EARTH <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 草墙 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家拾取了 无限弹药 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": ">> GOD HAS BEEN DEFEATED !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 上帝似了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": ">> RUN TO SAFETY <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 快上蝴蝶 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "*** BUTTERFLY LEAVING IN 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蝴蝶将会在 15秒 后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -416,7 +416,7 @@
   {
     "original": ">> EXTREME MODE ADDED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 超级无敌天谴模式已开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": ">> ZOMBIE SHROOM HAS BEEN PICKED UP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一位僵尸拾取了 毒蘑菇 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "*** FLY LEAVING IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蝴蝶将会在 20 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -443,7 +443,7 @@
   {
     "original": ">> OH NO!! ITS FAT SPIDER <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 哦不！！是寄居 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": ">> FAT SPIDER IS DEAD <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 寄居似了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": "*** FLY LEAVING IN 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蝴蝶会在 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -470,7 +470,7 @@
   {
     "original": ">> ZOMBIE CLOUD HAS BEEN PICKED UP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一位僵尸拾取了 雷云 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "*** GATE OPENING IN 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门会在 30 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -488,7 +488,7 @@
   {
     "original": ">> FALL BACK <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撤退 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": ">> OH NO!! ITS FALLEN ANGEL <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 欧布！！是堕天使 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": ">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 堕天使似了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": ">> LET THE ANGELS ESCAPE FIRST <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 让天使们先走 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": ">> CONTINUE TO DEFEND <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 继续防守 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": ">> THE LAST ANGEL IS OUT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 最后一个天使已经走了！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "*** BUTTERFLY LEAVING IN 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蝴蝶还有 30 秒就要离开了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -551,7 +551,7 @@
   {
     "original": "*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蝴蝶被做掉了！继续防守！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": ">> THE ANGELS GOT THE RESCUE PLANK BACK <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 天使拿到了一块木板回来 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": ">> FALL BACK !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撤退！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": ">> THEY WILL TELEPORT US OUT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 他们会把我们传送出去 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": ">> IS THIS SATAN WORK.... <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 这是撒旦干的吗 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": ">> TELEPORTING ZOMBIES <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸被传送了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": ">> WE HAVE TO ESCAPE THIS PLACE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们需要赶快逃离这个地方 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": ">> CLOUD LEAVING IN 40 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 云朵会在 40 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -623,7 +623,7 @@
   {
     "original": ">> LEVEL: THE END <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡：终局 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": ">> THE GRID IS CLOSED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 铁栅栏关闭了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": ">> DEFEND LONGER <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 再防守一会 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": ">> A CLOUD IS COMING <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 有一朵云来了，快上去 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": ">> CLOUD LEAVING IN 10 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 云朵会在10秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -668,7 +668,7 @@
   {
     "original": ">> IT'S SATAN WITH THE ANGELS !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦又把天使抓回来了！！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": ">> ... HE IS GONE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> ...他跑了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": ">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 在蝴蝶来之前继续防守僵尸 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": ">> BUTTERFLY IS HERE !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 蝴蝶来了！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": ">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 救援蝴蝶会在 20 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -713,7 +713,7 @@
   {
     "original": ">> ZOMBIE ABOARD !! YOU FAILED !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸上来了！！你输了！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": "*** WHERE DID SATAN GO... ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦跑哪去了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "*** THE DRAGON IS BACK FROM HELL !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 飞龙从地狱中回来了！！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": "*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们要快点把它做掉！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "*** NADES DO MORE DAMAGE !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 手雷可以造成更多伤害 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": ">> THE DRAGON HAS BEEN DEFEATED !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 飞龙似了！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": "*** GOOD JOB TEAM !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 做得好！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,7 +776,7 @@
   {
     "original": "*** .... WHAT IS HAPPENING ?? ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** ....发生森莫事了？？ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": ">> IT'S SATAN AGAIN !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 又是撒旦来了！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": ">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们要把他打似来拯救天使们！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": ">> NADE DOES MORE DAMAGE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 手雷可以造成更多伤害 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": ">> SATAN IS HURT !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦受伤了！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": ">> ESCAPE VIA THE PORTAL !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 通过传送门离开！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": ">> DONT LET ZOMBIES GET IN !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 但是也不要让僵尸进传送门！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": ">> PORTAL CLOSING IN 10 SECONDS !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 传送门会在 10 秒后关闭 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -848,7 +848,7 @@
   {
     "original": ">> PORTAL CLOSING IN 5 SECONDS !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 传送门会在 5 秒后关闭！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -857,7 +857,7 @@
   {
     "original": ">> PORTAL IS CLOSING !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 传送门正在关闭！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": ">> SATAN IS FINALLY DEFEATED !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦终于被我们揍似了！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": ">> We finally did it <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们终于做到了..吗？ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": ">> But the world won't be the same anymore... <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 但是被撒旦摧残过的世界也不会完好如初了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -893,7 +893,7 @@
   {
     "original": ">> We have to go back where everything started <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们需要回到在这一切发生之前 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": ">> We are getting closer to our destination <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们已经接近目的地了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": ">> Back then we left our village without any defense <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 当时我们没有做任何事就离开了我们的村庄 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": ">> Let's hope nothing bad happened <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 希望不会有什么坏事发生 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,7 +929,7 @@
   {
     "original": ">> We are starting our descent <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们要开始下降了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": ">> This is really bad... <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 这也...太糟了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": ">> Satan's power didn't even spare our old village ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦的力量甚至没有放过我们的老村庄！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": ">> We have to save everyone ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们需要救下所有人！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": ">> Congratulations ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 恭喜！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": ">> You beat the map ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你们打败了这张地图！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": ">> Play ShroomForest3 to continue the adventure <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 让我们继续游玩蘑菇3来继续旅途吧 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": ">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 电箱正在过载！继续开枪 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": ">> LEVEL: ZM <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡：ZM模式 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,7 +1010,7 @@
   {
     "original": ">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 在出生点和电视区存活 180 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -1019,7 +1019,7 @@
   {
     "original": ">> FIND THE TELEPORTER TO LEVEL ROOM <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 找到传送器来进入调关房 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": ">> PLAYER HAS CHOSEN: THE END <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一名玩家选择了：THE END <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": ">> 150 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 150 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 150,
@@ -1046,7 +1046,7 @@
   {
     "original": ">> 120 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 120 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -1055,7 +1055,7 @@
   {
     "original": ">> 90 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 90 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -1064,7 +1064,7 @@
   {
     "original": ">> 70 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 70 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -1073,7 +1073,7 @@
   {
     "original": ">> 50 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 50 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -1082,7 +1082,7 @@
   {
     "original": ">> 30 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 30 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1091,7 +1091,7 @@
   {
     "original": ">> 20 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1100,7 +1100,7 @@
   {
     "original": ">> 10 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1109,7 +1109,7 @@
   {
     "original": ">> 5 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还有 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
