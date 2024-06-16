@@ -20,7 +20,7 @@
   {
     "original": "Special thanks to Zombieden for testing and people who guiding me on anything",
     "en_trans": "",
-    "zh_trans": "特别感谢：Zombieden提供测试服以及指导我制作这张地图的人们",
+    "zh_trans": "特别感谢僵尸乐园提供的测试服以及指导我制作这张图的所有人!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,16 +434,16 @@
   {
     "original": "C4 has been planted",
     "en_trans": "",
-    "zh_trans": "炸弹已经安放。92秒（1分32秒）后爆炸",
+    "zh_trans": "炸弹已经安放。92秒后爆炸",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 92,
+    "enable_timer": 1
   },
   {
     "original": "Rampage Level",
     "en_trans": "",
-    "zh_trans": "等级:Rampage",
+    "zh_trans": "冲突等级升级!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
