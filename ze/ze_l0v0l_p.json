@@ -5,8 +5,8 @@
     "zh_trans": ">>> 第一关 : 花园模式<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Map made by Moray <<<",
@@ -185,8 +185,8 @@
     "zh_trans": ">>> 管理员调关至 第三关 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> STAGE 3 : FACILITY MODE<<<",
@@ -194,8 +194,8 @@
     "zh_trans": ">>> 第三关 : 设施模式<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> PLAYER HAS PICKED UP AMMO <<<",
@@ -293,8 +293,8 @@
     "zh_trans": ">>> 第一关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> STAGE 2 : FOREST MODE<<<",
@@ -302,8 +302,8 @@
     "zh_trans": ">>> 第二关 : 森林模式<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> HOLD 35 SECONDS <<<",
@@ -392,8 +392,8 @@
     "zh_trans": ">>> 第二关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> HARPY IS DEFEATED <<<",
@@ -464,8 +464,8 @@
     "zh_trans": ">>> 第三关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> STAGE 0 : DARK MODE<<<",
@@ -473,8 +473,8 @@
     "zh_trans": ">>> 第零关 : 里世界<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<",
@@ -515,7 +515,7 @@
   {
     "original": ">>> 5 SECONDS LEFT GET OUT FROM TRAIN <<<",
     "en_trans": "",
-    "zh_trans": ">>> 离火车开启道路还剩5秒 <<<",
+    "zh_trans": ">>> 离火车开启道路还剩 5 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -587,7 +587,7 @@
   {
     "original": ">>> PRIEST DISAPPERED <<<",
     "en_trans": "",
-    "zh_trans": ">>> 祭司消失了 <<<",
+    "zh_trans": ">>> 祭司 消失了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": ">>> 5 SECONDS LEFT WATCH OUT FOR TRAIN <<<",
     "en_trans": "",
-    "zh_trans": ">>> 还剩5秒，小心泥头车！<<<",
+    "zh_trans": ">>> 还剩 5 秒，小心泥头车！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -668,7 +668,7 @@
   {
     "original": ">>> AFK TELEPORT IN 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 挂机玩家将在10秒后传送 <<<",
+    "zh_trans": ">>> 挂机玩家将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -866,7 +866,7 @@
   {
     "original": ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 僵尸5秒后传送 <<<",
+    "zh_trans": ">>> 僵尸 5 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -875,7 +875,7 @@
   {
     "original": ">>> ROUTE 2 : HOLD 20 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 路线二 : 坚持20秒 <<<",
+    "zh_trans": ">>> 路线二 : 坚持 20 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -884,7 +884,7 @@
   {
     "original": ">>> ROUTE 1 : HOLD 20 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 路线一 : 坚持20秒 <<<",
+    "zh_trans": ">>> 路线一 : 坚持 20 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -893,7 +893,7 @@
   {
     "original": ">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 路线二 : 挂机玩家将在10秒后传送 <<<",
+    "zh_trans": ">>> 路线二 : 挂机玩家将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -902,7 +902,7 @@
   {
     "original": ">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 路线一 : 挂机玩家将在10秒后传送 <<<",
+    "zh_trans": ">>> 路线一 : 挂机玩家将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
