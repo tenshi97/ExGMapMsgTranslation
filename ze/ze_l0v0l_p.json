@@ -5,8 +5,8 @@
     "zh_trans": ">>> 第一关 : 花园模式<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Map made by Moray <<<",
@@ -185,8 +185,8 @@
     "zh_trans": ">>> 管理员调关至 第三关 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> STAGE 3 : FACILITY MODE<<<",
@@ -194,8 +194,8 @@
     "zh_trans": ">>> 第三关 : 设施模式<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> PLAYER HAS PICKED UP AMMO <<<",
@@ -293,8 +293,8 @@
     "zh_trans": ">>> 第一关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> STAGE 2 : FOREST MODE<<<",
@@ -302,8 +302,8 @@
     "zh_trans": ">>> 第二关 : 森林模式<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> HOLD 35 SECONDS <<<",
@@ -392,8 +392,8 @@
     "zh_trans": ">>> 第二关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> HARPY IS DEFEATED <<<",
@@ -443,7 +443,7 @@
   {
     "original": ">>> PLAYER HAS PICKED UP EARTH TOILET <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家拾取了 土马桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": ">>> THE WORLD IS GOING TO DARK <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 世界将陷入黑暗 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,16 +461,16 @@
   {
     "original": ">>> STAGE 3 COMPLETED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第三关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> STAGE 0 : DARK MODE<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第零关 : 里世界<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,16 +479,16 @@
   {
     "original": ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 按下三个房间的按钮来打开道路 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> RED BUTTON WAS PRESSED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 红色房间的按钮已经按下 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": ">>> BLUE BUTTON WAS PRESSED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 蓝色房间的按钮已经按下 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": ">>> YELLOW BUTTON WAS PRESSED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 黄色房间的按钮已经按下 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": ">>> 5 SECONDS LEFT GET OUT FROM TRAIN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 离火车开启道路还剩 5 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -524,7 +524,7 @@
   {
     "original": ">>> IT'S PRIEST <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 是祭司 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": ">>> PRIEST CASTED MAGIC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 祭司释放了魔法 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": ">>> THE TORCH WAS LIT <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 火炬被点亮了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": ">>> DISASTER IS ABOUT TO CAUSE ONCE AGAIN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 灾难即将再次袭来 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": ">>> PRIEST DISAPPEARED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 祭司 消失了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": ">>> WE CAUGHT UP TO PRIEST <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 我们追上了祭司 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": ">>> QUEEN'S LAUGHTER SOUNDS FAINTLY <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王发出淡淡的笑声 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": ">>> PRIEST DISAPPERED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 祭司 消失了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": ">>> WE NEED TO ACTIVATE THE TRAIN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 我们需要启动火车 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": ">>> 5 SECONDS LEFT WATCH OUT FOR TRAIN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 还剩 5 秒，小心泥头车！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -614,16 +614,16 @@
   {
     "original": ">>> BREAK 4 PILLARS TO ACTIVATE TELEPORTER <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 破坏四根柱子来启动传送器 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> YELLOW PILLAR BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 黄色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": ">>> GREEN PILLAR BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 绿色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": ">>> BLUE PILLAR BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 蓝色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": ">>> RED PILLAR BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 红色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": ">>> TELEPORTER WILL ACTIVATE SOON <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 传送器即将开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": ">>> AFK TELEPORT IN 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 挂机玩家将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -677,7 +677,7 @@
   {
     "original": ">>> PRIEST IS CALLING QUEEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 祭司正在召唤女王 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": ">>> DEFEAT QUEEN AND BREAK ALL HER WEAPONS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 打败女王并破坏她的所有装备 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": ">>> QUEEN IS AWAKED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王苏醒了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": ">>> QUEEN CASTED LASER <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王释放了技能：激光刀 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": ">>> WATCH OUT FOR BEAM CANNON <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 小心镭射加农炮：蹲下 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": ">>> QUEEN CASTED TRAIN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王召唤了火车：远离铁轨 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": ">>> ENERGY TANK USED HEAL TO QUEEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王使用能量罐恢复了HP <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": ">>> WATCH OUT FOR HUGE TAEPODONG <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大浦洞导弹来袭：远离白色光点 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": ">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大浦洞导弹发射器已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": ">>> ENERGY TANK USED SHIELD TO QUEEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 能量罐为女王使用了护盾 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": ">>> BEAM CANNON IS BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 镭射加农炮已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,7 +776,7 @@
   {
     "original": ">>> PAPER GATLING IS BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 纸制加特林已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": ">>> ENERGY TANK IS BROKEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 能量罐已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": ">>> QUEEN GOT POWER <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王增强了力量 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": ">>> QUEEN CASTED VACUUM <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王释放了真空吸：按S后退抵抗 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": ">>> QUEEN CASTED WIND <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王释放了推力风：按W前进抵抗 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": ">>> QUEEN CASTED SANIC RUSH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王释放了嗦尼克快跑 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": ">>> GET ON THE PLATFORM <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快上到平台 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": ">>> QUEEN IS HURTED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王受到伤害 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">>> QUEEN IS DEFEATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 女王已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">>> EXIT IS OPEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 出口打开了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 僵尸 5 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -875,7 +875,7 @@
   {
     "original": ">>> ROUTE 2 : HOLD 20 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 路线二 : 坚持 20 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -884,7 +884,7 @@
   {
     "original": ">>> ROUTE 1 : HOLD 20 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 路线一 : 坚持 20 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -893,7 +893,7 @@
   {
     "original": ">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 路线二 : 挂机玩家将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -902,7 +902,7 @@
   {
     "original": ">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 路线一 : 挂机玩家将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -911,7 +911,7 @@
   {
     "original": ">>> NUKE KING IS COMING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 核弹王 来袭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": ">>> NUKE KING IS DEFEATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 核弹王 已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,7 +929,7 @@
   {
     "original": ">>> TELEPORTER IS ACTIVATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 传送器已启动 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": ">>> FINALLY YOU ESCAPED FROM QUEEN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 你终于逃脱了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": ">>> SECRET STAGE COMPLETED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 里世界关卡 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
