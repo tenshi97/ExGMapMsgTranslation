@@ -2,7 +2,7 @@
   {
     "original": "< ze_Forsaken_Temple >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 遗忘神殿 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "< Map by Brian >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 地图由 Brian 制作 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "** WARM UP - 60 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身 - 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -29,7 +29,7 @@
   {
     "original": "< CS2 Port by @Seth >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< CS2 移植 @Seth >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "** WARM UP - 50 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热身 - 50 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -47,7 +47,7 @@
   {
     "original": "** WARM UP - 40 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身 - 40 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -56,7 +56,7 @@
   {
     "original": "** TIP: one player must touch the closed door to trigger **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示: 必须要有一个人贴门才能触发 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "** WARM UP - 30 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身 - 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -74,16 +74,16 @@
   {
     "original": "** STAGE 1: Underground **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第一关: 地下遗迹 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** ADMIN SELECTED STAGE 3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 调关房：关卡变更为 第三关 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -92,7 +92,7 @@
   {
     "original": "** TIP: most zombie teleports are quick so do not overdefend! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示：僵尸传送很快，所以别死断! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "** WARM UP - 20 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身 - 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -110,7 +110,7 @@
   {
     "original": "** TIP: search for key items when the console tells you to do so **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示：地图消息会告诉你搜索关键物品",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "** WARM UP - 10 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身 - 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -128,7 +128,7 @@
   {
     "original": "** Left fence is breaking in 30s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 左侧栅栏 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -137,7 +137,7 @@
   {
     "original": "** Door is opening in 40s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 40 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -146,7 +146,7 @@
   {
     "original": "** Find and press TWO buttons **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 找到并触发两个按钮 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,25 +155,25 @@
   {
     "original": "** Button 1 pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 按钮 1 已触发 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Button 2 pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 按钮 2 已触发 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Nicely done **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "** Door is opening in 20s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -191,7 +191,7 @@
   {
     "original": "** Door is opening in 35s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 35 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -200,7 +200,7 @@
   {
     "original": "** It's seems the door is locked **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这个门似乎被锁住了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "** Hint: key item owner must touch the locked door **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示：钥匙所有者必须贴门才能触发 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "** Use the key to unlock it **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 用钥匙开门 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "** Nicely done! The door is going to unlock! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮! 门很快会解锁了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "** JUMP! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 跳上去! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "** Door is opening in 25s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -254,7 +254,7 @@
   {
     "original": "** Door is closing in 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -263,7 +263,7 @@
   {
     "original": "** Divine Tears - crouch **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 神圣之泪 - 快蹲下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "** Vampire - stop shooting **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 吸血状态 - 停止射击 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "** Ricochet - jump **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 弹射 - 跳起来! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "** You are too slow! Boss enrage soon! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 打得太慢了! Boss要进入狂怒状态了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "** Boss defeated **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** Boss 已被击败 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": "** Retreat! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 原路返回! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "** Door is opening in 30s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -326,7 +326,7 @@
   {
     "original": "** Air-strike is incoming **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 空袭即将来临 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "** Survive 60s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 60 秒 *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -344,7 +344,7 @@
   {
     "original": "** Kill all weakened zombies **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 杀死全部残血僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "** Hurry up! 15 seconds left **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 搞快点啊! 就剩 15 秒了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -362,7 +362,7 @@
   {
     "original": "** ADMIN SELECTED STAGE 2 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 调关房：关卡变更为 第二关 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -371,16 +371,16 @@
   {
     "original": "** STAGE 2: Investigation **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第二关 调查 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Right fence is breaking in 30s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 右侧栅栏 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -389,7 +389,7 @@
   {
     "original": "** Gate is opening in 25s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 25 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -398,7 +398,7 @@
   {
     "original": "** It seems.. left flame, right fruit.. ? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**似乎... 左边是火焰，右边是...水果???",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "** Door is opening in 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -416,7 +416,7 @@
   {
     "original": "** Find two key items!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 找到两件关键物品!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "** Nicely done! You got the correct combination! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮! 你们找到了正确组合 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "** Pit is opening in 20s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大坑 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -443,7 +443,7 @@
   {
     "original": "** Defend 20s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -452,16 +452,16 @@
   {
     "original": "** Boss enrage in THREE minutes **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** Boss 会在180秒后进入狂暴",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 180,
+    "enable_timer": 1
   },
   {
     "original": "** Tumult - use heal **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 混沌攻击 - 快使用治疗 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "** Servant - defend zombies from now **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 奴仆召唤 - 守尸笼! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "** Weight of the Land - move away **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大地之力 - 远离它! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** Boss defeated! RUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** Boss 已被击败! 快跑! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "** Gate is opening in 40s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 40 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -506,7 +506,7 @@
   {
     "original": "** Rock is breaking in 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 石头 10 秒后清理干净 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -515,7 +515,7 @@
   {
     "original": "** Press TWO buttons on both sides **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 按下两边的按钮 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "** Vortex **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 旋风 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "** Weight of the Land **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大地之力 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "** Sink **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 下沉 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "** Door is opening in 40s *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 40 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -560,7 +560,7 @@
   {
     "original": "** Door is opening in 15s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门在 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -569,7 +569,7 @@
   {
     "original": "** Helicopter is leaving 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 直升机 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -578,7 +578,7 @@
   {
     "original": "** MOVING ON TO STAGE 3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 移动至 第三关 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -587,7 +587,7 @@
   {
     "original": "** STAGE 3: Escape **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第三关: 逃出生天 *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -596,7 +596,7 @@
   {
     "original": "** Find another key item!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 找到另一件关键物品!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "** Temple door is opening soon **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 神庙大门很快开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "** You must defend until the door opens **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你必须守到门开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "** Fixing the door. Keep defending! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 正在修复大门! 拖住他们! *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "** Someone got baited... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 有人上当了... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "** The door will open soon **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门很快开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "** Hang on... Keep defending! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持住... 继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "** Just a little bit more... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 就差最后一点... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "** Maze exit is opening in 35s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**迷宫出口 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -677,7 +677,7 @@
   {
     "original": "** Elevator is leaving in 20s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯 25 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -686,7 +686,7 @@
   {
     "original": "** Zombie items are temporary disabled **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸神器暂时禁用 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": "** Dancing Claw **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 舞动之爪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": "** Divine Tears **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 神圣之泪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": "** Swallow **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 淹没一切**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": "** Vampire **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 吸血状态 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "** Force **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 自然之力 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,16 +740,16 @@
   {
     "original": "** MOVING ON TO STAGE 2 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 移动至 第二关 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 10
   },
   {
     "original": "** Zombie items can be used again **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸神器现在可以使用了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": "** Maze exit is opening in 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 迷宫出口 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -767,7 +767,7 @@
   {
     "original": "** Exit door is opening in 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 出口大门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -776,7 +776,7 @@
   {
     "original": "** DODGE THE LASERS AND KILL THE BOSS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 跳刀并击败Boss **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "** Landslide - avoid red platform **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 山崩地裂 - 避开红色平台 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "** Incorrect combination! The pit will open SLOWER!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 错误排序! 大坑将会延缓开启!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "** Pit is opening in 40s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大坑 40 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -812,7 +812,7 @@
   {
     "original": "** HE IS DEAD! RUN FOR YOUR LYFE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 他死了! 快跑!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": "** GO LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 左边是路 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": "** KILL IT BEFORE IT KILLS YOU **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 击败他!要不然都得死! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "** You have failed to escape from the temple **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你失败了!你无法逃离神庙 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "** You must kill the temple creature before it kills you **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 杀了神庙造物! 要不然你要被他干死了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": "** GET TO THE HELICOPTER NOW! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 快上飞机! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "** YOU HAVE BEATEN THE MAP **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你们是冠军! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": "** ZM MODE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ZM 关 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": "** Do not follow ZE path! Survive until nuke! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 不用沿着ZE的路线! 活到核爆就行! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -893,7 +893,7 @@
   {
     "original": "** 270 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 270 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 270,
@@ -902,7 +902,7 @@
   {
     "original": "儚い欠片　舞い散る 虛幻的碎片\\在空中飛舞散落",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "虛幻的碎片\\在空中飛舞散落",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "その光　全て照らし\\那道光芒　照亮一切",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "その光　全て照らし\\那道光芒　照亮一切",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": "導き逢う...\\引導著相遇...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "導き逢う...\\引導著相遇...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,7 +929,7 @@
   {
     "original": "** 240 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 240 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 240,
@@ -938,7 +938,7 @@
   {
     "original": "壊れてゆく　感情の果て\\崩毀的思念的盡頭",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "壊れてゆく　感情の果て\\崩毀的思念的盡頭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": "いつかの夢を捨てるよ\\曾經追求的夢境寧願全捨棄",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "いつかの夢を捨てるよ\\曾經追求的夢境寧願全捨棄",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": "正解の無い　選択肢しか\\不存在正確的　選項路線分歧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正解の無い　選択肢しか\\不存在正確的　選項路線分歧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": "僕に殘されていないなら...\\看不清向何處前進迷離與嘆息...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僕に殘されていないなら...\\看不清向何處前進迷離與嘆息...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": "fripSide - Hesitation Snow",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在播放 fripSide - Hesitation Snow",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": "季節はすでに暗く冷たく\\已經是冰冷幽暗的季節",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "季節はすでに暗く冷たく\\已經是冰冷幽暗的季節",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": "溫もり求めた心\\渴求溫存的心卻少了勇氣",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "溫もり求めた心\\渴求溫存的心卻少了勇氣",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": "君は現れ　時間は止まり\\因為你出現時機　讓時間隨之而停",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "君は現れ　時間は止まり\\因為你出現時機　讓時間隨之而停",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,7 +1010,7 @@
   {
     "original": "物語が始まった...\\然而故事物語已悄然進行...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "物語が始まった...\\然而故事物語已悄然進行...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1019,7 +1019,7 @@
   {
     "original": "真実に近づけば\\一旦與事實真相更接近",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "真実に近づけば\\一旦與事實真相更接近",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": "君を守ることでしか\\我就只能默默無語守護你",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "君を守ることでしか\\我就只能默默無語守護你",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": "想い示せないまま\\無法明示這份愛戀之情",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "想い示せないまま\\無法明示這份愛戀之情",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": "冷たい無情が絡まる\\冰冷的無情便糾葛一起不清",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "冷たい無情が絡まる\\冰冷的無情便糾葛一起不清",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,7 +1055,7 @@
   {
     "original": "** 180 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 100 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -1064,7 +1064,7 @@
   {
     "original": "墮ちていった　純粋な瞳に\\不自覺望向你　那純粹的眼睛",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "墮ちていった　純粋な瞳に\\不自覺望向你　那純粹的眼睛",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,7 +1073,7 @@
   {
     "original": "映る何もかも　歪んでく...\\瞳孔裡歪斜與扭曲一切被照映...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "映る何もかも　歪んでく...\\瞳孔裡歪斜與扭曲一切被照映...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1082,7 +1082,7 @@
   {
     "original": "耳元囁く君の聲さえ\\就連耳邊輕響起你對我細語喃呢",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "耳元囁く君の聲さえ\\就連耳邊輕響起你對我細語喃呢",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1091,7 +1091,7 @@
   {
     "original": "悔しくなって　傷をつけても\\後悔已經來不及　早已弄傷了身體",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "悔しくなって　傷をつけても\\後悔已經來不及　早已弄傷了身體",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1100,7 +1100,7 @@
   {
     "original": "その意味は何処にも無い\\再怎麼撐下去也已無意義",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "その意味は何処にも無い\\再怎麼撐下去也已無意義",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1109,7 +1109,7 @@
   {
     "original": "永遠を求めれば\\倘若追尋永恆",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "永遠を求めれば\\倘若追尋永恆",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "君の心に近づく?\\是否就能步步接近你的心?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "君の心に近づく?\\是否就能步步接近你的心?",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1127,7 +1127,7 @@
   {
     "original": "終わりのない理想が\\停不下的理想永無止境",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "終わりのない理想が\\停不下的理想永無止境",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1136,7 +1136,7 @@
   {
     "original": "殘酷な痛みを誘う\\現實卻殘酷到只能嘆息哭泣",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "殘酷な痛みを誘う\\現實卻殘酷到只能嘆息哭泣",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1145,7 +1145,7 @@
   {
     "original": "誰一人も　責められずに\\誰也無須在意　更無任何罪刑",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "誰一人も　責められずに\\誰也無須在意　更無任何罪刑",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1154,7 +1154,7 @@
   {
     "original": "** 120 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 120 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -1163,7 +1163,7 @@
   {
     "original": "悪いのは　自分だったと\\犯下錯誤一方正是我自己",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "悪いのは　自分だったと\\犯下錯誤一方正是我自己",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1172,7 +1172,7 @@
   {
     "original": "想い込んで　耐え切れなくて\\被壓迫的思緒　容忍不了罪名",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "想い込んで　耐え切れなくて\\被壓迫的思緒　容忍不了罪名",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1181,7 +1181,7 @@
   {
     "original": "僕は生まれ変わる　心ごと...\\盡全力脫胎新生命洗滌淨心靈...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僕は生まれ変わる　心ごと...\\盡全力脫胎新生命洗滌淨心靈...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1190,7 +1190,7 @@
   {
     "original": "取り戻した　記憶さえも\\就算是取回　曾經擁有記憶",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "取り戻した　記憶さえも\\就算是取回　曾經擁有記憶",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1199,7 +1199,7 @@
   {
     "original": "どこか　信じられなくて\\有些是連自己都無法相信",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "どこか　信じられなくて\\有些是連自己都無法相信",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1208,7 +1208,7 @@
   {
     "original": "世界中が　色を亡くしてく...\\世界曾有美麗　顏色卻已消失殆盡...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "世界中が　色を亡くしてく...\\世界曾有美麗　顏色卻已消失殆盡...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1217,7 +1217,7 @@
   {
     "original": "もう　気づいてた\\已經　不可能迴避...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "もう　気づいてた\\已經　不可能迴避...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1226,7 +1226,7 @@
   {
     "original": "狂っている　定義が今\\瘋狂如何定義　失常錯亂如今",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "狂っている　定義が今\\瘋狂如何定義　失常錯亂如今",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1235,7 +1235,7 @@
   {
     "original": "** 60 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -1244,7 +1244,7 @@
   {
     "original": "調和の糸　手繰り寄せ\\拉起調和絲系墜落到淵底",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "調和の糸　手繰り寄せ\\拉起調和絲系墜落到淵底",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1253,7 +1253,7 @@
   {
     "original": "僕を見透かして... 操ってた\\被看清沒有了底細我已任你命令",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僕を見透かして... 操ってた\\被看清沒有了底細我已任你命令",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1262,7 +1262,7 @@
   {
     "original": "** 30 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1271,7 +1271,7 @@
   {
     "original": "儚い欠片　舞い散る\\虛幻的碎片　在空中飛舞散落",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "儚い欠片　舞い散る\\虛幻的碎片　在空中飛舞散落",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1280,7 +1280,7 @@
   {
     "original": "** 15 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 15 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1289,7 +1289,7 @@
   {
     "original": "** 10 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1298,7 +1298,7 @@
   {
     "original": "** 5 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1307,7 +1307,7 @@
   {
     "original": "** Nuke is incoming **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "核弹来袭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1316,7 +1316,7 @@
   {
     "original": "** Admin room is located behind the spawn **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关房已定位至出生点后",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

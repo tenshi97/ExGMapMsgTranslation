@@ -14,8 +14,8 @@
     "zh_trans": "**原地图 : kz_otakuroom_v3 , 由 GemaYue 制作**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Map by Tenshi**",
@@ -344,28 +344,28 @@
   {
     "original": "**Nuke in 3 mins**",
     "en_trans": "",
-    "zh_trans": "**3分钟后核爆**",
+    "zh_trans": "**180秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 180,
     "enable_timer": 1
   },
   {
     "original": "**Nuke in 2 mins**",
     "en_trans": "",
-    "zh_trans": "**2分钟后核爆**",
+    "zh_trans": "**120秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1
   },
   {
     "original": "**Nuke in 1 min**",
     "en_trans": "",
-    "zh_trans": "**1分钟后核爆**",
+    "zh_trans": "**60秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
