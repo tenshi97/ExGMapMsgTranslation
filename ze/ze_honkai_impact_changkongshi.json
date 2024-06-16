@@ -74,11 +74,11 @@
   {
     "original": "**5秒后传送不在桥上的玩家**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后传送不在桥上的玩家**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**守住这里直到车子移动**",
@@ -92,11 +92,11 @@
   {
     "original": "**在德丽莎附近守住30秒，注意不要让僵尸靠近!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在德丽莎附近守住30秒，注意不要让僵尸靠近!!!**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "**有奇怪的东西靠近了，任务失败**",
@@ -110,29 +110,29 @@
   {
     "original": "**注意，10秒后传送光圈外的所有玩家**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**注意，10秒后传送光圈外的所有玩家**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**最后的60秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后的60秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "**最后的10秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后的10秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**安全屋里面好像有奇怪的东西进来了，任务失败!!**",

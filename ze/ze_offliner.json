@@ -2,7 +2,7 @@
   {
     "original": "| Door opens in 20 seconds |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门在 20 秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -11,7 +11,7 @@
   {
     "original": "| Door opens in 35 seconds |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门在 35 秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -20,7 +20,7 @@
   {
     "original": "| 5 seconds left |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门在 5 秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -29,7 +29,7 @@
   {
     "original": "| Door opens in 15 seconds |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门在 15 秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -38,7 +38,7 @@
   {
     "original": "| Player has picked up shockwave |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 玩家拾取了 冲击波 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "| Door opens in 25 seconds |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门在 25 秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -56,7 +56,7 @@
   {
     "original": "| Final door opens in 10 seconds |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 最后的门在 10 秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -65,10 +65,10 @@
   {
     "original": "| Loading shockwave 15 seconds |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 冲击波加载中，还剩 15 秒 cd |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

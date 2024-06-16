@@ -5,8 +5,8 @@
     "zh_trans": "++ 所有区域的门将在 120 秒后解锁 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 120,
+    "enable_timer": 1
   },
   {
     "original": "++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++",
@@ -14,8 +14,8 @@
     "zh_trans": "++ 所有区域的门将在 60 秒后解锁 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++",
@@ -23,8 +23,8 @@
     "zh_trans": "++ 所有区域的门将在 30 秒后解锁 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++",
@@ -32,8 +32,8 @@
     "zh_trans": "++ 一楼将在 10 秒后解锁 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++",
@@ -41,8 +41,8 @@
     "zh_trans": "++ 二楼将在 10 秒后解锁 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++",
@@ -50,8 +50,8 @@
     "zh_trans": "++ 三楼将在 10 秒后解锁 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "++ ALL FLOORS ARE UNLOCKED ++",
@@ -86,8 +86,8 @@
     "zh_trans": "++ 30 秒后到达 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++",
@@ -95,8 +95,8 @@
     "zh_trans": "++ 20 秒后直升机离开 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "++ HELICOPTER IS LEAVING ++",
@@ -113,8 +113,8 @@
     "zh_trans": "++ 10 秒后核爆 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "++ 15 seconds to choose ++",
