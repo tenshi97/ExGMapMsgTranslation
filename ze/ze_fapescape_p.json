@@ -50,8 +50,8 @@
     "zh_trans": "*** 门将在35秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "*** Door opens in 25 seconds ***",
@@ -59,8 +59,8 @@
     "zh_trans": "*** 门将在25秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "*** Gate opening ***",
@@ -86,8 +86,8 @@
     "zh_trans": "*** 还剩10秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "*** Door is Opening ***",
@@ -104,8 +104,8 @@
     "zh_trans": "*** 门将在25秒后开启! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "*** FALL BACK ***",
@@ -122,8 +122,8 @@
     "zh_trans": ">>> 坚守15秒! <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>> Hold for a bit more! <<<",
@@ -158,8 +158,8 @@
     "zh_trans": "*** 传送器将在20秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Door Opens in 30 seconds ***",
@@ -167,8 +167,8 @@
     "zh_trans": "*** 门将在30秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** OH NOOES ***",
@@ -203,8 +203,8 @@
     "zh_trans": "*** 守住这里20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Hold 20 second for victory! ***",
@@ -212,8 +212,8 @@
     "zh_trans": "*** 再防守20秒我们就赢了! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Level Completed ***",
@@ -266,8 +266,8 @@
     "zh_trans": "*** 防守25秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": ">>> Hold until the door opens! <<<",
@@ -284,7 +284,7 @@
     "zh_trans": "*** 右边的门10秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
+    "timer_num": 10,
     "enable_timer": 0
   },
   {
@@ -293,7 +293,7 @@
     "zh_trans": "*** 左边的门10秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
+    "timer_num": 10,
     "enable_timer": 0
   },
   {
@@ -311,8 +311,8 @@
     "zh_trans": "*** 门将在30秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** The Boss is dead! ***",
@@ -338,8 +338,8 @@
     "zh_trans": "*** 电梯将在20秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Level 3 ***",
@@ -374,8 +374,8 @@
     "zh_trans": "*** 梯子将在30秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** HOLD Until the path is clear ***",
@@ -401,8 +401,8 @@
     "zh_trans": "*** 门将在10秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "*** Hold here for 30 seconds ***",
@@ -410,8 +410,8 @@
     "zh_trans": "*** 守住这里30秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** Door Opens in 5 seconds ***",
@@ -419,8 +419,8 @@
     "zh_trans": "*** 门将在5秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "*** Door Opens in 4 seconds ***",
@@ -473,8 +473,8 @@
     "zh_trans": "*** 防守25秒! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "*** Tram Leaves in 35 seconds ***",
@@ -482,8 +482,8 @@
     "zh_trans": "*** 电车将在35秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "*** You got both items to the end ***",
@@ -509,8 +509,8 @@
     "zh_trans": "*** 还剩15秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "*** 5 seconds left ***",
@@ -518,8 +518,8 @@
     "zh_trans": "*** 还剩5秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "*** Tram is leaving ***",
@@ -554,8 +554,8 @@
     "zh_trans": "*** 大门将在30秒后打开! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** OH NO ITS AN EVIL ROBO BOSS ***",
@@ -599,8 +599,8 @@
     "zh_trans": "*** 梯子将在25秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "*** Door opens in 20 seconds ***",
@@ -608,8 +608,8 @@
     "zh_trans": "*** 大门将在20秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Hold here for 25 seconds ***",
@@ -617,8 +617,8 @@
     "zh_trans": "*** 守住这里25秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": ">>> THE EVIL EYE IS DEAD <<<",
@@ -644,8 +644,8 @@
     "zh_trans": "*** 电车将在45秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
     "original": "*** 25 seconds left ***",
@@ -653,8 +653,8 @@
     "zh_trans": "*** 还剩25秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "*** Zombie on the tram ***",
@@ -707,8 +707,8 @@
     "zh_trans": "*** 生存三分钟（180秒） ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 180,
+    "enable_timer": 1
   },
   {
     "original": "*** OH NO.. ***",
