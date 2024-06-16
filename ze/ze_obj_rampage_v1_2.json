@@ -173,10 +173,10 @@
   {
     "original": "The doors opening in 30s",
     "en_trans": "",
-    "zh_trans": "大门将在30秒后开启",
+    "zh_trans": "大门将在25秒后开启",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 25,
     "enable_timer": 1
   },
   {
@@ -434,16 +434,16 @@
   {
     "original": "C4 has been planted",
     "en_trans": "",
-    "zh_trans": "炸弹已经安放。92秒（1分32秒）后爆炸",
+    "zh_trans": "炸弹已经安放。92秒后爆炸",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 92,
+    "enable_timer": 1
   },
   {
     "original": "Rampage Level",
     "en_trans": "",
-    "zh_trans": "等级:Rampage",
+    "zh_trans": "冲突等级提升",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,56 +470,56 @@
   {
     "original": "I cannot stop this sickness taking over",
     "en_trans": "",
-    "zh_trans": "我无法阻止疾病肆虐 [I cannot stop this sickness taking over]",
+    "zh_trans": "我无法阻止疾病肆虐 [I cannot stop this sickness taking over] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "It takes control and drags me into nowhere",
     "en_trans": "",
-    "zh_trans": "它支配了我并将我沉入荒无人烟之地 [It takes control and drags me into nowhere]",
+    "zh_trans": "它支配了我并将我沉入荒无人烟之地 [It takes control and drags me into nowhere] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "I need your help, I can't fight this forever",
     "en_trans": "",
-    "zh_trans": "我需要你伸出援手 我永远无法孤军奋战 [I need your help, I can't fight this forever]",
+    "zh_trans": "我需要你伸出援手 我永远无法孤军奋战 [I need your help, I can't fight this forever] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "I know you're watching",
     "en_trans": "",
-    "zh_trans": "我知道你在注视着我 [I know you're watching]",
+    "zh_trans": "我知道你在注视着我 [I know you're watching] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "I can feel you out there",
     "en_trans": "",
-    "zh_trans": "我能感觉到你就在附近 [I can feel you out there]",
+    "zh_trans": "我能感觉到你就在附近 [I can feel you out there] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Take me high and I'll sing",
     "en_trans": "",
-    "zh_trans": "带我高飞 我将引吭高歌 [Take me high and I'll sing]",
+    "zh_trans": "带我高飞 我将引吭高歌 [Take me high and I'll sing] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Prepare for your LAST FIGHT",
@@ -533,11 +533,11 @@
   {
     "original": "Oh you make everything okay (okay, okay)",
     "en_trans": "",
-    "zh_trans": "你会让一切安然无恙 [Oh you make everything okay (okay, okay)]",
+    "zh_trans": "你会让一切安然无恙 [Oh you make everything okay (okay, okay)] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Trigger the BOMB and wait for helipoter to bring us out of this island !",
@@ -551,56 +551,56 @@
   {
     "original": "We are one in the same",
     "en_trans": "",
-    "zh_trans": "我们本就是同样的人 [We are one in the same]",
+    "zh_trans": "我们本就是同样的人 [We are one in the same] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Oh you take all of the pain away (away, away)",
     "en_trans": "",
-    "zh_trans": "你抹去我的所有苦痛 [Oh you take all of the pain away (away, away)]",
+    "zh_trans": "你抹去我的所有苦痛 [Oh you take all of the pain away (away, away)] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Save me if I become",
     "en_trans": "",
-    "zh_trans": "请拯救我，若我沦为……[Save me if I become]",
+    "zh_trans": "请拯救我，若我沦为……[Save me if I become] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "My demons",
     "en_trans": "",
-    "zh_trans": " 我的恶魔 [My demons]",
+    "zh_trans": " 我的恶魔 [My demons] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Oh you make everything okay",
     "en_trans": "",
-    "zh_trans": "你会让一切安然无恙 [Oh you make everything okay]",
+    "zh_trans": "你会让一切安然无恙 [Oh you make everything okay] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Oh you take all of the pain away",
     "en_trans": "",
-    "zh_trans": "你抹去我的所有苦痛 [Oh you take all of the pain away]",
+    "zh_trans": "你抹去我的所有苦痛 [Oh you take all of the pain away] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "GET ON THE HELICOPTER",
@@ -623,11 +623,11 @@
   {
     "original": "Take me over the walls below",
     "en_trans": "",
-    "zh_trans": "带我飞过脚下的所有阻碍吧 [Take me over the walls below]",
+    "zh_trans": "带我飞过脚下的所有阻碍吧 [Take me over the walls below] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Ported by TuPu",
@@ -641,47 +641,47 @@
   {
     "original": "Fly forever",
     "en_trans": "",
-    "zh_trans": "永远翱翔于天际 [Fly forever]",
+    "zh_trans": "永远翱翔于天际 [Fly forever] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Don't let me go",
     "en_trans": "",
-    "zh_trans": "不要让我离你而去 [Don't let me go]",
+    "zh_trans": "不要让我离你而去 [Don't let me go] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "I need a savior to heal my pain",
     "en_trans": "",
-    "zh_trans": "我需要救世主来抚慰我的痛楚 [I need a savior to heal my pain]",
+    "zh_trans": "我需要救世主来抚慰我的痛楚 [I need a savior to heal my pain] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "When I become my worst enemy",
     "en_trans": "",
-    "zh_trans": "当我成为自己最危险的敌人时 [When I become my worst enemy]",
+    "zh_trans": "当我成为自己最危险的敌人时 [When I become my worst enemy] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "The enemy",
     "en_trans": "",
-    "zh_trans": "危险的敌人 [The enemy]",
+    "zh_trans": "危险的敌人 [The enemy] 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "To be continute...",
