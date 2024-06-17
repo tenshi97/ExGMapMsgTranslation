@@ -101,41 +101,14 @@
   {
     "original": "| STAGE 4 SET AS NEXT STAGE |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 下一关为第四关 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "| STAGE 3 SET AS NEXT STAGE |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
-  },
-  {
-    "original": "| STAGE 1 SET AS NEXT STAGE |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  },
-  {
-    "original": "| STAGE 2 SET AS NEXT STAGE |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
-  },
-  {
-    "original": "| SHIELD |",
+    "original": "| 下一关为第三关 |",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +117,34 @@
     "enable_timer": 0
   },
   {
-    "original": "| BEAM |",
+    "original": "| 下一关为第一关 |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| 下一关为第二关 |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| 存护 |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| 激光 |",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
