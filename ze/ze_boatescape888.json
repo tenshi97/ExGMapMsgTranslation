@@ -86,8 +86,8 @@
     "zh_trans": "**6个随机弹幕关卡**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Waiting 14 seconds**",
@@ -137,7 +137,7 @@
   {
     "original": "> No Name <",
     "en_trans": "",
-    "zh_trans": "> No Name <",
+    "zh_trans": "> 无名 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "> Cyberspace <",
     "en_trans": "",
-    "zh_trans": "> Cyberspace <",
+    "zh_trans": "> 赛博空间 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "**The airboat will depart in 28 seconds**",
     "en_trans": "",
-    "zh_trans": "**空艇将在28秒后启航**",
+    "zh_trans": "**飞船将在28秒后启航**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 28,
@@ -236,7 +236,7 @@
   {
     "original": "**Airboats will depart in 30 seconds**",
     "en_trans": "",
-    "zh_trans": "**空艇将在30秒后启航**",
+    "zh_trans": "**飞船将在30秒后启航**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -308,7 +308,7 @@
   {
     "original": "> Realm <",
     "en_trans": "",
-    "zh_trans": "> Realm <",
+    "zh_trans": "> 领域 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "> Arcana Heart <",
     "en_trans": "",
-    "zh_trans": "> Arcana Heart <",
+    "zh_trans": "> 阿卡纳之心 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -374,8 +374,8 @@
     "zh_trans": "**9个随机弹幕关卡**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 9,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "> Offliner <",
@@ -524,7 +524,7 @@
   {
     "original": "> Luciddream <",
     "en_trans": "",
-    "zh_trans": "> Luciddream <",
+    "zh_trans": "> 清醒梦 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
