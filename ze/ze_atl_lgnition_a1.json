@@ -173,38 +173,38 @@
   {
     "original": "坚持住！电梯还有30s才能启动！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚持住！电梯还有30s才能启动！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "坚持住！10秒后电梯上升！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚持住！10秒后电梯上升！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "消防系统将在30秒后启动！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "消防系统将在30秒后启动！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "坚持住！10秒后火焰熄灭！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚持住！10秒后火焰熄灭！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>秒杀神器已使用！！冷却时间120s！<<",
@@ -227,38 +227,38 @@
   {
     "original": "梯子将在15s后解锁！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "梯子将在15s后解锁！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "梯子将在5s后解锁！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "梯子将在5s后解锁！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "电梯将在30s后上升！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯将在30s后上升",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "电梯将在5s后上升！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯将在5s后上升！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>60s<<",
@@ -299,11 +299,11 @@
   {
     "original": "驾驶员已就位！将在五秒后启动！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "驾驶员已就位！将在5秒后启动！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "刀",
@@ -425,16 +425,16 @@
   {
     "original": "35s门开！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "35s门开！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": ">>快看！是林逸号火箭！我们有救了！这是个疯狂的计划！！！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>快看！是林燕号火箭！我们有救了！这是个疯狂的计划！！！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": ">>林逸号火箭成功发射！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>林燕号火箭成功发射！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

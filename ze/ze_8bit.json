@@ -542,7 +542,7 @@
   {
     "original": "** Player has picked up Electro magic. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取了-[电]-按E原地生成电场减速并伤害僵尸.**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "** Player has picked up Mine. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取了 [地雷]-僵尸接触并引爆地雷 减速僵尸**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "** Player has picked up Fire magick. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取了 [火焰发射器]-按E开关喷火模式 点燃僵尸 燃料可续航20秒.**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "** Player has picked up Stopper magic. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取了[冰]-按E冰冻僵尸. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "** Player has picked up Ammo. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取了 [弹药]-按E生成10秒的弹药力场 无限弹药.**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": "** Player has picked up Heal magic. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取-[治愈魔法]-按E恢复人类HP.**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "** Player has picked up Cannon ultimate. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一名玩家获取了[毁灭者大炮]-按E生成一个直线向前的绿色湮灭光球 杀死路上的僵尸.**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "PHASE 1",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": " 一阶段 1",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -614,16 +614,16 @@
   {
     "original": "PHASE 2",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "二阶段 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "PHASE 1 SHOOT ONLY BLUE BOSS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一阶段只需要射击蓝色Boss即可 1",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,

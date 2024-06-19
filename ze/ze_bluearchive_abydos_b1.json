@@ -209,11 +209,11 @@
   {
     "original": "<<僵尸将在8s后被传送>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<僵尸将在8s后被传送>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 8,
+    "enable_timer": 1
   },
   {
     "original": "<<十连进行中.......>>",
