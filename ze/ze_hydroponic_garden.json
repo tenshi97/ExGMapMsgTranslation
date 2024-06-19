@@ -108,6 +108,69 @@
     "enable_timer": 0
   },
   {
+    "original": "| STAGE 3 SET AS NEXT STAGE |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "| STAGE 1 SET AS NEXT STAGE |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "| STAGE 2 SET AS NEXT STAGE |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "| SHIELD |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| BEAM |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "| SURVIVE FOR 40 SECONDS |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "| 120 SECONDS LEFT |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
     "original": "| 下一关为第三关 |",
     "en_trans": "",
     "zh_trans": "",
@@ -151,23 +214,5 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
-  },
-  {
-    "original": "| SURVIVE FOR 40 SECONDS |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "| 120 SECONDS LEFT |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 120,
-    "enable_timer": 1
   }
 ]
