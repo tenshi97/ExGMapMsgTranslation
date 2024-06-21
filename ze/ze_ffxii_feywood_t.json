@@ -2,7 +2,7 @@
   {
     "original": "WARMUP ROUND - WAITING PLAYERS TO CONNECT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身回 - 等待玩家加入",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "**ZE_FFXII_FEYWOOD**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最终幻想12：幻妖之森**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "**MAP BY HaRyDe & Headshooter.SC**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**地图制作 HaRyDe & Headshooter.SC**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "**WARMUP ROUND**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**热身回**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**特别感谢 Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) 以及 Slayerdragon**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,16 +47,16 @@
   {
     "original": "[MAP HINT MASTER] THE MAP HAS 11 SPECIAL ITEMS - 7 FOR HUMANS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[地图提示] 本图共有 11 个神器 - 人类神器为 7 个",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 11,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "[MAP HINT MASTER] EVERY ITEM APART FROM BERSERK ON THIS MAP CAN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[地图提示] 地图上的每件神器除了狂暴之外都能使用。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "[MAP HINT MASTER] YOUR START LEVEL IS 1.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[地图提示] 你的开始等级为 一级.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -74,7 +74,7 @@
   {
     "original": "**Welcome to Garland airship**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**欢迎来到加德兰飞船**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "**The airship is flying near Feywood. Search for some of items and get ready to set out**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**飞船即将抵达幻妖之森，请拿上神器准备出发**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "**The teleporter to Feywood will be active in 30 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**前往幻妖之森的传送器 30 秒后激活**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -101,7 +101,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BERSERK MAGICK**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 狂暴 魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL\\n ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "仙人掌支线已开启 - 找到仙人掌以提升等级 - 仅有一个人类能升级 | 且仅限于简单难度",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -119,7 +119,7 @@
   {
     "original": "**GET INTO THE TELEPORTER**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**快进传送器**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "**THE GATE WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门 20 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -137,7 +137,7 @@
   {
     "original": "**THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送器 10 秒后激活**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -146,7 +146,7 @@
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了治疗术** (治疗等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -155,7 +155,7 @@
   {
     "original": "**DEFEND THE GROUND FOR 30 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**防守此地 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -164,25 +164,25 @@
   {
     "original": "**CHOCHOBO SIDEQUEST STRATED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**陆行鸟支线已开启**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**",
+    "en_trans": "",
+    "zh_trans": "**找到 300 金币以解锁陆行鸟**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 300,
-    "enable_timer": 1
-  },
-  {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 雷电 魔法** (雷电等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -191,7 +191,7 @@
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了空间扭曲之术** (破坏等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -200,7 +200,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 治疗 魔法** (治疗等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -209,7 +209,7 @@
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了火焰之术** (火焰等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -218,7 +218,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 火焰 魔法** (火焰等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -227,7 +227,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 狂风 魔法** (风等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -236,7 +236,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 暴雪 魔法** (冰冻等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -245,7 +245,7 @@
   {
     "original": "**THE GATES WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门 20 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -254,7 +254,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -263,16 +263,16 @@
   {
     "original": "YOU FOUND THE CACTUS. YOU GOT 100 EXP AND LEVELED UP",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你找到了仙人掌! 你获得了 100 经验并升一级",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Cactus found. The player who did it got 1 level**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**仙人掌找到了。找到仙人掌的玩家将升一级",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -281,7 +281,7 @@
   {
     "original": "**THIS IS A DRAGON**WE MUST KILL HIM**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**这是龙!**我们必须击败他!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "** Nades do more damage **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**手雷能造成更多伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,43 +299,43 @@
   {
     "original": "10% POWER",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "**THE DRAGON USED POISON**",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "10% 能量",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "20% POWER",
+    "original": "**THE DRAGON USED POISON**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 龙使用了 剧毒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
+    "timer_num": 1,
     "enable_timer": 1
+  },
+  {
+    "original": "20% POWER",
+    "en_trans": "",
+    "zh_trans": "20% 能量",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 雷电 魔法** (雷电等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了暗黑之术** (吸力等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -344,7 +344,7 @@
   {
     "original": "**CONGRATILATIONS YOU FINISHED CHOCOBO SIDEQUEST**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**恭喜你完成了陆行鸟支线**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "**CHOCOBO SHOP IS OPENED FOREVER HAVE A GOOD RIDE!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**陆行鸟商店现已开放**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,43 +362,43 @@
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**龙使用了吸血魔法 （每当玩家攻击一次，龙将恢复 10 点血量）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "30% POWER",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**THE DRAGON USED WIND**",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30% 能量",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
+    "original": "**THE DRAGON USED WIND**",
+    "en_trans": "",
+    "zh_trans": "**龙使用了 狂风",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
     "original": "**Human chocobo has been picked up**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**人类已拾取陆行鸟**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "**Zombie chocobo has been picked up**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸已拾取陆行鸟**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "** ADMIN HAS SELECTED NORMAL MODE IN THE ADMIN ROOM **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员在调关房选择了 普通难度 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "NORMAL MODE - Explore the Necrohol of Nabudis. WARNING - Esper.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "普通难度 - 探索死都纳布迪斯 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "**THE ROCK WILL EXPLODE IN 15 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**岩石 15 秒后爆破**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -443,7 +443,7 @@
   {
     "original": "**THE TOMB GATES WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**古墓大门 20 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -452,7 +452,7 @@
   {
     "original": "**THE GATES ARE OPENING**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门开了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": "**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你必须破坏侧房的水晶来打开大门**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**干得漂亮! 大门 20 秒开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -479,7 +479,7 @@
   {
     "original": "**THE GATES WILL OPEN IN 5 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -488,7 +488,7 @@
   {
     "original": "**OH NO! THIS IS A CHAOS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**不好，是混沌**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,43 +497,43 @@
   {
     "original": "**CHAOS HAS CAST DARKAGA**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**混沌释放了暗黑术**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**混沌释放了神圣魔法**快远离他！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**CHAOS HAS CAST TORNADO**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**混沌释放了风暴魔法**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**CHAOS HAS CAST THUNDAGA**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**混沌释放了雷电魔法****",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**WE HAVE DEFEATED CHAOS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们击败混沌了!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们必须尽快离开这座古墓**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们很快就离开古墓了。大门 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -560,7 +560,7 @@
   {
     "original": "**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**飞船 25 秒后离开. 坚守阵地**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -569,7 +569,7 @@
   {
     "original": "**5 SECONDS LEFT**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**还剩 5 秒**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -578,7 +578,7 @@
   {
     "original": "**THE AIR SHIP IS LEAVING...**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 飞船正在离开... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,25 +587,25 @@
   {
     "original": "** GOOD JOB [YOU WON LEVEL 2] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮，你们通过了第二关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "+100 EXP GAINED. YOU HAVE LEVELED UP",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "获得 100 点经验，你升级了!",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "HARD MODE - Explore the Golmore Jungle and locate the Jungle Tomb. WARNING - Dragon.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "困难模式 - 探索葛尔摩大密林并找到古代遗迹",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 火焰 魔法** (火焰等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -623,7 +623,7 @@
   {
     "original": "**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送器 15 秒后激活**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -632,7 +632,7 @@
   {
     "original": "**YOU ARE ENTERING THE GOLMORE JUNGLE**GOOD LUCK**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你进入了葛尔摩大密林，祝你好运**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "**YOU WILL ENTER IN 5 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你将在 5 秒后进入**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -650,7 +650,7 @@
   {
     "original": "**THE WAY WILL OPEN IN 25 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**道路将在 25 秒后开放**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -659,16 +659,16 @@
   {
     "original": "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 狂风 魔法** (风等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE WAY IS OPENED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**道路现已开放**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**道路将在 25 秒后开放**保持防御**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -686,7 +686,7 @@
   {
     "original": "**..WHAT IS IT?!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**..这是什么?!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": "**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在僵尸追上我们之前把龙给干掉**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,52 +704,52 @@
   {
     "original": "**WATCH OUT FOR THE STRONG WIND**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**小心强风!**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**THE DRAGON HAS CAST DARKAGA**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**龙释放了 暗黑魔法**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**THE DRAGON HAS CAST POISON**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**龙释放了 剧毒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 暴雪 魔法** (冰冻等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 治疗 魔法** (治疗等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE DRAGON IS FLYING AWAY** GO TO THE TOMB**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**龙逃走了** 快前往遗迹吧**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,16 +758,16 @@
   {
     "original": "SHOOT THE GLASS BALL BEFORE IT IS TOO LATE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**快!向!水晶球射击!**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们做到了!!**快进到小房间防守一会**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,7 +776,7 @@
   {
     "original": "**THE GATES WILL CLOSE IN 25 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门 25 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -785,7 +785,7 @@
   {
     "original": "**THE GATES ARE CLOSING**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门正在关闭**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,16 +794,16 @@
   {
     "original": "** GOOD JOB [YOU WON LEVEL 3] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮，你们通过了第三关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "EXTREME MODE - Discover the Garamsythe Waterway. WARNING - Esper.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "极限模式 - 探索加兰赛兹水路",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,34 +812,34 @@
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了暗黑之术** (吸力等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了空间扭曲之术** (破坏等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "** ADMIN HAS SELECTED LEGEND MODE IN THE ADMIN ROOM **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员在调关房选择了 传奇难度 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "LEGEND MODE - Make it to Henne Mines through the Tomb and fight Zodiark.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "传奇难度 - 通过古墓抵达赫尼矿洞，并于佐迪亚克决战",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": "**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**飞船遭到护卫攻击**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,16 +866,16 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**仙人掌挡住了我们的去路**做掉他!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,16 +884,16 @@
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 雷电 魔法** (雷电等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送器 20 秒后激活**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -902,7 +902,7 @@
   {
     "original": "**THE GATES WILL OPEN IN 10 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门 10 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -911,7 +911,7 @@
   {
     "original": "**HOLD HERE FOR 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**守住这里 20 秒**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -920,7 +920,7 @@
   {
     "original": "**THE FENCES WILL OPEN SOON**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**栅栏很快打开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,25 +929,25 @@
   {
     "original": "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 火焰 魔法** (火焰等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 狂风 魔法** (风等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**赫尼矿洞入口 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -956,7 +956,7 @@
   {
     "original": "**Good luck...**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**祝你好运..**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": "**YOU WILL ENTER THE ARENA IN 10 SECONDS****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你将在 10 秒后进入决斗场**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -974,7 +974,7 @@
   {
     "original": "**Nades do more damage**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**手雷能造成更多伤害**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,16 +983,16 @@
   {
     "original": "**ZODIARK READIES SHIELD(BULLETS AND NADES DON'T DAMAGE HIM)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**佐迪亚克准备释放护盾（子弹和手雷无法造成伤害)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "HASTE +1",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "速度提升一级",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1001,70 +1001,70 @@
   {
     "original": "**ZODIARK READIES DARK. USE HEAL IF NESSESARY**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**佐迪亚克准备释放暗黑魔法。如果需要请开奶",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**ZODIARK READIES FLARE**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**佐迪亚克准备释放烈焰**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**佐迪亚克准备释放消除激光** 远离他!!!***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "HASTE +2",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "速度提升两级",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "HASTE +3",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "速度提升三级",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "HASTE +4",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "速度提升四级",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**Boss现在受重伤了!现在他的攻击性将更强!**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "HASTE +5(MAX POWER)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "速度提升至最大上限",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1073,7 +1073,7 @@
   {
     "original": "**KILL HIM FASTER**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**快杀了他!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1082,7 +1082,7 @@
   {
     "original": "**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**佐迪亚克准备释放最终一击!!!**所有人将在 15 秒后死亡**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1091,7 +1091,7 @@
   {
     "original": "**NADES AREN'T DAMAGE HIM NOW**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**现在手雷无法对他造成伤害!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1100,16 +1100,16 @@
   {
     "original": "**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后的机会**手雷和子弹将对Boss造成两倍伤害!!**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 200,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你击败了佐迪亚克!!!** 现在快离开赫尼矿洞!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "50 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 50 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -1127,7 +1127,7 @@
   {
     "original": "**THE END GATES WILL OPEN IN 50 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最终的大门 50 秒后开启!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -1136,7 +1136,7 @@
   {
     "original": "45 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 45 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -1145,7 +1145,7 @@
   {
     "original": "40 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 40 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -1154,7 +1154,7 @@
   {
     "original": "35 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 35 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -1163,7 +1163,7 @@
   {
     "original": "30 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 30 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1172,7 +1172,7 @@
   {
     "original": "25 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 25 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -1181,7 +1181,7 @@
   {
     "original": "20 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 20 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1190,7 +1190,7 @@
   {
     "original": "15 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 15 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1199,7 +1199,7 @@
   {
     "original": "**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后的大门 10 秒后开启** Prepare to meet your end, attack!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1208,7 +1208,7 @@
   {
     "original": "10 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 10 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1217,7 +1217,7 @@
   {
     "original": "5 SECONDS LEFT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还剩 5 秒!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1226,7 +1226,7 @@
   {
     "original": "**DEFEND THIS PLACE FOR 15 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**守住这个地方 15 秒!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1235,7 +1235,7 @@
   {
     "original": "**GO GO GO!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**GO GO GO!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1244,16 +1244,16 @@
   {
     "original": "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一位玩家习得了 治疗 魔法** (治疗等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**WE KILLED HIM. GO TO THE END OF THE ROAD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们击败他了! 快前往最后的道路!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1262,7 +1262,7 @@
   {
     "original": "**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**这个地方 15 秒后坍塌。待在这里!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1271,16 +1271,16 @@
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了治疗术** (治疗等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "** CONGRATILATIONS!!! [YOU WON LEVEL 5] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你们是冠军!!!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1289,7 +1289,7 @@
   {
     "original": "YOU WON THE MAP. YOU GOT MAXIMUM ITEM LEVEL ANYWAY",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**全图结束! 你现在可以获得所有最高等级的神器!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

@@ -456,7 +456,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** Tumult - use heal **",
@@ -590,13 +590,13 @@
     "zh_trans": "** 第三关: 逃出生天 *",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "** Find another key item!! **",
     "en_trans": "",
-    "zh_trans": "** 找到另一件关键物品!! **",
+    "zh_trans": "** 找到另一把钥匙!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "** Maze exit is opening in 35s **",
     "en_trans": "",
-    "zh_trans": "**迷宫出口 25 秒后开启 **",
+    "zh_trans": "**迷宫出口 35 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -677,7 +677,7 @@
   {
     "original": "** Elevator is leaving in 20s **",
     "en_trans": "",
-    "zh_trans": "** 电梯 25 秒后离开 **",
+    "zh_trans": "** 电梯 20 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -713,7 +713,7 @@
   {
     "original": "** Swallow **",
     "en_trans": "",
-    "zh_trans": "** 淹没一切**",
+    "zh_trans": "** 吞没一切**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
