@@ -110,34 +110,34 @@
   {
     "original": "| STAGE 3 SET AS NEXT STAGE |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 下一关为第三关 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "| STAGE 1 SET AS NEXT STAGE |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 下一关为第一关 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "| STAGE 2 SET AS NEXT STAGE |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 下一关为第二关 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "| SHIELD |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 护盾 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "| BEAM |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 激光 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "| SURVIVE FOR 40 SECONDS |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 生存 40 秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -164,61 +164,16 @@
   {
     "original": "| 120 SECONDS LEFT |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 还剩 120 秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
     "enable_timer": 1
   },
   {
-    "original": "| 下一关为第三关 |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "| 下一关为第一关 |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "| 下一关为第二关 |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "| 存护 |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "| 激光 |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
     "original": "| Zombie heal |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 僵尸治疗 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +191,7 @@
   {
     "original": "| Zombie gravity |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 僵尸重力 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +200,7 @@
   {
     "original": "| Zombie beam |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 僵尸激光 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
