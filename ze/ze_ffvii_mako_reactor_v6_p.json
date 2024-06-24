@@ -11,7 +11,7 @@
   {
     "original": "** HEAL Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 治疗 已拾取. **",
+    "zh_trans": "** 治疗 魔晶石已拾取. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "** WIND Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 风 已拾取 **",
+    "zh_trans": "** 风 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "** ELECTRO Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 电 已拾取 **",
+    "zh_trans": "** 电 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "** ULTIMA Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 终极 已拾取 **",
+    "zh_trans": "** 终极 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "** MIMIC Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 模仿 已拾取 **",
+    "zh_trans": "** 复制 已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "** BARRIER Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 障碍物 已拾取 **",
+    "zh_trans": "** 盾 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "** EARTH Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 土 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "** BIO Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 毒 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "** FIRE Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 火 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "** ICE Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "** GRAVITY Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 重力 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,16 +218,16 @@
   {
     "original": "< Only the chosen may survive! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 唯选中者，或能存活 - Only The Chosen MAY survive!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "< Say goodbye! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< Say goodbye! >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "< Slow! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 太慢了! 太慢了! >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
