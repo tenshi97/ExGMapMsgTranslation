@@ -11,25 +11,25 @@
   {
     "original": "*** Heli is leaving in one minute. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 直升机 60 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "*** Trains are leaving in one minute. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 火车 60 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "*** Generator room will open in 8s. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 机房 8 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -38,7 +38,7 @@
   {
     "original": ".. Train station gate open in 5 seconds!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ".. 火车站大门 5 秒后开启!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -47,7 +47,7 @@
   {
     "original": "*** Heli is leaving in 30s. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 直升机 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -56,7 +56,7 @@
   {
     "original": "*** Trains are leaving in 30s. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火车 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -65,7 +65,7 @@
   {
     "original": "*** Heli is leaving!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 直升机已起飞!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "*** Trains are leaving!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火车正在驶离站台 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "*** Generator room will close in 2s. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 机房 2 秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -92,7 +92,7 @@
   {
     "original": ".. Train station gate close in 10 seconds!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "... 火车站大门 10 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -101,7 +101,7 @@
   {
     "original": "*** Nuke will be launched in 30s. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 30 秒后核爆 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
