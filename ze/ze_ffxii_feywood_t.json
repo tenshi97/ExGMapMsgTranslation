@@ -1298,7 +1298,7 @@
   {
     "original": "[MAP HINT MASTER] HUMAN ITEMS CAN AFFECT ON BOSSES.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[地图提示] 人类神器可对Boss造成伤害",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1307,7 +1307,7 @@
   {
     "original": "[MAP HINT MASTER] HUMAN ITEMS THAT CAN BE LEVELED UP",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[地图提示] 人类神器可升级",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1316,16 +1316,16 @@
   {
     "original": "[MAP HINT MASTER] YOU NEED 100 EXP TO GET LEVEL TO HUMAN ITEMS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[地图提示] 你需要 100 点经验升级，以获取神器",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**MAP START**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**游戏开始**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1334,7 +1334,7 @@
   {
     "original": "**THE DRAGON USED FIRE**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 龙 使用了火焰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1343,34 +1343,34 @@
   {
     "original": "40% POWER",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "40% 能量",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "50% POWER",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "50% 能量",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "60% POWER",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "60% 能量",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**THE DRAGON IS FLYING AWAY**GOOD WORK**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 龙跑了 ** 干得漂亮 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1379,7 +1379,7 @@
   {
     "original": "**THE ROCK WILL EXPLODE IN 5 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巨石 5 秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1388,7 +1388,7 @@
   {
     "original": "**THE TOMB GATES WILL OPEN IN 10 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 古墓大门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1397,7 +1397,7 @@
   {
     "original": "**THE TOMB GATES WILL CLOSE IN 25 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 古墓大门 25 秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -1406,7 +1406,7 @@
   {
     "original": "**THE TOMB GATES WILL CLOSE IN 5 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 古墓大门 5 秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1415,16 +1415,16 @@
   {
     "original": "** GOOD JOB [YOU WON LEVEL 1] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮 你完成了 第一关 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**CHAOS HAS CAST BLIZZAGA**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 混沌释放了 暴雪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1433,16 +1433,16 @@
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸拾起了 火焰之术 ** (火焰等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**THE GATES WILL OPEN IN 25 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -1451,7 +1451,7 @@
   {
     "original": "**FALL BACK**10 SECONDS LEFT**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退 ** 还剩 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1460,25 +1460,25 @@
   {
     "original": "**CHUCHULAINN HAS HEALED 150 HP**",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 150,
-    "enable_timer": 1
-  },
-  {
-    "original": "**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 库丘林 回复了 150 点血量 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
+    "original": "**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**",
+    "en_trans": "",
+    "zh_trans": "** 库丘林 使用了大量毒气攻击 - 快远离他 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
     "original": "**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 他死了 ** 快离开神庙 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1487,7 +1487,7 @@
   {
     "original": "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 15 秒后开启** 坚持住!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1496,7 +1496,7 @@
   {
     "original": "**THE LAST GATES WILL OPEN IN 20 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后的大门将在 20 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1505,7 +1505,7 @@
   {
     "original": "**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**快去桥的另一头，然后防守 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1514,7 +1514,7 @@
   {
     "original": "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你必须杀死全部残存的僵尸才能取得胜利 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1523,16 +1523,16 @@
   {
     "original": "**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 库丘林 使用了护盾 （神器已禁用十秒)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**ZOMBE CAGE OPEN**YOU HAVE FAILED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**尸笼开了** 你们输了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1541,16 +1541,16 @@
   {
     "original": "** GOOD JOB [YOU WON LEVEL 4] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮 你们通过了 第四关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "ZOMBIE ROUND - Survive with zombies.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ZM关 - 活下去",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1559,7 +1559,7 @@
   {
     "original": "**THE MAP IS BEATEN. ZOMBIE ROUNDS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已全图通关，可以rtv了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1568,7 +1568,7 @@
   {
     "original": "**THE TELEPORTER TO RABANASTRA IS OPENED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 前往拉巴纳斯塔的传送器已激活 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1577,7 +1577,7 @@
   {
     "original": "**TRY TO SURVIVE WITHOUT ANY ITEMS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在没有任何神器的情况下活下来**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1586,7 +1586,7 @@
   {
     "original": "**RELAX AND JUST ENJOY THE MUSIC)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**听听歌放松一下 :)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1595,19 +1595,19 @@
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** **僵尸拾起了暗黑之术** (吸力等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**4 MINUTES LEFT!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 240 秒!**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
+    "timer_num": 240,
     "enable_timer": 1
   }
 ]
