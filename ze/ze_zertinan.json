@@ -290,7 +290,7 @@
   {
     "original": "**Defend 30s**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -299,7 +299,7 @@
   {
     "original": "> The Esper Adrammelech fight in 10 seconds <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 10 秒后进入与召唤兽亚得米勒的战斗 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -308,61 +308,61 @@
   {
     "original": "**Quicksandl**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 流沙 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Adramelech is summoning the Sandmoster**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 亚得米勒正在召唤沙之怪物 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Flash Arc**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 弧形闪电 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Thundara**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 雷鸣 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Judgment Bolt**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 制裁之雷 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Heal**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 治愈 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Defend 20s**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守 20 秒**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -371,7 +371,7 @@
   {
     "original": "> The Esper Shemhazai fight in 10 seconds <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 10 秒后进入与告密者谢米哈扎的战斗 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -380,43 +380,43 @@
   {
     "original": "** Clouds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 乌云 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Devour Soul**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 噬魂 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Soul Purge**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 灵魂净化 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Gravity **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 重力 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** too late **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 太晚了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "**Defend 10s**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -434,7 +434,7 @@
   {
     "original": "** Judge drace? Why she is here.. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 审判官德蕾丝？她为何在此？**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "** Ice **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,25 +452,25 @@
   {
     "original": "** Flash Freeze **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 速冻 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Reflexive **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 反射 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Cidolfus is gone, we have to find a way to get out from here first. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 西多弗斯 已经死了，我们要先找到离开这里的路 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 按照希多弗斯所言，基鲁菲冈将是我们的下一站。**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** 240s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 240 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 240,
