@@ -169,5 +169,50 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "<-15->",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<-20->",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<-40->",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Wind[Backward]**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Wind[Forward]**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
