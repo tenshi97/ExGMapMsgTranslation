@@ -164,11 +164,11 @@
   {
     "original": "zombie tp in 7 seconds",
     "en_trans": "",
-    "zh_trans": "僵尸传送7秒后到达",
+    "zh_trans": "僵尸在7秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "bird?",
@@ -191,7 +191,7 @@
   {
     "original": "Don't run. Don't be afraid",
     "en_trans": "",
-    "zh_trans": "别跑。别害怕",
+    "zh_trans": "不用跑，不用怕。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "Come to me",
     "en_trans": "",
-    "zh_trans": "到我这里来",
+    "zh_trans": "来找我",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "Let's get out together",
     "en_trans": "",
-    "zh_trans": "我们一起出去",
+    "zh_trans": "我们一起离开这吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "I won't give you a second this time",
     "en_trans": "",
-    "zh_trans": "这次我不会给你一秒钟的机会",
+    "zh_trans": "我不会给你第二次机会了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,11 +308,11 @@
   {
     "original": "zombie tp in 5seconds",
     "en_trans": "",
-    "zh_trans": "僵尸传送5秒后到达",
+    "zh_trans": "僵尸在5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "The final elevator will start in 25seconds",
@@ -320,13 +320,13 @@
     "zh_trans": "最后的电梯将在25秒后启动",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "zombie tp in 15seconds",
     "en_trans": "",
-    "zh_trans": "僵尸传送15秒后到达",
+    "zh_trans": "僵尸在15秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "It's me. I'm your psychologist, Danny",
     "en_trans": "",
-    "zh_trans": "是我。我是你的心理医生，丹尼",
+    "zh_trans": "是我，你的心理医生，丹尼",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "*ray* Are you my psychologist?",
     "en_trans": "",
-    "zh_trans": "*ray* 你是我的心理医生吗？",
+    "zh_trans": "*ray* 你是我的心理医生吗",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "Yeah, don't you remember?",
     "en_trans": "",
-    "zh_trans": "是的，你不记得了吗？",
+    "zh_trans": "是啊， 你不记得了吗 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "But don't worry. I'm really your doctor",
     "en_trans": "",
-    "zh_trans": "但别担心。我真的是你的医生",
+    "zh_trans": "别担心，我真的是你的医生",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "*ray* Who is going to kill me?",
     "en_trans": "",
-    "zh_trans": "*ray* 谁要杀我？",
+    "zh_trans": "*ray* 谁要来杀我",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "I'm afraid the one who chased you is a murderer",
     "en_trans": "",
-    "zh_trans": "恐怕追你的人是个杀手",
+    "zh_trans": "恐怕追你的人是一个杀人犯",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "*ray* Doctor, we need to run quickly",
     "en_trans": "",
-    "zh_trans": "*ray* 医生，我们需要快点跑",
+    "zh_trans": "*ray* 医生，我们得跑快点",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "It doesn't matter. He can't get to this floor",
     "en_trans": "",
-    "zh_trans": "没关系。他上不了这层楼",
+    "zh_trans": "这不重要，他到不了这一层",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "Rachel, let's go find the exit",
     "en_trans": "",
-    "zh_trans": "瑞秋，我们去找出口吧",
+    "zh_trans": "瑞吉儿，我们一起去找出口吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "zombie tp in 10seconds",
     "en_trans": "",
-    "zh_trans": "僵尸传送10秒后到达",
+    "zh_trans": "僵尸在10秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "*ray* What are the rules?",
     "en_trans": "",
-    "zh_trans": "*ray* 规则是什么？",
+    "zh_trans": "*ray* 规则是什么",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": "There are probably some rules here",
     "en_trans": "",
-    "zh_trans": "这里可能有一些规则",
+    "zh_trans": "这里估计有一些规则",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "*ray* What is the wish?",
     "en_trans": "",
-    "zh_trans": "*ray* 愿望是什么？",
+    "zh_trans": "愿望是什么",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "Close the elevator door after 15 seconds",
     "en_trans": "",
-    "zh_trans": "15秒后关闭电梯门",
+    "zh_trans": "过15秒后电梯门关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1082,7 +1082,7 @@
   {
     "original": "The door will open in 15 seconds",
     "en_trans": "",
-    "zh_trans": "门将在15秒后开",
+    "zh_trans": "门将在15秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1748,7 +1748,7 @@
   {
     "original": "*zack* What's the meaning of this?",
     "en_trans": "",
-    "zh_trans": "*zack*这是什么意思",
+    "zh_trans": "*zack* 这个的意义是什么",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1784,7 +1784,7 @@
   {
     "original": "Zombie teleport in 10 seconds",
     "en_trans": "",
-    "zh_trans": "僵尸将在10秒后传送",
+    "zh_trans": "僵尸在10秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -2936,7 +2936,7 @@
   {
     "original": "Zombie teleport in 5 seconds",
     "en_trans": "",
-    "zh_trans": "僵尸将在5秒后传送",
+    "zh_trans": "僵尸5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
