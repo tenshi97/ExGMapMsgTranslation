@@ -164,11 +164,11 @@
   {
     "original": "**30秒后传送(不在桥上的都会被传送)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**30秒后传送(不在桥上的都会被传送)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "**前面的车挡住我们了，先守住这里!!!**",
@@ -218,38 +218,38 @@
   {
     "original": "**传送在10秒后**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送在10秒后**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**防守20秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**防守20秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**10秒后传送房间外的所有玩家**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**10秒后传送房间外的所有玩家**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**20秒后打破玻璃**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**20秒后打破玻璃**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**快跳在桥上!!!**",
@@ -263,29 +263,29 @@
   {
     "original": "**10秒后传送顶层玩家**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**10秒后传送顶层玩家**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**最后20秒,坚持住**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后20秒,坚持住**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**直升机离开还剩20秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**直升机离开还剩20秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**有奇怪的东西上了直升机，任务失败!!!**",
@@ -308,11 +308,11 @@
   {
     "original": "**自由模式,300秒后核爆，等待rtv换图(Survive for 300seconds)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**自由模式,300秒后核爆，等待rtv换图**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 300,
+    "enable_timer": 1
   },
   {
     "original": "**电梯门被禁用，一些道路将开放(the elevator door button has been Disable)**",
