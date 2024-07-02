@@ -2,7 +2,7 @@
   {
     "original": "Welcome to the city of NEO EXUYAN",
     "en_trans": "",
-    "zh_trans": "欢迎来到Neo Exuyan市",
+    "zh_trans": "欢迎来到霓虹都市",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "The door should open shortly, this should take to the Apartment Complex",
     "en_trans": "",
-    "zh_trans": "这扇门很快打开，这应该会把我们带到Complex公寓",
+    "zh_trans": "这扇门很快打开，这应该会把我们带到复合公寓",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "The trains are leaving for the Upper-Echelon District! JUMP ON!!!",
     "en_trans": "",
-    "zh_trans": "火车正在离开Upper-Echelon区！跳到火车上！",
+    "zh_trans": "火车正在离开上层区！跳到火车上！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -581,7 +581,7 @@
     "zh_trans": "后续将在第2部",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
