@@ -191,7 +191,7 @@
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了空间扭曲之术** (破坏等级 - 一级)**",
+    "zh_trans": "**僵尸拾起了破坏之术** (破坏等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -830,7 +830,7 @@
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了空间扭曲之术** (破坏等级 - 二级)**",
+    "zh_trans": "**僵尸拾起了破坏之术** (破坏等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1613,16 +1613,16 @@
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了破坏之术** (破坏等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**3 MINUTES LEFT!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 180 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -1631,7 +1631,7 @@
   {
     "original": "**2 MINUTES LEFT!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 120 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -1640,7 +1640,7 @@
   {
     "original": "**1 MINUTE LEFT**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1649,7 +1649,7 @@
   {
     "original": "**30 SECONDS LEFT!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1658,7 +1658,7 @@
   {
     "original": "**15 SECONDS LEFT!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 15 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1667,7 +1667,7 @@
   {
     "original": "**5 SECONDS LEFT!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1676,7 +1676,7 @@
   {
     "original": "**THANK YOU FOR PLAYING THE MAP**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 感谢你游玩本图 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1685,7 +1685,7 @@
   {
     "original": "**CHAOS HAS CAST FIRAGA**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 混沌释放了 火焰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
