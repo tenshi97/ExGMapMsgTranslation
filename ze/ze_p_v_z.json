@@ -113,8 +113,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>还剩5秒<<",
@@ -122,8 +122,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "豌豆射手：锄头已经被挪开了,大家快后撤",
@@ -221,8 +221,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>通往下水道口的栅栏将在10秒后消失<<",
@@ -230,8 +230,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>通往下水道口的栅栏将在5秒后消失<<",
@@ -239,8 +239,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>通往下水道口的栅栏已经消失<<",
@@ -329,8 +329,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>铁丝网消失了<<",
@@ -446,8 +446,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>门被西瓜投手打开了<<",
@@ -545,8 +545,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>铁栅门打开了<<",
@@ -572,8 +572,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>第二个铁栅门打开了<<",
@@ -626,8 +626,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>塔吊梯子已开放<<",
@@ -689,8 +689,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": ">>需要一楼与三楼均有玩家才能开门<<",
@@ -704,11 +704,11 @@
   {
     "original": ">>一楼的门将在30秒后打开；三楼的窗户将在35秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一楼的门将在倒计时显示五的时候打开；三楼的窗户将在35秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": ">>一楼的门打开了<<",
@@ -734,8 +734,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>四楼的窗户破碎了<<",
@@ -752,8 +752,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>第二个房子的二楼玻璃碎了<<",
@@ -779,8 +779,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>四楼的玻璃碎掉了<<",
@@ -806,8 +806,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": ">>现在可以从二楼的楼梯上到四楼了<<",
@@ -896,8 +896,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>20秒后移动平台启动<<",
@@ -905,8 +905,8 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>跳进烟囱口<<",
