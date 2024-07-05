@@ -1694,16 +1694,16 @@
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了治疗术** (治疗等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
     "original": "**YOU HAVE FAILED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你失败了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1712,10 +1712,10 @@
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸拾起了火焰之术** (火焰等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   }
 ]
