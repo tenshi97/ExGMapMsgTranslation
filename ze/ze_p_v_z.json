@@ -1,6 +1,6 @@
 [
   {
-    "original": "*** 禁地斯狄科 ***",
+    "original": ">>关卡1：菜园<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈,开局天窗处有增强熊人击退的按钮,需要请联系管理员帮助 ***",
+    "original": "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "--地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--",
+    "original": ">>一只僵尸策反了一个豌豆射手<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 拉法库巴封印了石碑的魔力,我们必须找到他! **",
+    "original": ">>出生区域的传送已启动<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,17 +36,8 @@
     "enable_timer": 0
   },
   {
-    "original": "**传送25秒后将被打开**",
+    "original": "向日葵：这戴夫的院子怎么这么乱",
     "en_trans": "",
-    "zh_trans": "**传送25秒后将被打开**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**一名玩家拾取了【暴风雪】**",
-    "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
@@ -54,7 +45,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**一名玩家拾取了【寒风】**",
+    "original": "豌豆射手：之后一定要好好拷打下这戴夫，大家现在赶紧去准备下搬开前面那个横在路上的锄头",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,7 +54,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**净化水晶已经解封**",
+    "original": ">>需要同时在三个不同的部位搬起锄头<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,25 +63,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**有一名玩家化身成为了【精灵法师】**",
+    "original": ">>锄头头部已经就绪<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
-  },
-  {
-    "original": "**斯狄科雪域大门将在60秒后打开**",
-    "en_trans": "",
-    "zh_trans": "**斯狄科雪域大门将在60秒后打开**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
   },
   {
-    "original": "**【雷沃尔熊人】已经苏醒了**",
+    "original": ">>门外玩家即将传送到门内<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +81,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**一名玩家拾取了【冰磊】**",
+    "original": ">>锄头柄已经就绪<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**我们需要摧毁岩石**",
+    "original": ">>锄头尾部已经就绪<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,7 +99,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**僵尸已经拾取了【生命分离】**",
+    "original": ">>锄头将会在45秒后被抬走<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,7 +108,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**也许冰磊可以帮助我们**",
+    "original": ">>还剩15秒<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,34 +117,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**一名玩家拾取了【圣盾】**",
+    "original": ">>还剩5秒<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
-  },
-  {
-    "original": "**斯狄科雪域大门将在5秒后关闭**",
-    "en_trans": "",
-    "zh_trans": "**斯狄科雪域大门将在5秒后关闭**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "**20秒后打开石门**",
-    "en_trans": "",
-    "zh_trans": "**20秒后打开石门**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
   },
   {
-    "original": "**一名玩家拾取了【寒霜剑】**",
+    "original": "豌豆射手：锄头已经被挪开了,大家快后撤",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -171,7 +135,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**圣盾消失了**",
+    "original": ">>AFK传送已激活<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,7 +144,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**僵尸已经拾取了【冰环】**",
+    "original": "豌豆射手：还好戴夫永远不会关菜园的栅栏门，不然又要花好多时间来破坏这个门了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -189,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**等待封锁解除**",
+    "original": "豌豆射手：大家快去敲戴夫的门，他只要把我们接到屋子里就安全了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,7 +162,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**封锁已解除，我们继续前进!**",
+    "original": "向日葵：戴夫，开门！我是向日葵，有一堆僵尸在追我们！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +171,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**一名玩家拾取了【治疗法杖】**",
+    "original": "向日葵：开门啊！我知道你在家里！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,7 +180,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**精灵法师被击败!**",
+    "original": "豌豆射手：这戴夫怕不是睡着了，看来得另外找个路进他家了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -225,25 +189,16 @@
     "enable_timer": 0
   },
   {
-    "original": "** Hunting begins **",
+    "original": "向日葵：戴夫家的下水道是能走的，就在菜园的另一边",
     "en_trans": "",
-    "zh_trans": "** 狩猎开始 **",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
-  },
-  {
-    "original": "**大门将在40秒后打开**",
-    "en_trans": "",
-    "zh_trans": "**大门将在40秒后打开**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
   },
   {
-    "original": "**尸体中隐藏的秘密（x2）**",
+    "original": "坚果墙：走下水道？口区",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,7 +207,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**晶体被破坏，周围的空气开始凝结**",
+    "original": "豌豆射手：没办法了，僵尸追这么紧，不想变成食物的话只能走下水道了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -261,7 +216,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**尸体中隐藏的秘密(x1)**",
+    "original": ">>通往下水道口的栅栏将在30秒后消失<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -270,7 +225,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**剑上的冰已经融化了**",
+    "original": ">>通往下水道口的栅栏将在10秒后消失<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -279,7 +234,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**右侧门已开放**",
+    "original": ">>通往下水道口的栅栏将在5秒后消失<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -288,7 +243,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**晶体被破坏，周围的空气变得异常**",
+    "original": ">>通往下水道口的栅栏已经消失<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -297,34 +252,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**炸弹将在20秒后爆炸**",
+    "original": "豌豆射手：下水道口怎么还有栅栏的，大家赶紧把这个铁栅栏打烂！",
     "en_trans": "",
-    "zh_trans": "**炸弹将在20秒后爆炸**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "大门将在30秒后被摧毁**",
-    "en_trans": "",
-    "zh_trans": "大门将在30秒后被摧毁",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**大门将在30秒后打开**",
-    "en_trans": "",
-    "zh_trans": "**大门将在30秒后打开**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**尸体中隐藏的秘密（x3）**",
+    "original": ">>已解锁所有非关卡道中出现的神器<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -333,16 +270,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**传送将在20秒后打开**",
+    "original": ">>关卡已设置为：屋顶<<",
     "en_trans": "",
-    "zh_trans": "**传送将在20秒后打开**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**晶体被破坏,周围的空气变得猛烈**",
+    "original": ">>关卡5：屋顶<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -351,7 +288,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 凡人!止步于此! **",
+    "original": "豌豆射手：这屋顶怎么搞了那么多违章建筑",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -360,7 +297,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**尸体中隐藏的秘密（x4）**",
+    "original": "向日葵：别管那么多了，我们是来修天线的",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -369,7 +306,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**一名玩家拾取了【恶魔契约】**",
+    "original": "向日葵：虽然不知道要往哪走，不过往天线方向走肯定没问题的",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -378,16 +315,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**40秒后炸毁岩石**",
+    "original": ">>需要左右路同时存在玩家<<",
     "en_trans": "",
-    "zh_trans": "**40秒后炸毁岩石**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**找到部分神奇的水晶**",
+    "original": ">>铁丝网将在30秒后消失<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -396,16 +333,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**瞭望塔的玻璃会在5秒后破碎**",
+    "original": ">>铁丝网消失了<<",
     "en_trans": "",
-    "zh_trans": "**瞭望塔的玻璃会在5秒后破碎**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "** 这将是最后一次警告! **",
+    "original": "豌豆射手：这门怎么还要钥匙的",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -414,25 +351,25 @@
     "enable_timer": 0
   },
   {
-    "original": "**45秒后进入埃洛斯宫殿**",
+    "original": "向日葵：对面的屋子里好像有人，过去问下他呢",
     "en_trans": "",
-    "zh_trans": "**45秒后进入埃洛斯宫殿**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 45,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**35秒后门打开**",
+    "original": "豌豆射手：行！带伙们，给这两个铁栅门拆了！",
     "en_trans": "",
-    "zh_trans": "**35秒后门打开**",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**捷径路开放**",
+    "original": ">>现在可以拆掉铁栅门了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -441,7 +378,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**发生了意料之外的事情，水开始上涨了！**",
+    "original": ">>一只僵尸找到了一个惊喜盒子<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -450,7 +387,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**【雷沃尔熊人】已被消灭 **",
+    "original": "西瓜投手：谁这么吵啊！我在睡午觉呢！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -459,7 +396,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈 ***",
+    "original": ">>一名玩家获得了西瓜投手<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -468,7 +405,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**一名玩家拾取了【冰垒】**",
+    "original": "西瓜投手：啊？谁把我门拆了！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -477,16 +414,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**斯狄科雪域大门将在10秒后打开**",
+    "original": "豌豆射手：西瓜兄怎么在这睡午觉，我们现在要去修下天线，能帮我们开下门嘛",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**攻击岩石的脆弱部分!**",
+    "original": "西瓜投手：开门是没问题，但是你们等会要给我把门修好",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -495,34 +432,34 @@
     "enable_timer": 0
   },
   {
-    "original": "**等待5秒封锁解除**",
+    "original": "西瓜投手：来吧，我来给你们开门",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**大门将在10秒后打开**",
+    "original": ">>15秒后开门<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "** 20秒后升起石柱 **",
+    "original": ">>门被西瓜投手打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**左侧拉杆已拉动**",
+    "original": "西瓜投手：这地方是屋顶的建筑材料仓库，右边那个门的钥匙放在我办公室里的",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -531,25 +468,25 @@
     "enable_timer": 0
   },
   {
-    "original": "** 10秒后僵尸传送 **",
+    "original": "西瓜投手：就在左边走到头，三叶草应该知道位置",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**5秒后左侧门开放**",
+    "original": "坚果墙：话说这些东西是戴夫让你们建的吗",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**右侧拉杆已拉动**",
+    "original": "西瓜投手：那当然咯，我也不知道他咋想的，他就说在他屋顶盖几栋房子",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -558,43 +495,43 @@
     "enable_timer": 0
   },
   {
-    "original": "**大门将在50秒后被摧毁**",
+    "original": "土豆雷：纯纯违章建筑来的……",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**5秒后右侧门开放**",
+    "original": "三叶草：等下，我来开门",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**大门将在10秒后被摧毁**",
+    "original": ">>一只僵尸找到了一辆雪橇车<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "大门将在5秒后被摧毁**",
+    "original": ">>办公室的门打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "** 狩猎!开始了! **",
+    "original": ">>找到了铁栅门的钥匙<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -603,7 +540,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 人类!别碰我! **",
+    "original": ">>铁栅门10秒后打开<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -612,25 +549,25 @@
     "enable_timer": 0
   },
   {
-    "original": "**大门将在5秒后打开**",
+    "original": ">>铁栅门打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**传送将在5秒后打开**",
+    "original": "西瓜投手：前面还有个一样的门，也用这个钥匙就能开",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**当心!阿拉斯的幻影摧毁了桥梁!**",
+    "original": ">>第二个铁栅门将在20秒后打开<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -639,16 +576,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**5秒后炸毁岩石**",
+    "original": ">>第二个铁栅门打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**一名玩家与恶魔签订了契约**",
+    "original": ">>AFK传送已启动<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -657,106 +594,106 @@
     "enable_timer": 0
   },
   {
-    "original": "**瞭望塔的玻璃会在10秒后破碎**",
+    "original": "西瓜投手：我们刚封了前面的路，只能从塔吊上面跳到屋顶上走过去了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**5秒后进入埃洛斯宫殿**",
+    "original": "大嘴花：我恐高……",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**5秒后捷径路开放**",
+    "original": "向日葵：别怕，摔不死的，走吧",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**5秒后门打开**",
+    "original": ">>30秒后塔吊梯子开放<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**25秒后门打开**",
+    "original": ">>塔吊梯子已开放<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**40秒后门打开**",
+    "original": "豌豆射手：大家注意别掉下去了！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**20秒后门打开**",
+    "original": "大嘴花：头好晕……感觉要掉下去了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**门将在20秒后打开**",
+    "original": ">>侧路的铁栅门消失了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**15秒后门打开**",
+    "original": "西瓜投手：看到前面那个大门了吗，我们得从那两个屋子里进去",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**传送20秒后打开**",
+    "original": "西瓜投手：天线的控制室需要从第二个房子的四楼过去",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**剩余20秒**",
+    "original": ">>铁栅门将在60秒后打开<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**剩余15秒**",
+    "original": ">>需要一楼与三楼均有玩家才能开门<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -765,7 +702,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 你们犯下了弥天之罪,回来迎接你们的审判吧! **",
+    "original": ">>一楼的门将在30秒后打开；三楼的窗户将在35秒后打开<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -774,7 +711,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 阿拉斯正在注视着你! **",
+    "original": ">>一楼的门打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -783,16 +720,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**70秒后关闭斯狄科雪域大门**",
+    "original": ">>三楼的窗户打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 70,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**20秒后迎接最终决战**",
+    "original": ">>10秒后四楼的窗户破碎<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -801,7 +738,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**龙息**",
+    "original": ">>四楼的窗户破碎了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -810,7 +747,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**大暴雪**",
+    "original": ">>第二个房子的二楼玻璃将在20秒后碎掉<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -819,7 +756,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**飞龙吐息**",
+    "original": ">>第二个房子的二楼玻璃碎了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -828,7 +765,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**寒流**",
+    "original": ">>现在可以从一楼的梯子上到二楼了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -837,7 +774,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**龙刀**",
+    "original": ">>四楼的玻璃将在30秒后碎掉<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -846,7 +783,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**幻影龙车**",
+    "original": ">>四楼的玻璃碎掉了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -855,7 +792,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**星落风暴**",
+    "original": "西瓜投手：前面就是天线控制室了，大家多坚持会",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -864,7 +801,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**尾部扫击**",
+    "original": ">>天线控制室的门将在40秒后打开<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -873,16 +810,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**僵尸10秒后到来**",
+    "original": ">>现在可以从二楼的楼梯上到四楼了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**由于魔力流失，精灵耗尽最后的魔力,变为普通人,最后仅剩的魔力传输给了[随机]神器**",
+    "original": ">>天线控制室的门打开了<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -891,7 +828,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**僵尸神器：生命分离**",
+    "original": "三叶草：二楼就是天线的控制室，我记得里面有个自动修复的按钮",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -900,7 +837,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**人类神器：重力弓**",
+    "original": "三叶草：大家等我会，我找下自动修复的按钮",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -909,7 +846,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 法阵正在积蓄魔力,再争取一点时间! **",
+    "original": "三叶草：ok，这下应该天线就没事了",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -918,7 +855,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 我们马上就要离开这里了!坚持住! **",
+    "original": ">>天线正在修复中……<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -927,7 +864,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 传送门已开启,快离开这里! **",
+    "original": ">>天线已修复完成<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -936,7 +873,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**僵尸神器：冰刺**",
+    "original": "三叶草：这边有个移动平台可以直接到烟囱口的，按边上那个按钮就行",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -945,7 +882,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**人类神器：寒风**",
+    "original": ">>按下墙上的红色按钮以打开移动平台的门<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -954,7 +891,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 传送门正在瓦解,离开这里! **",
+    "original": ">>5秒后移动平台大门打开<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -963,7 +900,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 这不是斯狄科,这是哪里? **",
+    "original": ">>20秒后移动平台启动<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -972,7 +909,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 无人涉足之地,好在我们已经脱离了危险! **",
+    "original": ">>跳进烟囱口<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -981,7 +918,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** 敬请期待!感谢您的游玩! **",
+    "original": ">>检测到存活人类，开始核爆<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
