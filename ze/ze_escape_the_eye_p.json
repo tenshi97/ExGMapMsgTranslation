@@ -23,8 +23,8 @@
     "zh_trans": "+++ 大门将在 45 秒后开启 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
     "original": "+++ RESIST IN THIS ZONE +++",
@@ -41,8 +41,8 @@
     "zh_trans": "+++ 大门将在 25 秒后开启 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "+++ THE DOOR IS OPENING IN 5 SECONDS +++",
@@ -50,8 +50,8 @@
     "zh_trans": "+++ 大门将在 5 秒后开启 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "+++ THE DOOR IS OPEN +++",
@@ -68,8 +68,8 @@
     "zh_trans": "+++ 第一堵墙将在 15 秒后破碎 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "+++ THE FIRST WALL IS BROKEN +++",
@@ -86,8 +86,8 @@
     "zh_trans": "+++ 电梯将在 10 秒后离开 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "+++ THE DOOR IS OPENING IN 100 SECONDS +++",
@@ -95,8 +95,8 @@
     "zh_trans": "+++ 大门将在 100 秒后开启 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 100,
+    "enable_timer": 1
   },
   {
     "original": "+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++",
@@ -113,8 +113,8 @@
     "zh_trans": "+++ 大门将在 10 秒后开启 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++",
@@ -122,8 +122,8 @@
     "zh_trans": "+++ 僵尸将在 17 秒后释放 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 17,
+    "enable_timer": 1
   },
   {
     "original": "+++ THE DOOR IS OPENING IN 35 SECONDS +++",
@@ -131,8 +131,8 @@
     "zh_trans": "+++ 大门将在 35 秒后开启 +++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++",
@@ -140,8 +140,8 @@
     "zh_trans": "++ 光桥将在 15 秒后激活 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "++ LIGHTBRIDGE ACTIVATED ++",
@@ -158,8 +158,8 @@
     "zh_trans": "++ 传送电梯将在 5 秒后离开 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++",
@@ -185,8 +185,8 @@
     "zh_trans": "++ 墙壁将在 35 秒后破碎 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "++ LIGHTBRIDGE DEACTIVATED ++",
@@ -221,8 +221,8 @@
     "zh_trans": "++ 逃脱大门将在 50 秒后开启 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": "++ ESCAPE DOOR OPENING IN 30 SECONDS ++",
@@ -230,8 +230,8 @@
     "zh_trans": "++ 逃脱大门将在 30 秒后开启 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++",
@@ -239,8 +239,8 @@
     "zh_trans": "++ 逃脱大门将在 10 秒后开启 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "++ ESCAPE DOOR IS OPEN!! ++",
