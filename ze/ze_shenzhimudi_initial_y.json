@@ -20,7 +20,7 @@
   {
     "original": "The road opens in 35 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 35 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -29,7 +29,7 @@
   {
     "original": "The stairs will open in 20 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "楼梯 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -38,7 +38,7 @@
   {
     "original": "The road opens in 20 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +47,7 @@
   {
     "original": "The door opens for 20 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -56,7 +56,7 @@
   {
     "original": "The road will be clear in 60 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 60 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -65,7 +65,7 @@
   {
     "original": "The road will be clear in 40 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 40 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -74,7 +74,7 @@
   {
     "original": "20s>ZM-TP",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "20 秒后僵尸传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -83,7 +83,7 @@
   {
     "original": "Evacuate to the final area within 60 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "救援 60 秒后抵达",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -92,7 +92,7 @@
   {
     "original": "The nuclear bomb will drop in 5 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "5 秒后核爆",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -101,16 +101,16 @@
   {
     "original": "<Level 1> Completed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<第一关> 完成",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "40 seconds for the rear door to open",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "后门 40 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -119,7 +119,7 @@
   {
     "original": "35 seconds of clear road",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 35 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -128,7 +128,7 @@
   {
     "original": "40s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "40 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -137,7 +137,7 @@
   {
     "original": "60s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "60 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -146,7 +146,7 @@
   {
     "original": "15s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -155,7 +155,7 @@
   {
     "original": "45s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "45 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -164,7 +164,7 @@
   {
     "original": "30s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -173,16 +173,16 @@
   {
     "original": "<Level 2> Completed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<第二关> 完成",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "The road will open in 30 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 30 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -191,7 +191,7 @@
   {
     "original": "The road will open in 40S",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "道路 40 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -200,7 +200,7 @@
   {
     "original": "The door to the backyard will open in 30 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "后院的门 30 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -209,7 +209,7 @@
   {
     "original": "50.....",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "50秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -218,7 +218,7 @@
   {
     "original": "The road to the second floor will open in 30 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "前往二楼的道路 30 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -227,16 +227,16 @@
   {
     "original": "30ms",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30 秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "20",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "20 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -245,7 +245,7 @@
   {
     "original": "Jump!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "跳下去!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,10 +263,10 @@
   {
     "original": "<Level 3> Completed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<第三关> 完成",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
