@@ -2,7 +2,7 @@
   {
     "original": ">>> 管理员修改至[世界终结] <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 管理员修改至[世界终结] <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">>> 管理员修改至[第二幕] <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 管理员修改至[第二幕] <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "| 超绝援兵召唤器[僵尸] 冷却:120秒(共用) |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 超绝援兵召唤器[僵尸] 冷却:120秒(共用) |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "| 作用:将另一个传送神器的人类传送到你身边 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:将另一个传送神器的人类传送到你身边 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "| 30 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 30 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -47,7 +47,7 @@
   {
     "original": "| 门已打开 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门已打开 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "| 20 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 20 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -65,16 +65,16 @@
   {
     "original": "| OBJ 冷却:50秒 持续:5.5秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| OBJ 冷却:50秒 持续:5.5秒 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "| 作用:生成油桶，打破后范围减速僵尸 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:生成油桶，打破后范围减速僵尸 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "| 伤害球 冷却:10秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 伤害球 冷却:10秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "| 作用:生成球，触碰到的人类将造成伤害并减速 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:生成球，触碰到的人类将造成伤害并减速 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,16 +101,16 @@
   {
     "original": "| 门将在20秒后打开 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在20秒后打开 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "| 门已开启 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门已开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,16 +119,16 @@
   {
     "original": "| 门将在25秒后打开 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在25秒后打开 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": ">> 护盾 冷却:60秒 持续:7秒 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 护盾 冷却:60秒 持续:7秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": ">> 作用:跟随使用者生成阻挡僵尸的护盾 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 作用:跟随使用者生成阻挡僵尸的护盾 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "| Door Opend |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门开了 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "| 冰冻球(僵尸) 冷却:45秒 持续:5秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 冰冻球(僵尸) 冷却:45秒 持续:5秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "| 作用:在前方生成球，触碰到的人类将无法移动 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:在前方生成球，触碰到的人类将无法移动 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "| Door will open in 20 Second |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将会在20秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -182,16 +182,16 @@
   {
     "original": "| 电梯将在15秒后离开 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 电梯将在15秒后离开 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "| 定身球 冷却:35秒 持续:5秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 定身球 冷却:35秒 持续:5秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "| 作用:在前方生成球，触碰到的僵尸将无法移动 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:在前方生成球，触碰到的僵尸将无法移动 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,25 +209,25 @@
   {
     "original": "| 门将在15秒后开启 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在15秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "| 门将在25秒后开启 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在25秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| 最后的房间已打开.. |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 最后的房间已打开.. |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,16 +236,16 @@
   {
     "original": "| 门还有25秒关闭 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门还有25秒关闭 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| EP.0 Complete |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| EP.0 完成 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,16 +254,16 @@
   {
     "original": "| 门将在30秒后开启 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在30秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "| 绝区零国际服加我1300203175 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 绝区零国际服加我1300203175 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "| 啊啊啊啊哈哈啊啊啊 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 啊啊啊啊哈哈啊啊啊 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,16 +281,16 @@
   {
     "original": "| 暴风吸入 冷却:55秒 持续:6.5秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 暴风吸入 冷却:55秒 持续:6.5秒 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "| 作用:跟随黑洞，将人类吸入你 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:跟随黑洞，将人类吸到你身上 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,16 +299,16 @@
   {
     "original": "| 门将在30秒后打开|",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在30秒后打开|",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "| 治疗[僵尸] 冷却:50秒 持续:6秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 治疗[僵尸] 冷却:50秒 持续:6秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "| 作用:为使用者增加60%速度，附近僵尸35%速度 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:为使用者增加60%速度，附近僵尸35%速度 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,61 +326,61 @@
   {
     "original": "| 25秒后门就要开了 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 25秒后门就要开了 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| 守住25秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 守住25秒 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| 门会在5秒后关闭 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门会在5秒后关闭 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "| 道路将在30秒后开启 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 道路将在30秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "| 门将在25秒后关闭 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在25秒后关闭 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| 距离BOSS核爆还有100秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 距离BOSS核爆还有100秒 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 100,
+    "enable_timer": 1
   },
   {
     "original": "| 你输了 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 你输了 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,16 +389,16 @@
   {
     "original": "| 推力 冷却:60秒 持续:6.5秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 推力 冷却:60秒 持续:6.5秒 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "| 作用:生成跟随推力风，吹散前方僵尸 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:生成跟随推力风，吹散前方僵尸 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,25 +407,25 @@
   {
     "original": "| You kill the boss, Now Press 3 and continue |",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
-  },
-  {
-    "original": "| 传送阵还有40秒准备好 |",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 你击杀了Boss，现在按下3继续 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
+    "original": "| 传送阵还有40秒准备好 |",
+    "en_trans": "",
+    "zh_trans": "| 传送阵还有40秒准备好 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
     "original": "| You lose, Zombie touch the ball |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 你让僵尸碰到球了，你们输了 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": ">>> 管理员结束了回合 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 管理员结束了回合 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "| 方块墙 冷却:60秒 持续:7秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 方块墙 冷却:60秒 持续:7秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "| 作用:在前方生成阻挡僵尸的方块墙 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:在前方生成阻挡僵尸的方块墙 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,25 +461,25 @@
   {
     "original": "| 30秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 30秒 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "| 治疗 冷却:70秒 持续:5.5秒 |",
+    "en_trans": "",
+    "zh_trans": "| 治疗 冷却:70秒 持续:5.5秒 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "| 治疗 冷却:70秒 持续:5.5秒 |",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
     "original": "| 作用:在原地生成治疗阵，每秒恢复20点生命 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 作用:在原地生成治疗阵，每秒恢复20点生命 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "啊哈哈..",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "啊哈哈..",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,25 +497,25 @@
   {
     "original": "| 嗯哼?怎么还有30秒? |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 嗯哼?怎么还有30秒? |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "| 20秒后电梯就会上升 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 20秒后电梯就会上升 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "| 25 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 25 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -524,7 +524,7 @@
   {
     "original": "| 电梯来了 小心断口！ |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 电梯来了 小心断口！ |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,25 +533,25 @@
   {
     "original": "| 最后25秒? |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 最后25秒? |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| 最后的30秒! |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 最后的30秒! |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "|人类墙与僵尸球类神器将在进入BOSS房后关闭|",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|人类墙与僵尸球类神器将在进入BOSS房后关闭|",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "[+] 红色血包方块 +50生命",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[+] 红色血包方块 +50生命",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "[^] 绿色箭头方块 +70生命与跳跃",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[^] 绿色箭头方块 +70生命与跳跃",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "[-] 所有弹幕与刀 -70生命",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[-] 所有弹幕与刀 -70生命",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,16 +587,16 @@
   {
     "original": "[X] 最高生命值 150",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[X] 最高生命值 150",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 150,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">> 快去四周! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 快去四周! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "嗯？",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "嗯？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,16 +614,16 @@
   {
     "original": "| EP.1 Complete |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| EP.1 完成 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "AoraitsuR TU0|R3f 24/07/11 03:33",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AoraitsuR TU0|R3f 24/07/11 03:33",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "| 你杀死了BOSS |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 你杀死了BOSS |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "AoraitsuR TU0|R5f 24/07/13 22:15",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AoraitsuR TU0|R5f 24/07/13 22:15",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "| 你让僵尸碰到球了，你们输了 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 你让僵尸碰到球了，你们输了 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": ">>> 管理员修改至[前幕] <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 管理员修改至[前幕] <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
