@@ -1,6 +1,6 @@
 [
   {
-    "original": "**ZE_FFVII_COSMO_CANYON**",
+    "original": "**** MAP BY: Hannibal[SPA] (Rafuron) ****",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Map by Headshooter.SC & HaRyDe**",
+    "original": "** Server settings initialized **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**WARMUP ROUND**",
+    "original": "** Tips and Adjustements: Maese Danielot **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**NORMAL MODE**",
+    "original": "** Optimization and Helping: Kaemon **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +36,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!",
+    "original": "**CURRENT DIFFICULTY ** >> NORMAL << **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,70 +45,16 @@
     "enable_timer": 0
   },
   {
-    "original": "[Red-XIII] Do not worry. I know this place.. I was born in here..",
+    "original": "*** MATERIAS AT LVL 1 ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[Red-XIII] There I will give you all the stuff you need.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[Cloud] No problem. I will wait for you in there..",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**A player has picked up Damage materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Cover here for 5 seconds before we clear this obstacle**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
-    "original": "**We are almost at Cosmo Canyon**",
+    "original": "** A player has adquired ELECTRO MATERIA **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,295 +63,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Defend here for 25 seconds until the gates open**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Gates are open. Welcome to Cosmo Canyon**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**A player has picked up HEAL materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The barman will open the door in 5 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**5 SECONDS LEFT**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "**FALL BACK**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**A player has picked up BIO materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**A player has picked up GRAVITY materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The gates will open in 25 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**The gates of gi cave will open in 15 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "**A player has picked up ELECTRO materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Wait until something happens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The gi gate will open in 35 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
-  },
-  {
-    "original": "**GRENADES DO A LOT OF DAMAGE. USE THEM!**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using fire**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using wind**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using silence**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is spawning minions. Watch out for them**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using gravity**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using poison**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using shield**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**ADMIN PRESSED KILL ALL BUTTON**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**RAGE MODE**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Cover here for 10 seconds before we clear this obstacle**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "**A player has picked up WIND materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The rock will explode in 25 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**The detonator seems to be broken**Go another way**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The airship to Shinra will arrive in 30 seconds**",
+    "original": "**Superior door opening in 30 seconds**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -414,97 +72,16 @@
     "enable_timer": 1
   },
   {
-    "original": "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base.",
+    "original": "** DOOR OPENS IN 5 s **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[Cloud] Red-XIII will stay here and will help to reestablish the Village.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The airship is right here...**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**A player has picked up EARTH materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**A player has picked up FIRE materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Zombie Confuse has been picked up**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**A player has picked up SLEEP materia**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using Fire Nova!!! Get out of middle**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak is using aspil**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Gi Nattak has healed 150 hp**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 150,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": "**Gi Nattack is escaped**",
+    "original": "** A player has adquired WIND MATERIA **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -513,25 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Now you can get out of Cave of Gi**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**DOOR OPENS IN 40 SECONDS**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "**10 SECONDS LEFT**",
+    "original": "**Door opening in 10 seconds**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -540,25 +99,25 @@
     "enable_timer": 1
   },
   {
-    "original": "**This is your last hold point**",
+    "original": "**Door is opening in 10 seconds**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Get on the rocks and hold 25 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..",
+    "original": "**Door is opening in 5**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door is open**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -567,7 +126,16 @@
     "enable_timer": 0
   },
   {
-    "original": "**NORMAL mode was beaten. Unlocking HARD mode **",
+    "original": "**Elevator is leaving in 10s**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A player has adquired HEAL MATERIA **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -576,7 +144,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**EXTREME MODE**",
+    "original": "** We have reached the core ...**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -585,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?",
+    "original": "** ... Cloud is planting the bomb **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -594,7 +162,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all..",
+    "original": "** Bomb has been planted ** Run **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -603,7 +171,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**CHEST SIDEQUEST STARTED**",
+    "original": "**Keep shooting ! We dont know what it can do **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -612,7 +180,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL ITEM THAT WILL HELP YOU ON GI NATTAK**",
+    "original": "** The monster is going to attack ! **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -621,7 +189,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**A player has picked up ULTIMA materia**",
+    "original": "**Its dead ** Go go! Run upstairs ! **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -630,12 +198,471 @@
     "enable_timer": 0
   },
   {
-    "original": "**A player has picked up Ice materia**",
+    "original": "** EXPLOSION IN 145 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 145,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 110 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 110,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 100 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 90 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 80 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 80,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Well done! Door is opening in 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 70 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 70,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 60 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 50 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 40 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 30 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "**CURRENT DIFFICULTY ** >> HARD << **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MATERIAS AT LVL 2 ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A player has adquired GRAVITY MATERIA **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Dont stop shooting ! Dont let him attack !",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Bahamut is in attack position ** Keep firing !! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Bahamut is going to cast Mega Flare !! Shoot !! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** EXPLOSION IN 120 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired ULTIMA MATERIA **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired FIRE MATERIA **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Bahamut has been defeated ! ** Go go! Run upstairs ! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** A player has adquired ICE MATERIA **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 20 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** RUN! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** 10 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**CURRENT DIFFICULTY ** >> EXTREME << **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** MATERIAS AT LVL 3 ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A player has adquired EARTH MATERIA **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** EXPLOSION IN 130 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 130,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 120 SECONDS LEFT **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Nice done! You interrumped Sephiroth s attack**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**CURRENT DIFFICULTY ** >> EXTREME II << **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT IS CASTING ** PREPARE YOURSELF **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS CAST ELECTRO! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** BAHAMUT HAS HEALED 300 HIT POINTS**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 300,
+    "enable_timer": 1
+  },
+  {
+    "original": "** BAHAMUT IS DEAD ** KEEP RUNNING **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** YOU ARE THE MASTERS OF MAKO REACTOR! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** MAP COMPLETED ** ZM ROUNDS **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** HUMAN VICTORY IN 4 MINUTES **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "** HUMAN VICTORY IN 3 MINUTES **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "** HUMAN VICTORY IN 2 MINUTES **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Door is opening in 7 seconds **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "** HUMAN VICTORY IN 1 MINUTES **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "** HUMAN VICTORY IN 20 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
   }
 ]
