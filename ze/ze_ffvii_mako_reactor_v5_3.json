@@ -2,7 +2,7 @@
   {
     "original": "**** MAP BY: Hannibal[SPA] (Rafuron) ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 地图制作: 汉尼拔 Hannibal[SPA] (Rafuron) ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "** Server settings initialized **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 服务器设定初始化中 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "** Tips and Adjustements: Maese Danielot **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 感谢Maese Danielot的提点和调整 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "** Optimization and Helping: Kaemon **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 感谢Kaemon的优化和帮助 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "**CURRENT DIFFICULTY ** >> NORMAL << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前难度 ** >> 普通 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,16 +47,16 @@
   {
     "original": "*** MATERIAS AT LVL 1 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 魔晶石等级：一 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** A player has adquired ELECTRO MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 电魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "**Superior door opening in 30 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门 30 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -74,7 +74,7 @@
   {
     "original": "** DOOR OPENS IN 5 s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -83,7 +83,7 @@
   {
     "original": "** A player has adquired WIND MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 风魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "**Door opening in 10 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -101,7 +101,7 @@
   {
     "original": "**Door is opening in 10 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -110,7 +110,7 @@
   {
     "original": "**Door is opening in 5**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -119,7 +119,7 @@
   {
     "original": "**Door is open**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门已开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "**Elevator is leaving in 10s**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**电梯 10 秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -137,7 +137,7 @@
   {
     "original": "** A player has adquired HEAL MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 治疗魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "** We have reached the core ...**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们必须抵达核心...**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "** ... Cloud is planting the bomb **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ... 克劳德正在安置炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "** Bomb has been planted ** Run **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 炸弹已经安放 ** 尽快撤离 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "**Keep shooting ! We dont know what it can do **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 保持开火! 我们不知道它会做出什么事情 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "** The monster is going to attack ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 怪物要向我们袭来了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "**Its dead ** Go go! Run upstairs ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**它死了** GO GO! 上楼梯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "** EXPLOSION IN 145 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 145 秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 145,
@@ -209,7 +209,7 @@
   {
     "original": "** 110 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 110 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 110,
@@ -218,7 +218,7 @@
   {
     "original": "** 100 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 100 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
@@ -227,7 +227,7 @@
   {
     "original": "** 90 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 90 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -236,7 +236,7 @@
   {
     "original": "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 35 秒后开启 ** 可前往控制室提前让门开的快点 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -245,7 +245,7 @@
   {
     "original": "** 80 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 80 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -254,7 +254,7 @@
   {
     "original": "** Well done! Door is opening in 10 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮! 门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -263,7 +263,7 @@
   {
     "original": "** 70 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 70 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -272,7 +272,7 @@
   {
     "original": "** 60 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -281,7 +281,7 @@
   {
     "original": "** 50 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 50 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -290,7 +290,7 @@
   {
     "original": "** 40 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 40 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -299,7 +299,7 @@
   {
     "original": "** 30 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -308,7 +308,7 @@
   {
     "original": "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你过关! 恭喜你通过<普通难度>! 下一关为<困难难度>! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "**CURRENT DIFFICULTY ** >> HARD << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前难度 ** >> 困难 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,16 +326,16 @@
   {
     "original": "*** MATERIAS AT LVL 2 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 魔晶石等级：二 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** A player has adquired GRAVITY MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 重力魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示：手雷能造成更多伤害 ** 尽可能的丢雷**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "** Dont stop shooting ! Dont let him attack !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 保持开火! 别让它攻击到我们!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "** Bahamut is in attack position ** Keep firing !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特进入攻击状态! **保持开火!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "** Bahamut is going to cast Mega Flare !! Shoot !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特释放了巨焰爆发!! 开枪啊! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "** EXPLOSION IN 120 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 120 秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -389,7 +389,7 @@
   {
     "original": "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特要发动终极了! 赶快把它杀死!!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "** A player has adquired ULTIMA MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 终极魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "** A player has adquired FIRE MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 火魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "**Bahamut has been defeated ! ** Go go! Run upstairs ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**巴哈姆特已被击败! **Go Go! 快上楼 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "** A player has adquired ICE MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 冰魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "** 20 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -443,7 +443,7 @@
   {
     "original": "** RUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 快跑！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "** 10 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -461,7 +461,7 @@
   {
     "original": "**CURRENT DIFFICULTY ** >> EXTREME << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前难度 ** >> EX1 - 极限难度 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,16 +470,16 @@
   {
     "original": "*** MATERIAS AT LVL 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 魔晶石等级：三 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** A player has adquired EARTH MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家取得了 大地魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** EXPLOSION IN 130 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 130 秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 130,
@@ -497,7 +497,7 @@
   {
     "original": "** 120 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 120 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -506,7 +506,7 @@
   {
     "original": "**Nice done! You interrumped Sephiroth s attack**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**干得漂亮! 你们打断了萨菲罗斯的攻击**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你们做到了! 恭喜通过 EX1!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "**CURRENT DIFFICULTY ** >> EXTREME II << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前难度 ** >> EX2 - 极限难度 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 因为是EX关，所以滤镜会有点变化** 在控制台输入r_csgo_postprocess_enable 0关闭瞎眼滤镜 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "** BAHAMUT IS CASTING ** PREPARE YOURSELF **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特正在释放技能 ** 做好准备 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特·大地之墙 ** 开枪破坏这堵墙 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "** BAHAMUT HAS CAST ELECTRO! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特·雷电之力 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "** BAHAMUT HAS HEALED 300 HIT POINTS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特为自己治疗了 300 点血量",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 300,
@@ -578,7 +578,7 @@
   {
     "original": "** BAHAMUT IS DEAD ** KEEP RUNNING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特已死亡 ** 快跑 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": "** YOU ARE THE MASTERS OF MAKO REACTOR! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你们是魔晄炉高手 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "** MAP COMPLETED ** ZM ROUNDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图已完成 ** ZM关**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是ZM关 ** 找个地方勾住就行，不要走正常流程路线 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,34 +614,34 @@
   {
     "original": "** HUMAN VICTORY IN 4 MINUTES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 人类 240 秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
+    "timer_num": 240,
     "enable_timer": 1
   },
   {
     "original": "** HUMAN VICTORY IN 3 MINUTES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 人类 180 秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 180,
     "enable_timer": 1
   },
   {
     "original": "** HUMAN VICTORY IN 2 MINUTES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 人类 120 秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1
   },
   {
     "original": "** Door is opening in 7 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 7 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -650,16 +650,16 @@
   {
     "original": "** HUMAN VICTORY IN 1 MINUTES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 人类 60 秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
     "original": "** HUMAN VICTORY IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 人类 20 秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
