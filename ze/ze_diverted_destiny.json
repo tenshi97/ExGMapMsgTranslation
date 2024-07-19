@@ -11,7 +11,7 @@
   {
     "original": "Map by KadianS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者: KadianS",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "Zombie Flight has been picked up",
     "en_trans": "",
-    "zh_trans": "僵尸加速 已拾起",
+    "zh_trans": "僵尸飞翔 已拾起",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "Flame has been picked up",
     "en_trans": "",
-    "zh_trans": "火焰（推力） 已拾起",
+    "zh_trans": "火焰喷射（推力） 已拾起",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "Loot Item has been picked up",
     "en_trans": "",
-    "zh_trans": "战利点 已拾取",
+    "zh_trans": "战利品 已拾取",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,16 +515,16 @@
   {
     "original": "Scourge",
     "en_trans": "",
-    "zh_trans": "灾祸",
+    "zh_trans": "灾祸[剩余 10 秒]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "Get on a body of water!",
     "en_trans": "",
-    "zh_trans": "快进到水里",
+    "zh_trans": "快进到水里!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,11 +533,11 @@
   {
     "original": "Devour",
     "en_trans": "",
-    "zh_trans": "饕餮",
+    "zh_trans": "饕餮[剩余 12 秒]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 12,
+    "enable_timer": 1
   },
   {
     "original": "Boss is dead!",
@@ -551,7 +551,7 @@
   {
     "original": "Hurry! Get to the entrance!",
     "en_trans": "",
-    "zh_trans": "快前往入口",
+    "zh_trans": "快前往入口!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "Shoot it!",
     "en_trans": "",
-    "zh_trans": "朝他开枪",
+    "zh_trans": "朝他开枪!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "Firewall has been picked up",
     "en_trans": "",
-    "zh_trans": "火球 已拾起",
+    "zh_trans": "火墙 已拾起",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": "ZM Flight item has been used.",
     "en_trans": "",
-    "zh_trans": "僵尸加速 已使用",
+    "zh_trans": "僵尸飞翔 已使用",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,52 @@
   {
     "original": "ZM Flight item is READY",
     "en_trans": "",
-    "zh_trans": "僵尸加速 已就绪",
+    "zh_trans": "僵尸飞翔 已就绪",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Maximum amount of loot has been reached!",
+    "en_trans": "",
+    "zh_trans": "战利点已达到上限!",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Zombie Attack",
+    "en_trans": "",
+    "zh_trans": "僵尸进攻[剩余 9 秒] ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 9,
+    "enable_timer": 1
+  },
+  {
+    "original": "Steam",
+    "en_trans": "",
+    "zh_trans": "蒸汽推力[剩余 9 秒]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 9,
+    "enable_timer": 1
+  },
+  {
+    "original": "Absorb",
+    "en_trans": "",
+    "zh_trans": "子弹吸收[剩余 9 秒]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 9,
+    "enable_timer": 1
+  },
+  {
+    "original": "Cleared!",
+    "en_trans": "",
+    "zh_trans": "它沉寂了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
