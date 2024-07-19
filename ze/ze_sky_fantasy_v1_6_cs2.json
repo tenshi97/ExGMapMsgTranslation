@@ -128,11 +128,11 @@
   {
     "original": "<< TIPS: Shooting 8 buttons >>",
     "en_trans": "",
-    "zh_trans": "<< 提示: 射击 8 个按钮 >>",
+    "zh_trans": "<< 提示: 射击八个按钮 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 8,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Door will open in 20 seconds **",
@@ -263,7 +263,7 @@
   {
     "original": "<< Demon Cage >>",
     "en_trans": "",
-    "zh_trans": "<< 恶魔牢笼 (左三刀 右三刀)>>",
+    "zh_trans": "<< 恶魔牢笼 (左右各三刀)>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "*** Fantasy - Earth ***",
     "en_trans": "",
-    "zh_trans": "*** 幻想 - 土 (被带到必死)***",
+    "zh_trans": "*** 幻想 - 大地之力 (被碰到就死) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "*** Fantasy - Fire ***",
     "en_trans": "",
-    "zh_trans": "*** 幻想 - 火 ***",
+    "zh_trans": "*** 幻想 - 火 (全屏高伤害) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "*** Fantasy - Water ***",
     "en_trans": "",
-    "zh_trans": "*** 幻想 - 水 ***",
+    "zh_trans": "*** 幻想 - 水 (全屏减速) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "*** Fantasy - Wind ***",
     "en_trans": "",
-    "zh_trans": "*** 幻想 - 风 ***",
+    "zh_trans": "*** 幻想 - 风 (随机方向推力) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "*** Fantasy - Fantasy Star ***",
     "en_trans": "",
-    "zh_trans": "*** 幻想 - 奇幻之星 ***",
+    "zh_trans": "*** 幻想 - 奇幻之星 (远离弹幕) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "<< zombie can move in 8 seconds >>",
     "en_trans": "",
-    "zh_trans": "<<僵尸可以在8秒内移动>>",
+    "zh_trans": "<<僵尸可以在8秒后移动>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -615,15 +615,6 @@
     "original": "Map by Misaka",
     "en_trans": "",
     "zh_trans": "地图由 Misaka 创作",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "STAGE FAIL",
-    "en_trans": "",
-    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
