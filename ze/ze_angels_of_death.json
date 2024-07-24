@@ -158,8 +158,8 @@
     "zh_trans": "电梯将在15秒后启动",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "zombie tp in 7 seconds",
@@ -167,8 +167,8 @@
     "zh_trans": "僵尸在7秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 7,
+    "enable_timer": 1
   },
   {
     "original": "bird?",
@@ -284,8 +284,8 @@
     "zh_trans": "找个地方躲起来，20秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "Finally found you",
@@ -329,8 +329,8 @@
     "zh_trans": "僵尸在15秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "It's me. I'm your psychologist, Danny",
@@ -434,7 +434,7 @@
   {
     "original": "Rachel, let's go find the exit",
     "en_trans": "",
-    "zh_trans": "瑞吉儿，我们一起去找出口吧",
+    "zh_trans": "瑞秋，我们一起去找出口吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "*ray* What is the wish?",
     "en_trans": "",
-    "zh_trans": "愿望是什么",
+    "zh_trans": "*ray*愿望是什么",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "*ray*My name is Rachel Gardner...",
     "en_trans": "",
-    "zh_trans": "*ray*我的名字是瑞吉儿,加德纳",
+    "zh_trans": "*ray*我的名字是瑞秋,加德纳",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
