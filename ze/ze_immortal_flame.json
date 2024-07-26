@@ -2,7 +2,7 @@
   {
     "original": "~ Door will open in 15s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~大门将在15秒后打开~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -11,7 +11,7 @@
   {
     "original": "~ Door is now open ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~大门正在开启~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "~ Door will open in 25s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~大门将在25秒后打开~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -29,7 +29,7 @@
   {
     "original": "~ Afk tele enable in 10s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~挂机者将会在10秒后传送~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -38,7 +38,7 @@
   {
     "original": "~ Bottom door open in 25s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 底层大门将会在25秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -47,7 +47,7 @@
   {
     "original": "~ Bottom door is now open ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 底层大门正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "~ Upper door open in 30s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 上层大门将会在30秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -65,7 +65,7 @@
   {
     "original": "~ Upper door open in 25s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 上层大门将会在25秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -74,7 +74,7 @@
   {
     "original": "~ Upper door is now open ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 上层大门正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "~ Upper portal open in 20s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 上层入口将会在20秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -92,7 +92,7 @@
   {
     "original": "~ Bottom portal open in 20s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 底层入口将会在20秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -101,7 +101,7 @@
   {
     "original": "~ Upper portal is now open ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 上层入口正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "~ Last portal open in 15s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 最后的入口将会在15秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -119,7 +119,7 @@
   {
     "original": "~ Bottom portal is now open ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 底层入口正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "~ Last portal is now open ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 最后的入口正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "~ Portal will close in 30s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 入口将会在30秒后关闭 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -146,7 +146,7 @@
   {
     "original": "~ Last afk tele enable in 5s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 挂机者最后一次传送在5秒后 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -155,25 +155,25 @@
   {
     "original": "Truth be told",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "诉说真相之路（Truth be told）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "It's a lonely road",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "是孤独的（It's a lonely road）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "~ Portal will close in 10s ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 入口将会在10秒后关闭 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -182,169 +182,169 @@
   {
     "original": "Chasing your dreams",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "追逐你的梦想吧（Chasing your dreams）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "And all that we are",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们所拥有的一切（And all that we are）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "And could ever be",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们能做的一切（And could ever be）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Is within our reach",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "都受限于我们的能力（Is within our reach）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Ignite the fire",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "点燃圣火!（Ignite the fire）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Pure hearts can never expire",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "纯洁之心永垂不朽（Pure hearts can never expire）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "May the bridges that we burn",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们点燃的桥梁（May the bridges that we burn）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Light the way",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "照亮了来时的路（Light the way）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "From the ash we rise",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们从灰烬之中（From the ash we rise）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Like phoenix taking flights",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
+    "jp_trans": "如凤凰般涅槃重生（Like phoenix taking flights）1",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Blaze an immortal",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "化作一团永恒的火焰（Blaze an immortal）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "F L A M E",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "永恒之火（F L A M E）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Blaze like an immortal flame",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "化作一团永恒之火（Blaze like an immortal flame）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Shine like the sun",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "如烈日般闪耀（Shine like the sun）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Piercing the sky",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "刺穿苍穹（Piercing the sky）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Die",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "纯洁之心永垂不朽（Pure hearts can never die）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Rise from the fire",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "浴火重生（Rise from the fire）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Begin again",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "重头再来（Begin again）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Flame",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "永恒之火",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,16 +353,16 @@
   {
     "original": "Blaze an immortal flame",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "化作一团永恒的火焰（Blaze an immortal flame）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "~ 8 ~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "~ 8 ~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -371,25 +371,25 @@
   {
     "original": "Waited all our lives",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "冗长的等待（Waited all our lives）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Just to burn this bright",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "只为有朝一日熊熊燃烧（Just to burn this bright）1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "Map by Chartapilus",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图由Chartapilus制作",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
