@@ -2,7 +2,7 @@
   {
     "original": ">>关卡1：菜园<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡1：菜园<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": ">>一只僵尸策反了一个豌豆射手<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一只僵尸策反了一个豌豆射手<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": ">>出生区域的传送已启动<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>出生区域的传送已启动<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "向日葵：这戴夫的院子怎么这么乱",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：这戴夫的院子怎么这么乱",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "豌豆射手：之后一定要好好拷打下这戴夫，大家现在赶紧去准备下搬开前面那个横在路上的锄头",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：之后一定要好好拷打下这戴夫，大家现在赶紧去准备下搬开前面那个横在路上的锄头",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": ">>需要同时在三个不同的部位搬起锄头<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>需要同时在三个不同的部位搬起锄头<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": ">>锄头头部已经就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>锄头头部已经就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": ">>门外玩家即将传送到门内<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门外玩家即将传送到门内<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": ">>锄头柄已经就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>锄头柄已经就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": ">>锄头尾部已经就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>锄头尾部已经就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,34 +101,34 @@
   {
     "original": ">>锄头将会在45秒后被抬走<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>锄头将会在45秒后被抬走<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
     "original": ">>还剩15秒<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>还剩15秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>还剩5秒<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "豌豆射手：锄头已经被挪开了,大家快后撤",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：锄头已经被挪开了,大家快后撤",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": ">>AFK传送已激活<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>AFK传送已激活<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "豌豆射手：还好戴夫永远不会关菜园的栅栏门，不然又要花好多时间来破坏这个门了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：还好戴夫永远不会关菜园的栅栏门，不然又要花好多时间来破坏这个门了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "豌豆射手：大家快去敲戴夫的门，他只要把我们接到屋子里就安全了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：大家快去敲戴夫的门，他只要把我们接到屋子里就安全了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "向日葵：戴夫，开门！我是向日葵，有一堆僵尸在追我们！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：戴夫，开门！我是向日葵，有一堆僵尸在追我们！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "向日葵：开门啊！我知道你在家里！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：开门啊！我知道你在家里！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "豌豆射手：这戴夫怕不是睡着了，看来得另外找个路进他家了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：这戴夫怕不是睡着了，看来得另外找个路进他家了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "向日葵：戴夫家的下水道是能走的，就在菜园的另一边",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：戴夫家的下水道是能走的，就在菜园的另一边",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "坚果墙：走下水道？口区",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：走下水道？口区",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "豌豆射手：没办法了，僵尸追这么紧，不想变成食物的话只能走下水道了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：没办法了，僵尸追这么紧，不想变成食物的话只能走下水道了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,34 +218,34 @@
   {
     "original": ">>通往下水道口的栅栏将在30秒后消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往下水道口的栅栏将在30秒后消失<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>通往下水道口的栅栏将在10秒后消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往下水道口的栅栏将在10秒后消失<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>通往下水道口的栅栏将在5秒后消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往下水道口的栅栏将在5秒后消失<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>通往下水道口的栅栏已经消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往下水道口的栅栏已经消失<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "豌豆射手：下水道口怎么还有栅栏的，大家赶紧把这个铁栅栏打烂！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：下水道口怎么还有栅栏的，大家赶紧把这个铁栅栏打烂！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": ">>已解锁所有非关卡道中出现的神器<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>已解锁所有非关卡道中出现的神器<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": ">>关卡已设置为：屋顶<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡已设置为：屋顶<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": ">>关卡5：屋顶<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡5：屋顶<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "豌豆射手：这屋顶怎么搞了那么多违章建筑",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：这屋顶怎么搞了那么多违章建筑",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "向日葵：别管那么多了，我们是来修天线的",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：别管那么多了，我们是来修天线的",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": "向日葵：虽然不知道要往哪走，不过往天线方向走肯定没问题的",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：虽然不知道要往哪走，不过往天线方向走肯定没问题的",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": ">>需要左右路同时存在玩家<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>需要左右路同时存在玩家<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,16 +326,16 @@
   {
     "original": ">>铁丝网将在30秒后消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>铁丝网将在30秒后消失<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>铁丝网消失了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>铁丝网消失了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "豌豆射手：这门怎么还要钥匙的",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：这门怎么还要钥匙的",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "向日葵：对面的屋子里好像有人，过去问下他呢",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：对面的屋子里好像有人，过去问下他呢",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "豌豆射手：行！带伙们，给这两个铁栅门拆了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：行！带伙们，给这两个铁栅门拆了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": ">>现在可以拆掉铁栅门了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>现在可以拆掉铁栅门了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": ">>一只僵尸找到了一个惊喜盒子<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一只僵尸找到了一个惊喜盒子<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "西瓜投手：谁这么吵啊！我在睡午觉呢！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：谁这么吵啊！我在睡午觉呢！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": ">>一名玩家获得了西瓜投手<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了西瓜投手<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "西瓜投手：啊？谁把我门拆了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：啊？谁把我门拆了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "豌豆射手：西瓜兄怎么在这睡午觉，我们现在要去修下天线，能帮我们开下门嘛",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：西瓜兄怎么在这睡午觉，我们现在要去修下天线，能帮我们开下门嘛",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "西瓜投手：开门是没问题，但是你们等会要给我把门修好",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：开门是没问题，但是你们等会要给我把门修好",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "西瓜投手：来吧，我来给你们开门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：来吧，我来给你们开门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,16 +443,16 @@
   {
     "original": ">>15秒后开门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>15秒后开门<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>门被西瓜投手打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门被西瓜投手打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": "西瓜投手：这地方是屋顶的建筑材料仓库，右边那个门的钥匙放在我办公室里的",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：这地方是屋顶的建筑材料仓库，右边那个门的钥匙放在我办公室里的",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "西瓜投手：就在左边走到头，三叶草应该知道位置",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：就在左边走到头，三叶草应该知道位置",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "坚果墙：话说这些东西是戴夫让你们建的吗",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：话说这些东西是戴夫让你们建的吗",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "西瓜投手：那当然咯，我也不知道他咋想的，他就说在他屋顶盖几栋房子",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：那当然咯，我也不知道他咋想的，他就说在他屋顶盖几栋房子",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "土豆雷：纯纯违章建筑来的……",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "土豆雷：纯纯违章建筑来的……",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "三叶草：等下，我来开门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三叶草：等下，我来开门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": ">>一只僵尸找到了一辆雪橇车<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一只僵尸找到了一辆雪橇车<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": ">>办公室的门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>办公室的门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": ">>找到了铁栅门的钥匙<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>找到了铁栅门的钥匙<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,16 +542,16 @@
   {
     "original": ">>铁栅门10秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>铁栅门10秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>铁栅门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>铁栅门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "西瓜投手：前面还有个一样的门，也用这个钥匙就能开",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：前面还有个一样的门，也用这个钥匙就能开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,16 +569,16 @@
   {
     "original": ">>第二个铁栅门将在20秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个铁栅门将在20秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>第二个铁栅门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个铁栅门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": ">>AFK传送已启动<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>AFK传送已启动<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "西瓜投手：我们刚封了前面的路，只能从塔吊上面跳到屋顶上走过去了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：我们刚封了前面的路，只能从塔吊上面跳到屋顶上走过去了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "大嘴花：我恐高……",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大嘴花：我恐高……",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "向日葵：别怕，摔不死的，走吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：别怕，摔不死的，走吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,16 +623,16 @@
   {
     "original": ">>30秒后塔吊梯子开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>30秒后塔吊梯子开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>塔吊梯子已开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>塔吊梯子已开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "豌豆射手：大家注意别掉下去了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：大家注意别掉下去了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "大嘴花：头好晕……感觉要掉下去了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大嘴花：头好晕……感觉要掉下去了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": ">>侧路的铁栅门消失了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>侧路的铁栅门消失了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "西瓜投手：看到前面那个大门了吗，我们得从那两个屋子里进去",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：看到前面那个大门了吗，我们得从那两个屋子里进去",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "西瓜投手：天线的控制室需要从第二个房子的四楼过去",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：天线的控制室需要从第二个房子的四楼过去",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,16 +686,16 @@
   {
     "original": ">>铁栅门将在60秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>铁栅门将在60秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": ">>需要一楼与三楼均有玩家才能开门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>需要一楼与三楼均有玩家才能开门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,16 +704,16 @@
   {
     "original": ">>一楼的门将在30秒后打开；三楼的窗户将在35秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一楼的门将在三十秒后打开；三楼的窗户将在35秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": ">>一楼的门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一楼的门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": ">>三楼的窗户打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>三楼的窗户打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,16 +731,16 @@
   {
     "original": ">>10秒后四楼的窗户破碎<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>10秒后四楼的窗户破碎<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>四楼的窗户破碎了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>四楼的窗户破碎了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,16 +749,16 @@
   {
     "original": ">>第二个房子的二楼玻璃将在20秒后碎掉<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个房子的二楼玻璃将在20秒后碎掉<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>第二个房子的二楼玻璃碎了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个房子的二楼玻璃碎了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": ">>现在可以从一楼的梯子上到二楼了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>现在可以从一楼的梯子上到二楼了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,16 +776,16 @@
   {
     "original": ">>四楼的玻璃将在30秒后碎掉<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>四楼的玻璃将在30秒后碎掉<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>四楼的玻璃碎掉了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>四楼的玻璃碎掉了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "西瓜投手：前面就是天线控制室了，大家多坚持会",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "西瓜投手：前面就是天线控制室了，大家多坚持会",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,16 +803,16 @@
   {
     "original": ">>天线控制室的门将在40秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>天线控制室的门将在40秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": ">>现在可以从二楼的楼梯上到四楼了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>现在可以从二楼的楼梯上到四楼了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": ">>天线控制室的门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>天线控制室的门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": "三叶草：二楼就是天线的控制室，我记得里面有个自动修复的按钮",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三叶草：二楼就是天线的控制室，我记得里面有个自动修复的按钮",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "三叶草：大家等我会，我找下自动修复的按钮",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三叶草：大家等我会，我找下自动修复的按钮",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "三叶草：ok，这下应该天线就没事了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三叶草：ok，这下应该天线就没事了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">>天线正在修复中……<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>天线正在修复中……<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": ">>天线已修复完成<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>天线已修复完成<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": "三叶草：这边有个移动平台可以直接到烟囱口的，按边上那个按钮就行",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三叶草：这边有个移动平台可以直接到烟囱口的，按边上那个按钮就行",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": ">>按下墙上的红色按钮以打开移动平台的门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>按下墙上的红色按钮以打开移动平台的门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -893,25 +893,25 @@
   {
     "original": ">>5秒后移动平台大门打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>5秒后移动平台大门打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>20秒后移动平台启动<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>20秒后移动平台启动<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>跳进烟囱口<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>跳进烟囱口<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": ">>检测到存活人类，开始核爆<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>检测到存活人类，开始核爆<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,7 +929,7 @@
   {
     "original": ">>一只僵尸找到了一个旗帜<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一只僵尸找到了一个旗帜<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": ">>一名玩家获得了坚果墙<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了坚果墙<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": ">>一名玩家获得了向日葵<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了向日葵<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": ">>一名玩家获得了玉米投手<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了玉米投手<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": ">>一名玩家获得了寒冰射手<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了寒冰射手<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": "坚果墙：戴夫家的污水我碰都不想碰，那味道闻着就恶心",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：戴夫家的污水我碰都不想碰，那味道闻着就恶心",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": ">>坚果墙已种植<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚果墙已种植<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": ">>一只僵尸找到了一张报纸<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一只僵尸找到了一张报纸<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": ">>坚果墙已就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚果墙已就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,7 +1010,7 @@
   {
     "original": ">>一名玩家获得了豌豆射手<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了豌豆射手<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1019,7 +1019,7 @@
   {
     "original": ">>一个木栅栏被僵尸拆掉了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一个木栅栏被僵尸拆掉了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": ">>一只僵尸找到了一扇铁栅门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一只僵尸找到了一扇铁栅门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,16 +1037,16 @@
   {
     "original": ">>电箱被玩坏了,将在15秒后爆炸<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电箱被玩坏了,将在15秒后爆炸<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>僵尸现在可以从穿过栅栏了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸现在可以从穿过栅栏了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,7 +1055,7 @@
   {
     "original": ">>电箱即将爆炸<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电箱即将爆炸<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": "坚果墙：移开这个栅栏需要点时间，大家坚持一会",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：移开这个栅栏需要点时间，大家坚持一会",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,25 +1073,25 @@
   {
     "original": ">>栅栏门将在33秒后被打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>栅栏门将在33秒后被打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 33,
+    "enable_timer": 1
   },
   {
     "original": ">>还剩10秒<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>还剩10秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "豌豆射手：下水道里怎么会有一个铁门？得找到电源开关才能打开这个门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：下水道里怎么会有一个铁门？得找到电源开关才能打开这个门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1100,7 +1100,7 @@
   {
     "original": "坚果墙：按下这个应该铁门就能打开了吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：按下这个应该铁门就能打开了吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1109,7 +1109,7 @@
   {
     "original": ">>电闸房间的铁栅门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电闸房间的铁栅门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "豌豆射手：坚果墙你在搞什么幺蛾子，这铁门的声音不对劲啊",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：坚果墙你在搞什么幺蛾子，这铁门的声音不对劲啊",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1127,7 +1127,7 @@
   {
     "original": "坚果墙：我看看……",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：我看看……",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1136,7 +1136,7 @@
   {
     "original": "坚果墙：我超，我不小心把电压调太高了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：我超，我不小心把电压调太高了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1145,7 +1145,7 @@
   {
     "original": "豌豆射手：大家离这个铁门远点！我感觉这门马上要爆了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：大家离这个铁门远点！我感觉这门马上要爆了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1154,7 +1154,7 @@
   {
     "original": "豌豆射手:这下水道门怎么被水泥堵住了，大家把这个水泥墙打烂！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手:这下水道门怎么被水泥堵住了，大家把这个水泥墙打烂！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1163,7 +1163,7 @@
   {
     "original": ">>水泥墙被打烂了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>水泥墙被打烂了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1172,7 +1172,7 @@
   {
     "original": "向日葵:前面就是下水道出口了，快去敲戴夫家的门！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵:前面就是下水道出口了，快去敲戴夫家的门！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1181,7 +1181,7 @@
   {
     "original": "向日葵：这里离戴夫的卧室很近，大家敲门吵醒他",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：这里离戴夫的卧室很近，大家敲门吵醒他",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1190,7 +1190,7 @@
   {
     "original": "疯狂戴夫：歪比巴卜(大早上的你叫啥啊)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "疯狂戴夫：歪比巴卜(大早上的你叫啥啊)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1199,7 +1199,7 @@
   {
     "original": ">>坚持到戴夫前来开门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持到戴夫前来开门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1208,7 +1208,7 @@
   {
     "original": "戴夫：歪比巴卜(我马上来开门)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "戴夫：歪比巴卜(我马上来开门)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1217,7 +1217,7 @@
   {
     "original": ">>一名玩家获得了土豆雷<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了土豆雷<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1226,7 +1226,7 @@
   {
     "original": ">>关卡2：草坪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡2：草坪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1235,7 +1235,7 @@
   {
     "original": "向日葵：几天没见这戴夫把他草坪整了这么多树篱",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：几天没见这戴夫把他草坪整了这么多树篱",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1244,7 +1244,7 @@
   {
     "original": "豌豆射手：最气的是他的快递还要我们来拿",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：最气的是他的快递还要我们来拿",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1253,7 +1253,7 @@
   {
     "original": ">>土豆雷已种植<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>土豆雷已种植<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1262,7 +1262,7 @@
   {
     "original": ">>需要一名玩家携带戴夫的快递，这将是通关的必要条件<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>需要一名玩家携带戴夫的快递，这将是通关的必要条件<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1271,16 +1271,16 @@
   {
     "original": ">>大门将在30秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大门将在30秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>大门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1289,7 +1289,7 @@
   {
     "original": "豌豆射手：就不知道这戴夫为什么要把这个草坪修的跟迷宫一样",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：就不知道这戴夫为什么要把这个草坪修的跟迷宫一样",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1298,7 +1298,7 @@
   {
     "original": "豌豆射手：等会回去了我一定要跳起来给他两豌豆",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：等会回去了我一定要跳起来给他两豌豆",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1307,7 +1307,7 @@
   {
     "original": ">>土豆雷已就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>土豆雷已就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1316,7 +1316,7 @@
   {
     "original": ">>30秒后木箱消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>30秒后木箱消失<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1325,7 +1325,7 @@
   {
     "original": "土豆雷：受不了辣，修成迷宫就算了，路上还丢一堆垃圾",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "土豆雷：受不了辣，修成迷宫就算了，路上还丢一堆垃圾",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1334,7 +1334,7 @@
   {
     "original": "土豆雷：想爆了!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "土豆雷：想爆了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1343,7 +1343,7 @@
   {
     "original": "向日葵：别急，等会回去了再找戴夫说嘛",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：别急，等会回去了再找戴夫说嘛",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1352,7 +1352,7 @@
   {
     "original": ">>木箱消失了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>木箱消失了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1361,25 +1361,25 @@
   {
     "original": ">>35秒后大门打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>35秒后大门打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": ">>40秒后木板消失<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>40秒后木板消失<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": ">>木板消失了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>木板消失了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1388,16 +1388,16 @@
   {
     "original": ">>20秒后大门打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>20秒后大门打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "豌豆射手：每次到这我都会想起后院的睡莲兄",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：每次到这我都会想起后院的睡莲兄",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1406,7 +1406,7 @@
   {
     "original": "向日葵：那等会休息一下去后院看下他吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：那等会休息一下去后院看下他吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1415,16 +1415,16 @@
   {
     "original": ">>30秒后大门打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>30秒后大门打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>需要两扇门均有人在才能打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>需要两扇门均有人在才能打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1433,7 +1433,7 @@
   {
     "original": "坚果墙：寒冰菇老哥？怎么在这个地方待着",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：寒冰菇老哥？怎么在这个地方待着",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1442,7 +1442,7 @@
   {
     "original": ">>一名玩家获得了寒冰菇<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了寒冰菇<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1451,7 +1451,7 @@
   {
     "original": "寒冰菇：等了好久了终于有人能来接我了，这草坪上就这个冰箱凉快点，差点就要化了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "寒冰菇：等了好久了终于有人能来接我了，这草坪上就这个冰箱凉快点，差点就要化了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1460,16 +1460,16 @@
   {
     "original": ">>两扇门将在30秒后同时打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>两扇门将在30秒后同时打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "坚果墙：不得不说这个凉亭修的还是很不错的，要是没事的话我就到这来睡午觉",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：不得不说这个凉亭修的还是很不错的，要是没事的话我就到这来睡午觉",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1478,25 +1478,25 @@
   {
     "original": ">>大门将在65秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大门将在65秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 65,
+    "enable_timer": 1
   },
   {
     "original": ">>还剩30秒<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>还剩30秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "豌豆射手：终于要到了，等会得去敲门让戴夫开门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：终于要到了，等会得去敲门让戴夫开门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1505,7 +1505,7 @@
   {
     "original": "土豆雷：……我已经快忍不住了，快走吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "土豆雷：……我已经快忍不住了，快走吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1514,16 +1514,16 @@
   {
     "original": ">>最终的栅栏门将在50秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>最终的栅栏门将在50秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": ">>去敲戴夫的门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>去敲戴夫的门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1532,7 +1532,7 @@
   {
     "original": "向日葵：戴夫！你的快递到了，快开门！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：戴夫！你的快递到了，快开门！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1541,7 +1541,7 @@
   {
     "original": "疯狂戴夫：拿到了嘛？让我看看呢",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "疯狂戴夫：拿到了嘛？让我看看呢",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1550,7 +1550,7 @@
   {
     "original": ">>使用快递包裹<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>使用快递包裹<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1559,7 +1559,7 @@
   {
     "original": "疯狂戴夫：umm，确实是这个包裹",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "疯狂戴夫：umm，确实是这个包裹",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1568,7 +1568,7 @@
   {
     "original": "疯狂戴夫：马上我来给你开门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "疯狂戴夫：马上我来给你开门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1577,7 +1577,7 @@
   {
     "original": ">>检测到人类存活，启用核爆<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>检测到人类存活，启用核爆<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1586,7 +1586,7 @@
   {
     "original": ">>一名玩家获得了大嘴花<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了大嘴花<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1595,7 +1595,7 @@
   {
     "original": ">>一名玩家获得了火爆辣椒<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了火爆辣椒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1604,7 +1604,7 @@
   {
     "original": ">>关卡3：泳池<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡3：泳池<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1613,7 +1613,7 @@
   {
     "original": "豌豆射手：这戴夫什么时候把后院的草坪全铲掉了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：这戴夫什么时候把后院的草坪全铲掉了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1622,7 +1622,7 @@
   {
     "original": "寒冰菇：一整片全是池塘，都不知道往哪走了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "寒冰菇：一整片全是池塘，都不知道往哪走了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1631,7 +1631,7 @@
   {
     "original": "坚果墙：右边好像就是入口，那有个牌子不知道上面写的啥",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：右边好像就是入口，那有个牌子不知道上面写的啥",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1640,7 +1640,7 @@
   {
     "original": ">>警告：植物不能直接种在水里<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>警告：植物不能直接种在水里<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1649,7 +1649,7 @@
   {
     "original": "豌豆射手：大家都看清楚警告了吧，我要按按钮咯",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：大家都看清楚警告了吧，我要按按钮咯",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1658,25 +1658,25 @@
   {
     "original": ">>通往池塘的道路将在20秒后出现<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往池塘的道路将在20秒后出现<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>通往第二个岛的桥将在35秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往第二个岛的桥将在35秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": ">>木桥已开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>木桥已开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1685,25 +1685,25 @@
   {
     "original": ">>左路木桥将在20秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>左路木桥将在20秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>右路木桥将在34秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>右路木桥将在34秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 34,
+    "enable_timer": 1
   },
   {
     "original": ">>左路木桥已开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>左路木桥已开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1712,7 +1712,7 @@
   {
     "original": ">>右路木桥已开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>右路木桥已开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1721,7 +1721,7 @@
   {
     "original": "土豆雷：那是睡莲兄吗？他怎么在这个地方",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "土豆雷：那是睡莲兄吗？他怎么在这个地方",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1730,7 +1730,7 @@
   {
     "original": "豌豆射手：睡莲兄怎么在这个地方玩啊",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：睡莲兄怎么在这个地方玩啊",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1739,7 +1739,7 @@
   {
     "original": ">>一名玩家获得了睡莲<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了睡莲<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1748,7 +1748,7 @@
   {
     "original": "睡莲：毁灭菇昨天跑来借我电视看，到现在都不还我，伤心了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "睡莲：毁灭菇昨天跑来借我电视看，到现在都不还我，伤心了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1757,7 +1757,7 @@
   {
     "original": "寒冰菇：这毁灭菇还是老样子啊，去看下他在干嘛？",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "寒冰菇：这毁灭菇还是老样子啊，去看下他在干嘛？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1766,7 +1766,7 @@
   {
     "original": ">>火爆辣椒已就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>火爆辣椒已就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1775,7 +1775,7 @@
   {
     "original": "睡莲：他在中间的岛上，那边只能走那个跳水台过去",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "睡莲：他在中间的岛上，那边只能走那个跳水台过去",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1784,7 +1784,7 @@
   {
     "original": "豌豆射手：行，走吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：行，走吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1793,25 +1793,25 @@
   {
     "original": ">>木桥将在50秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>木桥将在50秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": ">>左路第二木桥将在15秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>左路第二木桥将在15秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>左路第二木桥已开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>左路第二木桥已开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1820,16 +1820,16 @@
   {
     "original": ">>通往岸上的木桥将在40秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往岸上的木桥将在40秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": ">>木桥已经开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>木桥已经开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1838,7 +1838,7 @@
   {
     "original": "豌豆射手：那边应该就是跳水台了，从跳水台跳到中间的岛上吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：那边应该就是跳水台了，从跳水台跳到中间的岛上吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1847,7 +1847,7 @@
   {
     "original": "坚果墙：这跳水台声音不太对啊，怎么跟要垮了一样",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：这跳水台声音不太对啊，怎么跟要垮了一样",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1856,7 +1856,7 @@
   {
     "original": "豌豆射手：完了！忘了坚果墙你特别重了，再这样下去这木板要坏掉的",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：完了！忘了坚果墙你特别重了，再这样下去这木板要坏掉的",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1865,7 +1865,7 @@
   {
     "original": "豌豆射手：大家赶紧往下面跳，注意别掉水里了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：大家赶紧往下面跳，注意别掉水里了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1874,7 +1874,7 @@
   {
     "original": ">>一层跳水台已开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一层跳水台已开放<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1883,7 +1883,7 @@
   {
     "original": "睡莲：毁灭菇就在前面",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "睡莲：毁灭菇就在前面",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1892,7 +1892,7 @@
   {
     "original": ">>上层跳水台的木板烂掉了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>上层跳水台的木板烂掉了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1901,7 +1901,7 @@
   {
     "original": "豌豆射手：走，去看下他到底看什么东西这么起劲",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：走，去看下他到底看什么东西这么起劲",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1910,7 +1910,7 @@
   {
     "original": "豌豆射手：嘿，毁灭菇",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：嘿，毁灭菇",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1919,7 +1919,7 @@
   {
     "original": "豌豆射手：电视看啥看那么久呢，该还给睡莲了吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：电视看啥看那么久呢，该还给睡莲了吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1928,7 +1928,7 @@
   {
     "original": "向日葵：毁灭菇？",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：毁灭菇？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1937,7 +1937,7 @@
   {
     "original": "寒冰菇：他怕不是看上瘾了，把他电视的电闸关了得了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "寒冰菇：他怕不是看上瘾了，把他电视的电闸关了得了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1946,7 +1946,7 @@
   {
     "original": ">>通往电闸的路已开启<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>通往电闸的路已开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1955,7 +1955,7 @@
   {
     "original": "坚果墙：按下这个就可以把他电视的电断了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：按下这个就可以把他电视的电断了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1964,7 +1964,7 @@
   {
     "original": "毁灭菇：NO!我的电视！我的抛瓦！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "毁灭菇：NO!我的电视！我的抛瓦！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1973,7 +1973,7 @@
   {
     "original": "豌豆射手：别占着电视了，睡莲兄想看了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：别占着电视了，睡莲兄想看了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1982,7 +1982,7 @@
   {
     "original": "向日葵：？？！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：？？！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1991,7 +1991,7 @@
   {
     "original": "坚果墙：我超，没人跟我说这个电闸会把天线炸掉啊！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：我超，没人跟我说这个电闸会把天线炸掉啊！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2000,7 +2000,7 @@
   {
     "original": "疯狂戴夫：你们在搞什么飞机！我屋顶怎么爆了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "疯狂戴夫：你们在搞什么飞机！我屋顶怎么爆了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2009,7 +2009,7 @@
   {
     "original": ">>传送电箱处人类回到主岛<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>传送电箱处人类回到主岛<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2018,7 +2018,7 @@
   {
     "original": "豌豆射手：坏了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：坏了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2027,7 +2027,7 @@
   {
     "original": "豌豆射手：这下都没电视看了，一起去修天线吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：这下都没电视看了，一起去修天线吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2036,16 +2036,16 @@
   {
     "original": ">>毁灭菇将在20秒后解锁<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>毁灭菇将在20秒后解锁<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>一名玩家获得了毁灭菇<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了毁灭菇<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2054,7 +2054,7 @@
   {
     "original": "睡莲：走这边，那边上岸快",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "睡莲：走这边，那边上岸快",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2063,7 +2063,7 @@
   {
     "original": "土豆雷：大家快走了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "土豆雷：大家快走了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2072,16 +2072,16 @@
   {
     "original": ">>30秒后出现石桥<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>30秒后出现石桥<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>毁灭菇准备爆炸<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>毁灭菇准备爆炸<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2090,7 +2090,7 @@
   {
     "original": ">>石桥从水中升起<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>石桥从水中升起<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2099,7 +2099,7 @@
   {
     "original": "豌豆射手：唉，这下戴夫要把我们骂惨了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：唉，这下戴夫要把我们骂惨了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2108,7 +2108,7 @@
   {
     "original": "向日葵：等会回去了和他解释下，立马去屋顶修雷达吧",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "向日葵：等会回去了和他解释下，立马去屋顶修雷达吧",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2117,16 +2117,16 @@
   {
     "original": ">>40秒后石路从水里升起<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>40秒后石路从水里升起<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": ">>大嘴花吃掉了一只僵尸<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大嘴花吃掉了一只僵尸<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2135,7 +2135,7 @@
   {
     "original": ">>大嘴花已就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大嘴花已就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2144,7 +2144,7 @@
   {
     "original": ">>石路从水里升起了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>石路从水里升起了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2153,7 +2153,7 @@
   {
     "original": "豌豆射手：睡莲！这地方这么远怎么过得去啊！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：睡莲！这地方这么远怎么过得去啊！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2162,7 +2162,7 @@
   {
     "original": "睡莲：别急，这不就到我出马了吗",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "睡莲：别急，这不就到我出马了吗",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2171,7 +2171,7 @@
   {
     "original": ">>使用睡莲，在水里搭出一条路<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>使用睡莲，在水里搭出一条路<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2180,7 +2180,7 @@
   {
     "original": ">>睡莲仅能使用4次<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>睡莲仅能使用4次<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2189,7 +2189,7 @@
   {
     "original": ">>睡莲已种植<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>睡莲已种植<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2198,16 +2198,16 @@
   {
     "original": ">>坚持30秒<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持30秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "豌豆射手：厉害啊睡莲兄，大家抓紧上岸！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：厉害啊睡莲兄，大家抓紧上岸！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2216,7 +2216,7 @@
   {
     "original": ">>关卡4：烟囱<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡4：烟囱<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2225,7 +2225,7 @@
   {
     "original": ">>抵达烟囱顶部<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>抵达烟囱顶部<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2234,34 +2234,34 @@
   {
     "original": ">>20秒后电梯启动<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>20秒后电梯启动<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>梯子50秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>梯子50秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": ">>最终的电梯将在60秒后启动<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>最终的电梯将在60秒后启动<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": ">>烟囱的铁丝网被拆掉了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>烟囱的铁丝网被拆掉了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2270,7 +2270,7 @@
   {
     "original": ">>一名玩家获得了三叶草<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一名玩家获得了三叶草<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2279,16 +2279,16 @@
   {
     "original": ">>第二个铁栅门将在30秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个铁栅门将在30秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>三叶草开始吹风<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>三叶草开始吹风<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2297,7 +2297,7 @@
   {
     "original": ">>二楼的窗户被破坏了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>二楼的窗户被破坏了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2306,16 +2306,16 @@
   {
     "original": ">>第二个房子的一楼大门将在20秒后打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个房子的一楼大门将在20秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>三叶草已就绪<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>三叶草已就绪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2324,7 +2324,7 @@
   {
     "original": ">>第二个房子的一楼大门打开了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二个房子的一楼大门打开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2333,7 +2333,7 @@
   {
     "original": "坚果墙：听说这个电箱很不稳定，最好还是不要碰的好",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚果墙：听说这个电箱很不稳定，最好还是不要碰的好",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2342,7 +2342,7 @@
   {
     "original": ">>有人打碎了铁板桥<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>有人打碎了铁板桥<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2351,7 +2351,7 @@
   {
     "original": "三叶草：这边有个轨道可以直接到烟囱口的，按边上那个按钮就行",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三叶草：这边有个轨道可以直接到烟囱口的，按边上那个按钮就行",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2360,7 +2360,7 @@
   {
     "original": ">>按下墙上的红色按钮以打开出口轨道的门<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>按下墙上的红色按钮以打开出口轨道的门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2369,16 +2369,16 @@
   {
     "original": ">>20秒后出口轨道门打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>20秒后出口轨道门打开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>关卡6：屋顶(夜晚)<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡6：屋顶(夜晚)<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2387,7 +2387,7 @@
   {
     "original": "豌豆射手：大晚上的什么动静啊，搞装修？",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：大晚上的什么动静啊，搞装修？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2396,7 +2396,7 @@
   {
     "original": "？？？：可恶的植物们听好了，我来给我的电视弟弟报仇来了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "？？？：可恶的植物们听好了，我来给我的电视弟弟报仇来了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2405,7 +2405,7 @@
   {
     "original": "？？？：识相的话就乖乖出来挨打，不然我就把这个房子全拆了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "？？？：识相的话就乖乖出来挨打，不然我就把这个房子全拆了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2414,7 +2414,7 @@
   {
     "original": "豌豆射手：那你得有这个本事，谁打谁还不一定呢！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：那你得有这个本事，谁打谁还不一定呢！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2423,7 +2423,7 @@
   {
     "original": "？？？：呵呵，那就让我来让你们知道什么是高科技！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "？？？：呵呵，那就让我来让你们知道什么是高科技！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2432,7 +2432,7 @@
   {
     "original": "愤怒电视：我是白天被你们炸掉的小电视的哥哥，我现在很生气！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "愤怒电视：我是白天被你们炸掉的小电视的哥哥，我现在很生气！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2441,7 +2441,7 @@
   {
     "original": "愤怒电视：一分钟之内来屋顶，否则没有你们好果汁吃！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "愤怒电视：一分钟之内来屋顶，否则没有你们好果汁吃！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2450,7 +2450,7 @@
   {
     "original": ">>本关仅有击败僵王才可通关<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>本关仅有击败僵王才可通关<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2459,7 +2459,7 @@
   {
     "original": ">>人类不会被僵尸感染，僵尸最大生命值大幅削减<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>人类不会被僵尸感染，僵尸最大生命值大幅削减<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2468,7 +2468,7 @@
   {
     "original": ">>当僵尸触碰到办公区的红线，人类将会失败<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>当僵尸触碰到办公区的红线，人类将会失败<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2477,7 +2477,7 @@
   {
     "original": ">>僵尸现在可以传送至平台<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸现在可以传送至平台<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2486,7 +2486,7 @@
   {
     "original": ">>僵尸进入了屋顶办公区，人类失败<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸进入了屋顶办公区，人类失败<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2495,7 +2495,7 @@
   {
     "original": ">>连败计数：0<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>连败计数：0<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2504,25 +2504,25 @@
   {
     "original": ">>连败计数：1<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>连败计数：1<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>连败计数：2<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>连败计数：2<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>一个人类获得了大喷菇<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一个人类获得了大喷菇<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2531,7 +2531,7 @@
   {
     "original": ">>大喷菇前来支援了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大喷菇前来支援了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2540,25 +2540,25 @@
   {
     "original": ">>连败计数：3<<",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>第二个房子的一楼大门将在15秒后打开<<",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>连败计数：3<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
+    "original": ">>第二个房子的一楼大门将在15秒后打开<<",
+    "en_trans": "",
+    "zh_trans": ">>第二个房子的一楼大门将在15秒后打开<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
     "original": "愤怒电视：noooo！我的僵王机甲！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "愤怒电视：noooo！我的僵王机甲！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2567,7 +2567,7 @@
   {
     "original": "豌豆射手：这下懂什么是抛瓦了吧，再回去修炼几年吧！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "豌豆射手：这下懂什么是抛瓦了吧，再回去修炼几年吧！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2576,7 +2576,7 @@
   {
     "original": "愤怒电视：可恶，你们等着，我会回来的！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "愤怒电视：可恶，你们等着，我会回来的！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2585,7 +2585,7 @@
   {
     "original": ">>你们战胜了愤怒电视！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>你们战胜了愤怒电视！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2594,7 +2594,7 @@
   {
     "original": ">>感谢游玩<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>感谢游玩<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2603,7 +2603,7 @@
   {
     "original": ">>已经没有剩余的睡莲了<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>已经没有剩余的睡莲了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2612,7 +2612,7 @@
   {
     "original": ">>有人不慎从屋顶上掉了下去<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>有人不慎从屋顶上掉了下去<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
