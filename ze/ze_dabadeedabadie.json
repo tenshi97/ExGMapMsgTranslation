@@ -1,6 +1,6 @@
 [
   {
-    "original": "ZE_OVERLORD",
+    "original": "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "测试版本",
+    "original": "*** There's something strange with this place... ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,16 +18,25 @@
     "enable_timer": 0
   },
   {
-    "original": "25",
+    "original": "*** Why is everything so... blue ?***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "10",
+    "original": "*** FALL BACK ! Zombies TP once this door is open ! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** DOOR OPENS IN 10 SECONDS ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,16 +45,7 @@
     "enable_timer": 1
   },
   {
-    "original": "30",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "20",
+    "original": "*** DOOR OPENS IN 20 SECONDS ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,70 +54,25 @@
     "enable_timer": 1
   },
   {
-    "original": "塔其米:你执意要踏足此地么?",
+    "original": "*** DEFEND 20 SECONDS FOR THE DOOR TO CLOSE ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "塔其米:亵渎者,你会后悔的",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "40",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
+    "timer_num": 20,
     "enable_timer": 1
   },
   {
-    "original": "ZE_OVERLORD Chapter I",
+    "original": "*** WAIT 30 SECONDS FOR THE ELEVATOR ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "雅儿贝德:亵渎者,在地狱之火中安息吧!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "ZE_OVERLORD Chapter II",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "60",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
+    "timer_num": 30,
     "enable_timer": 1
   },
   {
-    "original": "ZE_OVERLORD Chapter III",
+    "original": "*** Something is coming... ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,7 +81,7 @@
     "enable_timer": 0
   },
   {
-    "original": "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!",
+    "original": "*** Some of us should go IN the two sides to cover the team ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "封印纳萨利里克的亡灵于坟墓之内",
+    "original": "*** CROUCH or DIE !! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +99,7 @@
     "enable_timer": 0
   },
   {
-    "original": "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>",
+    "original": "*** Jump NOW ! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +108,16 @@
     "enable_timer": 0
   },
   {
-    "original": "纳萨力克的亡灵......我无意亵渎此地......愿你安息",
+    "original": "*** Please come forward <3 ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Please stay on the elevator. ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,7 +126,16 @@
     "enable_timer": 0
   },
   {
-    "original": "第六位阶:火焰之翼",
+    "original": "*** QUICK ! Go away from the elevator ! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** LOOK BEHIND YOU !! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

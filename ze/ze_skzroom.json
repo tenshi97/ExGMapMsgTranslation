@@ -1,6 +1,6 @@
 [
   {
-    "original": "僵尸5s后传送",
+    "original": "=== 15s后开门 ===",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,16 @@
     "enable_timer": 0
   },
   {
-    "original": "等待20s",
+    "original": "open in 15s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 5s后开门 ===",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +27,16 @@
     "enable_timer": 0
   },
   {
-    "original": "防守25s",
+    "original": "open in 5s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 20s后开门 ===",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +45,16 @@
     "enable_timer": 0
   },
   {
-    "original": "僵尸3s后传送",
+    "original": "open in 20s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 10s后开门 ===",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,214 +63,16 @@
     "enable_timer": 0
   },
   {
-    "original": "防守5s，注意撤退",
+    "original": "open in 10s",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
-    "original": "Laser!!!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "防守30s",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "击碎它",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<地图原形:Crystar>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>>飞剑已被拾起<<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<等待20s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<僵尸10s后传送>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<防守15s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<防守25s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<僵尸3s后传送>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>>推力已被拾起<<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<防守30s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>>剑核心就绪<<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>>恢复已被拾起<<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<守护者—赫拉克利特>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<僵尸15s后传送>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<防守5s，注意撤退>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<撤退！！！>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<防守10s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<等待30s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<防守20s>>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<僵尸5s后传送>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<<恢复1/3>>>",
+    "original": "<<<--- 3 --->>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,7 +81,25 @@
     "enable_timer": 1
   },
   {
-    "original": "<<<恢复已就绪>>>",
+    "original": "<<<--- 2 --->>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<<--- 1 --->>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 20s后传送 ===",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -261,21 +108,219 @@
     "enable_timer": 0
   },
   {
-    "original": "<<<恢复2/3>>>",
+    "original": "teleport after 20s",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 20,
     "enable_timer": 1
   },
   {
-    "original": "<<<恢复3/3>>>",
+    "original": "=== 10s后传送 ===",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "teleport after 10s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
     "enable_timer": 1
+  },
+  {
+    "original": "=== 15s后第一扇门开启 ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "firt door open in 15s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 30s后传送 ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "teleport in 30s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "teleport in 20s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 15s后第二扇门开启 ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "second door open in 15s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "teleport in 10s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 侧路10s后开启 ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "side road open in 10s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "teleport after 30s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 僵尸5s传送 ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "zombie teleport in 5s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 防守20s ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "last door close in 20s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 防守10s ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "last door close in 10s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "=== 防守5s ===",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "last door close in 5s",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "~Thanks for playing~",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "~感谢游玩~",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
