@@ -52,5 +52,41 @@
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
+  },
+  {
+    "original": "<SECOND GATE OPEN IN 5 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<FOUNTAIN TP ENABLED>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<ZM TELEPORT IN 15 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<WALL BREAK IN 20 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
   }
 ]
