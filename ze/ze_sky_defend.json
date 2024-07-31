@@ -88,5 +88,32 @@
     "kr_trans": "",
     "timer_num": 20,
     "enable_timer": 1
+  },
+  {
+    "original": "<WALL BROKEN>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<ZM TP AFTER 25 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<DEFEND 40 SECONDS>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
   }
 ]
