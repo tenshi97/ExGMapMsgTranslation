@@ -2,7 +2,7 @@
   {
     "original": "***ZOMBIE DETECTED - YOU FAIL***",
     "en_trans": "",
-    "zh_trans": "***检测到僵尸-人类失败***",
+    "zh_trans": "***检测到僵尸 - 你输了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "***MUFASA IS PRAYING FOR THE TRUTH***",
     "en_trans": "",
-    "zh_trans": "***MUFASA正在为真相祈祷***",
+    "zh_trans": "***木法沙正在为真相祈祷（老狮子触发）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "***ZAZU IS PRAYING FOR THE TRUTH***",
     "en_trans": "",
-    "zh_trans": "***ZAZU正在为真相祈祷**",
+    "zh_trans": "***扎祖正在为真相祈祷（鹦鹉触发）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "***LOWER GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "***下层闸门正在打开***",
+    "zh_trans": "***下层门正在开启***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "***SOMETHING IS COMING...***",
     "en_trans": "",
-    "zh_trans": "***有什么东西要来了...***",
+    "zh_trans": "***有什么东西来了...***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***",
     "en_trans": "",
-    "zh_trans": "***第二道门正在打开***",
+    "zh_trans": "***第三道门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1127,7 +1127,7 @@
   {
     "original": "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***第二道门将在15秒后打开***",
+    "zh_trans": "***第三道门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1271,7 +1271,7 @@
   {
     "original": "***OPENING DOORS***",
     "en_trans": "",
-    "zh_trans": "***正在开门***",
+    "zh_trans": "***门已开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1298,7 +1298,7 @@
   {
     "original": "***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***10秒后打开教堂大门***",
+    "zh_trans": "***10秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1307,7 +1307,7 @@
   {
     "original": "***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***5秒后打开教堂大门***",
+    "zh_trans": "***5秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1316,7 +1316,7 @@
   {
     "original": "***OPENING UPPER CHAPEL DOOR***",
     "en_trans": "",
-    "zh_trans": "***教堂大门正在打开***",
+    "zh_trans": "***教堂门已开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1347,7 +1347,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 5
   },
   {
     "original": "*ray*Zack, stop walking and have a rest",
@@ -1361,7 +1361,7 @@
   {
     "original": "***HEAD TOWARD SANTAS LAIR***",
     "en_trans": "",
-    "zh_trans": "***冲向圣诞老人的城堡***",
+    "zh_trans": "***进入圣诞老人的巢穴***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -2468,7 +2468,7 @@
   {
     "original": "***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***下层电梯将在20秒后离开***",
+    "zh_trans": "***鹦鹉路电梯20秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -2486,7 +2486,7 @@
   {
     "original": "***LOWER ELEVATOR IS LEAVING***",
     "en_trans": "",
-    "zh_trans": "***下层电梯正在离开***",
+    "zh_trans": "***鹦鹉路电梯离开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
