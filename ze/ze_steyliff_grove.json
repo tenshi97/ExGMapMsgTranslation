@@ -268,5 +268,32 @@
     "kr_trans": "",
     "timer_num": 20,
     "enable_timer": 1
+  },
+  {
+    "original": "> A player has learned [ Fire ] magic, <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> A player has learned [ Blizzard ] magic, <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< This journey is coming to an end... >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
