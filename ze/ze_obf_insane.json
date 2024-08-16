@@ -2,7 +2,7 @@
   {
     "original": "<<<Mapper: Nino>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<地图作者: Nino>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "<<CS2 Port by @Seth>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<CS2由Seth进行移植>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "<<<Script: 7ychu5>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<脚本监制: 7ychu5>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "<<<Music: Trazix>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<音乐监制: Trazix>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "<<<Bad things happening in this area...>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<这片区域发生了一些不好的事...>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "<<<We got the order from the higher level>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<我们得到了上级的命令>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,16 +56,16 @@
   {
     "original": "<<<move to the X-13 facility and wait for the next command>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<转移到X-13基地，等待下一个命令>>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 13,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<<find out the train under this tunnel>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<找出隧道下面的火车>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "<<<goodluck>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<祝你们好运！>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
