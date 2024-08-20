@@ -2,7 +2,7 @@
   {
     "original": "<<<Mapper: Nino>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<地图作者: Nino>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "<<CS2 Port by @Seth>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<CS2版本由Seth进行移植>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "<<<Script: 7ychu5>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<脚本监制: 7ychu5>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "<<<Music: Trazix>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<音乐监制: Trazix>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "<<<Bad things happening in this area...>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<这片区域发生了一些不好的事...>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "<<<We got the order from the higher level>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<我们得到了上级的命令>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,16 +56,16 @@
   {
     "original": "<<<move to the X-13 facility and wait for the next command>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<转移到X-13基地，等待下一个命令>>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 13,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<<find out the train under this tunnel>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<找出隧道下面的火车>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "<<<goodluck>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<祝你们好运！>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "<<<guess we need to act separately..>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<看来我们需要单独行动了…>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "<<< ... ... >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< ... ... >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "<<< wait for a while the tram is coming >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<在这里坚守一会，电车正在赶来的路上>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "<<< zombies are comming from behind >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<僵尸从我们后面来了！>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "<<< the glass looks weak, watchout... >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<这玻璃看起来很不牢固，小心...>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "<<< Those cases blocked our way >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<那些箱子挡住了我们的路>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "<<< defend zombies, the cases will break soon >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<防守僵尸，这些箱子马上就会被破坏>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "<<< good >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<干得好>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "<<< The train seems to be working >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<这辆火车看起来还在运行>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "<<< Harry up! let's move to the last tunnel >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<快点的！我们动身去最后的隧道吧>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "<<< ... >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< ... >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "<<< the door get stuck >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<这门怎么卡住了>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "<<< let's try some violent way >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<让我们尝试一些暴力的方式>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,16 +200,16 @@
   {
     "original": "<<< -38 survivors detected >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<检测到幸存者在38人以下>>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 38,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<< Current Ending: Dance with Fire >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<当前结局：与火共舞>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "<<< Prepare to fight for your life >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<准备好为你的生命而战！>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "<< Gargantua is going to self-destruction and kills everyone! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<泰坦巨兽就要自爆了，这将会杀死所有人！>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "<< It's too late... >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<已经太迟了... >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,16 +245,16 @@
   {
     "original": "<<< +38 survivors detected >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<检测到幸存者在38人以上>>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 38,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<< Current Ending: The StarFire >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<当前结局：燎原之火>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": "<<< Yes, we made it >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<太棒了，我们成功了！>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "<<< Now take a deep breath, zombies will start an insane attack >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<现在深呼吸，僵尸将会展开更凶猛的进攻。>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
