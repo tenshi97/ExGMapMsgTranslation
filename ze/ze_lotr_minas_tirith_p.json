@@ -2,7 +2,7 @@
   {
     "original": "** MAP BY Hannibal [SPA] (Rafuron) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图制作：汉尼拔 Hannibal [SPA] (Rafuron) & 翻译: Asuka Langley **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "** Thanks to Kaemon **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 特别鸣谢：Kaemon **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "** WARMUP ROUND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身回 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,16 +29,16 @@
   {
     "original": "** Tip 1 : press +use on pickable objects to build barricades **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示一：神器按E可放置障碍物 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身回合 ** 60 秒后正式开始**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -47,25 +47,25 @@
   {
     "original": "** Tip 2 : reach and win the end of a stage to level up **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示二：抵达关卡终点并取得胜利即可升级 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 3 : take items at zombie and human shops in spawn **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提升三：可在出生点的商店拾取人类或僵尸神器 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示四：你的等级会在新回合显示。等级的数值约为你的击杀分数除以100 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,61 +74,61 @@
   {
     "original": "** Tip 5 : barricades health depends on the size and material **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示五：障碍物生命值取决于物体的尺寸 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 6 : hold spots tend to be long * hold as much as possible at previous positions **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示六：防守线会比较长，所以请尽可能的坚持住 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 7 : guards work as stoppers * but you can shoot throught them **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示七：守卫是作为僵尸路障存在的，他们不会影响你的枪线 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示八：梯子和炸药（TNT）是非常强力的神器 * 因此你需要优先击杀持有这些神器的僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 8,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示九：你最好把路障放在守卫的后面，这样才能尽可能发挥路障的作用 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 9,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示十：骑兵和重甲的护盾尚未被击破时，会对靠近的僵尸产生一个小推力 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身回 ** 10 秒后正式开始 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -137,16 +137,16 @@
   {
     "original": "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示十一：炎魔的咆哮可以治愈附近的僵尸并短暂提升其移速 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 11,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示十二：第四关的洗手间位于第二座塔的顶端（从木坡上去后右转）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,16 +155,16 @@
   {
     "original": "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示十三：甘道夫阻挡僵尸技能的按键是：DAWDS;白骑士（高达）的按键是：AADDSWSW **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 13,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": "** WARMUP ROUND IS OVER! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身已结束 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "** STARTING AT FIRST LEVEL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 正在开始第一关 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "**CURRENT STAGE >> PART 1 >> OSGILIATH **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前关卡 >> 第一关 >> 奥斯吉力亚斯之殇 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -191,7 +191,7 @@
   {
     "original": "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 该回合即将开始 ** 请确认你的等级并前往商店拾取神器 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 回合开始 ** 请选择一扇传送门 ** 20 秒后全部传送 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -209,7 +209,7 @@
   {
     "original": "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 索隆的战船正在越过安都因河! ** 准备好战斗 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "** THE WHITE KNIGHT IS READY ROCK THE WORLD**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 白骑士将会让这个世界为之震撼 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "** RESIST 25 SECONDS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 抵抗 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -236,7 +236,7 @@
   {
     "original": "** RETREAT !! RIVER ZONE IS LOST **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退!! 港口已被敌军突破! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "** WATCH OUT! WE ARE UNDER SIEGE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小心!! 敌军正在攻城! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 誓死守住奥斯吉力亚斯! 我们不能不战而溃! (30 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -263,7 +263,7 @@
   {
     "original": "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** .. 炎魔出现了 .. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,16 +272,16 @@
   {
     "original": "**CURRENT STAGE >> PART 2 >> MAIN GATES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前关卡 >> 第二关 >> 城门 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 那些该死的半兽人突破了我们的防线 ** 撤退!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "**CURRENT STAGE >> PART 3 >> CATAPULTS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前关卡 >> 第三关 >> 投石机 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -299,7 +299,7 @@
   {
     "original": "** THEY ARE IN! RETREAT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 敌军打进来了! 撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": "** THE LIFT IS LEAVING IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 升降装置 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -317,7 +317,7 @@
   {
     "original": "** THEY ARE TRYING TO GET IN ** SHOOT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 他们正在尝试突破! ** 阻止他们! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,16 +326,16 @@
   {
     "original": "** CURRENT STAGE >> PART 4 >> THE LAST STAND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前关卡 >> 第四关 >> 背水一战 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** (图书馆) ** 顶住这里 ** 等待号角吹响 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "** FALL BACK! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "** OSGILIATH IS LOST ** RETREAT ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 奥斯吉力亚斯已沦陷 ** 撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "** TAKE THE HORSES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 吹响号角 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "** DOOR IS OPENING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门正在开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 敌军(僵尸)来袭! 快关上大门! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "** DOOR IS CLOSED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门已关上 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "** STAGE COMPLETED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 关卡完成 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "** WATCH OUT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小心 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 敌军的攻城塔已部署! ** 城墙已被攻陷! ** 必须撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "** RETREAT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是最后一战 ** 战至号角吹响 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 使用路障来顶住大门，或者死守 60 秒! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -452,25 +452,25 @@
   {
     "original": "** DOOR 1 LOCKED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一门已锁 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** DOOR 2 LOCKED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 二门已锁 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** DOORS LOCKED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 全部门均已锁上 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门已关闭 ** 必须有人去拉动拉杆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 拉杆已触发 ** 大门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -497,7 +497,7 @@
   {
     "original": "** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 使用投石机守住米那斯提力斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,25 +506,25 @@
   {
     "original": "** Catapult 1 activated **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一号投石机已部署 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Catapult 2 activated **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 二号投石机已部署 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得好! 大门 10 秒后开启! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -533,7 +533,7 @@
   {
     "original": "** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住这栋建筑! 掩护平民撤离! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "** DEFEND THIS PLACE FOR 35 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持 35 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -551,7 +551,7 @@
   {
     "original": "** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 再坚持一会，可能还会有幸存者仍未撤离 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "** THE POSITION IS LOST ** RETREAT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 该区域已沦陷! ** 撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 全部进来! ** 准备好拼死一搏了吗? **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "** DEFEND THIS PLACE FOR 70 SECONDS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住这里 70 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -587,7 +587,7 @@
   {
     "original": "** DOORS UNLOCKED ** RETREAT ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门开了! ** 撤退 ! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "** WE HAVE LOST THE POSTION ** FALL BACK **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这个区域已被敌军攻陷! ** 撤退! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,16 +605,16 @@
   {
     "original": "** STAGE 3 COMPLETED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第三关 完成 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门很快打开! ** 再坚持一会! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "** DOORS ARE UNLOCKED NOW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门开了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** (地下城) ** 守住这里，待号角吹响! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们中计了! 拼死一搏! 一定要杀出重围! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 天花板正在崩塌! ** 爬上残壁! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "** WE ARE NEAR THE TOP OF MINAS TIRITH ** HOLD THIS PLACE FOR 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们正在接近米那斯提力斯之顶 ** 守住这里 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -668,7 +668,7 @@
   {
     "original": "** LIFT IS LEAVING IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 升降装置 10 秒后升起 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -677,7 +677,7 @@
   {
     "original": "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 亡灵大军正在向我们袭来! 准备好最后的防守! 殊死抵抗! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住主门! 不要给米那斯提力斯顶部的防守增加压力! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 道路已开放 ** 前往米那斯提力斯的顶部 ** 抵抗 80 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -704,7 +704,7 @@
   {
     "original": "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是这个地图最后的守点 ** 坚持住弟兄们 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": "** All humans at bottom part will die in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有位于底部的人类 15 秒后处死 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -722,7 +722,7 @@
   {
     "original": "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第四关 已完成 ** 正在开启极限难度(EX)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -731,7 +731,7 @@
   {
     "original": "** EXTREME MODE : ON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 极限难度(EX): 已启用 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": "** ENABLED BLUE COLORCORRECTION AND PARTICLES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 启用蓝色色彩纠正和粒子效果 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,16 +749,16 @@
   {
     "original": "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 除五级神器外，所有僵尸神器已解锁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** CONSTANT METEOR HAS BEEN ENABLED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 天坠已启用 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": "** INCREASED NUMBER OF NAZGULS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 增加戒灵数量 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,7 +776,7 @@
   {
     "original": "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 0级玩家自动升级至1级 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
