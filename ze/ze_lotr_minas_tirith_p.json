@@ -695,7 +695,7 @@
   {
     "original": "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 道路已开放 ** 前往米那斯提力斯的顶部 ** 抵抗 80 秒 **",
+    "zh_trans": "** 道路已开放 ** 前往米那斯提力斯的天台 ** 抵抗 85 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -716,8 +716,8 @@
     "zh_trans": "** 所有位于底部的人类 15 秒后处死 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **",
