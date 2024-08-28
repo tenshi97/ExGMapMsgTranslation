@@ -695,20 +695,20 @@
   {
     "original": "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 道路已开放 ** 前往米那斯提力斯的天台 ** 抵抗 85 秒 **",
+    "zh_trans": "** 前往米那斯提力斯的天台 ** 抵抗 85 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 80,
+    "timer_num": 85,
     "enable_timer": 1
   },
   {
     "original": "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **",
     "en_trans": "",
-    "zh_trans": "** 这是这个地图最后的守点 ** 坚持住弟兄们 **",
+    "zh_trans": "** 亡灵大军很快就来支援我们! ** 坚持住弟兄们 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** All humans at bottom part will die in 15 seconds **",
