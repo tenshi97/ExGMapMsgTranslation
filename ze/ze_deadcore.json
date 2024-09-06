@@ -1,6 +1,6 @@
 [
   {
-    "original": ">>> Stage1 <<<",
+    "original": ">>> Map by Airvulpes <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> Map made by Moray <<<",
+    "original": ">>> css port by xen <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> port by ws <<<",
+    "original": ">>> csgo backport by koen <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,21 +27,57 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> Hold for 25 seconds <<<",
+    "original": ">>> cs2 port by Tenshi. <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> Stage - A <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "> Stage - B <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold 40 seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": ">>> Hold for 30 seconds <<<",
+    "original": ">>> 30 seconds left <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 20 seconds left <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
     "enable_timer": 1
   },
   {
@@ -54,16 +90,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> The elevator will leave in 10 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> The door will close in 15 seconds <<<",
+    "original": ">>> Hold 15 seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,25 +99,16 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> The another pass has opened <<<",
+    "original": ">>> 5 seconds left <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Fence will close in 10 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": ">>> The elevator will leave in 30 seconds <<<",
+    "original": ">>> Hold 30 seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,25 +117,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> 10 seconds left<<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> Hold for 15 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> Stage1 Completed <<<",
+    "original": "> Stage - C <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,16 +126,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> Stage2 <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Zombie teleport in 10 seconds <<<",
+    "original": ">>> 10 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +135,88 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> Hold for 20 seconds <<<",
+    "original": ">>> 9 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 9,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 8 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 7 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 6 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 5 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 4 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 3 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 2 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 1 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Hold 20 seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,97 +225,61 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> The window will close in 15 seconds <<<",
+    "original": ">>> 100 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
+    "timer_num": 100,
     "enable_timer": 1
   },
   {
-    "original": ">>> The door will close in 25 seconds <<<",
+    "original": ">>> 90 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
+    "timer_num": 90,
     "enable_timer": 1
   },
   {
-    "original": ">>> Hold for 10 seconds <<<",
+    "original": ">>> 80 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
+    "timer_num": 80,
     "enable_timer": 1
   },
   {
-    "original": ">>> Rescue is coming <<<",
+    "original": ">>> 70 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Defend the helipad <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Stage2 Completed <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Stage3 <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> The elevator is rising <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Defend the gate <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Shortcut will open in 5 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 70,
     "enable_timer": 1
   },
   {
-    "original": ">>> Hold for 40 seconds <<<",
+    "original": ">>> 60 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 50 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> 40 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,16 +288,25 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> Hold here until the elevator comes <<<",
+    "original": ">>> 30 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
-    "original": ">>> Shortcut will open in 10 seconds <<<",
+    "original": ">>> 20 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Hold 10 seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -270,7 +315,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> Zombie teleport in 5 seconds <<<",
+    "original": ">>> Hold 5 seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -279,16 +324,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">>> The elevator will leave in 40 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> Stage3 Completed <<<",
+    "original": "> Stage - D <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -297,7 +333,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> Round failed <<<",
+    "original": ">>> D INSANE MODE ENABLED FOR NEXT ROUND <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -306,7 +342,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> Stage4 <<<",
+    "original": ">>> D INSANE MODE ENABLED <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -315,25 +351,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> Hold for 35 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> Doors will close in 15 seconds <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> Stage4 Completed <<<",
+    "original": "> Stage - Insane D <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
