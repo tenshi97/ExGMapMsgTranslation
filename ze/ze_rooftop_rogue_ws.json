@@ -297,48 +297,48 @@
     "enable_timer": 0
   },
   {
-      "original": ">>> Round failed <<<",
-      "en_trans": "",
-      "zh_trans": ">>> 回合失败 <<<",
-      "jp_trans": "",
-      "kr_trans": "",
-      "timer_num": 0,
-      "enable_timer": 0
-    },
-    {
-      "original": ">>> Stage4 <<<",
-      "en_trans": "",
-      "zh_trans": ">>> 第四关 <<<",
-      "jp_trans": "",
-      "kr_trans": "",
-      "timer_num": 0,
-      "enable_timer": 0
-    },
-    {
-      "original": ">>> Hold for 35 seconds <<<",
-      "en_trans": "",
-      "zh_trans": ">>> 保持防守35秒 <<<",
-      "jp_trans": "",
-      "kr_trans": "",
-      "timer_num": 35,
-      "enable_timer": 1
-    },
-    {
-      "original": ">>> Doors will close in 15 seconds <<<",
-      "en_trans": "",
-      "zh_trans": ">>> 大门将在15秒后关闭 <<<",
-      "jp_trans": "",
-      "kr_trans": "",
-      "timer_num": 15,
-      "enable_timer": 1
-    },
-    {
-      "original": ">>> Stage4 Completed <<<",
-      "en_trans": "",
-      "zh_trans": ">>> 第四关完成 <<<",
-      "jp_trans": "",
-      "kr_trans": "",
-      "timer_num": 0,
-      "enable_timer": 0
-    }
+    "original": ">>> Round failed <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 回合失败 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Stage4 <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第四关 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold for 35 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 保持防守35秒 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Doors will close in 15 seconds <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 大门将在15秒后关闭 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Stage4 Completed <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第四关完成 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
 ]
