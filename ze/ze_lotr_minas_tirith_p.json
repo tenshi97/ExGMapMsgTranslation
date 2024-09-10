@@ -185,8 +185,8 @@
     "zh_trans": "**当前关卡 >> 第一关 >> 奥斯吉力亚斯之殇 ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **",
@@ -218,11 +218,11 @@
   {
     "original": "** THE WHITE KNIGHT IS READY ROCK THE WORLD**",
     "en_trans": "",
-    "zh_trans": "** 白骑士将会让这个世界为之震撼 **",
+    "zh_trans": "** 白骑士将会让这个世界为之震撼! 高达按键AADDSWSW **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** RESIST 25 SECONDS! **",
@@ -272,7 +272,7 @@
   {
     "original": "**CURRENT STAGE >> PART 2 >> MAIN GATES **",
     "en_trans": "",
-    "zh_trans": "**当前关卡 >> 第二关 >> 城门 **",
+    "zh_trans": "**当前关卡 >> 第二关 >> 佩兰诺平原之战，守城大败 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,11 +290,11 @@
   {
     "original": "**CURRENT STAGE >> PART 3 >> CATAPULTS **",
     "en_trans": "",
-    "zh_trans": "**当前关卡 >> 第三关 >> 投石机 **",
+    "zh_trans": "**当前关卡 >> 第三关 >> 殊死抵抗，争取时间 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** THEY ARE IN! RETREAT! **",
@@ -326,7 +326,7 @@
   {
     "original": "** CURRENT STAGE >> PART 4 >> THE LAST STAND **",
     "en_trans": "",
-    "zh_trans": "** 当前关卡 >> 第四关 >> 背水一战 **",
+    "zh_trans": "** 当前关卡 >> 第四关 >> 苦苦鏖战——只待援军一至，大破索隆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES! **",
     "en_trans": "",
-    "zh_trans": "** 我们中计了! 拼死一搏! 一定要杀出重围! **",
+    "zh_trans": "** 不好！我们中计了! 唯拼死一搏才能有一线生机! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -653,8 +653,8 @@
     "zh_trans": "** 天花板正在崩塌! ** 爬上残壁! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** WE ARE NEAR THE TOP OF MINAS TIRITH ** HOLD THIS PLACE FOR 30 SECONDS **",
@@ -677,34 +677,34 @@
   {
     "original": "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **",
     "en_trans": "",
-    "zh_trans": "** 亡灵大军正在向我们袭来! 准备好最后的防守! 殊死抵抗! **",
+    "zh_trans": "** 阿拉贡指挥的亡灵大军正在前来支援! 不要松懈! 抵抗至援军到来! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **",
     "en_trans": "",
-    "zh_trans": "** 守住主门! 不要给米那斯提力斯顶部的防守增加压力! **",
+    "zh_trans": "** 守住主门! 尽可能拖住他们！阿拉贡的支援大军会在天台登陆! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 道路已开放 ** 前往米那斯提力斯的顶部 ** 抵抗 80 秒 **",
+    "zh_trans": "** 前往米那斯提力斯的天台 ** 抵抗 85 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 80,
+    "timer_num": 85,
     "enable_timer": 1
   },
   {
     "original": "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **",
     "en_trans": "",
-    "zh_trans": "** 这是这个地图最后的守点 ** 坚持住弟兄们 **",
+    "zh_trans": "** 亡灵大军很快就来支援我们! ** 坚持住弟兄们 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -716,8 +716,8 @@
     "zh_trans": "** 所有位于底部的人类 15 秒后处死 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **",
@@ -725,8 +725,8 @@
     "zh_trans": "** 第四关 已完成 ** 正在开启极限难度(EX)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** EXTREME MODE : ON **",
@@ -758,7 +758,7 @@
   {
     "original": "** CONSTANT METEOR HAS BEEN ENABLED **",
     "en_trans": "",
-    "zh_trans": "** 天坠已启用 **",
+    "zh_trans": "** 天谴已启用 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "** KILL THE REMAINING ZOMBIES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 杀死全部残余僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 此刻正是真理之时 ** 为真理浴血奋战吧! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "** UNLIMITED AMMO ON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 无限子弹 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你做到了 ** 你攻略了这张图最难的关卡! ** 现在所有神器均已解锁 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": "** FEEL FREE TO RTV THE MAP **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 想rtv的可以rtv了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": "** KILL THE REMAINING ZOMBIES! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 杀死全部残余僵尸! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
