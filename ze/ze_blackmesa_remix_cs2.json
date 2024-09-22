@@ -135,7 +135,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** 30 seconds to go! C'mon! ***",
+    "original": "*** 30 seconds to go! C\u0027mon! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -225,7 +225,7 @@
     "enable_timer": 1
   },
   {
-    "original": "*** Resist 5 seconds! There's some shaking going on! ***",
+    "original": "*** Resist 5 seconds! There\u0027s some shaking going on! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -279,7 +279,7 @@
     "enable_timer": 1
   },
   {
-    "original": "*** C'mon!!! Just 5 seconds! ***",
+    "original": "*** C\u0027mon!!! Just 5 seconds! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -306,7 +306,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** C'MON!!! ***",
+    "original": "*** C\u0027MON!!! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -460,6 +460,15 @@
   },
   {
     "original": "*** 变动:登上电车吧——没有前路/秘密通道 ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** 变动:奇怪的空间情况——走另一边/没有秘密通道/低重力 ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
