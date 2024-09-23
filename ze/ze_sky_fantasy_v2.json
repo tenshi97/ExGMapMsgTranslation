@@ -45,7 +45,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A zombie has picked up ice magic >>",
+    "original": "\u003C\u003C A zombie has picked up ice magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,7 +54,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A player has picked up earth magic >>",
+    "original": "\u003C\u003C A player has picked up earth magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +72,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<< A player has picked up heal magic >>",
+    "original": "\u003C\u003C A player has picked up heal magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +81,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A player has picked up electro magic >>",
+    "original": "\u003C\u003C A player has picked up electro magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,7 +135,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<< A player has picked up fantasy crystal >>",
+    "original": "\u003C\u003C A player has picked up fantasy crystal \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +144,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A player has picked up wind magic >>",
+    "original": "\u003C\u003C A player has picked up wind magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A player has picked up water magic >>",
+    "original": "\u003C\u003C A player has picked up water magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,7 +162,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A zombie has picked up heal magic >>",
+    "original": "\u003C\u003C A zombie has picked up heal magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -171,7 +171,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< STAGE COMPLETE >>",
+    "original": "\u003C\u003C STAGE COMPLETE \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,7 +198,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A zombie has picked up gravity magic >>",
+    "original": "\u003C\u003C A zombie has picked up gravity magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +207,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< TESLA COMING >>",
+    "original": "\u003C\u003C TESLA COMING \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -225,7 +225,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A player has picked up holy magic >>",
+    "original": "\u003C\u003C A player has picked up holy magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -261,7 +261,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< A zombie has picked up nuke magic >>",
+    "original": "\u003C\u003C A zombie has picked up nuke magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -424,6 +424,51 @@
   },
   {
     "original": "--- Its a SOLO WIN !!! ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Admin select HARD Mode ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Ominous Wind ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Creation Shield ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Rotating Blade ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Pure Fury ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
