@@ -20,7 +20,7 @@
   {
     "original": "** Defend untill the guards open the airport. **",
     "en_trans": "",
-    "zh_trans": "** 防守至警卫开启机场大门. **",
+    "zh_trans": "** 防守至警卫开启空港大门. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "** Airport opened. **",
     "en_trans": "",
-    "zh_trans": "** 机场大门已开启. **",
+    "zh_trans": "** 空港大门已开启. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,20 +110,20 @@
   {
     "original": "** Defend here so the guards will open the gates to the city! **",
     "en_trans": "",
-    "zh_trans": "** 守住这里! 警卫会开启城门 **",
+    "zh_trans": "** 守住这里! 警卫会开启城门 | 8 秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 8,
+    "enable_timer": 1
   },
   {
     "original": "** Cover here till the rock explodes **",
     "en_trans": "",
-    "zh_trans": "** 守住这里，直至岩石被炸开 **",
+    "zh_trans": "** 守住这里，直至岩石被炸开 | 25秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** The elevator will leave in 20 seconds **",
@@ -182,7 +182,7 @@
   {
     "original": "** USE ELECTRO TO BREAK IT **",
     "en_trans": "",
-    "zh_trans": "** 快用 雷电 破坏它 **",
+    "zh_trans": "** 快用 电 破坏它 （不要提早放） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "** USE WATER TO DODGE IT **",
     "en_trans": "",
-    "zh_trans": "** 快用 水 闪避它 **",
+    "zh_trans": "** 快用 水/奶 闪避它 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "** Congratulations - u won [NORMAL] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜 - 你通过了 [普通模式] **",
+    "zh_trans": "** 恭喜 - 你通过了 [普通难度] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "[HARD MODE]",
     "en_trans": "",
-    "zh_trans": "[困难模式]",
+    "zh_trans": "[困难难度]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "** A player has learned Holy magick. **",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得 神圣魔法. **",
+    "zh_trans": "** 一位玩家习得 终极. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "** Congratulations - u won [HARD] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜 - 你通过了 [困难模式] **",
+    "zh_trans": "** 恭喜 - 你通过了 [困难难度] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "[EXTREME MODE]",
     "en_trans": "",
-    "zh_trans": "[EX关]",
+    "zh_trans": "[极限难度]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "[调关房] 已选择下一回合为 [EX关] . 5 秒后重置本回合.",
+    "zh_trans": "[调关房] 已选择下一回合为 [极限难度] . 5 秒后重置本回合.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -443,7 +443,7 @@
   {
     "original": "** The guardians are dead!! Run back to the entrance!! **",
     "en_trans": "",
-    "zh_trans": "** 监视者们都死了!! 快回到入口!! **",
+    "zh_trans": "** 守卫们都死了!! 快回到入口!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** CHAOS is using a deathwall - RUN FASTER!! **",
     "en_trans": "",
-    "zh_trans": "** 混沌正在使用死亡之墙 - 跑快点!! **",
+    "zh_trans": "** 卡奥斯(混沌)正在使用死亡之墙 - 跑快点!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "** Chaos has been defeated - RUN !!!!! **",
     "en_trans": "",
-    "zh_trans": "** 混沌已被击败 - 跑 !!!!! **",
+    "zh_trans": "** 卡奥斯(混沌)已被击败 - 跑 !!!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
