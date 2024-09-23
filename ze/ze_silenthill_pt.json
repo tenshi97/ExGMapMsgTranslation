@@ -27,7 +27,7 @@
     "enable_timer": 1
   },
   {
-    "original": "It's locked",
+    "original": "It\u0027s locked",
     "en_trans": "",
     "zh_trans": "它被锁住了",
     "jp_trans": "",
@@ -102,6 +102,15 @@
     "original": "-Thank for playing this map-",
     "en_trans": "",
     "zh_trans": "-非常感谢您游玩这张地图-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "喵~",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
