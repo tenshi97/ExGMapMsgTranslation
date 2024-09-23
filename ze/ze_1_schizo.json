@@ -198,7 +198,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">3<",
+    "original": "\u003E3\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +207,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">2<",
+    "original": "\u003E2\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,7 +216,7 @@
     "enable_timer": 1
   },
   {
-    "original": ">1<",
+    "original": "\u003E1\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,7 +243,16 @@
     "enable_timer": 0
   },
   {
-    "original": ">>> MISSION FAIL <<<",
+    "original": "\u003E\u003E\u003E MISSION FAIL \u003C\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003E\u003E HUMAN WIN \u003C\u003C\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
