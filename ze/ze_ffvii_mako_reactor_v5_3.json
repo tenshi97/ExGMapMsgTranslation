@@ -191,7 +191,7 @@
   {
     "original": "**Its dead ** Go go! Run upstairs ! **",
     "en_trans": "",
-    "zh_trans": "**它死了** GO GO! 上楼梯 **",
+    "zh_trans": "**它死了** GO GO! 上炉子! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "** A player has adquired GRAVITY MATERIA **",
     "en_trans": "",
-    "zh_trans": "** 玩家取得了 重力魔晶石 **",
+    "zh_trans": "** 玩家取得了 黑洞魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "** Bahamut is in attack position ** Keep firing !! **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特进入攻击状态! **保持开火!!!**",
+    "zh_trans": "** 巴哈姆特即将释放技能! **保持开火!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "** Bahamut is going to cast Mega Flare !! Shoot !! **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特释放了巨焰爆发!! 开枪啊! **",
+    "zh_trans": "** 巴哈姆特释放了耀斑爆发!! 看情况贴巴哈! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "**Bahamut has been defeated ! ** Go go! Run upstairs ! **",
     "en_trans": "",
-    "zh_trans": "**巴哈姆特已被击败! **Go Go! 快上楼 **",
+    "zh_trans": "**巴哈姆特已被击败! **Go Go! 上炉子! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "** A player has adquired EARTH MATERIA **",
     "en_trans": "",
-    "zh_trans": "** 玩家取得了 大地魔晶石 **",
+    "zh_trans": "** 玩家取得了 土魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "** BAHAMUT IS CASTING ** PREPARE YOURSELF **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特正在释放技能 ** 做好准备 **",
+    "zh_trans": "** 巴哈姆特即将释放技能 ** 做好准备 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "** BAHAMUT HAS CAST ELECTRO! **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特·雷电之力 **",
+    "zh_trans": "** 巴哈姆特·雷电之力 ** 站无敌位或者上栏杆",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -572,8 +572,8 @@
     "zh_trans": "** 巴哈姆特为自己治疗了 300 点血量",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 300,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** BAHAMUT IS DEAD ** KEEP RUNNING **",
@@ -605,7 +605,7 @@
   {
     "original": "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **",
     "en_trans": "",
-    "zh_trans": "** 这是ZM关 ** 找个地方勾住就行，不要走正常流程路线 **",
+    "zh_trans": "** 这是ZM关 ** 找个地方苟住就行，不用走正常流程路线 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "** BAHAMUT HAS CAST GRAVITY **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特·重力 ~~",
+    "zh_trans": "** 巴哈姆特·黑洞 ** 按S抵抗，或站无敌位**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **",
     "en_trans": "",
-    "zh_trans": "** 警告! 巴哈姆特正在释放终极 ** 准备使用治疗 ++ **",
+    "zh_trans": "** 警告! 巴哈姆特正在释放终极 ** 准备使用治疗（奶别早泄） ++ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "** ZOMBIES HAVE INFECTED THE BUNKER **",
     "en_trans": "",
-    "zh_trans": "** 僵尸已占领燃料库 **",
+    "zh_trans": "** 僵尸已摧毁炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": "** BAHAMUT HAS CAST WIND **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特·狂风 **",
+    "zh_trans": "** 巴哈姆特·狂风 ** 按W抵抗，或站无敌位**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
