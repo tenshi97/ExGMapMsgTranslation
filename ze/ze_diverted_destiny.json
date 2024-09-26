@@ -938,7 +938,7 @@
   {
     "original": "Absorb",
     "en_trans": "",
-    "zh_trans": "子弹吸收[剩余 9 秒]",
+    "zh_trans": "子弹吸收[ 9 秒后开始吸收]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 9,
@@ -956,7 +956,7 @@
   {
     "original": "A lever has been pulled",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "拉杆已被拉动",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,16 +965,16 @@
   {
     "original": "Cooldown: 20 Seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "20 秒CD",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "A metal pipe has been picked up",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "钢管 已拾取",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": "Congratulations! You won the map!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "恭喜! 你攻略了该地图!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": "Admin room is on top of spawn",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关房在出生点的头上",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": "Turn up your graphics settings to enjoy the best experience!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "打开您的图形设置并设置到最高以享受最佳体验!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,16 +1010,16 @@
   {
     "original": "Stage 2 has been set!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "管理把下一关设定为第二关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Legacy Stage has been set!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "传承(csgo)关卡已设定!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": "Loading Legacy Stage",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在加载: 传承(csgo)关卡",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": "Good ol' ball rain",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "非常好的弹幕雨",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": "I won't let you go through the boss again lol",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我不会再让你通过这个BOSS了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,7 +1055,7 @@
   {
     "original": "Look down!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "低头看!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": "You won!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你赢了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,7 +1073,7 @@
   {
     "original": "Legacy Stage has been Triggered",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已触发传承(CSGO)关卡",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1082,7 +1082,7 @@
   {
     "original": "One must stay on the platform or humans lose!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "必须至少有一个人在平台上, 否则人类就算失败!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1091,7 +1091,7 @@
   {
     "original": "No one is on the platform!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "平台上没有人!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
