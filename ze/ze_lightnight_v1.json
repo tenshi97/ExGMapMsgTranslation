@@ -2,7 +2,7 @@
   {
     "original": "[ Map made by Pohmian ]",
     "en_trans": "",
-    "zh_trans": "地图制作来源于Pohmian",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "[ This map is based on mg_azure ]",
     "en_trans": "",
-    "zh_trans": "地图基于mg_azure改造",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,16 +20,16 @@
   {
     "original": "[ Stage 1 ]",
     "en_trans": "",
-    "zh_trans": "[ 关卡Ⅰ ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "[ 15 seconds ]",
     "en_trans": "",
-    "zh_trans": "[ 15 秒 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -38,7 +38,7 @@
   {
     "original": "[ 20 seconds ]",
     "en_trans": "",
-    "zh_trans": "[ 20 秒 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +47,7 @@
   {
     "original": "[ 25 seconds ]",
     "en_trans": "",
-    "zh_trans": "[ 25 秒 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -56,25 +56,25 @@
   {
     "original": "[ You won stage 1 ]",
     "en_trans": "",
-    "zh_trans": "[ 你通过了第Ⅰ关 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "[ Stage 2 ]",
     "en_trans": "",
-    "zh_trans": "[ 关卡Ⅱ ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "[ Survive for 80 seconds ]",
     "en_trans": "",
-    "zh_trans": "[ 生存80秒 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -83,7 +83,7 @@
   {
     "original": "[ Triggered ]",
     "en_trans": "",
-    "zh_trans": "[ 起爆 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,25 +92,25 @@
   {
     "original": "[ You won stage 2 ]",
     "en_trans": "",
-    "zh_trans": "[ 你通过了第Ⅱ关 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "[ Stage 3 ]",
     "en_trans": "",
-    "zh_trans": "[ 关卡Ⅲ ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "[ 30 seconds ]",
     "en_trans": "",
-    "zh_trans": "[ 30秒 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -119,52 +119,52 @@
   {
     "original": "[ Phase 1 ]",
     "en_trans": "",
-    "zh_trans": "[ 第Ⅰ阶段 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "[ Phase 2 ]",
     "en_trans": "",
-    "zh_trans": "[ 第Ⅱ阶段 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "[ Phase 3 ]",
     "en_trans": "",
-    "zh_trans": "[ 第Ⅲ阶段 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "[ Phase 4 ]",
     "en_trans": "",
-    "zh_trans": "[ 第Ⅳ阶段 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 4,
+    "enable_timer": 1
   },
   {
     "original": "[ You won stage 3 ]",
     "en_trans": "",
-    "zh_trans": "[ 你通过了第Ⅲ关 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "[ Current Version : Alpha 1.0 ]",
     "en_trans": "",
-    "zh_trans": "[ 当前版本 : Alpha 1.0 ]",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
