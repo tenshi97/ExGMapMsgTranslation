@@ -450,9 +450,9 @@
     "enable_timer": 0
   },
   {
-    "original": "\u003E\u003E Kill The Remaining Zombie! \u003C\u003C",
+    "original": ">> Kill The Remaining Zombie! <<",
     "en_trans": "",
-    "zh_trans": "\u003E\u003E 杀死剩余的僵尸！\u003C\u003C",
+    "zh_trans": ">> 杀死剩余的僵尸！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -691,14 +691,5 @@
     "kr_trans": "",
     "timer_num": 5,
     "enable_timer": 1
-  },
-  {
-    "original": "指挥卖人！！",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
   }
 ]
