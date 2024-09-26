@@ -1,0 +1,632 @@
+[
+  {
+    "original": "\u003E\u003ENIGHT\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E夜晚\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EWELCOME TO JURASSIC PARK\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E欢迎来到侏罗纪公园\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGO INTO THE OFFICE AND PRESS THE BUTTON\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E去走进办公室,然后按下按钮\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EZM USE THE MANUAL BUTTON TO OPEN THE DOOR\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E僵尸使用按钮打开了门\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EMAP BY LeGrem\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E地图作者LeGrem.(翻译:Shootin Stars)\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ESYSTEM CHECKING PROCESS\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E系统的检查过程\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EDOOR SECURITY SYSTEM : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E门安全系统:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ELIGHT POWER GRID : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E电网:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EPHONE COMMUNICATION : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E电话通讯:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EVIDEO SYSTEM : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E视频系统:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EBACKUP SYSTEM : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E备份系统:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ECHECKING PADDOCKS\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E检查围场\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ETRICERATOPS PADDOCKS : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E三角龙围场\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ERESERVE PADDOCKS 1 : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E保护区 1:已禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ERESERVE PADDOCKS 2 : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E保护区 2:已禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ECT COVER UNTIL T-REX ATTACK\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E请你们掩护到霸王龙进攻\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EDILOPHAUSAURUS PADDOCKS : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E双嵴龙保护区:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EBRACHIOSAURUS PADDOCKS : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E腕龙保护区:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGALLIMIMUS PADDOCKS : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E似鸡龙保护区:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EVISITOR RIDE SYSTEM : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E游客乘车系统:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ET-REX PADDOCKS : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E霸王龙保护区:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGLOBAL FENCE PERIMETER : DISABLE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E全球围栏周边:禁用\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGLOBAL FAILURE OF ALL SYSTEMS\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E所有系统全部瘫痪\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ECT : COVER UNTIL T-REX BREAK THE FENCE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E请你掩护到霸王龙冲破栅栏\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ETRIGGER THE C4 TO BLOW UP THE TREE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E安放C4炸药摧毁大树\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EEXPLOSION IN 25s !\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E25秒后爆炸\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003EPLANK BROKEN ! FIND THE HOLE IN THE FENCE ON LEFT\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E木板破裂!在左边的围栏上找到那个洞\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ERUN !\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E走!\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ECLIMB TO THE TREE ! TAKE CARE !\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E爬到树上!小心\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EZOMBIES CLIMB THE HILL\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E僵尸爬上了山头\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGO TO THE BUNKER AND RESTORE THE POWER\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E前往地堡,恢复电力\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ERESTART THE POWER IN Jurassic Park\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E重启侏罗纪公园的电力\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EFOLLOW THE RED PIPE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E沿着红管子走\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ERESTORE THE POWER TO OPEN THE DOOR\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E恢复开门电源\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EDOCK ESCAPE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E船坞逃生\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGO TO THE CONTROL ROOM RESTART THE SYSTEM\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E前往控制室,重新启动系统\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EFOLLOW THE SIGN ON THE WALL\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E跟着墙上的标志走\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EBUNKER ESCAPE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E地堡逃脱\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EDAY\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "\u003E\u003E白天\u003C\u003C",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EHELIPAD ESCAPE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003E\u003E\u003ETazer has been picked\u003C\u003C\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ESYSTEM ENABLE IN 40s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ECOVER THE DOOR\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ETHAT WINDOW DON\u0027T LOOK VERY STRONG\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ETAKE CARE !\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ESYSTEM ENABLE IN 20s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ESYSTEM ENABLE IN 5s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ETAKE THE LADDER ! BREAKING IN 10s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ETAKE THE LADDER ! BREAKING IN 5s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ELADDER BROKEN ! YOU ARE DEAD IF YOU STILL THERE\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003E\u003E\u003EFlamethrower has been picked\u003C\u003C\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EWAIT T-REX HELP\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EPREPARE TO COVER\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ECOVER 6s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ERUN. REX BLOCK THE ZOMBIES\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EJEEPS LEAVING IN 5s AND 8s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EBUNKER LOCKDOWN IN 45s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003EBUNKER LOCKDOWN IN 20s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ELYSINE CONTINGENGY ACTIVATION IN 15s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003EBUNKER LOCKDOWN IN 5s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ELYSINE CONTINGENGY ACTIVATED\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGO TO THE MAIN DOOR\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EBOAT LEAVING IN 45s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003EBOAT LEAVING IN 20s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003EBOAT LEAVING IN 5s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ETHE BOAT IS LEAVING THE DOCK\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003EGO TO THE BUNKER QUICK ! \u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003E\u003ELOCKDOWN IN 45s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ELOCKDOWN IN 20s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E\u003ELOCKDOWN IN 5s\u003C\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  }
+]

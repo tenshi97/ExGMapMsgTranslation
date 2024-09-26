@@ -1,15 +1,6 @@
 [
   {
-    "original": "**20 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Open**",
+    "original": "你们要进入工厂",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,34 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**55 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 55,
-    "enable_timer": 1
-  },
-  {
-    "original": "**10 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "**30 seconds until the wall breaks**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**break!!**",
+    "original": "找到违规的证据",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,25 +18,34 @@
     "enable_timer": 0
   },
   {
-    "original": "**13 seconds until the boat leaves**",
+    "original": "后面就是老板的追兵",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 13,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**30 seconds until the gate opens**",
+    "original": "祝，武运昌隆",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*门将在 25 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
     "enable_timer": 1
   },
   {
-    "original": "**15 seconds until the gate opens**",
+    "original": "*电梯门将在 15 秒后打开*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +54,52 @@
     "enable_timer": 1
   },
   {
-    "original": "**20 seconds for the gate to close**",
+    "original": "感谢Source2开发部大佬的技术帮助",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "compile help by ice & 莫等闲贤咸",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*门将在 15 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*墙将在 15 秒后破碎*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*门将在 5 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "* 20 秒*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,88 +108,7 @@
     "enable_timer": 1
   },
   {
-    "original": "**30 seconds until the truck departs**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**122 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 122,
-    "enable_timer": 1
-  },
-  {
-    "original": "**OPEN!!**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**30 seconds until the zombies teleport**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**teleport!!**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Cover 30seconds!!**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**time limit 210 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 210,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 200 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 200,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 150 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 150,
-    "enable_timer": 1
-  },
-  {
-    "original": "**20 seconds until CT teleports**",
+    "original": "*门将在 20 秒后打开*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,52 +117,16 @@
     "enable_timer": 1
   },
   {
-    "original": "**time limit 120 seconds**",
+    "original": "*门将在 10 秒后打开*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 120,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "**time limit 90 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 90,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 60 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
-  },
-  {
-    "original": "**40 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "**14 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 14,
-    "enable_timer": 1
-  },
-  {
-    "original": "**90seconds defend and escape**",
+    "original": "钥匙已被拾取",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -234,7 +135,25 @@
     "enable_timer": 0
   },
   {
-    "original": "**We were able to go through the forest**",
+    "original": "*管道将在 10 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*电梯门将在 8 秒后关闭*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 8,
+    "enable_timer": 1
+  },
+  {
+    "original": "门将在10秒后打开",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,12 +162,147 @@
     "enable_timer": 0
   },
   {
-    "original": "**fail...**",
+    "original": "*门将在 35 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": "*门将在 30 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*电梯门将在 25 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "*电梯门将在 5 秒后关闭*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*管道在 20 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*电梯门将在 20 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "门将在4秒后关闭",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "*僵尸将在 10 秒后传送*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*管道将在 20 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "门将在 4 秒后关闭",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "我们好像失败了?",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "前面的马路可以离开这里",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "那边似乎还有东西......",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "要去看看吗?",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "从这里离开吧",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*最后的门将在 20 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
   }
 ]

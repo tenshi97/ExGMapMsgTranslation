@@ -1,6 +1,6 @@
 [
   {
-    "original": ">>>Map Created By: Bill Smauz<<<",
+    "original": "\u003E\u003E\u003EMap Created By: Bill Smauz\u003C\u003C\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +72,7 @@
     "enable_timer": 1
   },
   {
-    "original": "***Stay Within the APC's Interior***",
+    "original": "***Stay Within the APC\u0027s Interior***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -169,5 +169,14 @@
     "kr_trans": "",
     "timer_num": 18,
     "enable_timer": 1
+  },
+  {
+    "original": "Song: Tool - Lateralus",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

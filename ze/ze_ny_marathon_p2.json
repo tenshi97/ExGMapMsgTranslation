@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">> marathon <<",
+    "original": "\u003E\u003E marathon \u003C\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +153,7 @@
     "enable_timer": 1
   },
   {
-    "original": "** C'mon! 15 more seconds! **",
+    "original": "** C\u0027mon! 15 more seconds! **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -324,7 +324,7 @@
     "enable_timer": 0
   },
   {
-    "original": "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *",
+    "original": "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I\u0027ve Got Money ]] *",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -387,7 +387,7 @@
     "enable_timer": 0
   },
   {
-    "original": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *",
+    "original": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin\u0027 USA ]] *",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -414,7 +414,7 @@
     "enable_timer": 0
   },
   {
-    "original": "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *",
+    "original": "* [[ NYCRockRadio FM 81.2 :: Flower Travellin\u0027 Band - Satori PT1 ]] *",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -459,7 +459,7 @@
     "enable_timer": 0
   },
   {
-    "original": "* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *",
+    "original": "* [[ NYCRockRadio FM 81.2 :: Girlschool - C\u0027mon Let\u0027s Go! ]] *",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -531,7 +531,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">> level 2 enable <<",
+    "original": "\u003E\u003E level 2 enable \u003C\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -604,6 +604,24 @@
   },
   {
     "original": "** 坚守20秒!!! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** OH! PIZZA PIZZA PIZZA PIZZA PIZZA!!! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

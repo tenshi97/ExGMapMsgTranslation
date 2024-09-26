@@ -1,6 +1,6 @@
 [
   {
-    "original": "***Modified by Reflelia***",
+    "original": "-- STAGE I - EASY MODE --",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,16 @@
     "enable_timer": 0
   },
   {
-    "original": "***Special Thanks to Mentalspin***",
+    "original": "-- 15 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "--- ze_sky_fantasy_v2 ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,16 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***50 SECONDS LEFT***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
-  },
-  {
-    "original": "***WARM UP ROUIND***",
+    "original": "--- Map by Misaka ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,25 +36,34 @@
     "enable_timer": 0
   },
   {
-    "original": "***40 SECONDS LEFT***",
+    "original": "--- Rework by K.KID ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "***30 SECONDS LEFT***",
+    "original": "\u003C\u003C A zombie has picked up ice magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "***20 SECONDS LEFT***",
+    "original": "\u003C\u003C A player has picked up earth magic \u003E\u003E",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- 20 --",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,7 +72,43 @@
     "enable_timer": 1
   },
   {
-    "original": "***10 SECONDS LEFT***",
+    "original": "\u003C\u003C A player has picked up heal magic \u003E\u003E",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003C\u003C A player has picked up electro magic \u003E\u003E",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--25 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "-- 25 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "-- 10 --",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +117,25 @@
     "enable_timer": 1
   },
   {
-    "original": "***WARM UP ROUND END***",
+    "original": "-- 85 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 85,
+    "enable_timer": 1
+  },
+  {
+    "original": "-- 33 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 33,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003C\u003C A player has picked up fantasy crystal \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +144,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***CURRENT MODE >>>NORMAL<<<***",
+    "original": "\u003C\u003C A player has picked up wind magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***CURRENT MODE >>>CUSTOM<<<***",
+    "original": "\u003C\u003C A player has picked up water magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +162,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Zombie picked up Freeze***",
+    "original": "\u003C\u003C A zombie has picked up heal magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,7 +171,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***ChainSaw Picked up***",
+    "original": "\u003C\u003C STAGE COMPLETE \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,7 +180,7 @@
     "enable_timer": 0
   },
   {
-    "original": "此图关闭hide以修复核爆问题",
+    "original": "-- STAGE II - NORMAL MODE --",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,7 +189,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Zombie picked up Gravity***",
+    "original": "-- STAGE III - HARD MODE --",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,7 +198,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Nuke launched***",
+    "original": "\u003C\u003C A zombie has picked up gravity magic \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +207,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Jump portal opened***",
+    "original": "\u003C\u003C TESLA COMING \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +216,187 @@
     "enable_timer": 0
   },
   {
-    "original": "***5***",
+    "original": "- MISAKA is blocking our way!!! -",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003C\u003C A player has picked up holy magic \u003E\u003E",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Tesla dead...... ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- 50 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "-- STAGE IV - LUNATIC MODE --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "\u003C\u003C A zombie has picked up nuke magic \u003E\u003E",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- 90 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "STAGE V - NIGHTMARE MODE",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- 30 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "-- 40 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "--- Prepare to face the real FANTASY ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- God --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- 终极将在10秒后爆炸 --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Normal Ending ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Congratulations!!! ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- You are the King of the FANTASY ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Map by Misaka, Rework by K.KID ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "-- STAGE EX - ZM --",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- Survive for 180 seconds ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 180,
+    "enable_timer": 1
+  },
+  {
+    "original": "pressed",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "--- 5 seconds ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,43 +405,25 @@
     "enable_timer": 1
   },
   {
-    "original": "***4***",
+    "original": "--- zombie can go in 7 seconds ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
+    "timer_num": 7,
     "enable_timer": 1
   },
   {
-    "original": "***3***",
+    "original": "--- Round will fail if no one complete in 30 seconds ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 30,
     "enable_timer": 1
   },
   {
-    "original": "***2***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
-  },
-  {
-    "original": "***1***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  },
-  {
-    "original": "***Nuke impact***",
+    "original": "--- Its a SOLO WIN !!! ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +432,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***bunnyhopping enable***",
+    "original": "--- Admin select HARD Mode ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,7 +441,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Speed picked up***",
+    "original": "--- Ominous Wind ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -225,7 +450,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Player Picked up Pulse***",
+    "original": "--- Creation Shield ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -234,7 +459,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Ice picked up***",
+    "original": "--- Rotating Blade ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,7 +468,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Barrel picked up***",
+    "original": "--- Pure Fury ---",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,160 +477,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Wall picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Helicopter 2 explode in 3s***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
-  },
-  {
-    "original": "***A PLAYER BLOW UP WITH HELICOPTER***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Player picked up Radio***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] Camellia vs Akira Complex - Reality Distortion",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Zombie picked up Jump***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Wind picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] Waterflame - Glorious morning",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Snow picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Heal picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] We Are Number One Remix but by The Living Tombstone",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Rocket - Right click to shot***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***grenade picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] a_hisa - Snow Cloud",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] Pendulum - Crush",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] Pendulum - Encoder",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "[MUSIC] SimplePlan - Last One Standing",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Zombie picked up Pizza***",
+    "original": "\u003C\u003C Zombie ESCAPE!!! \u003E\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

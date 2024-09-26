@@ -18,9 +18,9 @@
     "enable_timer": 0
   },
   {
-    "original": "**MAP BY HaRyDe & Headshooter.SC**",
+    "original": "**MAP BY HaRyDe \u0026 Headshooter.SC**",
     "en_trans": "",
-    "zh_trans": "**地图制作 HaRyDe & Headshooter.SC**",
+    "zh_trans": "**地图制作 HaRyDe \u0026 Headshooter.SC**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -369,7 +369,7 @@
     "enable_timer": 1
   },
   {
-    "original": "**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**",
+    "original": "**THE DRAGON USED VAMPIRE (\u002B10 HP TO BOSS ON 1 PLAYER HIT)**",
     "en_trans": "",
     "zh_trans": "**龙使用了吸血魔法 （每当玩家攻击一次，龙将恢复 10 点血量）",
     "jp_trans": "",
@@ -594,7 +594,7 @@
     "enable_timer": 0
   },
   {
-    "original": "+100 EXP GAINED. YOU HAVE LEVELED UP",
+    "original": "\u002B100 EXP GAINED. YOU HAVE LEVELED UP",
     "en_trans": "",
     "zh_trans": "获得 100 点经验，你升级了!",
     "jp_trans": "",
@@ -981,7 +981,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**ZODIARK READIES SHIELD(BULLETS AND NADES DON'T DAMAGE HIM)**",
+    "original": "**ZODIARK READIES SHIELD(BULLETS AND NADES DON\u0027T DAMAGE HIM)**",
     "en_trans": "",
     "zh_trans": "**佐迪亚克准备释放护盾（子弹和手雷无法造成伤害)",
     "jp_trans": "",
@@ -990,7 +990,7 @@
     "enable_timer": 1
   },
   {
-    "original": "HASTE +1",
+    "original": "HASTE \u002B1",
     "en_trans": "",
     "zh_trans": "速度提升一级",
     "jp_trans": "",
@@ -1026,7 +1026,7 @@
     "enable_timer": 1
   },
   {
-    "original": "HASTE +2",
+    "original": "HASTE \u002B2",
     "en_trans": "",
     "zh_trans": "速度提升两级",
     "jp_trans": "",
@@ -1035,7 +1035,7 @@
     "enable_timer": 1
   },
   {
-    "original": "HASTE +3",
+    "original": "HASTE \u002B3",
     "en_trans": "",
     "zh_trans": "速度提升三级",
     "jp_trans": "",
@@ -1044,7 +1044,7 @@
     "enable_timer": 1
   },
   {
-    "original": "HASTE +4",
+    "original": "HASTE \u002B4",
     "en_trans": "",
     "zh_trans": "速度提升四级",
     "jp_trans": "",
@@ -1053,7 +1053,7 @@
     "enable_timer": 1
   },
   {
-    "original": "**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**",
+    "original": "**THE BOSS IS DAMAGED BUT NOW HE\u0027S THE MOST DANGEROUS**",
     "en_trans": "",
     "zh_trans": "**Boss现在受重伤了!现在他的攻击性将更强!**",
     "jp_trans": "",
@@ -1062,7 +1062,7 @@
     "enable_timer": 1
   },
   {
-    "original": "HASTE +5(MAX POWER)",
+    "original": "HASTE \u002B5(MAX POWER)",
     "en_trans": "",
     "zh_trans": "速度提升至最大上限",
     "jp_trans": "",
@@ -1089,7 +1089,7 @@
     "enable_timer": 1
   },
   {
-    "original": "**NADES AREN'T DAMAGE HIM NOW**",
+    "original": "**NADES AREN\u0027T DAMAGE HIM NOW**",
     "en_trans": "",
     "zh_trans": "**现在手雷无法对他造成伤害!!!**",
     "jp_trans": "",
@@ -1521,7 +1521,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**",
+    "original": "**CHUCHULAINN HAS USED SHIELD(YOU CAN\u0027T USE ITEMS FOR 10 SEC)**",
     "en_trans": "",
     "zh_trans": "** 库丘林 使用了护盾 （神器已禁用十秒)",
     "jp_trans": "",
@@ -1747,6 +1747,15 @@
   },
   {
     "original": "**MAP RESET**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**ZOMBIES HAVE ESCAPED**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

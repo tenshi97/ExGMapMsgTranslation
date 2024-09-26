@@ -1,15 +1,6 @@
 [
   {
-    "original": "**20 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Open**",
+    "original": "WeLcOmE ShIzO",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,16 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**55 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 55,
-    "enable_timer": 1
-  },
-  {
-    "original": "**10 seconds until the gate opens**",
+    "original": "After 10 seconds, the teleport will open.",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,16 +18,7 @@
     "enable_timer": 1
   },
   {
-    "original": "**30 seconds until the wall breaks**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**break!!**",
+    "original": "### LEVEL : SCHIZO ###",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,25 +27,79 @@
     "enable_timer": 0
   },
   {
-    "original": "**13 seconds until the boat leaves**",
+    "original": "Humans Teleported",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 13,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "**30 seconds until the gate opens**",
+    "original": "OH !! NOO MAP BROKEN",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "SHIT MAP",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "THE TELEPORT SYSTEM IS BEING REINTRODUCED.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "YEAH WORKS !",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ZOMBIE TP 7 SEC !",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
     "enable_timer": 1
   },
   {
-    "original": "**15 seconds until the gate opens**",
+    "original": "In 20 seconds, the doors will open.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "In 15 seconds, the doors will open.",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,16 +108,79 @@
     "enable_timer": 1
   },
   {
-    "original": "**20 seconds for the gate to close**",
+    "original": "ZOMBIE TP 5 SEC",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": "**30 seconds until the truck departs**",
+    "original": "DONT DEFEND! GO GO",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ZOMBIE TP 5 SEC !",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "BREAK THE WALLS AND MOVE ON",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ZOMBIE TP 5 SEC !!!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "DOOR OPEN! RUN",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "ZOMBIE TP 7 SEC !!!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 7,
+    "enable_timer": 1
+  },
+  {
+    "original": "TAKE THE RIGHT OR LEFT ROAD!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "In 30 seconds, the floor will break. Defend inside.",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,16 +189,43 @@
     "enable_timer": 1
   },
   {
-    "original": "**122 seconds until the gate opens**",
+    "original": "LAST 10 SECONDS! PULL BACK!!!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 122,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "**OPEN!!**",
+    "original": "\u003E3\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E2\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "\u003E1\u003C",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "time is over",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,16 +234,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**30 seconds until the zombies teleport**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**teleport!!**",
+    "original": "Zombie Detected !",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,7 +243,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Cover 30seconds!!**",
+    "original": "\u003E\u003E\u003E MISSION FAIL \u003C\u003C\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,106 +252,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**time limit 210 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 210,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 200 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 200,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 150 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 150,
-    "enable_timer": 1
-  },
-  {
-    "original": "**20 seconds until CT teleports**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 120 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 120,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 90 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 90,
-    "enable_timer": 1
-  },
-  {
-    "original": "**time limit 60 seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
-  },
-  {
-    "original": "**40 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "**14 seconds until the gate opens**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 14,
-    "enable_timer": 1
-  },
-  {
-    "original": "**90seconds defend and escape**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**We were able to go through the forest**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**fail...**",
+    "original": "\u003E\u003E\u003E HUMAN WIN \u003C\u003C\u003C",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

@@ -1,195 +1,141 @@
 [
   {
-    "original": "Lv1",
+    "original": "***Door open in 45 seconds***",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "20s",
-    "en_trans": "",
-    "zh_trans": "20 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "15s",
-    "en_trans": "",
-    "zh_trans": "15 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "10s",
-    "en_trans": "",
-    "zh_trans": "10 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "25s",
-    "en_trans": "",
-    "zh_trans": "25 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "30s",
-    "en_trans": "",
-    "zh_trans": "30 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "60s",
-    "en_trans": "",
-    "zh_trans": "60 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
-  },
-  {
-    "original": "...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "Shield cd80s",
-    "en_trans": "",
-    "zh_trans": "护盾 cd 80秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "gravity cd60s",
-    "en_trans": "",
-    "zh_trans": "重力 cd 60秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "Lv2",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "A new place. Looks like that thing\u0027s still following me",
-    "en_trans": "",
-    "zh_trans": "新地方，那东西似乎还在跟着我",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "100s",
-    "en_trans": "",
-    "zh_trans": "100 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
-  },
-  {
-    "original": ". . .",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "45s",
-    "en_trans": "",
-    "zh_trans": "45 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
     "enable_timer": 1
   },
   {
-    "original": "29s",
+    "original": "***Teleport activates in 25 seconds***",
     "en_trans": "",
-    "zh_trans": "29 秒",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 29,
+    "timer_num": 25,
     "enable_timer": 1
   },
   {
-    "original": "50s",
+    "original": "***Afk teleport in 10 seconds***",
     "en_trans": "",
-    "zh_trans": "50 秒",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "RTV",
+    "original": "*** Door open in 40 seconds ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "RRRRRRRRTTTTTTTTTVVVVVVVVV",
-    "en_trans": "",
-    "zh_trans": "rtv rtv rtv rtv rtv 5",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": "Lv3",
+    "original": "*** Afk teleport in 20 seconds ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "110s",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 110,
+    "timer_num": 20,
     "enable_timer": 1
   },
   {
-    "original": "[. . . ]",
+    "original": "*** Door open in 15 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Door open in 25 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Afk teleport in 15 seconds***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Door open in 20 seconds***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Vent break in 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Bomb explode in 30 seconds***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "***Bomb explode in 10 seconds***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Boss teleport activated in 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Afk teleport in 10 secons ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Boss teleport activated in 10 seconds ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** Boss used pull ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,7 +144,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[. . . . .]",
+    "original": "*** Press S! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[. . . . . . .]",
+    "original": "*** Boss used hurt ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,7 +162,70 @@
     "enable_timer": 0
   },
   {
-    "original": "admin set lv2",
+    "original": "*** Crouch! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Boss used danger field! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Stand on the green floor! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Boss used push ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Press W! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Shoot it before it touches you! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Boss used moving wall ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** Boss used rotating wall ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
