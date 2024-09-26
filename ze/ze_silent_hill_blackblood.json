@@ -1,6 +1,6 @@
 [
   {
-    "original": "<25>",
+    "original": "\u003C25\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<20>",
+    "original": "\u003C20\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<10>",
+    "original": "\u003C10\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<5>",
+    "original": "\u003C5\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +36,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<40>",
+    "original": "\u003C40\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,7 +45,7 @@
     "enable_timer": 1
   },
   {
-    "original": "<30>",
+    "original": "\u003C30\u003E",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -61,5 +61,14 @@
     "kr_trans": "",
     "timer_num": 90,
     "enable_timer": 1
+  },
+  {
+    "original": "指挥卖人！！",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
