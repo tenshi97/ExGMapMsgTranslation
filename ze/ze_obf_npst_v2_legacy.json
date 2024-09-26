@@ -11,7 +11,7 @@
   {
     "original": "youtube.com/watch?v=vZOBj0FcHz0",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "youtube.com/watch?v=vZOBj0FcHz0",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "\u003C\u003C\u003CThe yellow door Area 9 will open in 10 seconds\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "九区黄色的门将在10秒后打开",
+    "zh_trans": "九号区域的黄色大门将在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -92,7 +92,7 @@
   {
     "original": "\u003C\u003C\u003CThe door is opening get inside !\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "门开了,进去吧",
+    "zh_trans": "大门即将打开，快进去！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "\u003C\u003C\u003CThe door leading to the elevator are open!\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "通往电梯的门开着",
+    "zh_trans": "通往电梯的门已经打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "\u003C\u003C\u003CAdvance before it closes !\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "在火焰消失之前防守住僵尸",
+    "zh_trans": "在电梯门关上之前赶快行动",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "\u003C\u003C\u003CCall the elevator\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "呼叫电梯",
+    "zh_trans": "按下按钮等待电梯的到来",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "\u003C\u003C\u003CThe door is going to open\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "门要开",
+    "zh_trans": "尸笼的大门即将打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "We are not giving thanks to Friend for brushwork",
     "en_trans": "",
-    "zh_trans": "我们可没感谢我的朋友对于地图美术的贡献",
+    "zh_trans": "感谢我的朋友对于地图美术的贡献，下面有请各位欣赏音乐（Children of hell+Get Crazy+Play+Junction Seven）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,16 +236,16 @@
   {
     "original": "\u003C\u003C\u003CDOOR IS OPEN\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "大门开启了",
+    "zh_trans": "前方一段路就是最后的旅程了，准备好为你的生命而战！大门还有<<< 23 >>>秒打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 23,
+    "enable_timer": 1
   },
   {
     "original": "\u003C\u003C\u003CIt\u0027s not finished\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "现在还没有结束",
+    "zh_trans": "现在还没有结束，我们将带着Filth与Vertigo小队的遗志，击败尼赫伦斯。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "\u003C\u003C\u003C5\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "5",
+    "zh_trans": "准备好最后的冲刺<<< 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -263,7 +263,7 @@
   {
     "original": "\u003C\u003C\u003C4\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "4",
+    "zh_trans": "准备好最后的冲刺<<< 4 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -272,7 +272,7 @@
   {
     "original": "\u003C\u003C\u003C3\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "3",
+    "zh_trans": "准备好最后的冲刺<<< 3 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -281,7 +281,7 @@
   {
     "original": "\u003C\u003C\u003C2\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "2",
+    "zh_trans": "准备好最后的冲刺<<< 2 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -290,7 +290,7 @@
   {
     "original": "\u003C\u003C\u003C1\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "1",
+    "zh_trans": "准备好最后的冲刺<<< 1 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
