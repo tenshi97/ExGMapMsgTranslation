@@ -216,7 +216,7 @@
     "enable_timer": 0
   },
   {
-    "original": "We can't get passed through that thing yet",
+    "original": "We can\u0027t get passed through that thing yet",
     "en_trans": "",
     "zh_trans": "我们还无法从这里过去",
     "jp_trans": "",
@@ -279,7 +279,7 @@
     "enable_timer": 1
   },
   {
-    "original": "We got Green and Yellow's power",
+    "original": "We got Green and Yellow\u0027s power",
     "en_trans": "",
     "zh_trans": "我们得到了黄与绿的力量",
     "jp_trans": "",
@@ -324,7 +324,7 @@
     "enable_timer": 0
   },
   {
-    "original": "We'll have to go back here tomorrow",
+    "original": "We\u0027ll have to go back here tomorrow",
     "en_trans": "",
     "zh_trans": "我们明天会回到这里",
     "jp_trans": "",
@@ -333,7 +333,7 @@
     "enable_timer": 0
   },
   {
-    "original": "We'll be more prepared using these two's powers",
+    "original": "We\u0027ll be more prepared using these two\u0027s powers",
     "en_trans": "",
     "zh_trans": "利用黄和绿的力量，我们可以准备得更加充分",
     "jp_trans": "",
@@ -342,7 +342,7 @@
     "enable_timer": 0
   },
   {
-    "original": "We don't know where's blue though",
+    "original": "We don\u0027t know where\u0027s blue though",
     "en_trans": "",
     "zh_trans": "不过我们仍未知道蓝色力量在何处",
     "jp_trans": "",
@@ -351,7 +351,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Blue's long dead, what did you expect from Red's reign",
+    "original": "Blue\u0027s long dead, what did you expect from Red\u0027s reign",
     "en_trans": "",
     "zh_trans": "蓝色已经陨落，你还指望红色的统治会有多好？",
     "jp_trans": "",
@@ -360,7 +360,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Blue's long dead, let's just get back.",
+    "original": "Blue\u0027s long dead, let\u0027s just get back.",
     "en_trans": "",
     "zh_trans": "蓝色已经陨落了，我们还是回去吧",
     "jp_trans": "",
@@ -369,7 +369,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Let's just get back",
+    "original": "Let\u0027s just get back",
     "en_trans": "",
     "zh_trans": "回去吧",
     "jp_trans": "",
@@ -450,7 +450,7 @@
     "enable_timer": 0
   },
   {
-    "original": "We're back here",
+    "original": "We\u0027re back here",
     "en_trans": "",
     "zh_trans": "我们回到这了",
     "jp_trans": "",
@@ -567,7 +567,7 @@
     "enable_timer": 1
   },
   {
-    "original": "It's that thing..",
+    "original": "It\u0027s that thing..",
     "en_trans": "",
     "zh_trans": "就是那个东西..",
     "jp_trans": "",
@@ -621,7 +621,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Wait, It's about to explode!!",
+    "original": "Wait, It\u0027s about to explode!!",
     "en_trans": "",
     "zh_trans": "等会，要——爆炸了!!!",
     "jp_trans": "",
@@ -639,7 +639,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Look on top, it's blue..?",
+    "original": "Look on top, it\u0027s blue..?",
     "en_trans": "",
     "zh_trans": "抬头看! 那是..蓝色?",
     "jp_trans": "",
@@ -648,7 +648,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Quick, no time to waste. Let's find a way to obtain blue's power",
+    "original": "Quick, no time to waste. Let\u0027s find a way to obtain blue\u0027s power",
     "en_trans": "",
     "zh_trans": "快点，没有时间了! 想办法得到蓝色的力量",
     "jp_trans": "",
@@ -729,7 +729,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Step unto the playform to recieve blue's power.",
+    "original": "Step unto the playform to recieve blue\u0027s power.",
     "en_trans": "",
     "zh_trans": "站在平台上面接受蓝色的力量",
     "jp_trans": "",
@@ -774,7 +774,7 @@
     "enable_timer": 1
   },
   {
-    "original": "Blue's going to contain that thing",
+    "original": "Blue\u0027s going to contain that thing",
     "en_trans": "",
     "zh_trans": "蓝色会控制住那东西的",
     "jp_trans": "",
@@ -1035,7 +1035,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Good ol' ball rain",
+    "original": "Good ol\u0027 ball rain",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -1044,7 +1044,7 @@
     "enable_timer": 0
   },
   {
-    "original": "I won't let you go through the boss again lol",
+    "original": "I won\u0027t let you go through the boss again lol",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -1090,6 +1090,24 @@
   },
   {
     "original": "No one is on the platform!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "We\u0027ll go back here tomorrow",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Blue\u0027s long dead",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
