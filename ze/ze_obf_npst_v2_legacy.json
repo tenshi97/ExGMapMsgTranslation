@@ -236,11 +236,11 @@
   {
     "original": "\u003C\u003C\u003CDOOR IS OPEN\u003E\u003E\u003E",
     "en_trans": "",
-    "zh_trans": "大门还有<<< 23 >>>秒打开",
+    "zh_trans": "卷帘门已经打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 23,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "\u003C\u003C\u003CIt\u0027s not finished\u003E\u003E\u003E",
