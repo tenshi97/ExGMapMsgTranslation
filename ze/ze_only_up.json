@@ -9,9 +9,9 @@
     "enable_timer": 1
   },
   {
-    "original": "**Map By R1cko27 & Stepanof**",
+    "original": "**Map By R1cko27 \u0026 Stepanof**",
     "en_trans": "",
-    "zh_trans": "**地图由R1cko27 & Stepanof制作**",
+    "zh_trans": "**地图由R1cko27 \u0026 Stepanof制作**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -285,6 +285,15 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "**You Have 180 seconds to trigger**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 180,
     "enable_timer": 1
   }
 ]
