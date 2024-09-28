@@ -11,11 +11,11 @@
   {
     "original": "阿米娅：大门还有30s打开，请再坚持一下",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿米娅：大门还有30s打开，请再坚持一下",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：博士，地面出口就在那里",
@@ -38,11 +38,11 @@
   {
     "original": "ACE：博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ACE：博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：博士，前面是巨大的源石丛，我们已经无路可走了",
@@ -83,11 +83,11 @@
   {
     "original": "ACE：博士，请尽快破坏通风口，整合运动将在50s后空降",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ACE：博士，请尽快破坏通风口，整合运动将在50s后空降",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": "ACE:即将空降，博士，抓稳了",
@@ -101,11 +101,11 @@
   {
     "original": "阿米娅：博士，请给我20s的时间部署水上平台，不要掉下去了哦",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿米娅：博士，请给我20s的时间部署水上平台，不要掉下去了哦",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅:博士，旁边的震撼装置如果利用得当，或许可以缓解整合运动的攻势",
@@ -119,20 +119,20 @@
   {
     "original": "震撼装置已启动，装置周围八格敌人晕眩5s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "震撼装置已启动，装置周围八格敌人晕眩5s",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：前方的道路还有10s开放",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿米娅：前方的道路还有10s开放",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：整合运动还有10s进行空降，前方的震撼装置还需要15s进行爆破",
@@ -146,29 +146,29 @@
   {
     "original": "阿米娅：请大家再防守10s，前方就是1-7关卡了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿米娅：请大家再防守10s，前方就是1-7关卡了",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：距离任务完成还剩下20s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿米娅：距离任务完成还剩下20s",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：罗德岛大门还有20s打开",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阿米娅：罗德岛大门还有20s打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "阿米娅：正在紧急联系维什戴尔小姐，马上就能获得支援了",
@@ -182,10 +182,10 @@
   {
     "original": "祖宗发射器将在10s内充能完毕，请远离轰炸区域",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "祖宗发射器将在10s内充能完毕，请远离轰炸区域",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   }
 ]
