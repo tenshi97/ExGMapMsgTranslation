@@ -2,16 +2,16 @@
   {
     "original": "**** level 1 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 第一关 ****",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "10 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "10 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -20,16 +20,16 @@
   {
     "original": "**** level 2 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 第二关 ****",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**** level RTV ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** RTV关 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,16 +38,16 @@
   {
     "original": "**** load level 2 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 加载第二关 ****",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**** load RTV ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 加载RTV关 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,25 +56,25 @@
   {
     "original": "**** level 3 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 第三关 ****",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**** load level 3 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 加载第三关 ****",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**** 迭代空壳 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 迭代空壳 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "**** 堕时 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 堕时 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "**** 飞空之梭 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 飞空之梭 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "**** 空间涌动 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 空间涌动 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "**** 时空潮涌 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 时空潮涌 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "**** 规流飞梭 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 规流飞梭 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "**** 拓时之空 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 拓时之空 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "**** 倒逆空雨 ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**** 倒逆空雨 ****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
