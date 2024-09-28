@@ -11,7 +11,7 @@
   {
     "original": "[Map] AFK teleport open in 50 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[Map] 50秒后进行挂机传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -20,7 +20,7 @@
   {
     "original": "[Map] Zombie teleport open in 40 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[Map] 僵尸传送将在40秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -29,7 +29,7 @@
   {
     "original": "[Map] Human teleport open in 10 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[Map] 人类传送点将在10秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -63,7 +63,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[story] Survivor named it \u0027Crazy Disease\u0027.",
+    "original": "[story] Survivor named it 'Crazy Disease'.",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,7 +108,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[Radio] More survivors have lost contact with us.It doesn\u0027t well.How about Dr.He and others.",
+    "original": "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[Captain.Li] Let\u0027s go,we must find that crystal to finish all of this.",
+    "original": "[Captain.Li] Let's go,we must find that crystal to finish all of this.",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,7 +243,7 @@
     "enable_timer": 0
   },
   {
-    "original": "[Captain.Li] Ok,we have arrived relic,let\u0027s go to find truth!Damn,why these infectors can\u0027t killed?",
+    "original": "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -843,24 +843,6 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
-    "enable_timer": 1
-  },
-  {
-    "original": "[Map] Fence break in 25 second.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "[Map] Side Road Break in 20 second.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
     "enable_timer": 1
   }
 ]
