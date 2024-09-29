@@ -81,7 +81,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***CURRENT MODE >>>NORMAL<<<***",
+    "original": "***CURRENT MODE \u003E\u003E\u003ENORMAL\u003C\u003C\u003C***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***CURRENT MODE >>>CUSTOM<<<***",
+    "original": "***CURRENT MODE \u003E\u003E\u003ECUSTOM\u003C\u003C\u003C***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -406,6 +406,15 @@
   },
   {
     "original": "***Zombie picked up Pizza***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MUSIC] Kaneko Chiharu - TEmPTaTiON",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
