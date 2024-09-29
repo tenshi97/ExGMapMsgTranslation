@@ -2,25 +2,25 @@
   {
     "original": "**Hold For 25seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防守25秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "**Hold For 30seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防守30秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "**A player has picked up Ammo**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家拾取了神器：弹药**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,43 +29,43 @@
   {
     "original": "**Hold For 35seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防守35秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "**Door is closing in 20seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门会在20秒后关闭**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**Teleport all players outside the door in 5seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在门外的所有玩家会在5秒后被传送**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**Hold For 20seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**防守20秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**Boss approaching**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**BOSS 来了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
