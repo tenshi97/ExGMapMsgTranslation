@@ -119,11 +119,11 @@
   {
     "original": "***LAST DOOR!!! HOLD 1 MINUTE!***",
     "en_trans": "",
-    "zh_trans": "***最后一扇门！！！坚持一分钟***",
+    "zh_trans": "***最后一扇门！！！坚持60秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "***NUKE LAUNCHED!!!***",
@@ -131,8 +131,8 @@
     "zh_trans": "***核弹发射！！！***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "***HOLD UNTIL DOOR CLOSES!!!***",
