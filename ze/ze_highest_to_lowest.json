@@ -2,7 +2,7 @@
   {
     "original": "*** ze_highest_to_lowest ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 空白兜帽大战金色火焰之猛虎下山 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "*** Map created by thas ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图作者：thas ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "*** You are in the highest building ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你正处于最高的那栋建筑  ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "*** Try to go to lowest building ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 尝试前往最低的建筑 ! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "*** Defend for 15 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 15 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -47,16 +47,16 @@
   {
     "original": "*** Remaining buildings : 6 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 剩余建筑：6 栋 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Defend for 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 30 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -65,34 +65,34 @@
   {
     "original": "*** Remaining buildings : 5 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 剩余建筑：5 栋 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Remaining buildings : 4 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 剩余建筑：4 栋 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Remaining buildings : 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 剩余建筑：3 栋 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Defend for 35 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 35 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -101,25 +101,25 @@
   {
     "original": "*** Remaining buildings : 2 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 剩余建筑：2 栋 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Remaining buildings : 1 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 剩余建筑：1 栋 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Final Defend ! Defend for 45 seconds ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最终防御！坚守 45 秒！*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -128,7 +128,7 @@
   {
     "original": "*** Humans Win ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 人类取得胜利！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
