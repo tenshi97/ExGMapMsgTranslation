@@ -20,7 +20,7 @@
   {
     "original": "20s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "20s",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -29,7 +29,7 @@
   {
     "original": "40s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "40s",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -83,7 +83,7 @@
   {
     "original": "15s tp",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -128,7 +128,7 @@
   {
     "original": "30s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30s",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -146,11 +146,11 @@
   {
     "original": "成功了！门开始移动了！！林燕不愧是权王！！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "成功了！门开始移动了！！林燕不愧是权王！！！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "灭火器已经被拿到！坚持住！我们需要把通风管道的火焰灭掉才能通过！",
@@ -164,11 +164,11 @@
   {
     "original": "灭火器已经使用！火焰已经熄灭！快撤退！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "灭火器已经使用！火焰已经熄灭！快撤退！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "坚持住！电梯还有30s才能启动！",
@@ -218,11 +218,11 @@
   {
     "original": "火焰已经被灭火器熄灭！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "火焰已经被灭火器熄灭1！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "梯子将在15s后解锁！",
@@ -263,7 +263,7 @@
   {
     "original": ">>60s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>60s<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -281,7 +281,7 @@
   {
     "original": ">>15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>15s<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -290,7 +290,7 @@
   {
     "original": ">>5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>5s<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -353,7 +353,7 @@
   {
     "original": "35s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "35s",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -362,7 +362,7 @@
   {
     "original": "10s",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "10s",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -389,7 +389,7 @@
   {
     "original": "30s 全体传送！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30s 全体传送！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -398,7 +398,7 @@
   {
     "original": "30s 门开！10s传送！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30s 门开！10s传送！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -407,20 +407,20 @@
   {
     "original": ">>驾驶员已就位！将在五秒后启动！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>驾驶员已就位！将在5秒后启动！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "有僵尸存活！人类延迟两秒传送！！！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "有僵尸存活！人类延迟2秒传送！！！！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "35s门开！",
@@ -443,7 +443,7 @@
   {
     "original": "5s！！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "5s！！！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,

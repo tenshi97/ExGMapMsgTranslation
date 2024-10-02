@@ -524,7 +524,7 @@
   {
     "original": "***Station doors are closing!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***车站的门正在关闭!!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "***Door will open in 30 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在30秒后打开！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -542,7 +542,7 @@
   {
     "original": ">> Saviors of Christmas, well done!!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 拯救圣诞节的英雄，做得好！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": ">> Map will reset <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地图将重置 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "*** 10 seconds left before Santa unleashes zombies! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还剩10秒圣诞老人将释放僵尸！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -569,10 +569,10 @@
   {
     "original": ">> SECRET MUSIC 2 PLAYING <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 秘密音乐2 播放中 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
