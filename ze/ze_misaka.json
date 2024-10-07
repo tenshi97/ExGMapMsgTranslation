@@ -1,29 +1,1460 @@
 [
-  {
-    "original": "<< Stage 1 >>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  },
-  {
-    "original": "<< map by Misaka >>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<< special thanks to koyomaple, Excarliber and gneL >>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  }
+	{
+		"original": "<< boss fight will begin in 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< Boss 战将会在 10 秒后开始 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Haste >>",
+		"en_trans": "",
+		"zh_trans": "<< 赶紧的 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Be Careful! You only have 120 seconds to defeat the boss >>",
+		"en_trans": "",
+		"zh_trans": "<< 注意! 你只有 120 秒的时间来击败 Boss >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 120,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Push >>",
+		"en_trans": "",
+		"zh_trans": "<< 推力 (按w抵抗) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Drain >>",
+		"en_trans": "",
+		"zh_trans": "<< 漏极 (按s抵抗) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Trials of Sword >>",
+		"en_trans": "",
+		"zh_trans": "<< 剑之试炼 (跳蹲刀) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Fallen Sky >>",
+		"en_trans": "",
+		"zh_trans": "<< 天空坠落 (看头顶躲避) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Misaka will use holy in 6 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 御坂会在 6 秒后使用终极 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 6,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Misaka is using cannon >>",
+		"en_trans": "",
+		"zh_trans": "<< 御坂使用了超电磁炮 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Wind >>",
+		"en_trans": "",
+		"zh_trans": "<< 风之引 (反方向抵抗) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Congratulation !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 恭喜!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< You've win all stage ??? >>",
+		"en_trans": "",
+		"zh_trans": "<< 你赢得了所有关卡的胜利 ??? >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Shooting Misaka >>",
+		"en_trans": "",
+		"zh_trans": "<< 对御坂射击 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<<You only have 25 seconds to get to the end >>",
+		"en_trans": "",
+		"zh_trans": "<<你只有 25 秒的时间到达终点 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 5 more seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 还有 5 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< I Know that you work hard to get here >>",
+		"en_trans": "",
+		"zh_trans": "<< 我知道你为了来到这里付出了很多努力 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Its the time to meet the final >>",
+		"en_trans": "",
+		"zh_trans": "<< 是时候面对最后的胜负了 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< INSANE II Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了疯狂 2 关卡 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< 55 seconds left >>",
+		"en_trans": "",
+		"zh_trans": "<< 还剩 55 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 55,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< INSANE I Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了疯狂 1 关卡 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< RTV I Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了RTV 1 关卡 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< teleport will be enabled in 20 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 传送将会在 20 秒后激活 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< teleport will be enabled in 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 传送将会在 10 秒后激活 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Why you come here again? >>",
+		"en_trans": "",
+		"zh_trans": "<< 你为什么又回到这里? >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Survive for 165 seconds!!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 存活 165 秒!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 165,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 120 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 120 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 120,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 60 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 60秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 60,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 30 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< hold for 15 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 坚持 15 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Do you think this is over? >>",
+		"en_trans": "",
+		"zh_trans": "<< 你以为这就结束了吗? >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< ... >>",
+		"en_trans": "",
+		"zh_trans": "<< ... >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Try to Get to The End !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 努力到达终点 !!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Be careful about the abnormal gravity >>",
+		"en_trans": "",
+		"zh_trans": "<< 注意你的重力状态 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< and also be careful about the wall on your back >>",
+		"en_trans": "",
+		"zh_trans": "<< 还要小心你背后的墙 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< You only have 10 seconds to get to the end >>",
+		"en_trans": "",
+		"zh_trans": "<< 你只有 10 秒钟的时间到达终点 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< The boss appears again !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< BOSS又出现了!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Shooting it and dodge the laser!!>>",
+		"en_trans": "",
+		"zh_trans": "<< 射击BOSS 和 避开跳刀!!>>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< 5 >>",
+		"en_trans": "",
+		"zh_trans": "<< 5 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 4 >>",
+		"en_trans": "",
+		"zh_trans": "<< 4 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 4,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 3 >>",
+		"en_trans": "",
+		"zh_trans": "<< 3 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 3,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 2 >>",
+		"en_trans": "",
+		"zh_trans": "<< 2 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 2,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 1 >>",
+		"en_trans": "",
+		"zh_trans": "<< 1 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 1,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< The boss will be unkillable after 25 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 25 秒后 boss 将会无法被杀死 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Stage 3 true end complete>>",
+		"en_trans": "",
+		"zh_trans": "<< 第三关真结局完成>>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< A player has got the letter I >>",
+		"en_trans": "",
+		"zh_trans": "<< 一名玩家拾到了字母 I >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< A player has got the letter S >>",
+		"en_trans": "",
+		"zh_trans": "<< 一名玩家拾到了字母 S >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< A player has got the letter A >>",
+		"en_trans": "",
+		"zh_trans": "<< 一名玩家拾到了字母 A >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< A player has got the letter K >>",
+		"en_trans": "",
+		"zh_trans": "<< 一名玩家拾到了字母 K >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< You've already got all 6 secret letters >>",
+		"en_trans": "",
+		"zh_trans": "<< 您已得到全部 6 个秘密字母 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< A player has got the letter M >>",
+		"en_trans": "",
+		"zh_trans": "<< 一名玩家拾到了字母 M >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Stage 3 Complete >>",
+		"en_trans": "",
+		"zh_trans": "<< 第三关完成 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< try to find another end of Stage 3 >>",
+		"en_trans": "",
+		"zh_trans": "<< 尝试寻找第三关的另一个结局 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< zombie will release in 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸将会在 10 秒后释放出来 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the final door will open in 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 最后的大门将会在 30 秒后打开 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Dark Wave >>",
+		"en_trans": "",
+		"zh_trans": "<< 三段暗浪 (按w抵抗) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Absolute Purification >>",
+		"en_trans": "",
+		"zh_trans": "<< 绝对净化 (中间旋转刀) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Flame of Revenge >>",
+		"en_trans": "",
+		"zh_trans": "<< 复仇之焰 (尸笼) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Sign of Death >>",
+		"en_trans": "",
+		"zh_trans": "<< 死亡征兆 (头顶刀) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Hunting Instinct >>",
+		"en_trans": "",
+		"zh_trans": "<< 狩猎本能 (跳刀) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< hold for 55 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 坚持 55 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 55,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Stage 3 Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了第三关 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Shooting the guard >>",
+		"en_trans": "",
+		"zh_trans": "<< 射击阻碍我们的守卫 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< the wall will break in 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 墙将会在 30 秒后破坏掉 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the fence will disappear in 20 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 栅栏将会在 20 秒后消失 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< hold for 15 seconds until the guards permit us to go >>",
+		"en_trans": "",
+		"zh_trans": "<< 坚持 15 秒, 直到守卫允许我们通过 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the wall will break in 25 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 墙将会在 25 秒后破坏掉 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the platform will move in 15 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 平台将会在 15 秒后移动 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< teleport will enable in 20 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 传送将会在 20 秒后激活 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Stage 2 Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了第二关 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Stage 1 Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了第一关 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Stage 2 Complete >>",
+		"en_trans": "",
+		"zh_trans": "<< 第二关完成 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< climb to the top and shooting the guard, so that the teleport can be activated >>",
+		"en_trans": "",
+		"zh_trans": "<< 爬到最顶部并射击守卫, 我们只有这一个方法激活传送 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Be Careful, only shooting the head of the guard may cause damage >>",
+		"en_trans": "",
+		"zh_trans": "<< 注意, 只有射击守卫的头部才能造成伤害 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< So we meet the second time >>",
+		"en_trans": "",
+		"zh_trans": "<< 所以这是我们第二次见面 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Try your best to survive from the attack >>",
+		"en_trans": "",
+		"zh_trans": "<< 尽你的最大努力在攻击中生存 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< To escape this tower!!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 逃离这座塔!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< You only have 60 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 你只有 60 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 60,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< You only have 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 你只有 30 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< You only have 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 你只有 10 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the guard will disappear in 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 守卫将会在 30 秒后消失 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< zombie will teleport in 20 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸将会在 20 秒后传送 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< hold for 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 坚持 30 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< we can go into the tower in 35 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 我们可以在 35 秒后进入塔内 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 35,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< zombie will teleport in 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸将会在 10 秒后传送 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< hold for 25 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 坚持 25 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the teleport will enable in 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 传送将会在 30 秒后激活 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< zombie will come in 5 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸将会在 5 秒后到来 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the way will be able to pass in 15 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 这条路稍作等待 15 秒就能通过 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Stage 2 >>",
+		"en_trans": "",
+		"zh_trans": "<< 第二关 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Stage 1 >>",
+		"en_trans": "",
+		"zh_trans": "<< 第一关 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Stage 3 >>",
+		"en_trans": "",
+		"zh_trans": "<< 第三关 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< INSANE I >>",
+		"en_trans": "",
+		"zh_trans": "<< 疯狂1 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< INSANE II >>",
+		"en_trans": "",
+		"zh_trans": "<< 疯狂2 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Defeat The Final Misaka To Win This Map >>",
+		"en_trans": "",
+		"zh_trans": "<< 击败完全体的御坂来赢得这张地图 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< RTV II >>",
+		"en_trans": "",
+		"zh_trans": "<< RTV 2 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< RTV I >>",
+		"en_trans": "",
+		"zh_trans": "<< RTV 1 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< INSANE III >>",
+		"en_trans": "",
+		"zh_trans": "<< 疯狂3 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< 调关房传送按钮已解锁 >>",
+		"en_trans": "",
+		"zh_trans": "<< 调关房传送按钮已解锁 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Stage 1 Complete >>",
+		"en_trans": "",
+		"zh_trans": "<< 第一关完成 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Giga Drain >>",
+		"en_trans": "",
+		"zh_trans": "<< 千兆漏极 (按s抵抗) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Reaping Slash >>",
+		"en_trans": "",
+		"zh_trans": "<< 收割之刃 (蹲下) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< MEGA PUSH >>",
+		"en_trans": "",
+		"zh_trans": "<< 三段推力 (按w抵抗) >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< the platform will rise in 15 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 平台将会在 15 秒后升起>>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< we need to wait the platform for 25 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 我们需要等待 25 秒后平台才会到达>>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the wall will disappear in 30 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 墙将会在 30 秒后消失 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< human teleported >>",
+		"en_trans": "",
+		"zh_trans": "<< 人类传送 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< zombie will be teleported soon >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸即将传送 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< zombie teleported >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸传送 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< map by Misaka >>",
+		"en_trans": "",
+		"zh_trans": "<< 地图作者: Misaka >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< special thanks to koyomaple, Excarliber and gneL >>",
+		"en_trans": "",
+		"zh_trans": "<< 特别感谢 koyo枫, Excarliber 和 gneL >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< we can go inside the room in 20 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 我们可以在 20 秒后进入房间 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< defend for 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 守住 10 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< we can reach the top in 50 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 我们需要 50 秒内到达顶部 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 50,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the glass wall will break in 15 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 玻璃墙将会在 15 秒后破裂>>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the platform will move again in 10 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 平台将会在 10 秒后再次移动 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 5 seconds to move >>",
+		"en_trans": "",
+		"zh_trans": "<< 还有 5 秒移动 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< defeat the boss >>",
+		"en_trans": "",
+		"zh_trans": "<< 打败 boss >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< the way will be able to pass in 25 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 这条路 25 秒后就能通过 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< we need to find a way to go on >>",
+		"en_trans": "",
+		"zh_trans": "<< 我们需要找到继续前进的方法 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< It's Misaka Again!!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 又是御坂!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< wait for a moment >>",
+		"en_trans": "",
+		"zh_trans": "<< 稍等一下 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< the ladder is able to climb >>",
+		"en_trans": "",
+		"zh_trans": "<< 梯子现在能够爬上去了 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< teleport will enable in 40 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 传送将会在 40 秒后激活 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 40,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< the final platform will move in 3 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 最后的平台将会在 3 秒后移动 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 3,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< wait ...... something may happen ...... >>",
+		"en_trans": "",
+		"zh_trans": "<< 等一下 ...... 我有预感可能会发生一些事情 ...... >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< It's Misaka !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 是御坂!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< dodge the laser !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 躲避跳刀 !!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< more laser is coming !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 更多跳刀马上到来 !!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< up and down !!! >>",
+		"en_trans": "",
+		"zh_trans": "<< 上下上下 !!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< defend for 15 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 守住 15 秒 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< A zombie has picked up speed >>",
+		"en_trans": "",
+		"zh_trans": "<< 一名僵尸拾起了暴走 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< You have already win this map >>",
+		"en_trans": "",
+		"zh_trans": "<< 您已经通过了此地图 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< RTV plz >>",
+		"en_trans": "",
+		"zh_trans": "<< RTV plz >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< do not hear what I say? >>",
+		"en_trans": "",
+		"zh_trans": "<< 没听见我说什么吗? >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< RTV!!! >>",
+		"en_trans": "",
+		"zh_trans": "<< RTV!!! >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< boss is defeated >>",
+		"en_trans": "",
+		"zh_trans": "<< 御坂被打败了 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< a bridge appears >>",
+		"en_trans": "",
+		"zh_trans": "<< 有一座桥出现了 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< zombie will release soon >>",
+		"en_trans": "",
+		"zh_trans": "<< 僵尸即将释放 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Misaka is defeated >>",
+		"en_trans": "",
+		"zh_trans": "<< 御坂被打败了 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< the guard will disappear in 25 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 守卫将会在 25 秒后消失 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< INSANE III Selected >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了疯狂3 关卡 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< The wall will break in 35 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 墙将会在 35 秒后破坏掉 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 35,
+		"enable_timer": 1
+	},
+	{
+		"original": "** The wall will break in 12 seconds **",
+		"en_trans": "",
+		"zh_trans": "** 墙将会在 12 秒后破坏掉 **>>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 12,
+		"enable_timer": 1
+	},
+	{
+		"original": "** Something may happen in 20 seconds... **",
+		"en_trans": "",
+		"zh_trans": "** 我有预感 20 秒后可能会发生一些事情... **",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< Ending in 12 seconds... >>",
+		"en_trans": "",
+		"zh_trans": "<< 12 秒后结束... >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 12,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< I know what you want... >>",
+		"en_trans": "",
+		"zh_trans": "<< 我知道你想要什么... >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Good Luck... >>",
+		"en_trans": "",
+		"zh_trans": "<< 祝你好运... >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Hold for the final 45 seconds ***",
+		"en_trans": "",
+		"zh_trans": "*** 坚持最后的 45 秒 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 45,
+		"enable_timer": 1
+	},
+	{
+		"original": "*** Devil Wave - 恶魔冲击 ***",
+		"en_trans": "",
+		"zh_trans": "*** Devil Wave - 恶魔冲击 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Deadly Vortex - 致命漩涡 ***",
+		"en_trans": "",
+		"zh_trans": "*** Deadly Vortex - 致命漩涡 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Undead Legion - 亡灵军团 ***",
+		"en_trans": "",
+		"zh_trans": "*** Undead Legion - 亡灵军团 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Divine penalty - 神罚 ***",
+		"en_trans": "",
+		"zh_trans": "*** Divine penalty - 神罚 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Embattle - 四面楚歌 ***",
+		"en_trans": "",
+		"zh_trans": "*** Embattle - 四面楚歌 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Crippling strike - 致残打击 ***",
+		"en_trans": "",
+		"zh_trans": "*** Crippling strike - 致残打击 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** 10 ***",
+		"en_trans": "",
+		"zh_trans": "*** 10 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "*** Survive for 20 seconds!!! ***",
+		"en_trans": "",
+		"zh_trans": "*** 生存 20 秒!!! ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "*** Insane III Complete ***",
+		"en_trans": "",
+		"zh_trans": "*** 疯狂 3 完成 ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** You are the legend of this map!!! ***",
+		"en_trans": "",
+		"zh_trans": "*** 你就是这张地图的传奇!!! ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "*** Map by Misaka, special thanks to memories for Insane III ***",
+		"en_trans": "",
+		"zh_trans": "*** 地图作者: Misaka, 特别感谢 memories 弄的疯狂 3 关卡***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< RTV II Selected  >>",
+		"en_trans": "",
+		"zh_trans": "<< 苟管理选择了RTV 2 关卡 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": "<< Nuke in 5 seconds >>",
+		"en_trans": "",
+		"zh_trans": "<< 5秒后核爆 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": "<< 神器治疗已被禁用 >>",
+		"en_trans": "",
+		"zh_trans": "<< 神器治疗已被禁用 >>",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	}
 ]
