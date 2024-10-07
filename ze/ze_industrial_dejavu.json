@@ -11,7 +11,7 @@
   {
     "original": "*** CURRENT MODE: EASY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前模式：简单 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "*** NO ZOMBIE WEAPONS & REGULAR HEALTH ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 没有僵尸神器 & 常规血量 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "*** HELPING PUSHES ACTIVATED ON EASY MODE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 简单模式下推力激活 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "*** Door opens in 20 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 20 秒后开门! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +47,7 @@
   {
     "original": "*** Resist for 30 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚持 30 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -56,7 +56,7 @@
   {
     "original": "*** Resist for 10 more seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 再坚持 10 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -65,7 +65,7 @@
   {
     "original": "*** GO! GO! GO! MOVE OUT! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 崩！撤！卖！溜！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已获得 推力枪。按E激活，冷却时间 60 秒。 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Boat leaves in 40 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 船将在 40 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -92,7 +92,7 @@
   {
     "original": "*** RESIST!!! 10 SECONDS!!!. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚持住!!! 还剩 10 秒!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -101,7 +101,7 @@
   {
     "original": "*** We did it! Moving on to the NORMAL mode! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们做到了! 切换至普通模式! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "*** CURRENT MODE: NORMAL ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前模式：普通 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "*** ZOMBIE WEAPONS & NORMAL HEALTH ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸有神器 & 普通血量 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 普通模式下出口推力已激活 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "*** Strangely near door opens in 12 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 附近奇怪的门将在 12 秒后打开. ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 12,
@@ -146,7 +146,7 @@
   {
     "original": "*Laser wall generator has been picked up. Press +USE (E) to activate.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*激光墙生成器 已被捡起。按E键激活。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,16 +155,16 @@
   {
     "original": "*It has a 60 seconds cooldown.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*它有 60 秒的冷却时间。*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "* Zombie heal has been picked up. Press +USE (E) to activate.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 僵尸治疗 已被捡起。按E键使用。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,16 +173,16 @@
   {
     "original": "*It has a 90 seconds cooldown.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*它有 90 秒的冷却时间。*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 90,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Helicopter comes in 30 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 直升机还有 30 秒到达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -191,7 +191,7 @@
   {
     "original": "***Evacuate!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 撤退!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "*** Well done! Now it will get interesting on the HARD mode! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 干得漂亮! 困难模式一定会更有趣! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "*** CURRENT MODE: HARD ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前模式：困难 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "*** ZOMBIE WEAPONS & LARGE HEALTH ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸有神器 & 大量生命值 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "*** HELPING PUSHES DISABLED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 推力已取消 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "* Vortex zombie has been summoned. Press +USE (E) to activate.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 漩涡僵尸已被召唤。 按E键使用。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,16 +245,16 @@
   {
     "original": "*It has a 120 seconds cooldown.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*冷却时间 120 秒。*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 120,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Bunker door opens in 15 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地堡门将在 15 秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -263,7 +263,7 @@
   {
     "original": "*** HOLD! The bunker will seal in 15 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚持住！地堡将在 15 秒后密封！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -272,7 +272,7 @@
   {
     "original": "*** That was pure luck! Let's see if you are as lucky on EXTREME mode! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 纯粹是运气！让我们看看你在极限模式下是否也这么幸运！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "*** CURRENT MODE: EXTREME ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前模式：极限 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "*** ZOMBIE WEAPONS & MASSIVE HEALTH ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸有神器 & 巨量生命值 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "**Flamethrower has been picked up. Press +Use (E) to activate**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 喷火器 已被捡起。按E键使用。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,16 +308,16 @@
   {
     "original": "**Fuel lasts about 10 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 燃料大约能支撑 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "* Zombie rage has been picked up. Press +USE (E) to activate.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 僵尸狂暴 已被捡起。按E键使用。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 哦不!!!这是一个看起来非常熟悉的BOSS!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "*** The boss has been defeated! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** BOSS已被击败! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "*** HOLD! The door opens in 15 seconds!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 守住! 还有 15 秒开门!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -353,7 +353,7 @@
   {
     "original": "*** GO! GO! GO! LET'S LEAVE THIS PLACE! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** GO! GO! GO! 让我们离开这个地方! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "*** Unbelievable! You won EXTREME mode! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 难以置信! 你获得了极限模式的胜利! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图将会留在这个模式，让你继续挑战最高的难度...如果你敢的话。 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "*** Hold the house for 24 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 守住这个房子 24 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 24,
@@ -389,7 +389,7 @@
   {
     "original": "*** Windows that don't have a wooden plank are breakable! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 没有木板的窗户是可以打破的！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "*** GO BACK! IT'S GONNA BLOW! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快退后！要爆炸了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "*** ZOMBIES DETECTED - INVALID VICTORY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 检测到僵尸 - 无效的胜利 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "*** Door closes in 8 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门还有 8 秒就要关闭了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -425,7 +425,7 @@
   {
     "original": "*Ammo Box has been picked up. Press +USE (E) to activate.*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 弹药箱 已被捡起。按E键使用。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

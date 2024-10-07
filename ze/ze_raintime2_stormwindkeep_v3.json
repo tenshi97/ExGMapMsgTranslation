@@ -1,6 +1,6 @@
 [
   {
-    "original": "map by Airvulps",
+    "original": "<<< This is the southwest outpost in Lordaeron,Stormwind Keep >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "map modify by 兎RB",
+    "original": "<<< The Ministry has completely collapsed and needs to be reported to Lordaeron urgently >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "map port by SIRloin",
+    "original": ">> A player picked up lightning <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,25 @@
     "enable_timer": 0
   },
   {
-    "original": "> STAGE - A <",
+    "original": "** Hold on for 20s **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Defend zombies for 20 seconds and wait for the door to open **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>One player picked up the wind<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,16 +54,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** 40 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "> STAGE - B <",
+    "original": "** Don't let zombies break through the line of defense. Wait for the gate to close **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,25 +63,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** 15 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** 30 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "> STAGE - C <",
+    "original": ">> A player has picked up healing <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,30 +72,21 @@
     "enable_timer": 0
   },
   {
-    "original": "30",
+    "original": "** A player picked up the zombie health **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "*** 10 ***",
+    "original": "** A player picked up the poison **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** 9 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 9,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
