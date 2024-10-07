@@ -20,7 +20,7 @@
   {
     "original": "** Be aware of fake donations - groups and profiles ! **",
     "en_trans": "",
-    "zh_trans": "** 要小心那些假的捐款—包括团体和个人资料(翻译错误联系SS) **",
+    "zh_trans": "** 要小心那些假的捐款—包括团体和个人资料 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "** Bomb planted - hold 30 seconds **",
     "en_trans": "",
-    "zh_trans": "** 炸弹已安装-坚守 30 秒 **",
+    "zh_trans": "** 炸弹已安装-坚守30秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -300,6 +300,213 @@
     "original": "** A player has learned Electro magick. **",
     "en_trans": "",
     "zh_trans": "** 一名玩家学会了电魔法 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[ADMIN] Removed [INSANE DIFFICULTY] for next round.",
+    "en_trans": "",
+    "zh_trans": "[管理员]在下一回合移除疯狂难度",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[ADMIN] Added [INSANE DIFFICULTY] for next round.",
+    "en_trans": "",
+    "zh_trans": "[管理员]为下一轮添加了疯狂难度",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[ADMIN] Selected [HARD MODE] for next round.",
+    "en_trans": "",
+    "zh_trans": "[管理员]为下一轮选择了困难模式",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[ADMIN] Restarting round in 5 seconds.",
+    "en_trans": "",
+    "zh_trans": "[管理员]在5秒后重新开始这一回合",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** [EXTREME MODE] **",
+    "en_trans": "",
+    "zh_trans": "** [极限模式] **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Hold 20 seconds until the door opens **",
+    "en_trans": "",
+    "zh_trans": "** 坚持20秒直到门打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** 5 seconds remaining **",
+    "en_trans": "",
+    "zh_trans": "** 还剩5秒 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** You may enter the tomb in 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 你可以在15秒后进入墓穴 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The doors will open in 25 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 大门将在25秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The doors will open in 5 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 大门将在5秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The next door opens in 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 下道门将在15秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A random way will open in 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 一道随机的通道将在10秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Boss Fight in 10s **",
+    "en_trans": "",
+    "zh_trans": "** BOOS战将在10秒后开始 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Boss Fight in 5s **",
+    "en_trans": "",
+    "zh_trans": "** BOOS战将在5秒后开始 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Belias is immune for fire and nades **",
+    "en_trans": "",
+    "zh_trans": "** 魔人贝利亚斯对火焰和手雷免疫 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Belias is defeated - Escape the tomb ! **",
+    "en_trans": "",
+    "zh_trans": "** 魔人贝利亚斯被击败-逃离墓穴 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** The main door opens in 25 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 主门将在25秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "** The main door opens in 5 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 主门将在5秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Final door opens in 10 seconds! **",
+    "en_trans": "",
+    "zh_trans": "** 最后的门将在10秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Teleporter will be ready in 10 seconds ! **",
+    "en_trans": "",
+    "zh_trans": "** 传送器在10秒后准备就绪 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Teleporter will be ready in 5 seconds ! **",
+    "en_trans": "",
+    "zh_trans": "** 传送器在5秒后准备就绪 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Congratulations - You won [EXTREME] **",
+    "en_trans": "",
+    "zh_trans": "** 恭喜你-你通过了极限模式(汉化:SS) **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[ADMIN] Selected [GOD MODE] for next round.",
+    "en_trans": "",
+    "zh_trans": "** [管理员]为下一轮选择了[无敌模式] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
