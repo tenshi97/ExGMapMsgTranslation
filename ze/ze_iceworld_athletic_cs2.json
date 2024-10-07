@@ -1,875 +1,893 @@
 [
-	{
-		"original": "<< TIPS: HUMAN now are uninfectable >>",
-		"en_trans": "",
-		"zh_trans": "<< 提示: 人类现在无法被感染 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Do Not Let zombies destroy the crystal >>",
-		"en_trans": "",
-		"zh_trans": "<< 不要让僵尸摧毁水晶 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Lets start! The Final Ten heros!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 开始游戏吧! 最后十位英雄!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< zombie will only have 50 hp in the final 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸在最后 30 秒内只有 50 点生命值 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< 180 seconds left >>",
-		"en_trans": "",
-		"zh_trans": "<< 还剩 180 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 180,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< Final 30 seconds !!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 最后 30 秒!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< 120 seconds left >>",
-		"en_trans": "",
-		"zh_trans": "<< 还剩 120 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 120,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< 60 seconds left >>",
-		"en_trans": "",
-		"zh_trans": "<< 还剩 60 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 60,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< HERO MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< 英雄模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Shooting the crystal to become the HERO >>",
-		"en_trans": "",
-		"zh_trans": "<< 射击水晶成为英雄吧 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< ONLY HAS 30 seconds to become the HERO >>",
-		"en_trans": "",
-		"zh_trans": "<< 只有 30 秒的时间能够成为英雄 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< FAIL...... >>",
-		"en_trans": "",
-		"zh_trans": "<< 失败...... >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< wait for 25 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 等待 25 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 25,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< who permit you to press the button? >>",
-		"en_trans": "",
-		"zh_trans": "<< 是谁允许你按下按钮的? >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< defend for 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 守住 30 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "Map made by Misaka",
-		"en_trans": "",
-		"zh_trans": "地图作者: Misaka",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "Port by Hephasfos",
-		"en_trans": "",
-		"zh_trans": "移植至CS2: Hephasfos",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< What are you doing??? >>",
-		"en_trans": "",
-		"zh_trans": "<< 你在赣神魔??? >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< DeathRun Complete !!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 死亡奔跑通关 !!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Zombie win >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸胜利 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< OHHHHHH ITS E PICK LEGEND !!! >>",
-		"en_trans": "",
-		"zh_trans": "<< OHHHHHH 这是按 e 抢的传奇玩家 !!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< the second save point will be activated in 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 第二个存点将会在 30 秒后激活 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< TEAM MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< 团队模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< zombie will come in 5 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸将会在 5 秒后到来 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 5,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< DEATHRUN MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< 死亡奔跑模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< SOLO MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< SOLO模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< DEFENSE MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< 防守模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< BUTTON MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< 按钮模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< zombie will come in 20 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸将会在 20 秒后到来 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 20,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< FROG MODE >>",
-		"en_trans": "",
-		"zh_trans": "<< 青蛙过河模式 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< You have already win 4 mode!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 您已经赢了 4 个模式!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Now its the entertainment time!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 现在是娱乐时间!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< The first save point has been unlocked ! >>",
-		"en_trans": "",
-		"zh_trans": "<< 第一个存点已解锁! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Welcome to DeathRun!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 欢迎来到死亡奔跑!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Try your best to get to the end >>",
-		"en_trans": "",
-		"zh_trans": "<< 尽你的全力到达终点 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< So Are You READY? >>",
-		"en_trans": "",
-		"zh_trans": "<< 那么你准备好了吗? >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< GO!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 出发!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< You can jump back to go to the button room >>",
-		"en_trans": "",
-		"zh_trans": "<< 你可以跳回按钮室 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 注意!!! 如果没有人在 250 秒内完成死亡奔跑, 那么所有玩家都会死亡 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< 249 seconds left >>",
-		"en_trans": "",
-		"zh_trans": "<< 还剩 249 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 249,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< 150 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 150 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 150,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< 60 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 60 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 60,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< Human win >>",
-		"en_trans": "",
-		"zh_trans": "<< 人类胜利 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Let's play a game now >>",
-		"en_trans": "",
-		"zh_trans": "<< 现在我们来玩个游戏 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< You can see there are 8 platforms >>",
-		"en_trans": "",
-		"zh_trans": "<< 你可以看到有 8 个平台 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< After a little time, only a few number of platform will be safe >>",
-		"en_trans": "",
-		"zh_trans": "<< 在一段时间后, 只有少数的平台是安全的 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< so now, choose the number that you like >>",
-		"en_trans": "",
-		"zh_trans": "<< 那么现在, 选择你喜欢的数字吧 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Round 1 >>",
-		"en_trans": "",
-		"zh_trans": "<< 第 1 轮 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< 10 seconds to choose >>",
-		"en_trans": "",
-		"zh_trans": "<< 你有 10 秒的时间去选择 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 10,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< Round 2 >>",
-		"en_trans": "",
-		"zh_trans": "<< 第二轮 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< It seems that you are less than 16 guys >>",
-		"en_trans": "",
-		"zh_trans": "<< 看起来你们已经少于 16 人 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< OK, I will let you win this game easier >>",
-		"en_trans": "",
-		"zh_trans": "<< 好吧, 我会让你更轻松地赢得这个游戏>>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< press the button and defend zombie >>",
-		"en_trans": "",
-		"zh_trans": "<< 按下按钮, 守住僵尸 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Press 8 button to win the game >>",
-		"en_trans": "",
-		"zh_trans": "<< 把 8 个按钮全部按完以赢得游戏 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< the light will change to green if the button can be pressed >>",
-		"en_trans": "",
-		"zh_trans": "<< 如果按钮是可以按下的, 指示灯就会变成绿色 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< You only have 120 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 你只有 120 秒时间 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 120,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< You Done It !!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 你做到了!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< defend for final 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 守住最后的 30秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< zombie now has low gravity! >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸现在是低重力状态! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< NO!!! zombie has touched that fucking face >>",
-		"en_trans": "",
-		"zh_trans": "<< 不!!! 僵尸碰到那张该死的脸 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< wait for 15 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 等待 15 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 15,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< afk tele in 20 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 挂机的人在 20 秒后会被传送 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 20,
-		"enable_timer": 1
-	},
-	{
-		"original": "<<boat will move in 15 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 小船将会在 15 秒后移动>>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 15,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< zombie can move in 15 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸可以在 15 秒后移动 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 15,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< solo time will begin in 15 seconds !!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< SOLO 时间将会在 15 秒后开始 !!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 15,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< wait for 10 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 等待 10 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 10,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< zombie can go in 10 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸可以在 10 秒后开冲 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 10,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< YOU GET IT >>",
-		"en_trans": "",
-		"zh_trans": "<< 你得到了 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< teleport human >>",
-		"en_trans": "",
-		"zh_trans": "<< 传送人类 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< zombie teleport in 5 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸 5 秒后传送 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 5,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< NOBODY WIN THE LASER TEST >>",
-		"en_trans": "",
-		"zh_trans": "<< 无人在跳刀测试中存活 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< DIE >>",
-		"en_trans": "",
-		"zh_trans": "<< 去死吧 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< hold for 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 坚持 30 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< A Bridge Appears >>",
-		"en_trans": "",
-		"zh_trans": "<< 一座桥出现了 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< After a little time, only 1 platform will be safe >>",
-		"en_trans": "",
-		"zh_trans": "<< 在一段时间后, 只有一个平台会是安全的 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Now let's start the final game >>",
-		"en_trans": "",
-		"zh_trans": "<< 现在开始最后的游戏 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Choose Mode...... >>",
-		"en_trans": "",
-		"zh_trans": "<< 选择模式...... >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< YOU ARE NOT LUCKY >>",
-		"en_trans": "",
-		"zh_trans": "<< 你运气真差 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< defense for 120 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 守住 120 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 120,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< 90 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 90 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 90,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 30 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< zombie now has low gravity!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 僵尸现在是低重力状态!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< hold for 60 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 坚持 60 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 60,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< hold for 10 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 坚持 10 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 10,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< Defend for 12 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 守住 12 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 12,
-		"enable_timer": 1
-	},
-	{
-		"original": "<< No Short Cut >>",
-		"en_trans": "",
-		"zh_trans": "<< 没有捷径 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Shooting the mode that you want to play!!! >>",
-		"en_trans": "",
-		"zh_trans": "<< 射击你想玩的模式!!! >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< Random Pick >>",
-		"en_trans": "",
-		"zh_trans": "<< 随机挑选 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< It seems that you destroy some fucking things >>",
-		"en_trans": "",
-		"zh_trans": "<< 看来你摧毁了一些该死的东西 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< defend for 10 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 守住 10 秒 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 10,
-		"enable_timer": 1
-	},
-	{
-		"original": "Admin turned on the entertainment mode",
-		"en_trans": "",
-		"zh_trans": "管理员开启了娱乐模式",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "It will take effect in the next game",
-		"en_trans": "",
-		"zh_trans": "将会在下一局生效",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<<One player choose to solo win>>",
-		"en_trans": "",
-		"zh_trans": "<<一名玩家选择了当 SOLO 赢家>>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<<You have 20 seconds to finish this game>>",
-		"en_trans": "",
-		"zh_trans": "<<你有 20 秒的时间来完成这个游戏>>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 20,
-		"enable_timer": 1
-	},
-	{
-		"original": "<<Misaka:I know what you want>>",
-		"en_trans": "",
-		"zh_trans": "<<Misaka: 我知道你想要什么>>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<<Congratulations, you son of a bitch>>",
-		"en_trans": "",
-		"zh_trans": "<<恭喜你, 你个小王八>>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 0,
-		"enable_timer": 0
-	},
-	{
-		"original": "<< teleport in 30 seconds >>",
-		"en_trans": "",
-		"zh_trans": "<< 30 秒后传送 >>",
-		"jp_trans": "",
-		"kr_trans": "",
-		"timer_num": 30,
-		"enable_timer": 1
-	}
+  {
+    "original": "<< TIPS: HUMAN now are uninfectable >>",
+    "en_trans": "",
+    "zh_trans": "<< 提示: 人类现在无法被感染 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Do Not Let zombies destroy the crystal >>",
+    "en_trans": "",
+    "zh_trans": "<< 不要让僵尸摧毁水晶 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Lets start! The Final Ten heros!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 开始游戏吧! 最后十位英雄!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< zombie will only have 50 hp in the final 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸在最后 30 秒内只有 50 点生命值 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< 180 seconds left >>",
+    "en_trans": "",
+    "zh_trans": "<< 还剩 180 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 180,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< Final 30 seconds !!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 最后 30 秒!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< 120 seconds left >>",
+    "en_trans": "",
+    "zh_trans": "<< 还剩 120 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< 60 seconds left >>",
+    "en_trans": "",
+    "zh_trans": "<< 还剩 60 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< HERO MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< 英雄模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Shooting the crystal to become the HERO >>",
+    "en_trans": "",
+    "zh_trans": "<< 射击水晶成为英雄吧 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< ONLY HAS 30 seconds to become the HERO >>",
+    "en_trans": "",
+    "zh_trans": "<< 只有 30 秒的时间能够成为英雄 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< FAIL...... >>",
+    "en_trans": "",
+    "zh_trans": "<< 失败...... >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< wait for 25 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 等待 25 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< who permit you to press the button? >>",
+    "en_trans": "",
+    "zh_trans": "<< 是谁允许你按下按钮的? >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< defend for 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 守住 30 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "Map made by Misaka",
+    "en_trans": "",
+    "zh_trans": "地图作者: Misaka",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Port by Hephasfos",
+    "en_trans": "",
+    "zh_trans": "移植至CS2: Hephasfos",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< What are you doing??? >>",
+    "en_trans": "",
+    "zh_trans": "<< 你在赣神魔??? >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< DeathRun Complete !!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 死亡奔跑通关 !!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Zombie win >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸胜利 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< OHHHHHH ITS E PICK LEGEND !!! >>",
+    "en_trans": "",
+    "zh_trans": "<< OHHHHHH 这是按 e 抢的传奇玩家 !!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< the second save point will be activated in 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 第二个存点将会在 30 秒后激活 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< TEAM MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< 团队模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< zombie will come in 5 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸将会在 5 秒后到来 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< DEATHRUN MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< 死亡奔跑模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< SOLO MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< SOLO模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< DEFENSE MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< 防守模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< BUTTON MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< 按钮模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< zombie will come in 20 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸将会在 20 秒后到来 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< FROG MODE >>",
+    "en_trans": "",
+    "zh_trans": "<< 青蛙过河模式 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< You have already win 4 mode!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 您已经赢了 4 个模式!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Now its the entertainment time!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 现在是娱乐时间!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< The first save point has been unlocked ! >>",
+    "en_trans": "",
+    "zh_trans": "<< 第一个存点已解锁! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Welcome to DeathRun!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 欢迎来到死亡奔跑!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Try your best to get to the end >>",
+    "en_trans": "",
+    "zh_trans": "<< 尽你的全力到达终点 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< So Are You READY? >>",
+    "en_trans": "",
+    "zh_trans": "<< 那么你准备好了吗? >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< GO!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 出发!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< You can jump back to go to the button room >>",
+    "en_trans": "",
+    "zh_trans": "<< 你可以跳回按钮室 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 注意!!! 如果没有人在 250 秒内完成死亡奔跑, 那么所有玩家都会死亡 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< 249 seconds left >>",
+    "en_trans": "",
+    "zh_trans": "<< 还剩 249 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 249,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< 150 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 150 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 150,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< 60 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 60 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< Human win >>",
+    "en_trans": "",
+    "zh_trans": "<< 人类胜利 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Let's play a game now >>",
+    "en_trans": "",
+    "zh_trans": "<< 现在我们来玩个游戏 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< You can see there are 8 platforms >>",
+    "en_trans": "",
+    "zh_trans": "<< 你可以看到有 8 个平台 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< After a little time, only a few number of platform will be safe >>",
+    "en_trans": "",
+    "zh_trans": "<< 在一段时间后, 只有少数的平台是安全的 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< so now, choose the number that you like >>",
+    "en_trans": "",
+    "zh_trans": "<< 那么现在, 选择你喜欢的数字吧 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Round 1 >>",
+    "en_trans": "",
+    "zh_trans": "<< 第 1 轮 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< 10 seconds to choose >>",
+    "en_trans": "",
+    "zh_trans": "<< 你有 10 秒的时间去选择 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< Round 2 >>",
+    "en_trans": "",
+    "zh_trans": "<< 第二轮 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< It seems that you are less than 16 guys >>",
+    "en_trans": "",
+    "zh_trans": "<< 看起来你们已经少于 16 人 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< OK, I will let you win this game easier >>",
+    "en_trans": "",
+    "zh_trans": "<< 好吧, 我会让你更轻松地赢得这个游戏>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< press the button and defend zombie >>",
+    "en_trans": "",
+    "zh_trans": "<< 按下按钮, 守住僵尸 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Press 8 button to win the game >>",
+    "en_trans": "",
+    "zh_trans": "<< 把 8 个按钮全部按完以赢得游戏 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< the light will change to green if the button can be pressed >>",
+    "en_trans": "",
+    "zh_trans": "<< 如果按钮是可以按下的, 指示灯就会变成绿色 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< You only have 120 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 你只有 120 秒时间 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< You Done It !!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 你做到了!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< defend for final 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 守住最后的 30秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< zombie now has low gravity! >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸现在是低重力状态! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< NO!!! zombie has touched that fucking face >>",
+    "en_trans": "",
+    "zh_trans": "<< 不!!! 僵尸碰到那张该死的脸 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< wait for 15 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 等待 15 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< afk tele in 20 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 挂机的人在 20 秒后会被传送 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<boat will move in 15 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 小船将会在 15 秒后移动>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< zombie can move in 15 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸可以在 15 秒后移动 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< solo time will begin in 15 seconds !!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< SOLO 时间将会在 15 秒后开始 !!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< wait for 10 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 等待 10 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< zombie can go in 10 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸可以在 10 秒后开冲 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< YOU GET IT >>",
+    "en_trans": "",
+    "zh_trans": "<< 你得到了 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< teleport human >>",
+    "en_trans": "",
+    "zh_trans": "<< 传送人类 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< zombie teleport in 5 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸 5 秒后传送 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< NOBODY WIN THE LASER TEST >>",
+    "en_trans": "",
+    "zh_trans": "<< 无人在跳刀测试中存活 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< DIE >>",
+    "en_trans": "",
+    "zh_trans": "<< 去死吧 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< hold for 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 坚持 30 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< A Bridge Appears >>",
+    "en_trans": "",
+    "zh_trans": "<< 一座桥出现了 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< After a little time, only 1 platform will be safe >>",
+    "en_trans": "",
+    "zh_trans": "<< 在一段时间后, 只有一个平台会是安全的 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Now let's start the final game >>",
+    "en_trans": "",
+    "zh_trans": "<< 现在开始最后的游戏 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Choose Mode...... >>",
+    "en_trans": "",
+    "zh_trans": "<< 选择模式...... >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< YOU ARE NOT LUCKY >>",
+    "en_trans": "",
+    "zh_trans": "<< 你运气真差 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< defense for 120 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 守住 120 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< 90 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 90 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 30 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< zombie now has low gravity!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸现在是低重力状态!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< hold for 60 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 坚持 60 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< hold for 10 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 坚持 10 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< Defend for 12 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 守住 12 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 12,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< No Short Cut >>",
+    "en_trans": "",
+    "zh_trans": "<< 没有捷径 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Shooting the mode that you want to play!!! >>",
+    "en_trans": "",
+    "zh_trans": "<< 射击你想玩的模式!!! >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Random Pick >>",
+    "en_trans": "",
+    "zh_trans": "<< 随机挑选 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< It seems that you destroy some fucking things >>",
+    "en_trans": "",
+    "zh_trans": "<< 看来你摧毁了一些该死的东西 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< defend for 10 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 守住 10 秒 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "Admin turned on the entertainment mode",
+    "en_trans": "",
+    "zh_trans": "管理员开启了娱乐模式",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "It will take effect in the next game",
+    "en_trans": "",
+    "zh_trans": "将会在下一局生效",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<One player choose to solo win>>",
+    "en_trans": "",
+    "zh_trans": "<<一名玩家选择了当 SOLO 赢家>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<You have 20 seconds to finish this game>>",
+    "en_trans": "",
+    "zh_trans": "<<你有 20 秒的时间来完成这个游戏>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<Misaka:I know what you want>>",
+    "en_trans": "",
+    "zh_trans": "<<Misaka: 我知道你想要什么>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<Congratulations, you son of a bitch>>",
+    "en_trans": "",
+    "zh_trans": "<<恭喜你, 你个小王八>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< teleport in 30 seconds >>",
+    "en_trans": "",
+    "zh_trans": "<< 30 秒后传送 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<< Look at that fucking face >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<< Watch Out !!!! >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }
 ]
