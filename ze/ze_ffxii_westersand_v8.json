@@ -497,7 +497,7 @@
   {
     "original": "** Congratulations - You won [EXTREME] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜你-你通过了极限模式(汉化:SS) **",
+    "zh_trans": "** 恭喜你-你通过了极限模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": "[ADMIN] Removed [INSANE DIFFICULTY] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[管理员]为下一轮移除了[疯狂难度]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "[ADMIN] Added [INSANE DIFFICULTY] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[管理员]为下一轮添加了[疯狂难度]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "[ADMIN] Selected [HARD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[管理员]为下一轮选择了困难模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "[ADMIN] Restarting round in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[管理员]在5秒后重新开始这一回合",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -551,7 +551,7 @@
   {
     "original": "** [EXTREME MODE] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [极限模式] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "** Hold 20 seconds until the door opens **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持20秒直到门打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -569,7 +569,7 @@
   {
     "original": "** 5 seconds remaining **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -578,7 +578,7 @@
   {
     "original": "** You may enter the tomb in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你可以在15秒后进入墓穴 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -587,7 +587,7 @@
   {
     "original": "** The doors will open in 25 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在25秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -596,7 +596,7 @@
   {
     "original": "** The doors will open in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在5秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -605,7 +605,7 @@
   {
     "original": "** The next door opens in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 下道门将在15秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -614,7 +614,7 @@
   {
     "original": "** A random way will open in 10 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一道随机的通道将在10秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -623,7 +623,7 @@
   {
     "original": "** Boss Fight in 10s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** BOOS战将在10秒后开始 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -632,7 +632,7 @@
   {
     "original": "** Boss Fight in 5s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** BOOS战将在5秒后开始 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -641,7 +641,7 @@
   {
     "original": "** Belias is immune for fire and nades **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 魔人贝利亚斯对火焰和手雷免疫 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "** Belias is defeated - Escape the tomb ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 魔人贝利亚斯被击败-逃离墓穴 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "** The main door opens in 25 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 主门将在25秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -668,7 +668,7 @@
   {
     "original": "** The main door opens in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 主门将在5秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -677,7 +677,7 @@
   {
     "original": "** Final door opens in 10 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后的门将在10秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -686,7 +686,7 @@
   {
     "original": "** Teleporter will be ready in 10 seconds ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器在10秒后准备就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -695,7 +695,7 @@
   {
     "original": "** Teleporter will be ready in 5 seconds ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器在5秒后准备就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -704,7 +704,7 @@
   {
     "original": "** Congratulations - You won [EXTREME] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜你-你通过了极限模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": "[ADMIN] Selected [GOD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [管理员]为下一轮选择了[无敌模式] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": "** [EPIC MODE] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [史诗难度] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "** Teleporters will be ready in 20 seconds ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器将在 20 秒后准备就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -740,7 +740,7 @@
   {
     "original": "** Teleporters will be ready in 5 seconds ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器在5秒后准备就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -749,7 +749,7 @@
   {
     "original": "** Gates will open in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 15 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -758,7 +758,7 @@
   {
     "original": "** The arena will open in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 竞技场将在 20 秒后开放 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -767,7 +767,7 @@
   {
     "original": "** Nades do more damage (2s) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 手雷2秒内造成更多伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -776,7 +776,7 @@
   {
     "original": "** Nades do more damage (8s) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 手雷8秒内造成更多伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -785,7 +785,7 @@
   {
     "original": "** The guardians are defeated - Escape ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守护者已被击败-撤离! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "** ZOMBIE JAIL OPEN ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸现在自由了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "** The final gate will open in 40 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后一道门将在 40 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -812,7 +812,7 @@
   {
     "original": "** The final gate will open in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后一道门将在 5 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -821,7 +821,7 @@
   {
     "original": "** The fence will break in 5s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 围栏将在 5 秒后破裂 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -830,7 +830,7 @@
   {
     "original": "** The airship reactors are going to explode !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 飞艇反应堆即将爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "** Chaos has been defeated - RUN !!!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 卡俄斯已被击败-快爬 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "** Congratulations - You won [EPIC] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜你-你通过了史诗模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
