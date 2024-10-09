@@ -11,7 +11,7 @@
   {
     "original": "*** There's something strange with this place... ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这个地方有点奇怪... ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "*** Why is everything so... blue ?***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 为什么一切都是那么...蓝 ?***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "*** FALL BACK ! Zombies TP once this door is open ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 后退！一旦这扇门打开，僵尸就会传送！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "*** DOOR OPENS IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 10 秒后开门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -47,7 +47,7 @@
   {
     "original": "*** DOOR OPENS IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 20 秒后开门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -56,7 +56,7 @@
   {
     "original": "*** DEFEND 20 SECONDS FOR THE DOOR TO CLOSE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 20 秒，直到门关上 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -65,7 +65,7 @@
   {
     "original": "*** WAIT 30 SECONDS FOR THE ELEVATOR ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 等待 30 秒乘坐电梯 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -74,7 +74,7 @@
   {
     "original": "*** Something is coming... ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大的要来了... ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "*** Some of us should go IN the two sides to cover the team ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们中的一些人应该去两边守住僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "*** CROUCH or DIE !! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蹲下，否则就死!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "*** Jump NOW ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在跳 ! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,16 +110,16 @@
   {
     "original": "*** Please come forward <3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请到前面 <3 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Please stay on the elevator. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请待在电梯上。 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "*** QUICK ! Go away from the elevator ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快！远离电梯! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "*** LOOK BEHIND YOU !! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 看你身后!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "*** The door is open and the block is gone ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门开了，障碍物不见了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "*** Zombies TP in 10 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸 10 秒后传送 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -164,16 +164,16 @@
   {
     "original": "*** Please go backward <3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请到后面来 <3 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Too late ! You DA BA DEE DA BA FAIL ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 太慢了! 你蓝大跌啦(You DA BA DEE DA BA FAIL)! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
