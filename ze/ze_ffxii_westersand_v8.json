@@ -713,7 +713,7 @@
   {
     "original": "[ADMIN] Selected [GOD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "** [管理员]为下一轮选择了[无敌模式] **",
+    "zh_trans": "** [管理员]为下一轮选择了[上帝模式] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -853,5 +853,185 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  }, 
+  {
+    "original": "** [GOD MODE] **",
+    "en_trans": "",
+    "zh_trans": "** [上帝模式] **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Congratulations - You won [GODMODE] **",
+    "en_trans": "",
+    "zh_trans": "** 恭喜你-你通过了上帝模式 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** Zombies Have Escaped **",
+    "en_trans": "",
+    "zh_trans": "** 僵尸已逃脱 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** THANKS FOR PLAYING **",
+    "en_trans": "",
+    "zh_trans": "** 感谢游玩 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** [ZM MODE] **",
+    "en_trans": "",
+    "zh_trans": "** [ZM 模式]**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** NUKE IN 200 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 200 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 200,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 180 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 180 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 180,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 160 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 160 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 160,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 140 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 140 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 140,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 120 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 120 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 120,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 100 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 100 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 100,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 80 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 80 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 80,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 60 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 60 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 40 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 40 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **",
+    "en_trans": "",
+    "zh_trans": "** 10 秒后将所有人传送到陆行鸟 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** TELEPORTING EVERYONE TO CHOCOBORACE **",
+    "en_trans": "",
+    "zh_trans": "** 将所有人传送到陆行鸟 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** ZOMBIES RELEASED IN 2 SECS **",
+    "en_trans": "",
+    "zh_trans": "** 2 秒后释放僵尸 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "** NUKE IN 20 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 20 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[WINNER] Selected [GOD MODE] for next round.",
+    "en_trans": "",
+    "zh_trans": "** [获胜者] 为下一轮选择了 [上帝模式]**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** NUKE IN 10 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "** 10 秒后引爆 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
   }
 ]
