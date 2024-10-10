@@ -1,6 +1,6 @@
 [
   {
-    "original": "map:forhidden void||original made by Blackrock",
+    "original": "<<< This is the southwest outpost in Lordaeron,Stormwind Keep >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "port by lopb to cs2||Thanks fong,Tenshi,x1aOFu and 气流 for offering help",
+    "original": "<<< The Ministry has completely collapsed and needs to be reported to Lordaeron urgently >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "<< Warm Up Time >>",
+    "original": ">> A player picked up lightning <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,25 @@
     "enable_timer": 0
   },
   {
-    "original": "We have to take back our devices,Search the missing devices around the crash site!!!",
+    "original": "** Hold on for 20s **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Defend zombies for 20 seconds and wait for the door to open **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>One player picked up the wind<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +54,7 @@
     "enable_timer": 0
   },
   {
-    "original": "人类弹药已获取",
+    "original": "** Don't let zombies break through the line of defense. Wait for the gate to close **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,7 +63,7 @@
     "enable_timer": 0
   },
   {
-    "original": "1/7",
+    "original": ">> A player has picked up healing <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -54,7 +72,7 @@
     "enable_timer": 0
   },
   {
-    "original": "2/7",
+    "original": "** A player picked up the zombie health **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,7 +81,7 @@
     "enable_timer": 0
   },
   {
-    "original": "3/7",
+    "original": "** A player picked up the poison **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "4/7",
+    "original": "** A player picked up the Frozen **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +99,7 @@
     "enable_timer": 0
   },
   {
-    "original": "5/7",
+    "original": "<--A player picked up the gao da-->",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +108,7 @@
     "enable_timer": 0
   },
   {
-    "original": "6/7",
+    "original": "<-- A player picked up the Incendiary Feather Immortal -- >",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +117,16 @@
     "enable_timer": 0
   },
   {
-    "original": "7/7",
+    "original": "** 30s **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "** A player picked up the Divine power **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,7 +135,7 @@
     "enable_timer": 0
   },
   {
-    "original": "Devices are all collected!!!",
+    "original": "**A zombie has speed item**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,7 +144,7 @@
     "enable_timer": 0
   },
   {
-    "original": "C4 is going to explode!!!",
+    "original": ">> A player picked up soil <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,7 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "人类风已获取",
+    "original": "**Increasing zombie speed**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,7 +162,16 @@
     "enable_timer": 0
   },
   {
-    "original": "僵尸毒已获取",
+    "original": "** Hold for 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>One player picker up the flame<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +180,7 @@
     "enable_timer": 0
   },
   {
-    "original": "人类黑洞已获取",
+    "original": ">> A player picked up the circular wind <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +189,34 @@
     "enable_timer": 0
   },
   {
-    "original": "人类流沙已获取",
+    "original": "** Open the road in 25 seconds and hold your ground! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**10s**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "** Please wait for 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "**A player has picked up the book**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,7 +225,7 @@
     "enable_timer": 0
   },
   {
-    "original": "人类医疗包已获取",
+    "original": "say ** good job! This book records how to unlock the switch and protect it **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -171,7 +234,7 @@
     "enable_timer": 0
   },
   {
-    "original": "why there are so many dragons at this island?",
+    "original": "** You need to throw it on the designated altar **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,84 +243,12 @@
     "enable_timer": 0
   },
   {
-    "original": "僵尸黑洞已获取",
+    "original": "** Open the small door in 25 seconds **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "The gate is opening",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "fence is ready to open",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "It looks like a church, we need to get in",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "Wait for the church gate to open",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "人类火焰已获取",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "僵尸火球已获取",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "人类土已获取",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   }
 ]

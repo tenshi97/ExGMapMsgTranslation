@@ -1,6 +1,6 @@
 [
   {
-    "original": "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD",
+    "original": "*第一关*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** There's something strange with this place... ***",
+    "original": ">>> 一位人类习得了卡尔的智慧 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** Why is everything so... blue ?***",
+    "original": "<<< all open >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,43 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** FALL BACK ! Zombies TP once this door is open ! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** DOOR OPENS IN 10 SECONDS ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** DOOR OPENS IN 20 SECONDS ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** DEFEND 20 SECONDS FOR THE DOOR TO CLOSE ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** WAIT 30 SECONDS FOR THE ELEVATOR ***",
+    "original": ">>30S<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +36,7 @@
     "enable_timer": 1
   },
   {
-    "original": "*** Something is coming... ***",
+    "original": ">>> 一位人类习得了医疗魔法 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +45,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** Some of us should go IN the two sides to cover the team ***",
+    "original": ">>> 一位人类习得了凤凰之炽 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +54,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** CROUCH or DIE !! ***",
+    "original": ">>> 一位人类习得水瀑<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +63,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** Jump NOW ! ***",
+    "original": ">>> 一位人类习得冲击<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,70 +72,88 @@
     "enable_timer": 0
   },
   {
-    "original": "*** Please come forward <3 ***",
+    "original": ">>> 一位人类习得了直线风 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> 一位人类习得壁垒<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "僵尸获得了《消除》",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> 一位人类习得了冰刺 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> 一位人类习得了厄斐琉斯 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> 一位人类习得了罗生门 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> 一位人类习得萨科 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> 一位玩家成为了尤涅若<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>5S<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": "*** Please stay on the elevator. ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** QUICK ! Go away from the elevator ! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** LOOK BEHIND YOU !! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** The door is open and the block is gone ! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** Zombies TP in 10 seconds ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** Please go backward <3 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** Too late ! You DA BA DEE DA BA FAIL ! ***",
+    "original": ">>> 一位玩家成为了龙骑士<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
