@@ -1,227 +1,1136 @@
 [
-  {
-    "original": ">>> STAGE 1 <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> Map by Moray <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> Thanks to nano (Help & Ideas) <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> CS2 port special thanks: 超帅气の叫兽, Kxnrl <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> ENTRANCE DOOR OPENING <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> PLAYER HAS PICKED UP HEAL <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> HOLD 25 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> AFK TELEPORT IN 10 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> HOLD 20 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> PLAYER HAS PICKED UP ICE <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> PLAYER HAS PICKED UP FIRE <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> AFK TELEPORT IN 5 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> PLAYER HAS PICKED UP PUSH <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> HOLD 10 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> HOLD 5 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> HOLD 15 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> SPIDER IS COMING <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> SPIDER USED POISON <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> SPIDER IS DEFEATED <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": ">>> DOOR CLOSING <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> FAIL ROUND <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>> STAGE 1 COMPLETED <<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  }
+	{
+		"original": ">>> ENTRANCE DOOR OPENING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 入口的门正在打开<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> SPIDER IS COMING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 蜘蛛来了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON IS COMING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙来了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> TROLL IS COMING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨魔来了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USE LASER <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了二连高刀 (蹲下) <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED KILLER <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了终极 (去场地后面) <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED FIRE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了半场火 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED PUSH <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了风之力 (往前抵抗) <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED GRAVITY <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了万有引力 (往后抵抗) <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED POISON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了剧毒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG IS COMING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔即将来临 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA IS COMING KEEP RUNNING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨人出来了, 保持往前跑 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> SHOOT DRAGON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 射击阻挡我们前方的龙<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BRIDGE IS BROKEN <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 大桥断了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG IS BACK <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔又回来了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> HOLD 10 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 10 秒<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> HOLD 20 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 20 秒<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> AFK TELEPORT IN 5 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 所有 AFK 玩家将会在 5 秒后被传送 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> IT'S DRAGON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 我靠巨龙传说 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> LOADING KILLER 20 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 终极正在蓄力 20 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": ">> LOADING KILLER 10 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 终极正在蓄力 10 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">> LOADING KILLER 5 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 终极正在蓄力 5 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> HOLD 25 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 25 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 25,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> AFK TELEPORT IN 10 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 所有 AFK 玩家将会在 10 秒后被传送 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> HOLD 5 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 5 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> HOLD 15 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 15 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 传送器将会在 20 秒后激活 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> DOOR CLOSING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 大门正在关闭 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> HOLD 30 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 30 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> HOLD 35 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 35 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 35,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 5 SECONDS REMAINING. DON'T DELAY <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 5 秒. 别断死自己了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> RUN <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 冲 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> IT'S BALROG <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 那是炎魔 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG IS ESCAPED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔逃走了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> HOLD 40 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 40 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 40,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> HOLD 15 SECONDS<<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 15 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 15,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> NOOB TRASHED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 你们真寄吧菜啊 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> HOLD 45 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 守住 45 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 45,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> STAGE 1 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第一关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 2 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第二关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 3 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第三关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 4 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第四关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 传送器将会在 10 秒后激活 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> STAGE 5 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第五关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> Map by Moray <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 地图作者: Moray <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> Thanks to nano (Help & Ideas) <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 非常感谢 nano 提供 (协助 & 想法) <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN CHANGED TO STAGE 1 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理选择了第一关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN CHANGED TO STAGE 2 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理选择了第二关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN CHANGED TO STAGE 3 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理选择了第三关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN CHANGED TO STAGE 4 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理选择了第四关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN CHANGED TO STAGE 5 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理选择了第五关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> FAIL ROUND <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 关卡失败<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 1 COMPLETED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第一关已完成 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 4 COMPLETED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第四关已完成 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 5 COMPLETED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第五关已完成 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 2 COMPLETED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第二关已完成 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 3 COMPLETED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第三关已完成 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA USED KILLER. GO SIDE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽使用了终极. 往边缘跑 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA USED FIRE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽使用了火焰喷射 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA USED ICE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽使用了冰 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA USED PUSH <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽使用了风之力 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA USED POISON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽使用了剧毒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA USED GRAVITY <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽使用了万有引力 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GARGANTUA IS COMING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽来了 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN PRESSED KILL ALL BUTTON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理按下了人类清除计划 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> WARMUP ROUND 40 SECONDS REMAINING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 热身回合还有 40 秒就结束 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 40,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> WARMUP ROUND 30 SECONDS REMAINING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 热身回合还有 30 秒就结束 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> WARMUP ROUND 20 SECONDS REMAINING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 热身回合还有 20 秒就结束 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> WARMUP ROUND 10 SECONDS REMAINING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 热身回合还有 10 秒就结束 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> WARMUP ROUND END <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 热身回合结束 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BREAK STATUE TO GET ITEM <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 打碎雕像获取里面的神器 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED SHIELD <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了护盾 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG USED HEAL <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔使用了治愈 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ALL ZM ITEMS IS DISABLED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 所有僵尸神器已被禁用 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> SHOOT GARGANTUA <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 射击巨大怪兽 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> SPIDER IS DEFEATED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 蜘蛛已被击倒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON IS DEFEATED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙已被击倒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GATE OPENING IN 10 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 大门还有 10 秒后打开<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> GARGANTUA IS DEFEATED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨大怪兽已被击倒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> BALROG IS DEFEATED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 炎魔已被击倒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON IS DEFEATED KEEP RUNNING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙已被击倒 速速开润 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> SPIDER USED POISON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 蜘蛛使用了剧毒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON USED FIRE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙使用了火焰喷射 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON USED GRAVITY <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙使用了万有引力 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON USED POISON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙使用了剧毒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON USED WATER <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙使用了水喷 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> DRAGON USED PUSH <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨龙使用了风之力 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> GATE OPENING IN 5 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 大门还有 5 秒后打开<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> TROLL IS DEFEATED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 巨魔已被击倒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 6 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第六关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> SURVIVE 4 MINUTES <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 生存 4 分钟 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 240,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 3 MINUTES LEFT <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 3 分钟 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 180,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 2 MINUTES LEFT <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 2 分钟 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 120,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 1 MINUTES LEFT <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 1 分钟 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 60,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 30 SECONDS LEFT <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 30 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 30,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 20 SECONDS LEFT <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 20 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 10 SECONDS LEFT <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 还剩 10 秒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 5 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 5 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 5,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 4 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 4 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 4,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 3 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 3 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 3,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 2 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 2 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 2,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> 1 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 1 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 1,
+		"enable_timer": 1
+	},
+	{
+		"original": ">>> TELEPORTED TO CASTLE GET OUT<<<",
+		"en_trans": "",
+		"zh_trans": ">>> 传送所有玩家到城堡内<<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> ADMIN CHANGED TO STAGE 6 <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 苟管理选择了第六关 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> STAGE 6 COMPLETED <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 第六关已完成 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> AFK TELEPORT IN 3 SECONDS <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 所有 AFK 玩家将会在 3 秒后被传送 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 3,
+		"enable_timer": 1
+	},
+	{
+		"original": "*** Defeat the boss within 20 seconds! ***",
+		"en_trans": "",
+		"zh_trans": "*** 你们必须在 20 秒内打死BOSS! ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 20,
+		"enable_timer": 1
+	},
+	{
+		"original": "*** Defeat the boss within 10 seconds! ***",
+		"en_trans": "",
+		"zh_trans": "*** 你们必须在 10 秒内打死BOSS! ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 10,
+		"enable_timer": 1
+	},
+	{
+		"original": "*** failed to defeat the boss ***",
+		"en_trans": "",
+		"zh_trans": "*** 你们已超时未能击败 boss ***",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> CS2 port special thanks: 超帅气の叫兽, Kxnrl <<<",
+		"en_trans": "",
+		"zh_trans": ">>> CS2 移植特别感谢: 超帅气の叫兽, Kxnrl <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP GRAVITY <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了黑洞 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP FIRE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了火 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ICE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了冰 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP HEAL <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了治愈 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP LIGHTNING <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了电 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP PUSH <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了风 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP HEDGE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了墙 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP KILLER <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了终极 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP AMMO <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名玩家拾起了弹药 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]秒杀 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]治愈 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]火 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]毒 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]黑洞 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]致盲 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	},
+	{
+		"original": ">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<",
+		"en_trans": "",
+		"zh_trans": ">>> 一名僵尸玩家拾起了[ZM]隐身 <<<",
+		"jp_trans": "",
+		"kr_trans": "",
+		"timer_num": 0,
+		"enable_timer": 0
+	}
 ]
