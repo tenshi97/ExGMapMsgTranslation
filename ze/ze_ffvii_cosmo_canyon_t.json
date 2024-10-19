@@ -29,7 +29,7 @@
   {
     "original": "**Cover here for 5 seconds before we clear this obstacle**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在清除障碍，守 5 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -245,7 +245,7 @@
   {
     "original": "**Wait until something happens**",
     "en_trans": "",
-    "zh_trans": "等待某些事情发生",
+    "zh_trans": "等待岩石破开……或者说，会有别的事情发生……？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "**Gi Nattak is using shield**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了\"护盾\"",
+    "zh_trans": "基纳塔克使用了<<<护盾>>>"",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "**Gi Nattak is using gravity**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了\"黑洞\"",
+    "zh_trans": "基纳塔克使用了<<<黑洞>>>"",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "**Gi Nattak is using fire**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了\"火\"",
+    "zh_trans": "基纳塔克使用了<<<火>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "**Gi Nattak is using wind**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了\"风\"",
+    "zh_trans": "基纳塔克使用了<<<风>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "**Gi Nattak is using aspil**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了”摄魂术“，快蹲下",
+    "zh_trans": "基纳塔克使用了<<<摄魂术>>>，快蹲下",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "**Gi Nattak is using Fire Nova!!! Get out of middle**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了“火焰新星“，快去场地边缘！",
+    "zh_trans": "基纳塔克使用了<<<火焰新星>>>，快去场地边缘！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..",
     "en_trans": "",
-    "zh_trans": "【赤红-13】我们做到了。但似乎被基纳塔克逃走了....我们下次还会打败它的...",
+    "zh_trans": "【赤红-13】我们做到了。但基纳塔克逃走了....我们下次还会打败它的...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,11 +506,11 @@
   {
     "original": "**Gi Nattak has healed 300 hp**",
     "en_trans": "",
-    "zh_trans": "基纳塔克回复了300hp",
+    "zh_trans": "基纳塔克回复了300血",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 300,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**A player has picked up ELECTRO materia**",
@@ -524,7 +524,7 @@
   {
     "original": "**Gi Nattak is using teleport**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了“传送”，不要乱动",
+    "zh_trans": "基纳塔克使用了<<<传送>>>，不要乱动",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "**NORMAL mode was beaten. Unlocking HARD mode **",
     "en_trans": "",
-    "zh_trans": "normal模式已过关，解锁hard模式",
+    "zh_trans": "<<<普通>>>模式已过关，解锁<<<困难>>>模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "**HARD MODE**",
     "en_trans": "",
-    "zh_trans": "hard模式",
+    "zh_trans": "困难模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL ITEM THAT WILL HELP YOU ON GI NATTAK**",
     "en_trans": "",
-    "zh_trans": "找齐所有宝箱，即可解锁不死鸟之尾",
+    "zh_trans": "找齐所有宝箱，即可解锁不死鸟之尾。它可以助力你们击败基纳塔克",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "[Red-XIII] Hope he will not escape this time? I afraid that we could attract extra attention..",
     "en_trans": "",
-    "zh_trans": "【赤红-13】希望这次不要给它跑了,可能会引起额外的骚动",
+    "zh_trans": "【赤红-13】希望这次不要给它跑了, 我担心我们会引起不必要的关注",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "[Genesis] Due to you I found what I need.. Face your death here..",
     "en_trans": "",
-    "zh_trans": "【杰内西斯】多亏了你们....我找到了我需要的东西... ",
+    "zh_trans": "【杰内西斯】多亏了你们....我找到了我需要的东西... 不过可惜你们无法活着离开这里了 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "**Hard mode is beaten. Challenge yourself in EXTREME mode ! **",
     "en_trans": "",
-    "zh_trans": "hard模式已通关，解锁extreme模式",
+    "zh_trans": "<<<困难>>>模式已通关，解锁<<<极限>>>模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "**EXTREME MODE**",
     "en_trans": "",
-    "zh_trans": "ex模式",
+    "zh_trans": "极限模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "**The detonator seems to be broken**Go another way**",
     "en_trans": "",
-    "zh_trans": "管道好像炸了？",
+    "zh_trans": "管道好像炸了？看看有没有别的路",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "**...Are you surprised?...**",
     "en_trans": "",
-    "zh_trans": "你感到惊讶吗?",
+    "zh_trans": "惊不惊喜?",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "**...Didn't you expect me?...**",
     "en_trans": "",
-    "zh_trans": "你有想我吗？",
+    "zh_trans": "意不意外？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "**...Oh okay i'm disappearing...**",
     "en_trans": "",
-    "zh_trans": "o 好吧，看来这是一个幽默的笑话... 我这就离开..",
+    "zh_trans": "o 好吧，你们觉得这不好笑... 我这就离开..",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": "[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?",
     "en_trans": "",
-    "zh_trans": "【克劳德】 嗯，他是神罗1st的特种兵【杰内西斯】....但是，为什么他..会在这里？",
+    "zh_trans": "【克劳德】 嗯，他是神罗公司第一的特种兵【杰内西斯】....但是，为什么他..会在这里？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "**Gi Nattak is using silence**",
     "en_trans": "",
-    "zh_trans": "基纳塔克对神器使用了“沉默”",
+    "zh_trans": "基纳塔克对神器使用了<<<沉默>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": "[Genesis] Huh.. Did not think that you will survive..",
     "en_trans": "",
-    "zh_trans": "【杰內西斯】aha...没想到你会活了下来...",
+    "zh_trans": "【杰內西斯】aha...没想到你活了下来...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!",
     "en_trans": "",
-    "zh_trans": "【杰内西斯】也没关系，基纳塔克的灵魂已经到手了,,我可以实现我的计划了,,,再会. ",
+    "zh_trans": "【杰内西斯】也没关系，基纳塔克的灵魂已经到手了...我可以实现我的计划了...再会. ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "** EXTREME mode is beaten. Get ready for your last challenge ...**",
     "en_trans": "",
-    "zh_trans": "ex模式已通关，解锁下一关",
+    "zh_trans": "<<<极限>>>模式已通关，解锁<<<最后一关>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "**RAGE MODE**",
     "en_trans": "",
-    "zh_trans": "rage模式",
+    "zh_trans": "疯狂模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": "**The gates will open in 15 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门15秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -965,7 +965,7 @@
   {
     "original": "** Nades do more damage. **",
     "en_trans": "",
-    "zh_trans": "【杰内西斯】这份从容，你还能保持到什么时候呢..",
+    "zh_trans": "【杰内西斯】这份从容，你还能保持到什么时候呢.. (手雷能造成更多伤害)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,10 +1064,10 @@
   {
     "original": "**2 MINUTES LEFT!**",
     "en_trans": "",
-    "zh_trans": "还有2分钟",
+    "zh_trans": "120秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1
   },
   {
@@ -1082,10 +1082,10 @@
   {
     "original": "**1 MINUTES LEFT!**",
     "en_trans": "",
-    "zh_trans": "还剩1分钟",
+    "zh_trans": "60秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
@@ -1145,7 +1145,7 @@
   {
     "original": "**THE WINNERS HAD SELECTED THE MODE**",
     "en_trans": "",
-    "zh_trans": "有人已经选择了模式",
+    "zh_trans": "有人已经选择了难度",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1154,7 +1154,7 @@
   {
     "original": "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了终极，快击败它！",
+    "zh_trans": "基纳塔克使用了<<<终极>>>，快击败它！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
