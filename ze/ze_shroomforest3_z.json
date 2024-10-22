@@ -29,7 +29,7 @@
   {
     "original": ">> WARMUP ROUND <<",
     "en_trans": "",
-    "zh_trans": ">> 热身回 <<",
+    "zh_trans": ">> 热身回合 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -250,5 +250,68 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
-  }
+  },
+  {
+    "original": ">> PLAYER HAS CHOSEN: TIME LOOP <<",
+    "en_trans": "",
+    "zh_trans": ">> 玩家已选择关卡: 时间循环 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> ALL 6 MINES USED <<",
+    "en_trans": "",
+    "zh_trans": ">> 六个地雷 已全被使用 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> PLAYER HAS PICKED UP FIRE <<",
+    "en_trans": "",
+    "zh_trans": ">> 火 已拾起 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> THE LADDER IS FIXED ! <<",
+    "en_trans": "",
+    "zh_trans": ">> 梯子已被修复 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> RUN !!!! <<",
+    "en_trans": "",
+    "zh_trans": ">> 快跑 !!!! <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** RESCUE DRAGON LEAVING IN 15 SECONDS ***",
+    "en_trans": "",
+    "zh_trans": "*** 救援将在15秒后离开***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<",
+    "en_trans": "",
+    "zh_trans": ">> 僵尸上来了!! 关卡失败!! <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  }  
 ]
