@@ -2,7 +2,7 @@
   {
     "original": "++ MAP BY HANNIBAL[SPA] / Rafuron ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 地图制作 HANNIBAL[SPA] / Rafuron ++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "++ Thanks to George and Sgt. zuff ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 鸣谢： George 和 Sgt. zuff ++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "Warmup: 80 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：80 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -29,7 +29,7 @@
   {
     "original": "Warmup: 70 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：70 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -38,7 +38,7 @@
   {
     "original": "Warmup: 60 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：60 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -47,7 +47,7 @@
   {
     "original": "Warmup: 50 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：50 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -56,7 +56,7 @@
   {
     "original": "Warmup: 40 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：40 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -65,7 +65,7 @@
   {
     "original": "Warmup: 30 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：30 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -74,7 +74,7 @@
   {
     "original": "Warmup: 20 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：20 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -83,7 +83,7 @@
   {
     "original": "Warmup: 10 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：10 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -92,7 +92,7 @@
   {
     "original": "Warmup: 5 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：5 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -101,7 +101,7 @@
   {
     "original": "Warmup over",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身结束",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "Warmup: 90 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "热身还剩：90 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -119,7 +119,7 @@
   {
     "original": "[>Tank< entered the game]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[>坦克< 加入了游戏]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "** EXTREME MODE ENABLED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 极限难度已启用 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,16 +137,16 @@
   {
     "original": "++Stage 1 Set++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++调关至 第一关++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** ZOMBIES TRIGGERED! YOU LOSE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸触发了开关! 人类失败 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,16 +155,16 @@
   {
     "original": "++Stage 5 Set++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++调关至 第五关++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** ALL EVENTS ENABLED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有事件已启用 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
