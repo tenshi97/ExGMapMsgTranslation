@@ -176,8 +176,8 @@
     "zh_trans": "*** 恢复 100点血量 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***GO UPSTAIRS***",
@@ -581,8 +581,8 @@
     "zh_trans": "***支柱破坏进度 50%***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Stanchion 2/2 was broken***",
@@ -590,8 +590,8 @@
     "zh_trans": "***支柱破坏进度 100%***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Water is coming Run down**",
@@ -1100,7 +1100,7 @@
   {
     "original": "***GANDALF IS DEAD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***甘道夫倒下了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1109,7 +1109,7 @@
   {
     "original": "***Player has picked up Heal***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***玩家捡起了治疗***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
