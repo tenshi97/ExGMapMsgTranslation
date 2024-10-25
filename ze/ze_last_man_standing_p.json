@@ -1,6 +1,6 @@
 [
   {
-    "original": "阿罗娜<<钢盔团和PMC集团合作占领了阿拜多斯学校>>",
+    "original": "++ MAP BY HANNIBAL[SPA] / Rafuron ++",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "阿罗娜<<比纳不知为何也来到了阿拜多斯学校>>",
+    "original": "++ Thanks to George and Sgt. zuff ++",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,223 +18,88 @@
     "enable_timer": 0
   },
   {
-    "original": "阿罗娜<<好在星野她们已经安全撤出学校了>>",
+    "original": "Warmup: 80 seconds",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 80,
+    "enable_timer": 1
   },
   {
-    "original": "阿罗娜<<sensei，我们得想办法把学校夺回来>>",
+    "original": "Warmup: 70 seconds",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 70,
+    "enable_timer": 1
   },
   {
-    "original": "<<30s>>",
+    "original": "Warmup: 60 seconds",
     "en_trans": "",
-    "zh_trans": "<<30秒>>",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "Warmup: 50 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 50,
+    "enable_timer": 1
+  },
+  {
+    "original": "Warmup: 40 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "Warmup: 30 seconds",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
     "enable_timer": 1
   },
   {
-    "original": "<<10s>>",
-    "en_trans": "",
-    "zh_trans": "<<10秒>>",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "<<5s>>",
-    "en_trans": "",
-    "zh_trans": "<<5秒>>",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "阿罗娜<<竟然把学校破坏成这样...>>",
+    "original": "Warmup: 20 seconds",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<20s>>",
-    "en_trans": "",
-    "zh_trans": "<<20秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
     "enable_timer": 1
   },
   {
-    "original": "button pressed",
-    "en_trans": "",
-    "zh_trans": "按钮已按下",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<请小心，侦测到一名钢盔团成员躲在后面>>",
+    "original": "Warmup: 10 seconds",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<就从这里破墙而入吧>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<sensei清远离这里，马上要爆炸了>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<这里的门又被反锁了>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<请等待一下sensei>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<好，打开了！>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<这里有个梯子能通往三楼>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<请稍等sensei>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "阿罗娜<<侦测到大范围波动,sensei请找掩体躲避沙尘暴>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<星野加入了战斗>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "绫音<<诶？星野前辈什么时候过去的？>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<-4cost?>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<增员来袭>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<僵尸将在8s后被传送>>",
-    "en_trans": "",
-    "zh_trans": "<<僵尸将在8s后被传送>>",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 8,
-    "enable_timer": 1
-  },
-  {
-    "original": "<<十连进行中.......>>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<<ZM TP 10s>>",
-    "en_trans": "",
-    "zh_trans": "<<10秒后僵尸传送>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "<<-4cost?>>",
+    "original": "Warmup: 5 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "Warmup over",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,7 +108,16 @@
     "enable_timer": 0
   },
   {
-    "original": "<<无人机支援已到达>>",
+    "original": "Warmup: 90 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "[>Tank< entered the game]",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,12 +126,147 @@
     "enable_timer": 0
   },
   {
-    "original": "<<ZM TP 15s>>",
+    "original": "** EXTREME MODE ENABLED **",
     "en_trans": "",
-    "zh_trans": "<<15秒后僵尸传送>>",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Stage 1 Set++",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "** ZOMBIES TRIGGERED! YOU LOSE **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Stage 5 Set++",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "** ALL EVENTS ENABLED **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|||RIGHT CONSOLE PRESSED|||",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|||LEFT CONSOLE PRESSED|||",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|||FAR RIGHT CONSOLE PRESSED|||",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "|||FAR LEFT CONSOLE PRESSED|||",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[>Vortigaunt< entered the game]",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[>Summoner< entered the game]",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "** a JUGGERNAUT has been picked up! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Stage 2 Set++",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "[>Alma< entered the game]",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[>Jumper< entered the game]",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "++Stage 4 Set++",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
     "enable_timer": 1
   }
 ]
