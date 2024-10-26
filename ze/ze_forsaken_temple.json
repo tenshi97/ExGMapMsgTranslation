@@ -524,7 +524,7 @@
   {
     "original": "** Vortex **",
     "en_trans": "",
-    "zh_trans": "** 旋风 **",
+    "zh_trans": "** 黑洞 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -744,7 +744,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 10
+    "enable_timer": 0
   },
   {
     "original": "** Zombie items can be used again **",
@@ -1055,7 +1055,7 @@
   {
     "original": "** 180 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "** 生存 100 秒 **",
+    "zh_trans": "** 生存 180 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
