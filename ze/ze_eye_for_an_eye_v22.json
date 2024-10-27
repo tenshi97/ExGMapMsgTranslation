@@ -263,7 +263,7 @@
   {
     "original": ">>What does the square on the table mean?<<",
     "en_trans": "",
-    "zh_trans": "桌子上的那个正方形是什么意思？",
+    "zh_trans": "桌子上的那些方块是什么意思？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": ">>A player picked up the EYE<<",
     "en_trans": "",
-    "zh_trans": "一名玩家获得了 眼睛",
+    "zh_trans": "一名玩家获得了 真理之眼",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "***Use the entity EYE or break the door***",
     "en_trans": "",
-    "zh_trans": "***使用实体眼睛或者破坏那个门***",
+    "zh_trans": "***使用真理之眼或者破坏那个门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "key has been used.its something happen",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "钥匙已使用。有什么事情发生了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": ">>It works! The gate will be suspended for 10 seconds!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>生效了! 那个门会被延缓 10 秒!<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -551,7 +551,7 @@
   {
     "original": "Thanks exg and fys server test",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "感谢exg社区和fys社区的各位为测试本图所做出的贡献",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "Thanks you for playing",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "感谢你的游玩",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "*** There seems to be something hidden on the back of this pool, which makes me feel scared***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这个游泳池后面好像藏着什么东西，让我感到很害怕***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,16 +578,16 @@
   {
     "original": ">>The zombies have five seconds left to start pursuing<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸还有 5 秒就要开始追赶我们了<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>It works! The gate will be suspended for 7 seconds!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>成功了！大门将会延迟 7 秒关闭！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,

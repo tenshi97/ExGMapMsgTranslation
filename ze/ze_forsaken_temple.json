@@ -524,7 +524,7 @@
   {
     "original": "** Vortex **",
     "en_trans": "",
-    "zh_trans": "** 旋风 **",
+    "zh_trans": "** 黑洞 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "** Maze exit is opening in 35s **",
     "en_trans": "",
-    "zh_trans": "**迷宫出口 25 秒后开启 **",
+    "zh_trans": "**迷宫出口 35 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -677,7 +677,7 @@
   {
     "original": "** Elevator is leaving in 20s **",
     "en_trans": "",
-    "zh_trans": "** 电梯 25 秒后离开 **",
+    "zh_trans": "** 电梯 20 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -744,7 +744,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 10
+    "enable_timer": 0
   },
   {
     "original": "** Zombie items can be used again **",
@@ -1055,7 +1055,7 @@
   {
     "original": "** 180 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "** 生存 100 秒 **",
+    "zh_trans": "** 生存 180 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -1325,7 +1325,7 @@
   {
     "original": "** Ricochet **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 弹射 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1334,7 +1334,7 @@
   {
     "original": "** Thanks for playing **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 感谢游玩 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1343,7 +1343,7 @@
   {
     "original": "** You are too late. Boss enrage soon.. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你太慢了. Boss 马上要狂暴了.. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1352,7 +1352,7 @@
   {
     "original": "** Let's begin the adventure! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 让我们开始冒险吧! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1361,7 +1361,7 @@
   {
     "original": "** Helicopter is infected **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 直升机被感染了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1370,7 +1370,7 @@
   {
     "original": "** ROUND FAIL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 回合失败 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

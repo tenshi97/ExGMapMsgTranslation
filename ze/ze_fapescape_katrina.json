@@ -2,16 +2,16 @@
   {
     "original": "*** Level 1 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 1 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "* Turning music on *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 打开音乐 *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,16 +20,16 @@
   {
     "original": "***AFK player will teleport in 20seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***挂机玩家将在 20 秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***A player pick up ammo box ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 弹药箱 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,16 +38,16 @@
   {
     "original": "***Right path will open in 5sec***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***右边的路将在 5 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***A player pick up flame,when it use,it need times to charge oil***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 喷火枪，使用后需要一段时间进行补油 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "***A player pick up rpg***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 火箭筒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "***A player pick up basketball***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 坤哥的篮球！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": "***A player pick mine,player can control when it explore,it can use 6 times***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 地雷，玩家能控制它什么时候爆炸，使用次数：6***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***A player pick up in jail item***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 传送球***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "***A player pick up legowall,only human can damage it and break it***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 乐高墙，只有人类能攻击和破坏它***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "***A player pick up pushgun***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 小风扇***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "***zombies will teleport into castle soon***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸很快就要传送到城堡里了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "***door open in 40 sec***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***40 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -128,7 +128,7 @@
   {
     "original": "***door open in 30 sec***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***30 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -137,7 +137,7 @@
   {
     "original": "***door open in 20 sec***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***20 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -146,7 +146,7 @@
   {
     "original": "***door open in 10 sec***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***10 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -155,7 +155,7 @@
   {
     "original": "***mian door openning***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***主门正在开启***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "***A player pick up sword***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 白给光剑***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "***A player pick up heal,it can heal human ,in ex3 mode,it can use twice***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家捡起了 营养快线，它能治疗人类，在EX3模式能使用两次***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,25 +182,25 @@
   {
     "original": "***railings will open in 20seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***围栏将在 20 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***Bigdoor will open in 30seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***大门将在 30 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** door is charge,opening in 35 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门已经充能，将在 35 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -209,7 +209,7 @@
   {
     "original": "*** door is charge,opening in 20 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门已经充能，将在 20 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -218,7 +218,7 @@
   {
     "original": "*** door is charge,opening in 10 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门已经充能，将在 10 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -227,7 +227,7 @@
   {
     "original": "*** door is charge,opening in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门已经充能，将在 5 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -236,25 +236,25 @@
   {
     "original": "***door will open in 30seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***30 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "***door will open in 10seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***10 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***door opening***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门正在开启***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,16 +263,16 @@
   {
     "original": "***door will open in 20seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***20 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***zombie will teleport soon***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸很快就要传送了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,25 +281,25 @@
   {
     "original": "***5seconds left***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***还剩 5 秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***the last defend,after 20second the bridge will break***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后的防御，20 秒后桥会坍塌***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Stage1 Level Completed! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 1 完成！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,79 +308,79 @@
   {
     "original": "*** Level 2 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 2 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***wait 25second for legobox explore***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***等待 25 秒以探索乐高盒子*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***15seconds left***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***还有 15 秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***door will break in 25second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 25 秒后被打破***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***door will break in 15second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 15 秒后被打破***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***door will break in 5second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 5 秒后被打破***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***door wil break in 20second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 20 秒后被打破***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***door wil break in 5second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 5 秒后被打破***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***Noob Down***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***有菜鸟掉下去了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,16 +389,16 @@
   {
     "original": "***boss door opening in 25sec***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***BOSS房的门将在 25 秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***Final door will appear in 20 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后一道门将在 20 秒后出现***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -407,16 +407,16 @@
   {
     "original": "***the last defend,after 20second the heli will take off***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后的防御，20 秒后直升机起飞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** Stage2 Level Completed! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 2 完成！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,178 +425,178 @@
   {
     "original": "*** Level 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 3 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***army door will open in 20seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***军队的门将在 20 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***armored car now is charging,wait 25second for start***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***装甲车正在充能，等待 25 秒启动***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***armored car now is charging,wait 15second for start***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***装甲车正在充能，等待 15 秒启动***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***wait 15second for door break***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***等待 15 秒门就会被打破***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***door wil open in 25second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***25 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***door wil open in 15second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***15 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***door wil open in 5second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***5 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***door will open in 20second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***20 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***door will open in 10second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***10 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***door will open in 5second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***5 秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***next door wil open in 25second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***25 秒后开启下一道门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***next door wil open in 15second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***15 秒后开启下一道门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***next door wil open in 5second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***5 秒后开启下一道门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***final boss door will open in 20second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最终BOSS房的门将在 20 秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***final boss door will open in 10second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最终BOSS房的门将在 10 秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***final boss door will open in 5second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最终BOSS房的门将在 5 秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***hold 25seconds for bridge appear***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚持 25 秒，桥会出现***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***wait 25seconds forplane open engine.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***等待 25 秒，飞机将启动引擎***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***engine opening!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***引擎启动了!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "*** Stage3 Level Completed! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 3 完成！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "** Turning on:... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 正在打开:... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巨大超级毁灭者毁灭模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "***zombies path spawn***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸路生成***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "***succeed find a organ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***成功找到一个机关***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,16 +650,16 @@
   {
     "original": "***the last defend,after 25second the bridge will break***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后的防御，25 秒后桥会坍塌***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "*** Stage EX1 Level Completed! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 EX 1 完成！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "***Another road will appear soon***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***另一条路很快会出现***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "***Zombies will teleport soon***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸很快就要传送了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "***Final door will appear in 10 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后一道门将在 10 秒后出现***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -695,7 +695,7 @@
   {
     "original": "***Left Door will break in 5 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***左边的门将在 5 秒后破坏***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -704,7 +704,7 @@
   {
     "original": "***Right Door will break in 5 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***右边的门将在 5 秒后破坏***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -713,16 +713,16 @@
   {
     "original": "***the last defend,after 30second the heli will take off***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后的防御，30 秒后直升机起飞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** Stage EX2 Level Completed! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 EX 2 完成！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "***Boss room Teleport Machine will active in 20 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***BOSS房传送装置将在 20 秒后激活***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -740,7 +740,7 @@
   {
     "original": "***Boss room Teleport Machine activite***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***BOSS房传送装置已激活***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "***final boss is dead,now it is time to escape***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最终BOSS已被击败，现在是逃亡时间***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": "***care the zombies, they still alive !!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***小心那些僵尸，他们还活着 !!!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,16 +767,16 @@
   {
     "original": "***the factory door will open in 25seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***工厂大门将在 25 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "***Zombies will teleport soon...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸很快就要传送了***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "***the other path door now opening***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***另一条路的门现在正在打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,16 +794,16 @@
   {
     "original": "***the factory door will open in 5seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***工厂大门将在 5 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***the factory door now opening***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***工厂大门现在正在打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "***Bridge now incoming,still hold zombies!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***桥刚到,继续防御僵尸!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": "***run!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***快跑!!!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": "***hold a few seconds until the path appear***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***再守几秒直到道路出现***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "***wait a few seconds until the bridge down***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***再等几秒直到桥下降***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "***hold a few seconds until the door open***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚持一会等门开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,16 +857,16 @@
   {
     "original": "***this is final door,hold 10seconds and wait it break!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***这是最后的门了,守 10 秒等它被摧毁!!!***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***Door break ,run!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门被摧毁了 ,跑!!!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,34 +875,34 @@
   {
     "original": "***this is the final rocket for survive,hold it and defend zombies 45second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***这是最后的火箭，为了活下去，守住并抵挡僵尸的进攻 45 秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
     "original": "***this is the final rocket for survive,hold it and defend zombies 20second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***这是最后的火箭，为了活下去，守住并抵挡僵尸的进攻 20 秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***5seconds left!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后 5 秒!!!***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "*** Stage EX3 Level Completed! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 关卡 EX 3 完成！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "*** CONGRATULATIONS YOU HAVE BEATEN THE MAP! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 恭喜你征服了这张地图! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": "*** ZM stage***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** ZM 关***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,16 +929,16 @@
   {
     "original": "***try to alive and protect your ass away from zombis,time left 120Second***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***努力活下去，保护好自己的菊花别被僵尸爆了，时间还剩 120 秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 120,
+    "enable_timer": 1
   },
   {
     "original": "*** RTV or Next Stage1 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 按Y输入rtv 或者 重头开始 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
