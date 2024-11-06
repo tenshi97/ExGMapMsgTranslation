@@ -2,7 +2,7 @@
   {
     "original": "**Warm Round**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**热身回合**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "Chapter -> 0 - Alienation of the World",
     "en_trans": "",
-    "zh_trans": "序章-世界的异化 (翻译:shootin stars)",
+    "zh_trans": "序章-世界的异化",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "**We can immediately go home**",
     "en_trans": "",
-    "zh_trans": "**我们可以立即回家了**",
+    "zh_trans": "**我们可以回家了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "Chapter -> 1 - The Dread Biter",
     "en_trans": "",
-    "zh_trans": "第1章-龙皇尼德霍格 (翻译:shootin stars)",
+    "zh_trans": "第1章-龙皇尼德霍格",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -254,7 +254,7 @@
   {
     "original": "**Remember to get the item<Urd>, its under the waterfall.**",
     "en_trans": "",
-    "zh_trans": "**记得去瀑布下面获取神器兀尔德**",
+    "zh_trans": "**记得去瀑布下面获取神器毒**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": "**A player has picked up <Urd>**",
     "en_trans": "",
-    "zh_trans": "**一名玩家获取了兀尔德**",
+    "zh_trans": "**一名玩家获取了毒**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "**Here should be the way to the next stop so defend right here.**",
     "en_trans": "",
-    "zh_trans": "**这里应该是通往下一站的,所以要在这里防守**",
+    "zh_trans": "**这里应该是通往下一站的路,所以要在这里防守**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "**We can't let those creatures approach to us.**",
     "en_trans": "",
-    "zh_trans": "**我们不能让那些生物靠近我们**",
+    "zh_trans": "**我们不能让那些生物触碰我们**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "**A player has picked up <Verdandi>**",
     "en_trans": "",
-    "zh_trans": "**一名玩家获得了薇尔丹蒂**",
+    "zh_trans": "**一名玩家获得了命运**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "**A player has picked up <Mimir>**",
     "en_trans": "",
-    "zh_trans": "**一名玩家获得了密米尔**",
+    "zh_trans": "**一名玩家获得了治疗**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "**Shoot him or use <Verdandi>**",
     "en_trans": "",
-    "zh_trans": "**射击他或使用薇尔丹蒂(双倍伤害)**",
+    "zh_trans": "**射击他或使用命运**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "Chapter -> 2 - Song of Chaos",
     "en_trans": "",
-    "zh_trans": "第二章-混沌之歌 (翻译:shootin stars)",
+    "zh_trans": "第二章-混沌之歌",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": "Chapter -> 3 - Confessional of Toupasa the Elder",
     "en_trans": "",
-    "zh_trans": "第三章:图帕萨长老的自白(翻译:shootin stars)",
+    "zh_trans": "第三章:图帕萨长老的自白",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": "Chapter -> 4 - Ordinary Place",
     "en_trans": "",
-    "zh_trans": "第四章-平凡之地 (翻译:shootin stars)",
+    "zh_trans": "第四章-平凡之地",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1306,8 +1306,8 @@
   },
   {
     "original": "**Defend for 30 seconds**",
-    "en_trans": "**防守30秒**",
-    "zh_trans": "",
+    "en_trans": "",
+    "zh_trans": "**防守30秒**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1316,7 +1316,7 @@
   {
     "original": "**You are too late!!!**",
     "en_trans": "",
-    "zh_trans": "**你来得太晚了**",
+    "zh_trans": "**太晚了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1400,13 +1400,13 @@
     "zh_trans": ">>方舟之晨当前伤害:100<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>Horrid Roar<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>可怕的咆哮<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1415,16 +1415,16 @@
   {
     "original": ">>Current Ark Morn Damage:140<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>方舟之晨当前伤害:140<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 140,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**The place where all begins and all goes to rest**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**所有一切开始的地方，也是所有一切回归安息之所**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1433,7 +1433,7 @@
   {
     "original": "**And our mission is not over yet**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们的使命尚未完成**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
