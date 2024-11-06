@@ -56,11 +56,11 @@
   {
     "original": "++That gate will take about half a minute to fully open++",
     "en_trans": "",
-    "zh_trans": "++大门需要半分钟才能完全打开++",
+    "zh_trans": "++大门需要30秒才能完全打开++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "++The sliding gate is open, keep moving forward++",
@@ -290,11 +290,11 @@
   {
     "original": "++Airstrike hits in 5 seconds++",
     "en_trans": "",
-    "zh_trans": "++五秒后发动空袭++",
+    "zh_trans": "++5秒后发动空袭++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "++4++",
@@ -362,7 +362,7 @@
   {
     "original": "++Difficulty level: EASY++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++难度等级：简单++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "++Reaching the end will raise the difficulty++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++到达终点将会提升难度++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "++The gate is lowering++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++大门正在下降++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "++Difficulty level: NORMAL++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++难度等级：普通++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "++We're overriding the gates, should take about 15 seconds++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++我们正在强行控制这些门，这大概需要15秒++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -407,7 +407,7 @@
   {
     "original": "++Door One will open in 25 seconds++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++一号门将在25秒后打开++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
