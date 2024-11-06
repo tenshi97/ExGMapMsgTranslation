@@ -263,7 +263,7 @@
   {
     "original": "After 15 seconds, the teleport will open.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "别急, 等 15 秒传送就会开了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -272,7 +272,7 @@
   {
     "original": "### LEVEL : MEGA SCHIZO ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 关卡 : MEGA SCHIZO ###",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "Press the bridge connection buttons on the left and right.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "按下桥接左右两侧的按钮.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "ZOMBIE TP 7 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 7 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -299,7 +299,7 @@
   {
     "original": "ZOMBIE TP 8 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 8 秒后传送 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -308,7 +308,7 @@
   {
     "original": "ZOMBIE TP 4 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 4 秒后传送 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -317,7 +317,7 @@
   {
     "original": "The bridge will open in 25 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥会在 25 秒后出现.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -326,7 +326,7 @@
   {
     "original": "Bridge is Opening !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥出现了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "Zombie TP 10 SEC ! GO BACK",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 4 秒后传送 ! 撤退",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -344,7 +344,7 @@
   {
     "original": "The door will open in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门将在 20 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -353,7 +353,7 @@
   {
     "original": "The door will open in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门将在 5 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -362,7 +362,7 @@
   {
     "original": "DOOR OPEN ! GO BACK !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门开了 ! 该润了 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,16 +371,16 @@
   {
     "original": "Stay away from mossy stones!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "远离长满青苔的石头!5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "ZOMBIE TP 10 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 10 秒后传送!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -389,7 +389,7 @@
   {
     "original": "The door will open in 30 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门将在 30 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -398,7 +398,7 @@
   {
     "original": "DOOR OPENING !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门正在开启 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "DOOR CLOSING !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门正在关闭 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "The door will open in 25 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门将在 25 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -425,7 +425,7 @@
   {
     "original": "AFTER 10 SECONDS THE DOOR WILL CLOSE!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还有 10 秒大门就会关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -434,7 +434,7 @@
   {
     "original": "DOOR CLOSING 5 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门 5 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -443,7 +443,7 @@
   {
     "original": "ZOMBIE BARRIER WILL BE BROKEN IN 7 SECONDS!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "阻挡僵尸的屏障会在 7 秒后被破坏!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -452,7 +452,7 @@
   {
     "original": "The door will open in 15 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门将在 15 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -461,7 +461,7 @@
   {
     "original": "DOOR OPEN ! RUN RUN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门开了 ! 跑跑跑",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "ZOMBIE TP 10 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 10 秒后传送 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -479,7 +479,7 @@
   {
     "original": "The bridge will open in 15 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥会在 25 秒后出现.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -488,7 +488,7 @@
   {
     "original": "THE BRIDGE IS OPEN, STAND BACK!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥出现了, 该撤退了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "DONT DEFEND ! GO BACK !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "不要断后 ! 直接润 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "BOSS DOOR WILL OPEN IN 25 SECONDS!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往 BOSS 的大门会在 25 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -515,7 +515,7 @@
   {
     "original": "BOSS DOOR WILL OPEN IN 5 SECONDS!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往 BOSS 的大门会在 5 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -524,7 +524,7 @@
   {
     "original": "BOSS DOOR OPENING !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS 的大门正在打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "BOSS DOOR CLOSING !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS 的大门正在关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "GO TO THE BOSS AREA, THE ROAD WILL BE BROKEN!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "前往 BOSS 平台, 路会断的!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "WELCOME MEGA SCHIZO BOSS FIGHT !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "欢迎来到 BOSS 房间, 哈哈哈准备受死吧 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "DESTROY THE SORCERER!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "消灭巫师!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,16 +569,16 @@
   {
     "original": ">>> LASER ACTIVATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 跳刀激活 <<<5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>> EASY TO HARD <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 从简单到困难 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,16 +587,16 @@
   {
     "original": "!!! LOOK UP !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "!!! 看头顶 !!!5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "HIDE IN THE GAPS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "躲在缝隙里",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "THE BOSS WILL PULL YOU UP!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": " BOSS 想要把你拉上头顶!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,16 +614,16 @@
   {
     "original": ">>> CROUCH DOWN NOW <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 蹲蹲蹲蹲蹲蹲蹲蹲! <<<5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "ZOMBIE DETECTED IN BOSS AREA!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "在 BOSS 平台上检测到僵尸!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "<<< MISSION FAIL >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 任务失败 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "BOSS PUSH COMING !!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": " BOSS 的推力要来了 !!5",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "MOVE FORWARD AND DON'T JUMP!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "努力按 w 往前走和不要跳!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,16 +659,16 @@
   {
     "original": "OPENING THE ZOMBIE PATH! DEFEND!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的路要出现了! 速速防守僵尸!5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "LEFT AND RIGHT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "左边和右边都有",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "YOU CAN GET UP!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你可以站起来了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "you killed the sorcerer!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "芜湖, 你击杀了巫师",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": "You are now the most powerful sorcerer.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你现在是最强大的巫师.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": "THANK YOU FOR PLAYING.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "感谢你的游玩",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": ">>> HUMAN WINN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 人类胜利 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": "WeLcOmE SchIzO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "WeLcOmE SchIzO",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "BRIDGE OPENING !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥出现了 !!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": "### ADD LEVEL ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 添加关卡 ###",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "## LEVEL : EXTREME MEGA SCHIZO ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 关卡 : EXTREME MEGA SCHIZO ##",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": "GO GO GO !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "冲 冲 冲 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": "Zombie tp 10 Sec. Run !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸会在 10 秒后传送. 该润了 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -776,7 +776,7 @@
   {
     "original": "You can go on the right or left side.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你可以走右边或者左边.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "In 30 seconds, the door will open.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "得坚持 30 秒, 大门才会打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -794,7 +794,7 @@
   {
     "original": "In 10 seconds, the door will open.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "得坚持 10 秒, 大门才会打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -803,7 +803,7 @@
   {
     "original": "Door open RUN !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门打开了 润 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "ZOMBIE TP 20 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸会在 20 秒后传送.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -821,7 +821,7 @@
   {
     "original": "ZOMBIE TP 10 SEC ! RUN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸会在 10 秒后传送 ! 润",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -830,7 +830,7 @@
   {
     "original": "ZOMBIES TELEPORT !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸传送 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "In 25 seconds, the door will open.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "得坚持 25 秒, 大门才会打开.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -848,7 +848,7 @@
   {
     "original": "Door Open ! RUN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门打开了 ! 润 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": "Defend this area and let one person go for the trigger.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住这个区域 并让一个工具人去触发.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "Zombie tp 15 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在 15 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -875,7 +875,7 @@
   {
     "original": "DOOR OPEN! RUN RUN !!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门打开了! 润 润 !!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": "ZOMBIE TP 10 SEC! RUN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸还有 10 秒传送! 该远离传送点了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -893,7 +893,7 @@
   {
     "original": "ZOMBIE TP 5 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸还有 5 秒传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -902,7 +902,7 @@
   {
     "original": "DONT DEFEND! BACK",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "别断后! 直接撤退",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "DONT DEFEND !GO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "别断后 !直接冲",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": "ZOMBIE TP 15 SEC! RUN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸还有 15 秒传送! 润",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -929,7 +929,7 @@
   {
     "original": "Choose the path you want, be fast!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "选择你想要走的路, 赶紧的!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": "In RUN RUN !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "跑跑跑 !!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": "Zombie TP 15 SEC ! RUN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 15 秒后传送 ! 润",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -956,7 +956,7 @@
   {
     "original": "DOOR OPEN ! GO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门打开了 ! 冲",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": "ZOMBIES TELEPORTED",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": "BOSS DOOR WILL OPEN IN 30 SECONDS!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往 BOSS 的大门会在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -983,7 +983,7 @@
   {
     "original": "In 15 seconds, the door will open.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15 秒后才会大门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -992,7 +992,7 @@
   {
     "original": "Move to the gate, don't get left behind!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "保持移动至大门, 不要掉队!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": "Boss teleport will open in 10 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": " BOSS 传送将在10秒后开启!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1010,7 +1010,7 @@
   {
     "original": "ZM TP 5 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸 5 秒后传送!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1019,7 +1019,7 @@
   {
     "original": "GO !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "冲 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": "GO BOSS AREA",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "前往 BOSS 的平台",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": "WELCOME TO THE BOSS FIGHT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "欢迎来到 BOSS 的战斗回合",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,25 +1046,25 @@
   {
     "original": "DESTROY THE CUBE !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "摧毁立方体 !5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "THE CUBE IS PUSHING YOU.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "立方体正在推你.5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "# maybe press F #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 也许可以按 F (W?) #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,16 +1073,16 @@
   {
     "original": "THE CUBE DRAWS YOU IN.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "立方体吸引着你.5 ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "# maybe press G #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 也许可以按 G (S?) #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1091,7 +1091,7 @@
   {
     "original": "THE ARENA WILL CATCH FIRE!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "平台将会着火!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1100,16 +1100,16 @@
   {
     "original": "GO TO THE SIDE ALCOVES!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "去边缘侧凹处!5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "GO TO THE AREA!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "前往该地区!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "THE ZOMBIE GATES ARE OPENING!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸大门正在打开!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1127,7 +1127,7 @@
   {
     "original": "4!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "4!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -1136,7 +1136,7 @@
   {
     "original": "3!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "3!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -1145,7 +1145,7 @@
   {
     "original": "2!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "2!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -1154,7 +1154,7 @@
   {
     "original": "1!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1163,7 +1163,7 @@
   {
     "original": "# DESTROYED CUBE #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 被毁坏的立方体 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1172,7 +1172,7 @@
   {
     "original": "MAP IS OVER ggWP",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图已结束 ggWP",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
