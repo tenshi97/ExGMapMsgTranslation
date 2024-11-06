@@ -2,7 +2,7 @@
   {
     "original": "** [HARD MODE] **",
     "en_trans": "",
-    "zh_trans": "** [困难模式] **",
+    "zh_trans": "** [困难难度] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "** Be aware of fake donations - groups and profiles ! **",
     "en_trans": "",
-    "zh_trans": "** 要小心那些假的捐款—包括团体和个人资料 **",
+    "zh_trans": "** 某些Steam组和个人可能会以捐款/战队投票/这是一份礼物等理由欺诈，需要注意 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,16 +29,16 @@
   {
     "original": "** Defend until the guards open the airport. **",
     "en_trans": "",
-    "zh_trans": "** 坚守阵地,直到卫兵打开机场 **",
+    "zh_trans": "** 坚守阵地,直到卫兵打开机场 | 5秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** Airport opened. **",
     "en_trans": "",
-    "zh_trans": "** 机场已开放 **",
+    "zh_trans": "** 空港已开放 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "** 5 Seconds left **",
     "en_trans": "",
-    "zh_trans": "** 5秒后离开 **",
+    "zh_trans": "** 还剩5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -74,11 +74,11 @@
   {
     "original": "** Defend here so the guards will open the gates to the city ! **",
     "en_trans": "",
-    "zh_trans": "** 在此防守,以便卫兵打开通往城市的大门 **",
+    "zh_trans": "** 在此防守,以便卫兵打开通往城市的大门 | 8秒 延迟门 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 8,
+    "enable_timer": 1
   },
   {
     "original": "** A player has learned Heal magick. **",
@@ -92,11 +92,11 @@
   {
     "original": "** Cover here till the boxes explode **",
     "en_trans": "",
-    "zh_trans": "** 在此守住,直到箱子爆炸 **",
+    "zh_trans": "** 在此守住,直到箱子爆炸 | 25秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** The first door will open in 10 seconds **",
@@ -200,7 +200,7 @@
   {
     "original": "** Bomb planted - hold 30 seconds **",
     "en_trans": "",
-    "zh_trans": "** 炸弹已安装-坚守30秒 **",
+    "zh_trans": "** 炸弹已安放-坚守30秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -308,7 +308,7 @@
   {
     "original": "[ADMIN] Removed [INSANE DIFFICULTY] for next round.",
     "en_trans": "",
-    "zh_trans": "[管理员]在下一回合移除疯狂难度",
+    "zh_trans": "[调关房]在下一回合移除[疯魔难度-Insane]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "[ADMIN] Added [INSANE DIFFICULTY] for next round.",
     "en_trans": "",
-    "zh_trans": "[管理员]为下一轮添加了疯狂难度",
+    "zh_trans": "[调关房]下一回合为[疯魔难度-Insane]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "[ADMIN] Selected [HARD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "[管理员]为下一轮选择了困难模式",
+    "zh_trans": "[调关房]下一回合为[困难难度-Hard]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "[ADMIN] Restarting round in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "[管理员]在5秒后重新开始这一回合",
+    "zh_trans": "[调关房] 5秒后重启本回合",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -344,7 +344,7 @@
   {
     "original": "** [EXTREME MODE] **",
     "en_trans": "",
-    "zh_trans": "** [极限模式] **",
+    "zh_trans": "** [极限难度-Extreme] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "** Hold 20 seconds until the door opens **",
     "en_trans": "",
-    "zh_trans": "** 坚持20秒直到门打开 **",
+    "zh_trans": "** 20 秒后门开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -398,7 +398,7 @@
   {
     "original": "** The next door opens in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "** 下道门将在15秒后打开 **",
+    "zh_trans": "** 下一扇门15秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -407,7 +407,7 @@
   {
     "original": "** A random way will open in 10 seconds **",
     "en_trans": "",
-    "zh_trans": "** 一道随机的通道将在10秒后打开 **",
+    "zh_trans": "** 10秒后左右两边随机开一条路 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -416,7 +416,7 @@
   {
     "original": "** Boss Fight in 10s **",
     "en_trans": "",
-    "zh_trans": "** BOOS战将在10秒后开始 **",
+    "zh_trans": "** 10秒后Boss战 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -425,7 +425,7 @@
   {
     "original": "** Boss Fight in 5s **",
     "en_trans": "",
-    "zh_trans": "** BOOS战将在5秒后开始 **",
+    "zh_trans": "** 5秒后Boss战 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -434,7 +434,7 @@
   {
     "original": "** Belias is immune for fire and nades **",
     "en_trans": "",
-    "zh_trans": "** 魔人贝利亚斯对火焰和手雷免疫 **",
+    "zh_trans": "** 魔人贝利亚斯对[火焰]和[手雷]免疫 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "** The main door opens in 25 seconds **",
     "en_trans": "",
-    "zh_trans": "** 主门将在25秒后打开 **",
+    "zh_trans": "** 主门25秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -461,7 +461,7 @@
   {
     "original": "** The main door opens in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "** 主门将在5秒后打开 **",
+    "zh_trans": "** 主门5秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -470,7 +470,7 @@
   {
     "original": "** Final door opens in 10 seconds! **",
     "en_trans": "",
-    "zh_trans": "** 最后的门将在10秒后打开 **",
+    "zh_trans": "** 最后的门10秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -479,7 +479,7 @@
   {
     "original": "** Teleporter will be ready in 10 seconds ! **",
     "en_trans": "",
-    "zh_trans": "** 传送器在10秒后准备就绪 **",
+    "zh_trans": "** 传送器在10秒后就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -488,7 +488,7 @@
   {
     "original": "** Teleporter will be ready in 5 seconds ! **",
     "en_trans": "",
-    "zh_trans": "** 传送器在5秒后准备就绪 **",
+    "zh_trans": "** 传送器在5秒后就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -497,7 +497,7 @@
   {
     "original": "** Congratulations - You won [EXTREME] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜你-你通过了极限模式 **",
+    "zh_trans": "** 恭喜你-你通过了[极限难度-Extreme] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "[ADMIN] Selected [GOD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "** [管理员]为下一轮选择了[无敌模式] **",
+    "zh_trans": "[调关房]下一回合为[神级难度-God]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": "[ADMIN] Removed [INSANE DIFFICULTY] for next round.",
     "en_trans": "",
-    "zh_trans": "[管理员]为下一轮移除了[疯狂难度]",
+    "zh_trans": "[调关房]已移除下一回合的[疯魔难度-Insane]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "[ADMIN] Added [INSANE DIFFICULTY] for next round.",
     "en_trans": "",
-    "zh_trans": "[管理员]为下一轮添加了[疯狂难度]",
+    "zh_trans": "[调关房]已为下回合添加[疯魔难度-Insane]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "[ADMIN] Selected [HARD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "[管理员]为下一轮选择了困难模式",
+    "zh_trans": "[调关房]下回合为[困难难度-Hard]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "[ADMIN] Restarting round in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "[管理员]在5秒后重新开始这一回合",
+    "zh_trans": "[调关房] 5 秒后回合重启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -551,7 +551,7 @@
   {
     "original": "** [EXTREME MODE] **",
     "en_trans": "",
-    "zh_trans": "** [极限模式] **",
+    "zh_trans": "** [极限难度-Extreme] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "** Hold 20 seconds until the door opens **",
     "en_trans": "",
-    "zh_trans": "** 坚持20秒直到门打开 **",
+    "zh_trans": "** 20秒后门开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -587,7 +587,7 @@
   {
     "original": "** The doors will open in 25 seconds **",
     "en_trans": "",
-    "zh_trans": "** 大门将在25秒后打开 **",
+    "zh_trans": "** 大门25秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -596,7 +596,7 @@
   {
     "original": "** The doors will open in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "** 大门将在5秒后打开 **",
+    "zh_trans": "** 大门5秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -605,7 +605,7 @@
   {
     "original": "** The next door opens in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "** 下道门将在15秒后打开 **",
+    "zh_trans": "** 下一扇门15秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -614,7 +614,7 @@
   {
     "original": "** A random way will open in 10 seconds **",
     "en_trans": "",
-    "zh_trans": "** 一道随机的通道将在10秒后打开 **",
+    "zh_trans": "** 10 秒后左右两边随机开一条路 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -623,7 +623,7 @@
   {
     "original": "** Boss Fight in 10s **",
     "en_trans": "",
-    "zh_trans": "** BOOS战将在10秒后开始 **",
+    "zh_trans": "** 10 秒后Boss战 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -632,7 +632,7 @@
   {
     "original": "** Boss Fight in 5s **",
     "en_trans": "",
-    "zh_trans": "** BOOS战将在5秒后开始 **",
+    "zh_trans": "** 5 秒后Boss战 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -641,7 +641,7 @@
   {
     "original": "** Belias is immune for fire and nades **",
     "en_trans": "",
-    "zh_trans": "** 魔人贝利亚斯对火焰和手雷免疫 **",
+    "zh_trans": "** 魔人贝利亚斯对[火焰]和[手雷]免疫 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "** The main door opens in 25 seconds **",
     "en_trans": "",
-    "zh_trans": "** 主门将在25秒后打开 **",
+    "zh_trans": "** 主门25秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -668,7 +668,7 @@
   {
     "original": "** The main door opens in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "** 主门将在5秒后打开 **",
+    "zh_trans": "** 主门5秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -677,7 +677,7 @@
   {
     "original": "** Final door opens in 10 seconds! **",
     "en_trans": "",
-    "zh_trans": "** 最后的门将在10秒后打开 **",
+    "zh_trans": "** 最后的门10秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -686,7 +686,7 @@
   {
     "original": "** Teleporter will be ready in 10 seconds ! **",
     "en_trans": "",
-    "zh_trans": "** 传送器在10秒后准备就绪 **",
+    "zh_trans": "** 传送器10秒后就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -695,7 +695,7 @@
   {
     "original": "** Teleporter will be ready in 5 seconds ! **",
     "en_trans": "",
-    "zh_trans": "** 传送器在5秒后准备就绪 **",
+    "zh_trans": "** 传送器5秒后就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -704,7 +704,7 @@
   {
     "original": "** Congratulations - You won [EXTREME] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜你-你通过了极限模式 **",
+    "zh_trans": "** 恭喜你-你通过了[极限难度-Extreme] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": "[ADMIN] Selected [GOD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "** [管理员]为下一轮选择了[上帝模式] **",
+    "zh_trans": "** [调关房]下一回合为[神级难度-God] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -722,7 +722,7 @@
   {
     "original": "** [EPIC MODE] **",
     "en_trans": "",
-    "zh_trans": "** [史诗难度] **",
+    "zh_trans": "** [史诗难度-Epic] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "** Teleporters will be ready in 20 seconds ! **",
     "en_trans": "",
-    "zh_trans": "** 传送器将在 20 秒后准备就绪 **",
+    "zh_trans": "** 传送器 20 秒后就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -740,7 +740,7 @@
   {
     "original": "** Teleporters will be ready in 5 seconds ! **",
     "en_trans": "",
-    "zh_trans": "** 传送器在5秒后准备就绪 **",
+    "zh_trans": "** 传送器 5 秒后就绪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -749,7 +749,7 @@
   {
     "original": "** Gates will open in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "** 大门将在 15 秒后打开 **",
+    "zh_trans": "** 大门 15 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -758,7 +758,7 @@
   {
     "original": "** The arena will open in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "** 竞技场将在 20 秒后开放 **",
+    "zh_trans": "** Boss房 20 秒后开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -794,7 +794,7 @@
   {
     "original": "** ZOMBIE JAIL OPEN ! **",
     "en_trans": "",
-    "zh_trans": "** 僵尸现在自由了 **",
+    "zh_trans": "** 尸笼已开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "** The final gate will open in 40 seconds **",
     "en_trans": "",
-    "zh_trans": "** 最后一道门将在 40 秒后打开 **",
+    "zh_trans": "** 最后一道门 40 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -812,7 +812,7 @@
   {
     "original": "** The final gate will open in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "** 最后一道门将在 5 秒后打开 **",
+    "zh_trans": "** 最后一道门 5 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -821,7 +821,7 @@
   {
     "original": "** The fence will break in 5s **",
     "en_trans": "",
-    "zh_trans": "** 围栏将在 5 秒后破裂 **",
+    "zh_trans": "** 围栏 5 秒后破裂 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -839,7 +839,7 @@
   {
     "original": "** Chaos has been defeated - RUN !!!!! **",
     "en_trans": "",
-    "zh_trans": "** 卡俄斯已被击败-快跑 **",
+    "zh_trans": "** 卡俄斯[混沌之神Chaos]已被击败-快跑 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "** Congratulations - You won [EPIC] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜你-你通过了史诗模式 **",
+    "zh_trans": "** 恭喜你-你通过了[史诗难度-Epic] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": "** [GOD MODE] **",
     "en_trans": "",
-    "zh_trans": "** [上帝模式] **",
+    "zh_trans": "** [神级难度-God] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "** Congratulations - You won [GODMODE] **",
     "en_trans": "",
-    "zh_trans": "** 恭喜你-你通过了上帝模式 **",
+    "zh_trans": "** 恭喜你-你通过了[神级难度-God] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -893,7 +893,7 @@
   {
     "original": "** [ZM MODE] **",
     "en_trans": "",
-    "zh_trans": "** [ZM 模式]**",
+    "zh_trans": "** [ZM 僵尸感染 模式]**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": "** NUKE IN 200 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 200 秒后引爆 **",
+    "zh_trans": "** 200 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 200,
@@ -911,7 +911,7 @@
   {
     "original": "** NUKE IN 180 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 180 秒后引爆 **",
+    "zh_trans": "** 180 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -920,7 +920,7 @@
   {
     "original": "** NUKE IN 160 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 160 秒后引爆 **",
+    "zh_trans": "** 160 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 160,
@@ -929,7 +929,7 @@
   {
     "original": "** NUKE IN 140 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 140 秒后引爆 **",
+    "zh_trans": "** 140 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 140,
@@ -938,7 +938,7 @@
   {
     "original": "** NUKE IN 120 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 120 秒后引爆 **",
+    "zh_trans": "** 120 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -947,7 +947,7 @@
   {
     "original": "** NUKE IN 100 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 100 秒后引爆 **",
+    "zh_trans": "** 100 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
@@ -956,7 +956,7 @@
   {
     "original": "** NUKE IN 80 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 80 秒后引爆 **",
+    "zh_trans": "** 80 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -965,7 +965,7 @@
   {
     "original": "** NUKE IN 60 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 60 秒后引爆 **",
+    "zh_trans": "** 60 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -974,7 +974,7 @@
   {
     "original": "** NUKE IN 40 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 40 秒后引爆 **",
+    "zh_trans": "** 40 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -983,7 +983,7 @@
   {
     "original": "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **",
     "en_trans": "",
-    "zh_trans": "** 10 秒后将所有人传送到陆行鸟 **",
+    "zh_trans": "** 10 秒后所有人传送到陆行鸟竞赛 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -992,7 +992,7 @@
   {
     "original": "** TELEPORTING EVERYONE TO CHOCOBORACE **",
     "en_trans": "",
-    "zh_trans": "** 将所有人传送到陆行鸟 **",
+    "zh_trans": "** 传送所有人到陆行鸟竞赛 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": "** ZOMBIES RELEASED IN 2 SECS **",
     "en_trans": "",
-    "zh_trans": "** 2 秒后释放僵尸 **",
+    "zh_trans": "** 2 秒后开尸笼 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -1019,7 +1019,7 @@
   {
     "original": "[WINNER] Selected [GOD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "** [获胜者] 为下一轮选择了 [上帝模式]**",
+    "zh_trans": "** [获胜者] 为下一轮选择了 [神级难度-God]**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": "** [GOD MODE] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [神级难度-God] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": "** Congratulations - You won [GODMODE] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜你 - 你通过了 [神级难度-God] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": "** Zombies Have Escaped **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸已逃脱 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,7 +1055,7 @@
   {
     "original": "** THANKS FOR PLAYING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 感谢游玩 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": "** [ZM MODE] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [ZM僵尸感染 模式] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,7 +1073,7 @@
   {
     "original": "** NUKE IN 200 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 200秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 200,
@@ -1082,7 +1082,7 @@
   {
     "original": "** NUKE IN 180 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 180秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -1091,7 +1091,7 @@
   {
     "original": "** NUKE IN 160 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 160秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 160,
@@ -1100,7 +1100,7 @@
   {
     "original": "** NUKE IN 140 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 140秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 140,
@@ -1109,7 +1109,7 @@
   {
     "original": "** NUKE IN 120 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 120秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -1118,7 +1118,7 @@
   {
     "original": "** NUKE IN 100 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 100秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
@@ -1127,7 +1127,7 @@
   {
     "original": "** NUKE IN 80 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 80秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -1136,7 +1136,7 @@
   {
     "original": "** NUKE IN 60 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 60秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -1145,7 +1145,7 @@
   {
     "original": "** NUKE IN 40 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 40秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -1154,7 +1154,7 @@
   {
     "original": "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 10 秒后所有人传送到陆行鸟竞赛 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1163,7 +1163,7 @@
   {
     "original": "** TELEPORTING EVERYONE TO CHOCOBORACE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送所有人到陆行鸟竞赛 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1172,7 +1172,7 @@
   {
     "original": "** ZOMBIES RELEASED IN 2 SECS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 2 秒后开尸笼 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -1181,7 +1181,7 @@
   {
     "original": "** NUKE IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 20秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1190,7 +1190,7 @@
   {
     "original": "[WINNER] Selected [GOD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[胜者] 选择下回合为 [神级难度-God]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1208,7 +1208,7 @@
   {
     "original": "[ADMIN] Selected [EXTREME MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[调关房]下回合为[极限难度-Extreme]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1217,7 +1217,7 @@
   {
     "original": "** [INSANE DIFFICULTY ADDED] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [疯魔难度-Insane] **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1226,7 +1226,7 @@
   {
     "original": "** Congratulations - You won [GODMODE - INSANE] **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜你 - 你们是冠军!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1235,7 +1235,7 @@
   {
     "original": "[WINNER] Selected [EPIC MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[胜者] 选择下回合为 [史诗难度-Epic]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1244,7 +1244,7 @@
   {
     "original": "[WINNER] Selected [HARD MODE] for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[胜者] 选择下回合为 [困难难度-Hard]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
