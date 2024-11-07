@@ -47,7 +47,7 @@
   {
     "original": ">>>20 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩 20 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -164,7 +164,7 @@
   {
     "original": ">>>道路马上就打开了，30 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>道路马上就打开了，还剩 30 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -173,7 +173,7 @@
   {
     "original": "12/12, 30 seconds 魔像即将倒下",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "12/12, 30 秒魔像即将倒下",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -200,7 +200,7 @@
   {
     "original": ">>>40 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩 40 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -209,7 +209,7 @@
   {
     "original": ">>>30 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>30 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -218,7 +218,7 @@
   {
     "original": ">>>10 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还有 10 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -227,7 +227,7 @@
   {
     "original": ">>>70 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还有 70 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -254,7 +254,7 @@
   {
     "original": ">>>20 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>20 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -344,7 +344,7 @@
   {
     "original": "12/12, 10 seconds 魔像即将倒下",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "12/12, 10 秒魔像即将倒下",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -371,10 +371,10 @@
   {
     "original": "3/3, 20seconds left",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "3/3, 还有 20 秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   }
 ]
