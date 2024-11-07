@@ -128,7 +128,7 @@
   {
     "original": "***Activating Bridge In 5 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***5 秒后启动桥梁***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -137,7 +137,7 @@
   {
     "original": "***Glass Breaks In 5 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***玻璃将在 5 秒后破裂***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -146,7 +146,7 @@
   {
     "original": "***Defend 15 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***防守 15 秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -155,7 +155,7 @@
   {
     "original": "***Door Open In 5 Seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 5 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -164,7 +164,7 @@
   {
     "original": "***FIGHT THE BOSS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***与boss战斗***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,16 +173,16 @@
   {
     "original": "***HEALTH: 100000***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***生命值: 100000***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100000,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Cookie Paper Monster Are Using Wind***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***纸点心怪兽使用了 风***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "***Cookie Paper Monster Are Using Shield***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***纸点心怪兽使用了 盾***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "***Cookie Paper Monster Are Using Magic On Zombie Cage***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***纸点心怪兽对尸笼使用了魔法***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
