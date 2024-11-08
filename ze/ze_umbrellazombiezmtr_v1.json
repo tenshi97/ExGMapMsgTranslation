@@ -113,8 +113,8 @@
     "zh_trans": "守住全部3个房间",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "The EXIT 1-2 doors will open in 30 seconds",
@@ -122,8 +122,8 @@
     "zh_trans": "1号安全出口和2号安全出口将于 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "The EXIT 3 door will open in 15 seconds",
@@ -131,8 +131,8 @@
     "zh_trans": "3号安全出口将于 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "The EXIT 3 door will opening GO!",
