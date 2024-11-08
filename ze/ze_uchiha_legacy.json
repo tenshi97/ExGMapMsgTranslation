@@ -902,7 +902,7 @@
   {
     "original": "** MADARA JUST APPEAR **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 宇智波斑出现了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "** SHOOT HIM OR GO TO THE SIDE NOW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 现在要么射击他，要么闪到一边去 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": "** REGENERATION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 再生 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,7 +929,7 @@
   {
     "original": "** RINNEGAN - ABSORPTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 轮回眼 - 吸收 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": "** KATON - HIDING IN ASH **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 火遁 - 灰积烧 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": "** KATON - FIRE RAIN**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**火遁 - 火雨之术**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": "** KATON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 火遁 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": "** SHATTERED HEAVEN **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 破碎天堂 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": "** DESTROY THE METEOR OR DIE NOW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 要么摧毁流星，要么现在就死 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": "** MOKUTON - DEEP FOREST EMERGENCE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 木遁 - 深林起 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": "** SENPO INTON RAIHA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 仙法·阴遁雷派 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": "** MOKUTON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 木遁 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,19 +1010,19 @@
   {
     "original": "** STAGE 3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 关卡 3 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** STAGE 1 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 关卡 1 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
