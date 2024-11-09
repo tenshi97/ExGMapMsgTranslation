@@ -2,7 +2,7 @@
   {
     "original": "*OBJECTIVE - Survive 45 sec*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*目标 - 存活45秒*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -11,7 +11,7 @@
   {
     "original": "* VR-Mission 1 START*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*虚拟现实任务 1 开始*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -20,7 +20,7 @@
   {
     "original": "*Break crystals*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*破坏水晶*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,25 +29,25 @@
   {
     "original": "* VR-Mission 1 Complete*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*虚拟现实任务 1 完成*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*VR-Mission 2 START*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*虚拟现实任务 2 开始*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*OBJECTIVE - Destroy green floor",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*目标 - 摧毁绿色地板*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "* VR-Mission 2 Complete*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*虚拟现实任务 2 完成*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -65,7 +65,7 @@
   {
     "original": "*Don't delay! Hurry up with the objectives and get out of there!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*别耽搁！赶快完成目标然后离开那里！*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": "*VR-Mission 3 START*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*虚拟现实任务 3 开始*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*OBJECTIVE - Break crystals*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*目标 - 打破水晶*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
