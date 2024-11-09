@@ -2441,11 +2441,11 @@
   {
     "original": "愤怒电视：一分钟之内来屋顶，否则没有你们好果汁吃！",
     "en_trans": "",
-    "zh_trans": "愤怒电视：一分钟之内来屋顶，否则没有你们好果汁吃！",
+    "zh_trans": "愤怒电视：60秒之内来屋顶，否则没有你们好果汁吃！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": ">>本关仅有击败僵王才可通关<<",
@@ -2621,20 +2621,20 @@
   {
     "original": ">>左路第二木桥将在5秒后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>左路第二木桥将在5秒后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>跳水台的楼梯将在5s后开放<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>跳水台的楼梯将在5s后开放<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>跳水台的楼梯已开放<<",
