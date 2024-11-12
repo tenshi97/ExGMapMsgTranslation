@@ -781,5 +781,86 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "*** LIFT LEAVING IN 30 seconds ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯将在 30 秒后离开 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** THE LIFT IS BROKEN ! ***",
+    "en_trans": "",
+    "zh_trans": "*** 电梯坏了！***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** WE HAVE TO GO DEEPER INTO THE CAVE ***",
+    "en_trans": "",
+    "zh_trans": "*** 我们必须往洞穴更深处走 *** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "*** HOLD WHILE WE OPEN THE WAY ***",
+    "en_trans": "",
+    "zh_trans": "*** 等我们开辟道路，坚持住 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> IT'S A DEAD END !! <<",
+    "en_trans": "",
+    "zh_trans": ">> 这是条死胡同！！<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> THE MOLE WILL HELP US GET OUT <<",
+    "en_trans": "",
+    "zh_trans": ">> 鼹鼠会帮助我们出去 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> DEFEND WHILE THE MOLE IS DIGGING <<",
+    "en_trans": "",
+    "zh_trans": ">> 鼹鼠还在挖掘，守住 << ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<",
+    "en_trans": "",
+    "zh_trans": ">> 防御！！把僵尸困在洞穴里 <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> THE MOLE IS COMING BACK ! WATCH OUT !! <<",
+    "en_trans": "",
+    "zh_trans": ">> 鼹鼠要回来了！小心！！<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
