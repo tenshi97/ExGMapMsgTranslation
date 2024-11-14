@@ -173,11 +173,11 @@
   {
     "original": "*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***",
     "en_trans": "",
-    "zh_trans": "*** 还有一分钟这个地方就要炸了 ***",
+    "zh_trans": "*** 还有60秒这个地方就要炸了 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "*** PLANE IS READY TO LEAVE ***",
@@ -308,10 +308,10 @@
   {
     "original": "*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***",
     "en_trans": "",
-    "zh_trans": "*** 这个地方两分钟后要被炸上天了 ***",
+    "zh_trans": "*** 这个地方120秒后要被炸上天了 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1
   },
   {

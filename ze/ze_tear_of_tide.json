@@ -2,7 +2,7 @@
   {
     "original": "door will open in 40 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 40 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -11,7 +11,7 @@
   {
     "original": "door will open in 5 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在5秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -20,7 +20,7 @@
   {
     "original": "This map is inspired by Ori",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这张地图的灵感来源于《奥日》。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "Map create by lopb ,thanks script support by 7ychu5,thanks materials support by Tenshi.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "Map requires Unlock Lua and CS2Fix",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图需要解锁 Lua 和 CS2Fix",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "Hope you enjoy",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "希望您玩得愉快",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "Map create by lopb ,thanks script support by 7ychu5,thanks materials and particle support by Tenshi.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "wall will break in 40 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "墙将在 40 秒后被打破！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -74,7 +74,7 @@
   {
     "original": "door will open in 30 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 30 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -83,7 +83,7 @@
   {
     "original": "you can use finger after 30 sec!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30 秒后你就可以射击天上的球进行快速移动了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -92,7 +92,7 @@
   {
     "original": "door will open in 20 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 20 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -101,7 +101,7 @@
   {
     "original": "raise after 40 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "40 秒后升起！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -110,7 +110,7 @@
   {
     "original": "Is time to clear tide !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "是时候清除潮水了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "DarkCreatures are one step ahead of you!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑暗生物比你领先一步！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "be careful !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "小心！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "door will open in 10 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 10 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -146,16 +146,16 @@
   {
     "original": "Looking for 3 heal elements",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "寻找3个治疗元素",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "WaterElf is in a frenzy, get out of here quickly!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水精灵陷入狂乱状态，赶紧离开这里！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "Run! Run! Run! Run! Run! Run!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "跑！跑！跑！跑！跑！跑！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "The tide is rising! Fly up!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "潮水正在上涨！飞起来！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "You purified WaterElf!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你净化了水精灵！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "kill all zombie !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "杀死所有僵尸！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "No one survived.WaterElf went berserk!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "无人生还。水精灵发狂了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "wall will break in 5 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "墙将在 5 秒后破裂！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -227,7 +227,7 @@
   {
     "original": "you can use finger after 5 sec!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "5秒后你就可以射击天上的球进行快速移动了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -236,16 +236,16 @@
   {
     "original": "door will open in 25 sec ! teleport enable in 5 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在25秒后打开！传送将在倒计时20秒时启用！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "door will close in 3 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在3秒后关闭！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -254,16 +254,16 @@
   {
     "original": "raise after 45 sec ! teleport enable in 5 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "45秒后升起！倒计时40秒时传送功能开启！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
     "original": "door will open in 15 sec !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在15秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -272,28 +272,28 @@
   {
     "original": "Zombie Shift will hurt more[2]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的“shift”将会造成更多伤害[2]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Zombie Shift will hurt more[3]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的“shift”将会造成更多伤害[3]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<< set stage 1 >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 调关至 关卡1 >>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

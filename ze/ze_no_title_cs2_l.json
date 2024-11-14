@@ -5,8 +5,8 @@
     "zh_trans": "***关卡 1***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***White is Door and Wall***",
@@ -167,8 +167,8 @@
     "zh_trans": "***关卡 1 完成***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Map made by Kizan Flandre***",
@@ -203,8 +203,8 @@
     "zh_trans": "***关卡 2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Kill the boss in Two minutes***",
@@ -212,8 +212,8 @@
     "zh_trans": "***在120秒内击败boss***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 120,
+    "enable_timer": 1
   },
   {
     "original": "***Go to the Front Hurry!!***",
@@ -338,8 +338,8 @@
     "zh_trans": "***关卡 2 完成***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***STAGE 3***",
@@ -347,8 +347,8 @@
     "zh_trans": "***关卡 3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***trigger is on the rigger block***",
@@ -500,8 +500,8 @@
     "zh_trans": "***关卡 3 完成***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Map by KizanFlandre***",
@@ -560,7 +560,7 @@
   {
     "original": "***pink is a ladder***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***粉色的是梯子***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,10 +569,10 @@
   {
     "original": "***Someone pressed STAGE 3 button in Admin room***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***有人在调关房按下了关卡 3 按钮***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
