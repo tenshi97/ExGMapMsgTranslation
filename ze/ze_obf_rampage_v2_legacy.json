@@ -371,16 +371,16 @@
   {
     "original": "DEFEND 70 SECONDS",
     "en_trans": "",
-    "zh_trans": "防守<<< 70 >>>秒",
+    "zh_trans": "防守<<< 65 >>>秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 70,
+    "timer_num": 65,
     "enable_timer": 1
   },
   {
     "original": "Zombie triggered,we have fail.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸破坏了电源，我们，失败了……",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
