@@ -563,8 +563,8 @@
     "zh_trans": "*** 只剩 40 秒了 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": "*** 最后20s了，再快点 ***",
@@ -572,8 +572,8 @@
     "zh_trans": "*** 最后 20 秒了，再快点 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** 结束了...... ***",
