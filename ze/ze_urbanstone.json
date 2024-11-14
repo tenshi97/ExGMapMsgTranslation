@@ -50,8 +50,8 @@
     "zh_trans": "<< 存点 1 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< DOOR OPEN 25 SECONDS >>",
@@ -113,8 +113,8 @@
     "zh_trans": "<< 存点 2 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< DOOR OPEN 20 SECONDS >>",
@@ -149,8 +149,8 @@
     "zh_trans": "<< 存点 3 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< BREAK TRAM >",
@@ -194,8 +194,8 @@
     "zh_trans": "<< 存点 4 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< DOOR OPENING 10 SECONDS >>",
@@ -227,7 +227,7 @@
   {
     "original": "<< FINAL DOOR CLOSING 20 SECONDS >>",
     "en_trans": "",
-    "zh_trans": "<< 最后的门10秒关闭 >>",
+    "zh_trans": "<< 最后的门20秒关闭 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -239,8 +239,8 @@
     "zh_trans": "<< 关卡1 - 存点模式 胜利！ >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< LEVEL 2 >>",
@@ -248,8 +248,8 @@
     "zh_trans": "<< 关卡2 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<< CHECKPOINT 1 >>>",
@@ -257,8 +257,8 @@
     "zh_trans": "<< 存点1 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< DOOR OPENING 8 SECONDS >>",
@@ -293,8 +293,8 @@
     "zh_trans": "<<< 存点2 >>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< PUSH CART >",
@@ -311,8 +311,8 @@
     "zh_trans": "< 6个玩家推车 - 速度就可以达到最快 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< HUMANS - PROTECT THE CART >",
@@ -338,8 +338,8 @@
     "zh_trans": "<< 手推车血量 - 75% >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 75,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< CART HEALTH - 50% >>",
@@ -347,8 +347,8 @@
     "zh_trans": "<< 手推车血量 - 50% >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<< CHECKPOINT 3 >>>",
@@ -356,8 +356,8 @@
     "zh_trans": "<<< 存点 3 >>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< CART HEALTH - 25% >>",
@@ -365,8 +365,8 @@
     "zh_trans": "<< 手推车血量 - 25% >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< CART HEALTH - 10% >>",
@@ -374,8 +374,8 @@
     "zh_trans": "<< 手推车血量 - 10% >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< CART DESTROYED >>",
@@ -410,8 +410,8 @@
     "zh_trans": "<<< 存点 4 >>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< THROW NADE IN HOLE >",
@@ -464,8 +464,8 @@
     "zh_trans": "<<< 存点 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< KEEP ZOMBIES OFF TRAM >>",
@@ -524,7 +524,7 @@
   {
     "original": "< CATCH CRATE >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 追上箱子 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "<< LEFT BRIDGE ACTIVE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 左边桥梁激活 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

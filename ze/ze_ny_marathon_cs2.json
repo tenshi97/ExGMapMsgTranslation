@@ -2,7 +2,7 @@
   {
     "original": "*** NY MARATHON: GET READY TO RUN! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***纽约马拉松：准备开跑！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">> marathon <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 马拉松 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,38 +110,38 @@
   {
     "original": "** 我们需要坚守住!公园的大门将在20秒后打开! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们需要坚守住!公园的大门将在20秒后打开! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** 最后再坚守5秒! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后再坚守5秒! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** 守住那堵破墙! 大门将会在25秒后打开! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住那堵破墙! 大门将会在25秒后打开! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** 在坚守10秒!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在坚守10秒!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 到达检查点，站在白圈上来解锁大门 **",
@@ -164,11 +164,11 @@
   {
     "original": "** Afk和乌龟将在20秒内传送到检查点 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** Afk和乌龟将在20秒内传送到检查点 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *",
@@ -227,25 +227,25 @@
   {
     "original": "** 坚持住，需要15秒来开门 !!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持住，需要15秒来开门 !!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 再守5秒 !!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 再守5秒 !!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** 噢,不!隧道被锁上了!我们得等一会儿(30s) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 噢,不!隧道被锁上了!我们得等一会儿(30s) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -254,74 +254,74 @@
   {
     "original": "** 还剩15秒!继续防守! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩15秒!继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 最后5秒 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后5秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** Afk和乌龟将在20秒内传送到检查点. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** Afk和乌龟将在20秒内传送到检查点. **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** 引擎区域大门30秒后打开 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 引擎区域大门30秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** 引擎区域大门将在15秒后打开 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 引擎区域大门将在15秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 引擎区域的大门将在5秒后打开，坚守住!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 引擎区域的大门将在5秒后打开，坚守住!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** 阀门室的门将在15秒后打开 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 阀门室的门将在15秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 阀室门将在5秒后开启。坚守住!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 阀室门将在5秒后开启。坚守住!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** 点按E启动阀门!我们需要把有毒废物排出去!!! **",
@@ -371,16 +371,16 @@
   {
     "original": "** 防守15秒!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守15秒!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***5***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***5***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -389,7 +389,7 @@
   {
     "original": "***4***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***4***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -398,7 +398,7 @@
   {
     "original": "***3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***3***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -407,7 +407,7 @@
   {
     "original": "***2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***2***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -416,7 +416,7 @@
   {
     "original": "***1***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***1***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -425,38 +425,38 @@
   {
     "original": "***0***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***0***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** 坚守住!车站门将在25秒后打开!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守住!车站门将在25秒后打开!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** 还剩15秒!保持防守! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩15秒!保持防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 最后5秒! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后5秒! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "*** 快启动直升机引擎！ ***",
@@ -470,7 +470,7 @@
   {
     "original": "** The helicopter is leaving in 30 seconds. RESIST! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**直升机将在 30 秒后起飞。抵抗！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -479,7 +479,7 @@
   {
     "original": "** C'mon! 15 more seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**来吧！还有 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -488,7 +488,7 @@
   {
     "original": "** Last 5 seconds! HOLD!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后5秒！坚持住！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -497,11 +497,11 @@
   {
     "original": "** 坚守住!车站门将在10秒后打开! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守住!车站门将在10秒后打开! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 跳过火车!我们得去另一边!!! **",
@@ -515,7 +515,7 @@
   {
     "original": "** 我们必须在这里抵抗，直到门打开!(25s) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们必须在这里抵抗，直到门打开!(25s) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -524,20 +524,20 @@
   {
     "original": "** 再坚守10秒! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 再坚守10秒! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 公园大门将在20秒后打开! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 公园大门将在20秒后打开! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** 走吧! 我们得守住公园，直到找到出路! **",
@@ -551,7 +551,7 @@
   {
     "original": "** We could call a Penis-UFO and split the fare... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们可以呼叫一个飞碟，然后平摊费用... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,10 +578,10 @@
   {
     "original": "** 坚守20秒!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守20秒!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   }
 ]

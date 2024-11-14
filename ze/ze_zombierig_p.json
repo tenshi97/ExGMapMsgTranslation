@@ -191,16 +191,16 @@
   {
     "original": "*** SURVIVE FOR 3 MIN TO START ZE AGAIN ***",
     "en_trans": "",
-    "zh_trans": "*** 生存3分钟等待部队救援我们 ***",
+    "zh_trans": "*** 生存180秒等待部队救援我们 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 180,
     "enable_timer": 1
   },
   {
     "original": "*** EASY SELECTED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已选择 简单***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": ">>>MASSIVE NUKE COMING IN 10 SECONDS<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>10 秒后将迎来巨型核弹<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
