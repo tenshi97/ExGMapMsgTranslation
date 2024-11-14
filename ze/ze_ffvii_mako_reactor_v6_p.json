@@ -209,7 +209,7 @@
   {
     "original": "** GRAVITY Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "** 重力 魔晶石已拾取 **",
+    "zh_trans": "** 黑洞 魔晶石已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,16 +218,16 @@
   {
     "original": "< Only the chosen may survive! >",
     "en_trans": "",
-    "zh_trans": "< 唯选中者，或能存活 - Only The Chosen MAY survive!!!>",
+    "zh_trans": "< 唯选中者，或能存活!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< Say goodbye! >",
     "en_trans": "",
-    "zh_trans": "< Say goodbye! >",
+    "zh_trans": "< 该说再见了! >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "< BAHAMUT MIMICS AQUA >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·水之幻影 >",
+    "zh_trans": "< 巴哈姆特·复制能力·碧波斩 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "< Impressive! >",
     "en_trans": "",
-    "zh_trans": "< 牛啊哥们! >",
+    "zh_trans": "< 阁下令我印象深刻! >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "< BAHAMUT MIMICS GRAVITY >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·重力 >",
+    "zh_trans": "< 巴哈姆特·复制能力·万有引力 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
