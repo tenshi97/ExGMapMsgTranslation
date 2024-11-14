@@ -1,8 +1,8 @@
-[
+[  
   {
     "original": ">>ze_bioshock<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>生化奇兵<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">>Map by DormantLemon<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>地图作者:DormantLemon<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": ">>Introduction<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>介绍<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": ">>>Warmup ends in 60 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>热身回合将在60秒后结束<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -38,7 +38,7 @@
   {
     "original": ">>Current Difficulty: Hard<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>当前难度:困难<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,70 +47,70 @@
   {
     "original": ">>TIP #1: Big Daddy is immensely strong. Don't let him get close<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示 #1：大老爹极其强壮。别让他靠近<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>TIP #2: Repeated losses will make the map easier. Don't give up!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示#2：多次失败会让地图难度降低。别放弃！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>TIP #3: Plasmids are limited use. Keep count!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示 #3：神器的使用次数有限。要留意数量！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示#4：在“全民力量”站升级你的神器。升级是永久性的。谨慎选择！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0 
   },
   {
     "original": ">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示#5：小妹妹可以采集尸体来强化她的队友。把她们找出来！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>TIP #6: Gene Tonics take effect on death. Don't die in vain!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示#6：基因强化剂在死亡时生效。别白白送死。<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>TIP #7: Lost health? Visit a health station to recover it!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>提示#7：血量剩余不多？可以去加血站回复<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>>Introduction Complete<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "介绍完成",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,16 +119,16 @@
   {
     "original": ">>Chapter 1 - Welcome to Rapture<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第一章 —— 欢迎来到销魂城<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*ADMIN Room: Plasmids set to max level*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***admin:神器已设置为最高等级***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,124 +137,124 @@
   {
     "original": "***Plasmid upgraded: Insect Swarm 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***蜂群已提升至等级2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Winter Blast 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***寒霜已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Gravity Well 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***重力已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Sonic Boom 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***音爆已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Incinerate 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***焚烧已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Electro Bolt 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电震波已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Insect Swarm 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***蜂群已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Winter Blast 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***寒霜已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Gravity Well 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***重力已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Sonic Boom 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***音爆已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Incinerate 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***焚烧已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Plasmid upgraded: Electro Bolt 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电震波已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*ADMIN Room: Next round set to Chapter 4*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*管理员:下一回合更改为第四关*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0
   },
   {
     "original": ">>Wait for Bathysphere arrival - 25s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待深海球形潜水器-25秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -263,16 +263,16 @@
   {
     "original": ">>Chapter 4 - Hephaestus<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第四章 —— 赫菲斯托斯<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>Hephaestus security checks in progress.. - 15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>赫菲斯托斯安全检查进行中-15秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -281,7 +281,7 @@
   {
     "original": ">>Wait for Hephaestus to open - 15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待赫菲斯托斯开启-15秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -290,7 +290,7 @@
   {
     "original": ">>Hephaestus is open<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>赫菲斯托斯已开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": ">>Wait for Trophy Room access - 35s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待进入奖杯陈列室——还需35秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -308,7 +308,7 @@
   {
     "original": ">>AFK teleport in 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>挂机玩家在5秒后传送<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -317,7 +317,7 @@
   {
     "original": ">>Door is open<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大门已打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": ">>Evaporate the flood water<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>蒸发洪水<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": ">>Elevator is leaving - 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电梯即将离开——还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -344,7 +344,7 @@
   {
     "original": ">>Laser incoming<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>激光来袭<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": ">>Get back to the elevator<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>回到电梯那里<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": ">>Elevator will be leaving soon<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电梯很快就要离开了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "*AFK teleport in 3s*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*挂机玩家3秒后传送*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -380,7 +380,7 @@
   {
     "original": ">>>Bathysphere door opens in 20 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>深海球形潜水器的舱门将在20秒后打开<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -389,7 +389,7 @@
   {
     "original": ">>Bathysphere is docking...<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>深海球形潜水器正在对接<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": ">>Get in the Bathysphere - 12s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>进入深海球形潜水器——还剩12秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 12,
@@ -407,7 +407,7 @@
   {
     "original": ">>Hold the Atrium - 22s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚守中庭——还需22秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 22,
@@ -416,7 +416,7 @@
   {
     "original": "***Plasmid obtained: Winter Blast***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家获得寒霜***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "***Plasmid obtained: Electro Bolt***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家获得电震波***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "***Plasmid obtained: Incinerate***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家获得焚烧***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": ">>Hold until secuity door releases - 15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚守住，直到安全门开启——还剩15秒。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -452,7 +452,7 @@
   {
     "original": "***Plasmid obtained: Insect Swarm***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家获得蜂群***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": ">>Wait for the elevators arrival<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待电梯到达<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "*AFK teleport in 5s*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*挂机玩家在5秒后传送*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -479,25 +479,25 @@
   {
     "original": ">>Elevator 1 leaving - 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>1号电梯即将离开——还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": ">>Elevator 2 leaving - 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>2号电梯即将离开——还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": ">>Hold until the security door releases<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚守住，直到安全门开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "***Plasmid obtained: Sonic Boom***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***一名玩家获得音爆***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": "That's a Little Sister. Looks like she's alone...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "那是小妹妹,看起来她仍然独自一人",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": ">>Wait for the arrival of Rapture Metro<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待极乐城地铁的到来<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": ">>Board and defend the Rapture Metro<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>登上“极乐城地铁”并进行防守。<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
