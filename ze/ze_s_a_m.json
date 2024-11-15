@@ -1112,8 +1112,8 @@
     "zh_trans": ">>等待20秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<ANGER SHIELD>>",
@@ -1171,15 +1171,6 @@
   },
   {
     "original": ">>ze_S_A_M ver:2.1.3<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": ">>ze_S_A_M ver:2.2.2<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
