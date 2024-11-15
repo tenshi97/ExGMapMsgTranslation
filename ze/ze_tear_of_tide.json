@@ -272,7 +272,7 @@
   {
     "original": "Zombie Shift will hurt more[2]",
     "en_trans": "",
-    "zh_trans": "僵尸的“shift”将会造成更多伤害[2]",
+    "zh_trans": "僵尸的“shift”技能将会造成更多伤害[2]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "Zombie Shift will hurt more[3]",
     "en_trans": "",
-    "zh_trans": "僵尸的“shift”将会造成更多伤害[3]",
+    "zh_trans": "僵尸的“shift”技能将会造成更多伤害[3]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -302,13 +302,13 @@
     "zh_trans": "<<< 调关至 关卡2 >>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Zombie Shift will hurt more By Time,Don't waste your time !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的“shift”技能将会随时间推移造成更多伤害，别浪费时间!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
