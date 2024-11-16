@@ -1112,8 +1112,8 @@
     "zh_trans": ">>等待20秒<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "<<ANGER SHIELD>>",
@@ -1190,7 +1190,7 @@
   {
     "original": ">>The elevator will leave in 5 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电梯将在5秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1199,7 +1199,7 @@
   {
     "original": ">>The library door will open in 30 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>图书馆的门将在30秒后打开<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
