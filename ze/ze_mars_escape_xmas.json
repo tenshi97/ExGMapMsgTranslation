@@ -2,7 +2,7 @@
   {
     "original": "After a long trip to mars you finally land but something strange has happened...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "在超长的旅途之后，你们终于抵达了火星。但是总感觉少了点什么...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "IT'S CHRISTMAS!!!!!!!!!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "没错，系圣诞节!!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "Map made by Xquality, remixed by Santa, models from Luffaren",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图制作：Xquality，Santa负责缝合，模型来自Luffaren",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,16 +29,16 @@
   {
     "original": "*** MATERIALS AT LVL 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 魔晶石等级 三 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Mini airlock opening in 5.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "小小的气闸门 5 秒后开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -47,7 +47,7 @@
   {
     "original": "ye olde tram leaves in 4 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大清制造的小火车 4 秒后离开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -56,7 +56,7 @@
   {
     "original": "Holly Jolly-enerator offline :(",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "神圣发电机离线了:(",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "Holly Jolly-enerator waiting for restart.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "神圣发电机渴望你来重启它 (*/ω＼*)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "Airlock opening in 20 secs.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "气闸门 20 秒后开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -83,7 +83,7 @@
   {
     "original": "Holly Jolly-enerator Online :D",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "神圣发电机非常喜欢你的服务! 现在活力满满! :D",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "Airlock opening in 15 secs.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "气闸门 15 秒后开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -101,7 +101,7 @@
   {
     "original": "Airlock opening in 10 secs.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "气闸门 10 秒后开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -110,7 +110,7 @@
   {
     "original": "Airlock opening in 5 secs.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "气闸门 5 秒后开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -119,7 +119,7 @@
   {
     "original": "Airlock opening.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "气闸门 开啦 ╰(*°▽°*)╯",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "Bunker closing in 60 secs",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门 60 秒后关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -137,7 +137,7 @@
   {
     "original": "Pole doors closing.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "支柱门关闭ing",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "Bunker closing in 40 secs",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门 40 秒后关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -155,7 +155,7 @@
   {
     "original": "Security airlock closing.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "安全气闸关闭ing",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "You are starting to feel uneasy about Christmas this year...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "你感叹到今年的圣诞节真不容易啊",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "Maybe you shouldn't open your presents...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "或许你不应该打开你的圣诞礼物的",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "??????? christmas generator has failed ????????",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "??????? 啊，圣诞发动机坏了 ???????",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "perhaps we have been too naughty",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "啊是不是我们太不听话了呜呜呜 TwT",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "sinners must perish",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "啊啊啊啊啊坏人必须似!!!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "christmas is ruined",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我的圣诞被毁了!!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "god smites the unholy demons who follow santa",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "上帝会给追随圣诞老人的恶魔降下神罚!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "santa was never really here",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "圣诞老人从未来过这里",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "HO HO HO - naughty boys can only defend themselves with their knives...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "哈哈哈哈 - 淘气男孩只能用他们可怜的小刀来保护他们了!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "** ZOMBIES HAVE INFECTED THE BUNKER **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸进来了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "Bunker closing in 20 secs",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门 20 秒后关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -263,7 +263,7 @@
   {
     "original": "Bunker closing in 10 secs",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门 10 秒后关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -272,7 +272,7 @@
   {
     "original": "Bunker closing in 5 secs",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门 5 秒后关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -281,7 +281,7 @@
   {
     "original": "Marslab self-destructing in...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "火星实验室自毁程序启动中...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "REBUYS ARE DISABLED! FALL DAMAGE IS ENABLED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "嗨嗨嗨，圣诞快乐，克劳德。你喜欢圣诞节去炸魔晄炉吗? 什么? 你不喜欢!? 不喜欢也要去捏~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "**Door is opening in 10 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门 10 秒后开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -308,7 +308,7 @@
   {
     "original": "**Door is opening in 5**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门 5 秒后开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -317,7 +317,7 @@
   {
     "original": "**Door is open**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门开了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "**Elevator is leaving in 10s**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**电梯 10 秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -335,7 +335,7 @@
   {
     "original": "** A player has adquired ELECTRO MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "** A player has adquired GRAVITY MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 黑洞 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "** A player has adquired HEAL MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 治疗 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "** A player has adquired WIND MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 风 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "** A player has adquired ICE MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "Elevator broken.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯坏了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "** A player has adquired ULTIMA MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 终极 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "Santa will punish naughty boys and girls who don't save Christmas...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "圣诞老人要惩罚你们这些没能拯救圣诞的坏孩子...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "** A player has adquired EARTH MATERIA **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 土 魔晶石已拾起**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
