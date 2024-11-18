@@ -776,16 +776,16 @@
   {
     "original": ">> 1 MORE RUNG TO FIND <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还差一个木板 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** LIFT LEAVING IN 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -794,7 +794,7 @@
   {
     "original": "*** THE LIFT IS BROKEN ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯坏啦! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "*** WE HAVE TO GO DEEPER INTO THE CAVE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们得继续深入洞穴了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "*** HOLD WHILE WE OPEN THE WAY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 拖住僵尸，我们正在开路 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": ">> IT'S A DEAD END !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 这应该就是尽头了!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": ">> THE MOLE WILL HELP US GET OUT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 鼹鼠会帮我们出去的 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": ">> DEFEND WHILE THE MOLE IS DIGGING <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 拖住僵尸，鼹鼠正在挖洞 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守住! 不要把僵尸放出洞穴 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">> THE MOLE IS COMING BACK ! WATCH OUT !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 鼹鼠要回去了! 小心! 不要别鼹鼠创死!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "*** ZOMBIES TAKE THE SIDEWAY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸拿下了侧路 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": "*** ELEVATOR IS STUCK ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯卡住了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": "*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这一层有一个紧急开关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -893,7 +893,7 @@
   {
     "original": "*** NICE JOB!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 干得漂亮 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 宝可梦不会跟着你们进入这个洞穴 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "*** Doors opening in 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 30 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -920,7 +920,7 @@
   {
     "original": "*** Doors opening in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 5 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -929,7 +929,7 @@
   {
     "original": "*** Doors are open! RUN!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门开了，快跑! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": ">> IT'S A SHINY PIKACHU !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 是闪光皮卡丘!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": ">> A POKEBALL HAS BEEN PICKED UP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一个精灵球已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": ">> CATCH HIM. HE IS OUR WAY OUT !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 抓住他! 他是我们离开这里的希望!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": ">> TAKE THE POKEBALL <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 拿好精灵球 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": ">> SHINY PIKACHU HAS BEEN PICKED UP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 闪光皮卡丘 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": ">> WE CAN LEAVE THIS WORLD NOW <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们可以离开宝可梦世界了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": ">> THE CLOCK IS A TIME MACHINE !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 这个钟是时光机!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1001,7 +1001,7 @@
   {
     "original": ">> PUT THE SHINY PIKACHU INSIDE IT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 把闪光皮卡丘放进里面 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,7 +1010,7 @@
   {
     "original": ">> ENTER IN THE CLOCK FROM THE BACK <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 放入至钟的背面 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1019,7 +1019,7 @@
   {
     "original": ">> PUT SHINY PIKACHU IN THE CLOCK <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 把闪光皮卡丘放进里面 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": ">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 皮卡丘正在驱动时光机 !!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": ">> STAY ON THE BOOK <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 待在书本上 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": ">> IT SHOULD BE SAFER <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 那里应该更安全 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,7 +1055,7 @@
   {
     "original": ">> PIKACHU IS GETTING OUT OF CONTROL !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 皮卡丘快要失控了!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": ">> THE OVERLOAD IS RECHARGING THE RADIO !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 无线电充电超载!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,7 +1073,7 @@
   {
     "original": ">> GO ON THE BOOK ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 快上到书本上去 ! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1082,7 +1082,7 @@
   {
     "original": ">> LEVEL: TIME LOOP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡：时间循环 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1091,7 +1091,7 @@
   {
     "original": ">> THE TIME MACHINE IS ALMOST READY !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 时光机很快准备好了!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1100,7 +1100,7 @@
   {
     "original": ">> DEFEND !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守住 !!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1109,7 +1109,7 @@
   {
     "original": ">> DEFEND FOR 40 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 防守 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -1118,7 +1118,7 @@
   {
     "original": ">> 5 SECONDS LEFT !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还剩 5 秒 !!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1127,7 +1127,7 @@
   {
     "original": "*** WAIT TILL BOMBS BREAK THIS BOARD ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 等待炸弹炸碎这块板子 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1136,7 +1136,7 @@
   {
     "original": "*** BOARD IS BROKEN RUUUUUUN!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 板子已经炸碎了，快润!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1145,7 +1145,7 @@
   {
     "original": "*** Door opening in 25 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 25 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -1154,7 +1154,7 @@
   {
     "original": "*** Doors opening in 20 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 20 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1163,7 +1163,7 @@
   {
     "original": ">> DEFEND FOR 30 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 防守 30 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1172,7 +1172,7 @@
   {
     "original": ">> OH NO!! IT'S PIKACHU NAZI <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 不好! 是丘特勒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1181,7 +1181,7 @@
   {
     "original": ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 他正在创造撒旦! 快杀了他! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1190,7 +1190,7 @@
   {
     "original": ">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 丘特勒 正在使用 十万伏特! 继续攻击!!!!!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1199,7 +1199,7 @@
   {
     "original": ">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 已击败 丘特勒 !!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1208,7 +1208,7 @@
   {
     "original": ">> WE WERE TOO LATE !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们太晚了 !!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1217,7 +1217,7 @@
   {
     "original": ">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 丘特勒献上了他的灵魂，完成了撒旦的降世!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1226,7 +1226,7 @@
   {
     "original": ">> OH NO!! SATAN IS ALIVE ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 不好! 撒旦苏醒了! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1235,7 +1235,7 @@
   {
     "original": ">> SATAN OPENED A PORTAL TO HELL !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦开启了地狱之门!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1244,7 +1244,7 @@
   {
     "original": "-- [ZOMBIES] Find Satan's Powers to make him stronger --",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-- [僵尸] 找到撒旦能量，让撒旦更加强大! --",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1253,7 +1253,7 @@
   {
     "original": ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦正在靠近时光机!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1262,7 +1262,7 @@
   {
     "original": ">> STOP HIM BEFORE IT'S TOO LATE !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 快阻止他乘坐时光机!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1271,7 +1271,7 @@
   {
     "original": ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 不好! 撒旦进入时光机了! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1280,7 +1280,7 @@
   {
     "original": ">> GET READY FOR THE FINAL FIGHT !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 准备好与撒旦的决战 !! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1289,7 +1289,7 @@
   {
     "original": ">> KEEP ZOMBIES OUT OF THE ROOM <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 不要让僵尸进到房间 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1298,7 +1298,7 @@
   {
     "original": "-- [ZOMBIES] You can still find Satan's Powers during the fight --",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-- [僵尸] 你仍然可以在战斗途中寻找撒旦能量",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1307,7 +1307,7 @@
   {
     "original": "** Satan can summon Ultimate Minions **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撒旦会召唤 终极 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1316,7 +1316,7 @@
   {
     "original": "** Satan control the Electricity **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撒旦掌控了 电 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1325,7 +1325,7 @@
   {
     "original": "** Satan can summon Tornado Minions **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撒旦会召唤 龙卷风 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1334,7 +1334,7 @@
   {
     "original": "** Satan is immune to Grenades **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 手雷现在对撒旦无效 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1343,7 +1343,7 @@
   {
     "original": "** Satan control the Ice **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撒旦掌控了 冰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1352,16 +1352,16 @@
   {
     "original": "** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 五只僵尸献上了自己的灵魂，给予了撒旦五种特殊能力 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">> SATAN IS ESCAPING !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦逃走了!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1370,7 +1370,7 @@
   {
     "original": ">> HE WON'T GO FAR ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 他不会走太远的 ! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1379,7 +1379,7 @@
   {
     "original": ">> DEFEND 20 SECONDS !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 防守 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1388,7 +1388,7 @@
   {
     "original": ">> 5 SECONDS LEFT !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还剩 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1397,7 +1397,7 @@
   {
     "original": ">> GO IN THE TIMEMACHINE !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 快进到时光机!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1406,7 +1406,7 @@
   {
     "original": ">> THIS IS THE BRINK OF TIME <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 这里是...时空裂缝 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1415,7 +1415,7 @@
   {
     "original": ">> SATAN IS HIDING SOMEWHERE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撒旦一定藏在这里 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1424,7 +1424,7 @@
   {
     "original": ">> BE CAREFUL <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 小心! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1433,7 +1433,7 @@
   {
     "original": ">> DEFEND UNTIL SOMETHING HAPPENS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守住，等待撒旦的出现 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1442,7 +1442,7 @@
   {
     "original": ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 40 秒，直到撒旦消失在未来中 ! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -1451,7 +1451,7 @@
   {
     "original": ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们要尽快杀了撒旦! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1460,7 +1460,7 @@
   {
     "original": ">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们终于击败了撒旦!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1469,7 +1469,7 @@
   {
     "original": ">> THE WORLD WILL FINALLY BE IN PEACE !!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 世界重归和平!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1478,7 +1478,7 @@
   {
     "original": ">> DEFEND 20 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 防守 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1487,7 +1487,7 @@
   {
     "original": ">> 5 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还剩 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1496,7 +1496,7 @@
   {
     "original": ">> Congratulations ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你们是冠军！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1505,7 +1505,7 @@
   {
     "original": ">> You beat the map ! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你们是蘑菇高手! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1514,7 +1514,7 @@
   {
     "original": ">> Good Ending <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 好结局 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1523,7 +1523,7 @@
   {
     "original": ">> Thanks for being part of this incredible adventure <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 感谢你参与这场史诗级的冒险 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1532,7 +1532,7 @@
   {
     "original": ">> PLAYER HAS CHOSEN: DEAD TREE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家选择关卡：枯树 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1541,7 +1541,7 @@
   {
     "original": ">> THE MASTERBALL HAS BEEN PICKED UP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大师球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1550,7 +1550,7 @@
   {
     "original": ">> TAKE THE MASTERBALL <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 拿上大师球 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1559,7 +1559,7 @@
   {
     "original": "** Satan's Speed Increased **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撒旦速度提升 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1568,7 +1568,7 @@
   {
     "original": "** Satan can summon Water Minions **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撒旦会召唤 水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
