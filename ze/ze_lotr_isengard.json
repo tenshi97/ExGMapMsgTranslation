@@ -128,11 +128,11 @@
   {
     "original": "*If you wont kill spider in 2 min zombies will eat you*",
     "en_trans": "",
-    "zh_trans": "*如果两分钟内无法击败蜘蛛，那么僵尸直接开饭*",
+    "zh_trans": "*如果120秒内无法击败蜘蛛，那么僵尸直接开饭*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 120,
+    "enable_timer": 1
   },
   {
     "original": "**Prepare to fight**",
