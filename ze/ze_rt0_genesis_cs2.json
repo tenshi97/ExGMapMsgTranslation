@@ -2,7 +2,7 @@
   {
     "original": "*** spwanpoint door break in 10s ??? ***",
     "en_trans": "",
-    "zh_trans": "*** 门将在 10 秒后被打破  ***",
+    "zh_trans": "*** 出生点的门将在 10 秒后被打破  ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -38,7 +38,7 @@
   {
     "original": "*** spawnpoint push close in 5s ***",
     "en_trans": "",
-    "zh_trans": "*** 生成点将在5秒后推至关闭 ***",
+    "zh_trans": "*** 出生点将在5秒后关闭推力 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -533,7 +533,7 @@
   {
     "original": "<<< spawnpoint push disable >>>",
     "en_trans": "",
-    "zh_trans": "<<<生成点推力已禁用>>>",
+    "zh_trans": "<<<出生点推力已禁用>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
