@@ -1,159 +1,60 @@
 [
   {
-    "original": "Lv1",
+    "original": "<<< Cavern door opens in 45 seconds! >>>",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "20s",
-    "en_trans": "",
-    "zh_trans": "20 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "15s",
-    "en_trans": "",
-    "zh_trans": "15 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "10s",
-    "en_trans": "",
-    "zh_trans": "10 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "25s",
-    "en_trans": "",
-    "zh_trans": "25 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "30s",
-    "en_trans": "",
-    "zh_trans": "30 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "60s",
-    "en_trans": "",
-    "zh_trans": "60 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
-  },
-  {
-    "original": "...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "Shield cd80s",
-    "en_trans": "",
-    "zh_trans": "护盾 cd 80秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "gravity cd60s",
-    "en_trans": "",
-    "zh_trans": "重力 cd 60秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "Lv2",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "A new place. Looks like that thing's still following me",
-    "en_trans": "",
-    "zh_trans": "新地方，那东西似乎还在跟着我",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "100s",
-    "en_trans": "",
-    "zh_trans": "100 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
-  },
-  {
-    "original": ". . .",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "45s",
-    "en_trans": "",
-    "zh_trans": "45 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
     "enable_timer": 1
   },
   {
-    "original": "29s",
+    "original": "<<< Outside door closes in 15 seconds! >>>",
     "en_trans": "",
-    "zh_trans": "29 秒",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 29,
+    "timer_num": 15,
     "enable_timer": 1
   },
   {
-    "original": "50s",
+    "original": "<<< Ice breaking in 60 seconds! >>>",
     "en_trans": "",
-    "zh_trans": "50 秒",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
-    "original": "RTV",
+    "original": "<<< Zombies teleport in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Ice breaks in 45 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Gate opens in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Gastly Wind >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,34 +63,61 @@
     "enable_timer": 0
   },
   {
-    "original": "RRRRRRRRTTTTTTTTTVVVVVVVVV",
+    "original": "<<< Gates open in 10 seconds! >>>",
     "en_trans": "",
-    "zh_trans": "rtv rtv rtv rtv rtv 5",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Crystals break in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Bar door opens in 30 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Zombies teleport in 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Bridge appearing in 5 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": "Lv3",
+    "original": "<<< Icicles break in 10 seconds! >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "110s",
-    "en_trans": "",
-    "zh_trans": "110 秒",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 110,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "[. . . ]",
+    "original": "<<< Blade stopping! >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,7 +126,43 @@
     "enable_timer": 0
   },
   {
-    "original": "[. . . . .]",
+    "original": "<<< Zombies teleport in 45 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 45,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Gate opens in 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Zombies teleport in 20 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Last hold! Hold for 60 seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Ladder on side of platform has been broken watch out!!!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +171,16 @@
     "enable_timer": 0
   },
   {
-    "original": "[. . . . . . .]",
+    "original": "<<< 25 more seconds! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Replenish >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,16 +189,7 @@
     "enable_timer": 0
   },
   {
-    "original": "admin set lv2",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "<? ? ?>",
+    "original": "<<< Killzone >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
