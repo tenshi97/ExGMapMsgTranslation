@@ -830,7 +830,7 @@
   {
     "original": ">>> YOU FORGOT THE ARTIFACT <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>你弄丢了水晶<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": ">>> MISSION FAILED ! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>任务失败!<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">>> KILL REMAINING ZOMBIES <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>杀死剩余的僵尸<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,10 +857,10 @@
   {
     "original": "[ADMIN ROOM] STAGE 2 NEXT ROUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>管理员选择了第二关<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
