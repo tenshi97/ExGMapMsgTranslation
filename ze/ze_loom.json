@@ -185,8 +185,8 @@
     "zh_trans": "僵尸将于10秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "Zombie tp in 15 seconds",
@@ -194,13 +194,13 @@
     "zh_trans": "僵尸将于15秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "25 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "25 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -209,7 +209,7 @@
   {
     "original": "Zeus is angry.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "宙斯很生气。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "Water is rising..",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水位正在上升..",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

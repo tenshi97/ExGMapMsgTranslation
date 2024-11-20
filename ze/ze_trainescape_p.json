@@ -11,20 +11,20 @@
   {
     "original": "*** Heli is leaving in one minute. ***",
     "en_trans": "",
-    "zh_trans": "*** 直升机离开于一分钟后. ***",
+    "zh_trans": "*** 直升机离开于60秒后. ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "*** Trains are leaving in one minute. ***",
     "en_trans": "",
-    "zh_trans": "*** 火车离开于一分钟后. ***",
+    "zh_trans": "*** 火车离开于60秒后. ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "*** Generator room will open in 8s. ***",

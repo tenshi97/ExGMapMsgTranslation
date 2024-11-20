@@ -335,11 +335,11 @@
   {
     "original": "Wait a minute, I seem to have seen this sword before",
     "en_trans": "",
-    "zh_trans": "给我1分钟，我看到这有一把剑",
+    "zh_trans": "给我60秒，我看到这有一把剑",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "I'll inject strength into this sword",

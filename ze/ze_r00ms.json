@@ -86,8 +86,8 @@
     "zh_trans": "第6号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "5 room is ready!",
@@ -95,8 +95,8 @@
     "zh_trans": "第5号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "1 room is ready!",
@@ -104,8 +104,8 @@
     "zh_trans": "第1号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "8 room is ready!",
@@ -113,8 +113,8 @@
     "zh_trans": "第8号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 8,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "The portal has been opened and this space will collapse in 15 seconds. Please evacuate as soon as possible",
@@ -140,8 +140,8 @@
     "zh_trans": "第4号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "7 room is ready!",
@@ -149,16 +149,16 @@
     "zh_trans": "第7号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "5",
     "en_trans": "",
-    "zh_trans": "6",
+    "zh_trans": "5",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -203,8 +203,8 @@
     "zh_trans": "第3号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "2 room is ready!",
@@ -212,8 +212,8 @@
     "zh_trans": "第2号房间准备就绪",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Well done! you have collected enough energy balls, and the organization greatly appreciates your contribution. Please pass through the next portal and we will send you safely away",

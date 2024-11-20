@@ -32,8 +32,8 @@
     "zh_trans": "**人类到达了巴林之墓！抵抗55秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 55,
+    "enable_timer": 1
   },
   {
     "original": "**Balin's door closing/opening in 10 s**",
@@ -41,8 +41,8 @@
     "zh_trans": "**巴林陵墓的大门将在10秒后关闭/开启**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**Zombies have been alerted!**",
@@ -59,8 +59,8 @@
     "zh_trans": "**炎魔将在15秒后抵达僵尸重生洞和梯子区域**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**Resist 30 s**",
@@ -68,8 +68,8 @@
     "zh_trans": "**抵御僵尸30秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "**Resist 15 s**",
@@ -77,8 +77,8 @@
     "zh_trans": "**抵御僵尸15秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**Go to the Khazad-Dum bridge!**",
@@ -104,8 +104,8 @@
     "zh_trans": "** 守护光环将在15秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** ... **",
@@ -131,8 +131,8 @@
     "zh_trans": "**5**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**4**",
@@ -140,8 +140,8 @@
     "zh_trans": "**4**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 4,
+    "enable_timer": 1
   },
   {
     "original": "**3**",
@@ -149,8 +149,8 @@
     "zh_trans": "**3**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "**2**",
@@ -158,8 +158,8 @@
     "zh_trans": "**2**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "**1**",
@@ -167,8 +167,8 @@
     "zh_trans": "**1**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Go!**",
@@ -191,7 +191,7 @@
   {
     "original": "**Gandalf staff has been picked!**",
     "en_trans": "",
-    "zh_trans": "**甘道夫 已被拾取！**",
+    "zh_trans": "**甘道夫之杖 已被拾取！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -203,8 +203,8 @@
     "zh_trans": "**炎魔将在15秒后到达巴林的位置与环柱区**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**(Zombies) The door to Khazad-Dum bridge is now open**",
@@ -221,8 +221,8 @@
     "zh_trans": "**炎魔将在 15 秒后到达高处楼梯**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**Gandalf in the middle**",
@@ -248,8 +248,8 @@
     "zh_trans": "**保护甘道夫 35 秒！他必须破坏这座桥！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "**Gandalf is dead!**",

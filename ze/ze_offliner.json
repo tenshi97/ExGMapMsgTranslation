@@ -65,11 +65,11 @@
   {
     "original": "| Loading shockwave 15 seconds |",
     "en_trans": "",
-    "zh_trans": "| 冲击波加载中，还剩 15 秒 cd |",
+    "zh_trans": "| 冲击波加载中，还剩 15 秒  |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "2024.6.21-Updated",
