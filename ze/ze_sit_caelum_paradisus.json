@@ -1,6 +1,6 @@
 [
   {
-    "original": "** MAP MADE BY DARKOGRE AND PATRAO! **",
+    "original": ">> ZE_SIT_CAELUM_PARADISUS <<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** USE THE COMPUTERS TO OPEN THE DOOR **",
+    "original": ">>> MAP BY SATOKA<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,97 @@
     "enable_timer": 0
   },
   {
-    "original": "** DOOR OPENS IN 20 SECONDS **",
+    "original": ">>> CS2 Ported by Tenshi.<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> TRY TO USE THEM <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> ROUTE ONE <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> TAKE FRONT-LEFT DOOR <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> IGNIS AXE HAS BEEN PICKED UP <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> TERRA AXE HAS BEEN PICKED UP <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> SANATIO STAFF HAS BEEN PICKED UP <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">> VENTUS STAFF HAS BEEN PICKED UP <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>A zombie has picked up Ice<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>DOOR BREAKING IN 20 SECS<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +117,7 @@
     "enable_timer": 1
   },
   {
-    "original": "** TURN THE LASERS OFF **",
+    "original": ">>>HOLD<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +126,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** GO TO THE BATHROOM **",
+    "original": ">>A zombie has picked up Gravity<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,16 +135,16 @@
     "enable_timer": 0
   },
   {
-    "original": "** BATHROOM DOOR OPENS IN 15 SECONDS **",
+    "original": ">>>DOOR BREAKING IN 25 SECS<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
+    "timer_num": 25,
     "enable_timer": 1
   },
   {
-    "original": "** DOOR IS OPEN **",
+    "original": ">>>HHOOLLDD<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,16 +153,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Truck leaving in 15 seconds! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "** The police wants to stop you! **",
+    "original": ">>>HOLDDDD<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,97 +162,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Shoot them! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** The Elevator will leave in 10 seconds. Don't miss it! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "** HOLD 40 SECONDS **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "** 5 SECONDS LEFT **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** DOOR IS OPENING **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** HOLD THE BEDROOM **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** MAKE YOUR WAY TO THE OFFICE **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** 30 SECONDS TO UNLOCK THE DOOR **",
+    "original": ">>>DOOR BREAKING IN 30 SECS<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,7 +171,52 @@
     "enable_timer": 1
   },
   {
-    "original": "** GET IN THE CHOPPA! **",
+    "original": ">>>DOOR BREAKING IN 15 SECS<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>DOOR OPENING 20 SECS<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>DOOR OPENING IN 35 SECS<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>>LAST HOLD 18 SECS<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 18,
+    "enable_timer": 1
+  },
+  {
+    "original": ">> WE SECURED ROUTE ONE <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>LETS GO TO ROUTE TWO<<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
