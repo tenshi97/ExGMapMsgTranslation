@@ -2,28 +2,28 @@
   {
     "original": "***Door Open in 30secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 30 秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "***Door Open in 34secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 34 秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 34,
+    "enable_timer": 1
   },
   {
     "original": "***Door Breaks in 30secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门在 30 秒后破裂。***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   }
 ]
