@@ -20,7 +20,7 @@
   {
     "original": "**STAGE1 Clean**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**关卡1 完成** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,25 +29,25 @@
   {
     "original": "**40seconds left**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**还剩 40 秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": "**10seconds left**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**还剩 10 秒** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**Zombie has escape**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**有僵尸逃脱了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "**STAGE2 Clean**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**关卡2 完成** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "**No human, Stage1 Fail**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**无人生还, 关卡1失败**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "**Zombie has escape,Stage1 Fail**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**有僵尸逃脱,关卡1失败**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,10 +83,10 @@
   {
     "original": "**Survive 180seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**存活 180 秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 180,
+    "enable_timer": 1
   }
 ]
