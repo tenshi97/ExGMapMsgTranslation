@@ -2,7 +2,7 @@
   {
     "original": "- STAGE SQUARE -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 关卡 正方形 -",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "<< Hold for 25 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚持 25 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -20,7 +20,7 @@
   {
     "original": "Current BGM: MAZRDOLL::#V[Sempronius] -AcuticNotes",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前 BGM: MAZRDOLL::#V[Sempronius] -AcuticNotes",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "<< Hold for 30 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚持 30 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -38,7 +38,7 @@
   {
     "original": "<< Hold for 15 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚持 15 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -47,7 +47,7 @@
   {
     "original": "<< Shooting the square to recharge the power of the lift >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 向方块射击，为电梯重新充电 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,43 +56,43 @@
   {
     "original": "<< The lift will RE-recharge if the power is more than 100 >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 如果能量超过 100 ，电梯将重新充电 >> ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< TIPS: red square will get 10 power >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 提示：红色方块将获得 10 点能量 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< TIPS: green square will get 20 power >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 提示：绿色方块将获得 20 点能量 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< TIPS: blue square will get 30 power >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 提示：蓝色方块将获得 30 点能量 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< TIPS: white square will refresh other square >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 提示：白色方块将刷新其他方块 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,34 +101,34 @@
   {
     "original": "*Current Power: 30*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：30*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*Current Power: 60*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：60*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 60,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*Current Power: 80*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：80*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 80,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "OVERLOAD!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "超载!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "*Current Power: 0*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：0*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,43 +146,43 @@
   {
     "original": "*Current Power: 20*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：20*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*Current Power: 50*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：50*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*Current Power: 90*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：90*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 90,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*Current Power: 100*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：100*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "COMPLETE!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "完成!!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "<< Platform will move in 8 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 平台将在 8 秒后移动 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -200,7 +200,7 @@
   {
     "original": "<< Hold for 35 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚持 35 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -209,25 +209,25 @@
   {
     "original": "*Current Power: 40*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：40*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*Current Power: 70*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*当前能量：70*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 70,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<< STAGE COMPLETE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 关卡完成 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "- STAGE CIRCLE -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 关卡 圆形 -",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "Current BGM: Abst:Re:Act -AcuticNotes",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前 BGM: Abst:Re:Act -AcuticNotes",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "<< Hold for 60 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚持 60 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -263,7 +263,7 @@
   {
     "original": "- STAGE TRIANGLE -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 关卡 三角形 -",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "Current BGM: OutVid -AcuticNotes",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前 BGM: OutVid -AcuticNotes",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
