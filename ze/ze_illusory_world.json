@@ -20,7 +20,7 @@
   {
     "original": "< CS2 Port by @Seth. >",
     "en_trans": "",
-    "zh_trans": "< CS2 移植 @Seth. >",
+    "zh_trans": "<  由@Seth.移植到CS2  >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -32,8 +32,8 @@
     "zh_trans": "人类火 - 冻结僵尸 9 秒,50 秒冷却.",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 9,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Zombie Snow -Slow human around you for 3 sec. 30 cd",
@@ -41,8 +41,8 @@
     "zh_trans": "僵尸冰 - 减速周围的人类持续 3 秒,30秒冷却.",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Zombie Speed -Speed up zombie around you for 3 sec. 60 cd",
@@ -50,8 +50,8 @@
     "zh_trans": "僵尸加速 - 加速周围的僵尸持续 3 秒,60秒冷却.",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Open the hole in 40 seconds",
@@ -77,8 +77,8 @@
     "zh_trans": "人类冰 - 冻结僵尸 6 秒,60秒冷却.",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Human Heal -Heal 200 hp,speed up 3 sec and Immune infection 5 sec. 65 cd.",
@@ -104,8 +104,8 @@
     "zh_trans": "僵尸火 - 向前方喷射火焰持续3秒，80秒冷却",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Defeat the guardian of ancient will",
@@ -173,7 +173,7 @@
   {
     "original": "Send AFK player to level 2 in 5 seconds",
     "en_trans": "",
-    "zh_trans": "挂机玩家将在15秒后传送至第二层",
+    "zh_trans": "挂机玩家将在5秒后传送至第二层",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -182,16 +182,16 @@
   {
     "original": "Turn on the last transfer after 30 seconds and close after 10 seconds",
     "en_trans": "",
-    "zh_trans": "最后一次传送将在30秒后开启并在十秒后关闭",
+    "zh_trans": "最后一次传送将在30秒后开启并在10秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "<< 30 >>",
     "en_trans": "",
-    "zh_trans": "<< 30秒 >>",
+    "zh_trans": "<< 30 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
