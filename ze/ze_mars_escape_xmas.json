@@ -434,7 +434,7 @@
   {
     "original": "Big and strong mommy tomboys kill zombies and save christmas on Mars...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "高大强壮的假小子妈妈杀死僵尸，拯救火星上的圣诞节...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "Pathetic and weak soyboys will make Santa do the job for them...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "可怜而虚弱的大豆男孩会让圣诞老人为他们做这项工作...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "** We have reached the core ...**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们已经到达核心 ...**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": "** ... Cloud is planting the bomb **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ... 克劳德正在安放炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "** Bomb has been planted ** Run **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 炸弹已被安放 ** 撤退 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "**Keep shooting ! We dont know what it can do **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**保持火力 ! 我们不知道它的目的 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示: 手雷能造成更多伤害 ** 多丢点雷 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "** Dont stop shooting ! Dont let him attack !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 保持开火! 别让它攻击到我们!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "** WHAT THE FUCK!!!!!!!!!!!!!!!!!!!!!!!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** WTF这是什么东西（ ° ͜ ʖ ° ）？？***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": "** BAHAMUT IS CASTING ** PREPARE YOURSELF **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特正在释放技能 ** 保护你自己 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "** BAHAMUT HAS CAST GRAVITY **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈母特释放了黑洞 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "** Bahamut is in attack position ** Keep firing !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特进入攻击状态! **保持开火!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 警告! 巴哈姆特正在释放终极 ** 准备使用奶神器 ++ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 终极将在 10 秒后释放 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -560,7 +560,7 @@
   {
     "original": "** Bahamut is going to cast Mega Flare !! Shoot !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特要释放巨焰爆发了!! 快开枪! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,16 +569,16 @@
   {
     "original": "** BAHAMUT HAS HEALED 150 HIT POINTS**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特为自己恢复了150血量**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 150,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** BAHAMUT HAS CAST ICE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈母特释放了冰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": "** BAHAMUT HAS CAST ELECTRO! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈母特释放了电! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "** BAHAMUT HAS CAST WIND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈母特释放了风 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特将要消灭我们 ! 不要停止射击 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "**Bahamut has been defeated ! ** Go go! Run upstairs ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈母特已被击败！**快走! 赶快上楼! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "** EXPLOSION IN 130 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 炸弹会在130秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 130,
@@ -632,7 +632,7 @@
   {
     "original": "** 120 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有120秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -641,7 +641,7 @@
   {
     "original": "** 110 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有110秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 110,
@@ -650,7 +650,7 @@
   {
     "original": "** 100 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有100秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
@@ -659,7 +659,7 @@
   {
     "original": "** 90 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有90秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -668,7 +668,7 @@
   {
     "original": "** 80 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有80秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -677,7 +677,7 @@
   {
     "original": "** 70 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有70秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -686,7 +686,7 @@
   {
     "original": "** DOOR OPENS IN 35 S **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在35秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -695,7 +695,7 @@
   {
     "original": "** 60 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有60秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -704,7 +704,7 @@
   {
     "original": "** 50 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有50秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -713,7 +713,7 @@
   {
     "original": "** 40 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有40秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -722,7 +722,7 @@
   {
     "original": "** 30 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有30秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -731,7 +731,7 @@
   {
     "original": "** 20 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有20秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -740,7 +740,7 @@
   {
     "original": "** RUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 快跑! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "** BAHAMUT IS DEAD ** KEEP RUNNING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈姆特已经死亡 ** 快跑 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": "** 10 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有10秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -767,7 +767,7 @@
   {
     "original": "** BAHAMUT HAS CAST FIRE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴哈母特释放了火! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

@@ -2,7 +2,7 @@
   {
     "original": "** MAP MADE BY PATRAO **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图由PATRAO制作 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "** SPECIAL THANKS TO ENVIOLINADOR **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 特别感谢；ENVIOLINADOR **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "** WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 白色方块是高手路 | noob都去爬中间的梯子 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "** HOLD THIS AREA FOR 60 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地60秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -38,7 +38,7 @@
   {
     "original": "** 5 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -47,7 +47,7 @@
   {
     "original": "** CHOOSE ONE PORTAL**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 选择一个传送**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "** HOLD THIS AREA FOR 30 SECONDS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地30秒！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -65,7 +65,7 @@
   {
     "original": "** 5 MORE SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -74,7 +74,7 @@
   {
     "original": "** HOLD FOR 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守30秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -83,7 +83,7 @@
   {
     "original": "** Cool'R Gun has been picked up. Press +USE (E) to activate. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰冻枪已被拾起. 按E使用. **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,16 +92,16 @@
   {
     "original": "** It has a 75 seconds cooldown. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰冻枪的冷却时间为75秒. **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 75,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** HOLD THIS AREA FOR 33 SECONDS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地33秒! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 33,
@@ -110,7 +110,7 @@
   {
     "original": "** TELEPORT CHARGING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器正在充能 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "HOLD ZOMBIES UNTILL IT IS FULLY CHARGED",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住僵尸知道传送器充能完毕",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,43 +128,43 @@
   {
     "original": "** 25 % CHARGED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器已充能 25 % **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 50 % CHARGED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器已充能 50 % **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 75% CHARGED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器已充能 75% **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 75,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 100 %! GO GO GO!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 传送器已充能 100 %! 该跑路啦!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** HOLD THIS AREA FOR 50 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地50秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -173,7 +173,7 @@
   {
     "original": "** SHOOT ZOMBIES OUT UNTILL LADDER BREAKS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守僵尸直到梯子断开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "** HOLD ZOMBIES FOR 50 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 拖住僵尸50秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -191,7 +191,7 @@
   {
     "original": "** ZOMBIES: CLIMB THE STAIRS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸走楼梯！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "** HOLD ZOMBIES FOR 45 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 拖住僵尸45秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -209,7 +209,7 @@
   {
     "original": "** WALL BREAKING IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 墙会在5秒后破裂 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -218,7 +218,7 @@
   {
     "original": "** HOLD THIS PLATFORM FOR 37 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住这个平台37秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 37,
@@ -227,7 +227,7 @@
   {
     "original": "** The giant colored man-god salutes you... as you will on his domain! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巨大的有色人种神向你致敬... 正如你将在他的领域! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "** Throw all your nades! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 手雷能对boss造成更多伤害! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "** He's going to annihilate us in 10 seconds... SHOOT!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 它将在10秒后把我们做掉... 快开枪!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -254,7 +254,7 @@
   {
     "original": "** HE HAS LOADED HIS WEAPON!!! WE ARE DEAD!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 它解锁了他的武器!!! 我们已经gg啦!!!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": "** BUILDER HAS BEEN PICKED UP! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 墙已被拾取! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,16 +272,16 @@
   {
     "original": "** USE IT WELL! IT CAN ONLY BE USED 5 TIMES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 要合理使用! 它可以使用五次 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** HOLD THIS AREA FOR 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地30秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -290,7 +290,7 @@
   {
     "original": "** NUKE BUTTON UNLOCKED! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 核弹按钮解锁! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "** NUKE ACTIVATED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 核弹激活 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": "** 5 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 5 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -317,7 +317,7 @@
   {
     "original": "** 4 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 4 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -326,7 +326,7 @@
   {
     "original": "** 3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 3 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -335,7 +335,7 @@
   {
     "original": "** 2 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 2 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -344,7 +344,7 @@
   {
     "original": "** 1 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 1 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -353,7 +353,7 @@
   {
     "original": "** HOLD FOR 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守25秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -362,7 +362,7 @@
   {
     "original": "** HOLD ZOMBIES FOR 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 拖住僵尸30秒！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -371,7 +371,7 @@
   {
     "original": "** ELEVATOR LEAVING IN 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯30秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -380,7 +380,7 @@
   {
     "original": "** ELEVATOR LEAVING IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯5秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -389,7 +389,7 @@
   {
     "original": "** THE COLORED MAN-GOD IS DEAD!!! GET ON TOP OF THE BLUE AREA! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** boss已经寄啦!!! 快到中间的蓝色板子上! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "** ONLY 5 SECONDS LEFT! GO!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有5秒! 快集合!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -407,7 +407,7 @@
   {
     "original": "** YOU DID IT!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你做到了!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
