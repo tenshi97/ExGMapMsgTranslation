@@ -1,6 +1,6 @@
 [
   {
-    "original": "> ZE_GRACE",
+    "original": "这是哪？",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> Map by Tianli",
+    "original": "奇怪的地方，怎么到处都是...鸡块？不管了，找到路就行！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> Special thanks : Easter",
+    "original": "门会在30秒后打开！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> Gold",
+    "original": "看起来我们找到了路，守住这！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +36,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> White",
+    "original": "电梯在5秒内离开",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,34 +45,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> 30",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "> 40",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "> 20",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "> Something sinister happened in heaven ...",
+    "original": "僵尸侧路在15后打开",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +54,25 @@
     "enable_timer": 0
   },
   {
-    "original": "> TAKE THE PLUNGE !",
+    "original": "这是什么鬼玩意？！",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "侧路会在10秒后开放",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "板子会在15后离开！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
