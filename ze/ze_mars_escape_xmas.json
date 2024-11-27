@@ -614,7 +614,7 @@
   {
     "original": "**Bahamut has been defeated ! ** Go go! Run upstairs ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 圣诞老人被击败啦! 快去上炉子! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "** EXPLOSION IN 130 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 130 秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 130,
@@ -632,7 +632,7 @@
   {
     "original": "** 120 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 120 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 120,
@@ -641,7 +641,7 @@
   {
     "original": "** 110 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 110 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 110,
@@ -650,43 +650,43 @@
   {
     "original": "** 100 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 100 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 90 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 90 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 80 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 80 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 70 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 70 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** DOOR OPENS IN 35 S **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门 35 秒后开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -695,34 +695,34 @@
   {
     "original": "** 60 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
-    "original": "** 50 SECONDS LEFT **",
+    "original": "** 还剩 50 秒 **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 40 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 40 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 30 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -731,7 +731,7 @@
   {
     "original": "** 20 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -740,7 +740,7 @@
   {
     "original": "** RUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 快跑! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -749,7 +749,7 @@
   {
     "original": "** BAHAMUT IS DEAD ** KEEP RUNNING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 圣诞老人死了! ** 继续前进 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": "** 10 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -767,7 +767,7 @@
   {
     "original": "** BAHAMUT HAS CAST FIRE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 圣诞老人释放了 火焰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,7 +776,7 @@
   {
     "original": "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 圣诞老人释放了 土 ** 开枪打碎这面土墙 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
