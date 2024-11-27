@@ -23,8 +23,8 @@
     "zh_trans": "缆车2将在9s后离开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 9,
+    "enable_timer": 1
   },
   {
     "original": "Boat leaving in 6 seconds!",
@@ -176,8 +176,8 @@
     "zh_trans": "开启导弹门1...",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Missile Doors 2 Opening...",
@@ -185,8 +185,8 @@
     "zh_trans": "开启导弹门2...",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Nuclear missile has been launched!!!",
