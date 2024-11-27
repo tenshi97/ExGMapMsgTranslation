@@ -1,24 +1,6 @@
 [
   {
-    "original": "*** GATE OPENS IN 20 SECONDS ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "***5 SECONDS LEFT ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "> > PLAYER PICKED HURT ITEM < <",
+    "original": "error",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> > PLAYER PICKED FIRE ITEM < <",
+    "original": "Luckybox_1",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,25 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** HOLD FOR 25 SECONDS ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** 5 SECONDS LEFT ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "> > PLAYER PICKED SLOW ITEM < <",
+    "original": "Luckybox_2",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,25 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** BRIDGE OPENS IN 15 SECONDS ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** DOOR OPENS IN 15 SECONDS ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** OH NO, ZOMBIE TRIGGERED ***",
+    "original": "Luckybox_3",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +36,7 @@
     "enable_timer": 0
   },
   {
-    "original": "*** YOU LOST!! ***",
+    "original": "Luckybox_4",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,12 +45,48 @@
     "enable_timer": 0
   },
   {
-    "original": "> > Level 1 < <",
+    "original": "Luckybox_5",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Luckybox_6",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Luckybox_7",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Luckybox_8",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "Luckybox_9",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
