@@ -542,7 +542,7 @@
   {
     "original": ">>>A Little Sister has been spotted nearby<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>附近发现了一个小妹妹<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": ">>Current Difficulty: Easy<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>当前难度：简单<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": ">>>The Big Daddy is lurking<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>大老爹正在潜伏着<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "***Plasmid obtained: Gravity Well***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***重力已被拾取***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": ">>SECRET: Found the Bird Token<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>别告诉别人,我找到了鸟形代币。<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": ">>>Chapter complete<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>章节完成<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,16 +596,16 @@
   {
     "original": ">>Chapter 2 - Fort Frolic<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二章—欢乐堡<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>Wait for Siren Alley doors to open - 15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待海妖小巷的门开启——15秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -614,7 +614,7 @@
   {
     "original": "*Splicers have been blocked for 8 seconds*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*基因改造人已被阻挡了8秒*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -623,7 +623,7 @@
   {
     "original": ">>Hide or hold until the exit has drained - 84s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚守原地，直到出口的水排空-需要84秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 84,
@@ -632,7 +632,7 @@
   {
     "original": "*Splicers have been blocked for 6 seconds*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*基因改造人已被阻挡了6秒*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -641,7 +641,7 @@
   {
     "original": "*Splicers have been blocked for 4 seconds*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*基因改造人已被阻挡了4秒*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -650,7 +650,7 @@
   {
     "original": "*Splicers have been blocked for 2 seconds*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*基因改造人已被阻挡了2秒*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -659,7 +659,7 @@
   {
     "original": "*Splicers have been freed!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*基因改造人已经无法阻挡*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": ">>Hold the Decompression Chamber<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守住减压舱<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": ">>Defend until Cohen opens the doors - 20s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>防守直至桑德·科恩打开门——还剩20秒。<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -686,7 +686,7 @@
   {
     "original": ">>Hold the doorway - 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守住门口—还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -695,7 +695,7 @@
   {
     "original": ">>Go up the stairs<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>上去<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -704,7 +704,7 @@
   {
     "original": ">>Wait for Poseidon Plaza to unfreeze<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待波塞冬广场解冻<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": ">>Defend while the door unfreezes - 20s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>在门解冻期间进行防守—还剩20秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -722,7 +722,7 @@
   {
     "original": ">>Defend Jasmine Jolie's room - 60s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>防守玛丽-凯瑟琳·乔琳娜的房间—60秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
