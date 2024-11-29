@@ -425,38 +425,38 @@
   {
     "original": "*** Door Opens in 4 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 4 ***",
+    "zh_trans": "*** 门将在4秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 4,
+    "enable_timer": 1
   },
   {
     "original": "*** Door Opens in 3 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 3 ***",
+    "zh_trans": "*** 门将在3秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "*** Door Opens in 2 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 2 ***",
+    "zh_trans": "*** 门将在2秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "*** Door Opens in 1 second ***",
     "en_trans": "",
-    "zh_trans": "*** 1 ***",
+    "zh_trans": "*** 门将在1秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** The Ship Thingy is Destroyed! ***",

@@ -77,7 +77,7 @@
     "zh_trans": "*** 我们需要坚守60秒,直到完全解冻 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
@@ -185,8 +185,8 @@
     "zh_trans": "*** 一切将在90秒后结束 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 90,
+    "enable_timer": 1
   },
   {
     "original": "*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***",
@@ -203,7 +203,7 @@
     "zh_trans": "*** 核爆还有60秒启动 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {

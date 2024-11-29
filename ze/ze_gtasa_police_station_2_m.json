@@ -38,11 +38,11 @@
   {
     "original": "[GTA:SA] ZM TP For 5 Seconds",
     "en_trans": "",
-    "zh_trans": "[GTA:SA] 僵尸五秒后传送",
+    "zh_trans": "[GTA:SA] 僵尸5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "[GTA:SA] GO! GO! GO!",
@@ -248,8 +248,8 @@
     "zh_trans": "[CT] 人类，我建议在2楼防守，因为僵尸会在你们所在的地方传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "[GTA:SA] 30 Seconds For Defend",

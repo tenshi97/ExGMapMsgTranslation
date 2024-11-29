@@ -23,8 +23,8 @@
     "zh_trans": "[调关房]更改至第1关。5秒后处死所有人！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>> STAGE 1 <<<",
@@ -50,8 +50,8 @@
     "zh_trans": "** 坚持 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** A player has picked up Freeze Staff **",
@@ -68,8 +68,8 @@
     "zh_trans": "** 还剩 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** FALL BACK **",
@@ -86,8 +86,8 @@
     "zh_trans": "** 坚持 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** A player has picked up Heal Staff **",
@@ -104,8 +104,8 @@
     "zh_trans": "** 传送将在30秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** 5 seconds left**",
@@ -113,8 +113,8 @@
     "zh_trans": "** 还有5秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** The doors will open in 25 seconds **",
@@ -122,8 +122,8 @@
     "zh_trans": "** 大门将在25秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** The doors will open in 20 seconds **",
@@ -131,8 +131,8 @@
     "zh_trans": "** 大门将在20秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** YOU WON STAGE 1 **",
@@ -167,8 +167,8 @@
     "zh_trans": "** 坚持25秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** A player has picked up Fire Staff **",
@@ -185,8 +185,8 @@
     "zh_trans": "** 坚持20秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** A player has picked up Ultimate Staff **",
@@ -203,8 +203,8 @@
     "zh_trans": "** 坚持30秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** Kill him or he kills you!!! **",
@@ -239,8 +239,8 @@
     "zh_trans": "** 坚持 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** Hold for 15 seconds **",
@@ -248,8 +248,8 @@
     "zh_trans": "** 坚持 15 秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** Teleport will open in 25 seconds **",
@@ -257,8 +257,8 @@
     "zh_trans": "** 传送25秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** YOU WON STAGE 2 **",
@@ -338,8 +338,8 @@
     "zh_trans": "[调关房]更改至第4关。5秒后处死所有人！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>> STAGE 4<<<",
@@ -365,8 +365,8 @@
     "zh_trans": "[调关房]更改至第5关。5秒后处死所有人！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">>> STAGE 5<<<",
@@ -383,8 +383,8 @@
     "zh_trans": "*** 坚持 20 秒. ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** 5 seconds left ***",
@@ -392,8 +392,8 @@
     "zh_trans": "*** 还剩5秒 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "*** FALL BACK ***",
@@ -410,8 +410,8 @@
     "zh_trans": "** 坚持15秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">> BOSS USED GRAVITY <<",
@@ -455,8 +455,8 @@
     "zh_trans": "** 230秒（3分50秒）后胜利. **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 230,
+    "enable_timer": 1
   },
   {
     "original": ">>> ZM ROUND <<<",
@@ -473,8 +473,8 @@
     "zh_trans": "** 200秒（3分20秒）后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 200,
+    "enable_timer": 1
   },
   {
     "original": "** Victory in 150 seconds. **",
@@ -482,8 +482,8 @@
     "zh_trans": "** 150秒（2分30秒）后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 150,
+    "enable_timer": 1
   },
   {
     "original": "** Victory in 100 seconds. **",
@@ -491,8 +491,8 @@
     "zh_trans": "** 100秒（1分40秒）后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 100,
+    "enable_timer": 1
   },
   {
     "original": "** Victory in 50 seconds. **",
@@ -500,8 +500,8 @@
     "zh_trans": "** 50秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": "** Victory in 10 seconds. **",
@@ -509,8 +509,8 @@
     "zh_trans": "** 10秒后胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** Victory! **",
@@ -554,8 +554,8 @@
     "zh_trans": "** 5 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** 4 **",
@@ -563,8 +563,8 @@
     "zh_trans": "** 4 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 4,
+    "enable_timer": 1
   },
   {
     "original": "** 3 **",
@@ -572,8 +572,8 @@
     "zh_trans": "** 3 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "** 2 **",
@@ -581,8 +581,8 @@
     "zh_trans": "** 2 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "** 1 **",
@@ -590,8 +590,8 @@
     "zh_trans": "** 1 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** IT'S TIME TO CHOOSE A LEVEL!!! **",
@@ -608,8 +608,8 @@
     "zh_trans": "** 坚持10秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** YOU WON STAGE 3 **",
@@ -626,8 +626,8 @@
     "zh_trans": "[调关房]更改为第6关（僵尸感染关卡）。 5秒后处死所有人！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!",
@@ -635,8 +635,8 @@
     "zh_trans": "[调关房]更改至第2关。5秒后处死所有人！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!",
@@ -644,13 +644,13 @@
     "zh_trans": "[调关房]更改至第3关。5秒后处死所有人！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "||| ZOMBIE ESCAPED! STAGE FAILED! |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 僵尸逃脱！关卡失败！||| ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

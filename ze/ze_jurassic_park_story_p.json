@@ -497,11 +497,11 @@
   {
     "original": ">>JEEPS LEAVING IN 5s AND 8s<<",
     "en_trans": "",
-    "zh_trans": ">>吉普车将在五秒和八秒后离开<<",
+    "zh_trans": ">>第二辆吉普车将在8秒后离开，第一辆将在倒计时3秒时离开<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 8,
+    "enable_timer": 1
   },
   {
     "original": ">>BUNKER LOCKDOWN IN 45s<<",

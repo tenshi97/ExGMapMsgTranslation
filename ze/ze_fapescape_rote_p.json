@@ -50,8 +50,8 @@
     "zh_trans": "*** 最多可使用 10 次 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Player has picked up Ammo Box ***",
@@ -83,7 +83,7 @@
   {
     "original": "*** Player has picked up Electro gun ***",
     "en_trans": "",
-    "zh_trans": "*** 玩家拾起了 电枪 ***",
+    "zh_trans": "*** 玩家拾起了 激光 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -95,8 +95,8 @@
     "zh_trans": "*** 可以持续使用 10 秒钟 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Doors open in 10 Seconds ***",
@@ -212,8 +212,8 @@
     "zh_trans": "*** 可使用 5 次 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Player has picked up Lego Maker ***",
@@ -302,8 +302,8 @@
     "zh_trans": "*** 仅能使用一次 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** This is the final hold point! ***",
@@ -596,7 +596,7 @@
   {
     "original": "*** Doors are opening in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 门在 15 秒后开启 ***",
+    "zh_trans": "*** 门在 5 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -686,7 +686,7 @@
   {
     "original": "*** DONT SHOOT HIM ***",
     "en_trans": "",
-    "zh_trans": "*** 不要想他开火 ***",
+    "zh_trans": "*** 不要向他开火 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

@@ -479,11 +479,11 @@
   {
     "original": "**斯狄科雪域大门将在10秒后打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**斯狄科雪域大门将在10秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**攻击岩石的脆弱部分!**",
@@ -497,29 +497,29 @@
   {
     "original": "**等待5秒封锁解除**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**等待5秒封锁解除**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**大门将在10秒后打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在10秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 20秒后升起石柱 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 20秒后升起石柱 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**左侧拉杆已拉动**",
@@ -533,20 +533,20 @@
   {
     "original": "** 10秒后僵尸传送 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 10秒后僵尸传送 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**5秒后左侧门开放**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后左侧门开放**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**右侧拉杆已拉动**",
@@ -560,38 +560,38 @@
   {
     "original": "**大门将在50秒后被摧毁**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在50秒后被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": "**5秒后右侧门开放**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后右侧门开放**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**大门将在10秒后被摧毁**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在10秒后被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "大门将在5秒后被摧毁**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门将在5秒后被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** 狩猎!开始了! **",
@@ -614,20 +614,20 @@
   {
     "original": "**大门将在5秒后打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在5秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**传送将在5秒后打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送将在5秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**当心!阿拉斯的幻影摧毁了桥梁!**",
@@ -641,11 +641,11 @@
   {
     "original": "**5秒后炸毁岩石**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后炸毁岩石**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**一名玩家与恶魔签订了契约**",
@@ -659,110 +659,110 @@
   {
     "original": "**瞭望塔的玻璃会在10秒后破碎**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**瞭望塔的玻璃会在10秒后破碎**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**5秒后进入埃洛斯宫殿**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后进入埃洛斯宫殿**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**5秒后捷径路开放**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后捷径路开放**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**5秒后门打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**5秒后门打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "**25秒后门打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**25秒后门打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "**40秒后门打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**40秒后门打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": "**20秒后门打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**20秒后门打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**门将在20秒后打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门将在20秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**15秒后门打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**15秒后门打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**传送20秒后打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送20秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**剩余20秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**剩余20秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**剩余15秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**剩余15秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 你们犯下了弥天之罪,回来迎接你们的审判吧! **",
@@ -785,20 +785,20 @@
   {
     "original": "**70秒后关闭斯狄科雪域大门**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**70秒后关闭斯狄科雪域大门**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 70,
+    "enable_timer": 1
   },
   {
     "original": "**20秒后迎接最终决战**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**20秒后迎接最终决战**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**龙息**",
@@ -875,11 +875,11 @@
   {
     "original": "**僵尸10秒后到来**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**僵尸10秒后到来**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**由于魔力流失，精灵耗尽最后的魔力,变为普通人,最后仅剩的魔力传输给了[随机]神器**",
@@ -1010,28 +1010,28 @@
   {
     "original": "*** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 7,
+    "enable_timer": 1
   },
   {
     "original": "**50秒后门打开**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**50秒后门打开**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   },
   {
     "original": "**也许还需要防守最多10秒 :3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**也许还需要防守最多10秒 :3 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
