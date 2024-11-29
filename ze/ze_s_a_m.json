@@ -1301,16 +1301,16 @@
     "zh_trans": ">> 当前分担伤害: 40 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">> Current shared damage: 50 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 当前分担伤害: 50 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
