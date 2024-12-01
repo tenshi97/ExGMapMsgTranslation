@@ -1,69 +1,6 @@
 [
   {
-    "original": "map by Airvulps",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "map modify by 兎RB",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "map port by SIRloin",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "> STAGE - A <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** 40 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "> STAGE - B <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** 15 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** 30 ***",
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 30 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,7 +9,7 @@
     "enable_timer": 1
   },
   {
-    "original": "> STAGE - C <",
+    "original": "幽霊少女 :",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,16 +18,34 @@
     "enable_timer": 0
   },
   {
-    "original": "30",
+    "original": "「いつからここにいるのか分からない...」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "*** 10 ***",
+    "original": "「私がなぜ死んでいるのかも分からない...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「一つ分かることと言えば...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 10 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,106 +54,61 @@
     "enable_timer": 1
   },
   {
-    "original": "*** 9 ***",
+    "original": "「渡木トンネルへ行かなければならないということ...」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 9,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「そこに私を知るための何かがあるかもしれないから...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「この場所は療養所...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「なぜだかここにいると落ち着くような...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 15 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
     "enable_timer": 1
   },
   {
-    "original": "> Stage **A** was skiped! <",
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 40 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "> Stage **B** was skiped! <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "> Stage **C** was skiped! <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "> Stage Reset! <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "> Enable Stage Red D! <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** END ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** 8 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 8,
+    "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": "*** 7 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** 6 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** 5 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "> STAGE - D <",
+    "original": "「古い防空壕...」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -207,7 +117,7 @@
     "enable_timer": 0
   },
   {
-    "original": "> Enable Stage Purple D! <",
+    "original": "「私には辺りが燃えているように感じる...」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,7 +126,79 @@
     "enable_timer": 0
   },
   {
-    "original": "> Enable Stage White D! <",
+    "original": "<!> ドアを開く -- Open the door 30 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!> ドアを開く -- Open the door 10 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "「ここは何かの儀式場...？」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「ここからトンネルへ行けるかもしれない...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> 最後の防衛だ -- This is the last defense 40 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!> 最後の防衛だ -- This is the last defense 10 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!> 人間たちは脱出した -- The humans escaped <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> 古びたレコードを再生した <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> Music : Awake <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
