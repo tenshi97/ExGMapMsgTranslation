@@ -2,7 +2,7 @@
   {
     "original": ">>ZE_FFXII_RIDORANA_CATARACT<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 最终幻想12: 里多拉纳大瀑布 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">>Map by Headshooter.SC & HaRyDe<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>Map by Headshooter.SC & HaRyDe<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": ">>WARMUP ROUND<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 热身 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": ">>NORMAL MODE<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 普通难度 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,16 +38,16 @@
   {
     "original": ">>CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL | ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON NORMAL MODE<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 仙人掌支线已开始——找到一棵仙人掌即可升级一级 | 只能有一名人类能升级 | 每人仅限一次，且仅限普通模式 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>The gates will open in 20 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大门 20 秒后开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -56,7 +56,7 @@
   {
     "original": ">>A PLAYER HAS ACQUIRED THUNDAGA<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家获得了 电 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": ">>A PLAYER HAS ACQUIRED BLIZZAGA<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家获得了 冰 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": ">>Cactus found. The player who found it was given 1 level<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 仙人掌已找到。找到的玩家将升一级 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>A PLAYER HAS ACQUIRED AEROGA<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家获得了 风 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": ">>A PLAYER HAS ACQUIRED DARKAGA<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家获得了 黑洞 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": ">>The gates will open in 30 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大门 30 秒后开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -110,7 +110,7 @@
   {
     "original": ">>The gates will open in 15 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大门 15 秒后开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -119,7 +119,7 @@
   {
     "original": ">>The Pharos is under attack!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大灯台正在遭受攻击 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": ">>The gates will open in 25 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大门 25 秒后开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -137,7 +137,7 @@
   {
     "original": ">>A PLAYER HAS ACQUIRED FIRAGA<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家获得了 火 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,25 +146,25 @@
   {
     "original": ">>ZOMBIE DARKAGA WAS PICKED UP (PULL LEVEL 1)<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸黑洞 已拾取 (吸力等级：一) <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>ZOMBIE CURAGA WAS PICKED UP (HEAL LEVEL 1)<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸奶 已拾取 (治疗等级：一) <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>Hold here for 20 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守住这里 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
