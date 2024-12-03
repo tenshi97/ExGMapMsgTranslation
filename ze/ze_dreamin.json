@@ -2,7 +2,7 @@
   {
     "original": "***Map by Reflelia***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***地图作者；Reflelia***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "***Particle Effect by Airvulpes***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***粒子特效；Airvulpes***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "***Thanks to Shizuru[idea] / uuz[model]***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***特别感谢Shizuru[创意] / uuz[模型]***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,16 +29,16 @@
   {
     "original": "***CURRENT LEVEL - 1 -***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***当前关卡 - 第一关 -***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***20 seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***20秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +47,7 @@
   {
     "original": "***Freezer picked up***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***冰已拾起***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "***Zombie picked up Nuke***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸捡起了秒杀***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "***RESIST FOR 35 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守35秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -74,7 +74,7 @@
   {
     "original": "***HOLD FOR 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守20秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -83,7 +83,7 @@
   {
     "original": "***RESIST 25 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守25秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -92,7 +92,7 @@
   {
     "original": "***Recovery picked up***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***奶已拾起***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "***TELEPORT ENABLE IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***30秒后启动传送***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -110,7 +110,7 @@
   {
     "original": "***Wind picked up***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***风已拾起***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "***Elevator rise up in 10 seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电梯10秒后上升***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -128,7 +128,7 @@
   {
     "original": "***Break the box***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***打碎中间的水晶***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "***Teleport activates in 45 seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***45秒后激活传送***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -146,28 +146,28 @@
   {
     "original": "***Gravity Casted***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***boss释放了黑洞 6***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "***Wind Casted***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***boss释放了风 6***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "***Ice Casted***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***boss释放了冰 6***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   }
 ]
