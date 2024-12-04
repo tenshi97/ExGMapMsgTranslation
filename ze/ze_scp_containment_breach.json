@@ -2,7 +2,7 @@
   {
     "original": "ze_SCP_Containment_Breach",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ze_SCP_Containment_Breach",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "This map is based on SCP Contaiment Breach",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这个地图基于SCP Contaiment Breach制作",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "map by Mochi/Pohmian",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者；Mochi，Pohmian",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "<The door will open soon>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<大门稍后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "<The next door will open in 15 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<下一扇门15秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -47,7 +47,7 @@
   {
     "original": "<The next door will open in 25 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<下一扇门25秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -56,7 +56,7 @@
   {
     "original": "<The tesla will be disabled in 20 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<磁电门将在20秒后关闭>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -65,7 +65,7 @@
   {
     "original": "<The next door will open in 30 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<下一扇门30秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -74,16 +74,16 @@
   {
     "original": "< SCP-096 has been escaped >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< SCP-096 已经逃离 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 96,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< Someone is approaching us... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 有人在接近我们... >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,34 +92,34 @@
   {
     "original": "< SCP-049 has been escaped >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< SCP-049 已经逃离 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 49,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< SCP-1048-A >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 这是SCP-1048-A >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1048,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< SCP-1048-A has been defeated >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ""< SCP-1048-A已被击杀 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1048,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<We will reach Check Point>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<我们即将到达检查点>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "<Check Point will open in 20 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<检查点将在20秒后开放>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -137,7 +137,7 @@
   {
     "original": "<The doors will open in 50 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<门将在50秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -146,7 +146,7 @@
   {
     "original": "<The door will open>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<门稍后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "<The doors will open in 35 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<门将在35秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -164,7 +164,7 @@
   {
     "original": "<The door will open in 15 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<门将在15秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -173,7 +173,7 @@
   {
     "original": "<Where are we....?>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<我们在哪....?>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "<20>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<20>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -191,7 +191,7 @@
   {
     "original": "< 25 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 25 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -200,7 +200,7 @@
   {
     "original": "<Defend here for 15 seconds>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<坚守15秒>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -209,7 +209,7 @@
   {
     "original": "<Something is coming...>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<有什么东西过来了...>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "< Judgement of Cornerstone >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 基石判决 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,16 +227,16 @@
   {
     "original": "<SCP-106 has been defeated>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<SCP-106 已被击杀>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 106,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<Escape from Pokect Dimension>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<从Pokect Dimension逃出去！>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "<Defend the Gate A>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<守住A大门（待会boss出现时僵尸方向会有一刀）>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "<What the.......?>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<这是.......?>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,34 +263,34 @@
   {
     "original": "<Do not let SCP-106 across the GATE A!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<别让SCP-106通过A大门!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 106,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<SCP-106 has been defeated!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<SCP-106已被击杀!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 106,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<We escaped from SITE-19>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<我们从SITE-19设施逃出来了>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 19,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "< Detonating The Alpha Warheads in T-Minus 185 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 185秒后引爆T-Minus设施的阿尔法弹头>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 185,
@@ -299,7 +299,7 @@
   {
     "original": "< All personnel are adviced to enter the nearest blast shelter immediately. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<建议所有人员立即进入最近的防爆棚>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,34 +308,34 @@
   {
     "original": "<A player picked up SCP-500 - Panacea>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<一位玩家捡到了SCP-500 - 灵丹妙药（奶）>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 500,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<A player picked up SCP-714 - The Jaded Ring>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<一位玩家捡到了SCP-714 - 翡翠戒指（弹药）>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 714,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<SCP-106 escaped....>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<SCP-106跑出来了....>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 106,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<We have failed...>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<我们失败了...>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
