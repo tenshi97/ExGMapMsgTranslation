@@ -686,11 +686,11 @@
   {
     "original": "| 35秒后门就要开了 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 35秒后门就要开了 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "AoraitsuR TU0|R7 24/07/16 02:10",
@@ -713,7 +713,7 @@
   {
     "original": "| 35 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 35 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -740,11 +740,11 @@
   {
     "original": "| 25秒 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 25秒 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": ">>EP2 训练模式<<",
@@ -785,11 +785,11 @@
   {
     "original": "| 门将在15秒后打开 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在15秒后打开 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "| 冰冻球(僵尸) 冷却:45秒 持续:4秒 |",
@@ -821,11 +821,11 @@
   {
     "original": "| 门将在20秒后开启 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 门将在20秒后开启 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "| 作用:为使用者增加60%速度，附近僵尸40%速度 |",
@@ -839,7 +839,7 @@
   {
     "original": "35",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "35",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -848,7 +848,7 @@
   {
     "original": "30",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
