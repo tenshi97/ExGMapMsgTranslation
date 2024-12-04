@@ -47,11 +47,11 @@
   {
     "original": "| Door open in 25 | ZmTP in 10 |",
     "en_trans": "",
-    "zh_trans": "| 大门将在25后打开 | 僵尸将在10秒后传送 |",
+    "zh_trans": "| 大门将在25秒后打开 | 僵尸将在倒计时15秒时传送 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "| Elevator rise in 15 |",
@@ -227,7 +227,7 @@
   {
     "original": "[^]AirCube + 70HP",
     "en_trans": "",
-    "zh_trans": "[^]绿色箭头 + 70HP",
+    "zh_trans": "[^]绿色箭头 + 70HP并起飞",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
