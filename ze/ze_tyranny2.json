@@ -1,78 +1,15 @@
 [
   {
-    "original": "** ZE_CHRISTMAS_INFECTION **",
+    "original": ">>> Stage 1 <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** CURRENT LEVEL: EASY **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** TIP: You can pick up special items from the spinning presents randomly placed in the map. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** Red and blue presents will contain zombie and human items respectively. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** The door opens in 30 seconds ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
-    "original": "*** The door opens in 10 seconds. Hold! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** The door opens in 5 seconds. RESIST!!! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** Hold the bridge! The door opens in 20 seconds! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "*** Activate one of the control pannels! ***",
+    "original": ">>> Map by Moray and nano <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -81,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Tree placer has been picked up. Press +USE (E) to place a tree. **",
+    "original": ">>> Updates by HOBGOBLIN and djinnz <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,25 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** Napalm candle has been picked up. Press +USE (E) to activate **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** Well done! The door will open in 15 seconds! **",
+    "original": "*** Right Door Opening in 15 Seconds ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,16 +36,7 @@
     "enable_timer": 1
   },
   {
-    "original": "*** HOLD! The elevator will leave in 25 seconds! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "** Zombie fog has been picked up. Press +USE (E) to activate **",
+    "original": ">>>[Admin] Ammo Unlocked <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,7 +45,34 @@
     "enable_timer": 0
   },
   {
-    "original": "*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***",
+    "original": ">>>[Admin] Ballista Unlocked <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>[Admin] Bible Unlocked <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>[Admin] Shade Staff Unlocked <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>[Admin] Stage 5 Activated <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -144,7 +81,151 @@
     "enable_timer": 1
   },
   {
-    "original": "** Hold! The door will open in 25 seconds! **",
+    "original": ">>> Player has picked up Meteor Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>>[Admin] Sacred Staff Unlocked <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold 20 Seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> AFK Teleport in 10 Seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Stage 5 <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Player has picked up Ballista <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Ammo <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Bible <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold 35 Seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 35,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Player has picked up Abyss <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Explosive Barrel <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Necromancy <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Blood Orb <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Tornado Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Heal Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Shade Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold 25 Seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -153,7 +234,43 @@
     "enable_timer": 1
   },
   {
-    "original": "** Only 5 seconds left! RESIST! **",
+    "original": ">>> Hold 15 Seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Player has picked up Sacred Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Venom Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Player has picked up Crystal Staff <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold 5 Seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -162,7 +279,43 @@
     "enable_timer": 1
   },
   {
-    "original": "** We have to hold this area for 40 seconds until the doors open! **",
+    "original": ">>> AFK Teleport in 5 Seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Diablo is Coming <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Diablo has been Defeated <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Hold 30 Seconds <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": ">>> Hold 40 Seconds <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -171,7 +324,7 @@
     "enable_timer": 1
   },
   {
-    "original": "** Keep defending! 15 seconds left! **",
+    "original": ">>> ZM TP IN 15 SECONDS <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,138 +333,21 @@
     "enable_timer": 1
   },
   {
-    "original": "** 5 seconds! RESIST!!! **",
+    "original": ">>> Angra has been Defeated <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">>> Stage 5 Completed <<<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
     "enable_timer": 1
-  },
-  {
-    "original": "** Storage area door opening in 15 seconds. HOLD! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "** Hold a bit! The door will open in 15 seconds! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "** Hold 10 more seconds! The second doors will open soon!**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "** THIS IS OUR LAST STAND! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
-  },
-  {
-    "original": "** RESIST! 30 SECONDS LEFT!!! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "** 15 SECONDS! KEEP IT UP!!! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
-  },
-  {
-    "original": "** LAST 5 SECONDS! RESIST!!! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "** You have beaten easy mode... Let's see now how you do in MEDIUM! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** Ice boomerang has been picked up. Press +USE (E) to throw it. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** Zombie present placer has been picked up. Press +USE (E) to place a present. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** Well done! The door opens in 20 seconds. RESIST!!! **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "*** ZOMBIES DETECTED ON BOAT - INVALID VICTORY!!! ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
   }
 ]
