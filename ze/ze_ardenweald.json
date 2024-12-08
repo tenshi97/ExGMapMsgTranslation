@@ -38,29 +38,29 @@
   {
     "original": ">>>还需要再等一会哦,10second left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还需要再等一会哦,还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>>还需要再等一会哦,30second left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还需要再等一会哦,还剩30秒<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">>>被你发现了,10second left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>被你发现了,还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>>石碑印记，指明道路。独一无二，引领前路<<<",
@@ -74,7 +74,7 @@
   {
     "original": ">>>前方的路很难走，要仔细辨别哦，5 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>前方的路很难走，要仔细辨别哦，还剩5秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -128,16 +128,16 @@
   {
     "original": ">>>终于出来了！小心前方荆棘！，15second<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>终于出来了！小心前方荆棘！，还剩15秒<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。10 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -155,16 +155,16 @@
   {
     "original": ">>>每个人都将迎来终结，10second<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>每个人都将迎来终结，还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>>僵尸要来了，20 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>僵尸要来了，还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -173,7 +173,7 @@
   {
     "original": ">>>10 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>10 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -182,7 +182,7 @@
   {
     "original": ">>>开关已全部激活 20 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>开关已全部激活 还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -191,7 +191,7 @@
   {
     "original": ">>>10 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -200,7 +200,7 @@
   {
     "original": ">>>30 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩30秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -209,7 +209,7 @@
   {
     "original": ">>>板子即将上升 20 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>板子即将上升 还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -236,7 +236,7 @@
   {
     "original": ">>>僵尸被阻挡 10 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>僵尸被阻挡 还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -263,7 +263,7 @@
   {
     "original": ">>>最后防守 30 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>最后防守 30 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,

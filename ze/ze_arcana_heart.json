@@ -128,7 +128,7 @@
   {
     "original": ">>Motion or Stillness<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>黄色激光提前停止移动，蓝色激光保持移动<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "「Function」 Create a heart, restore health in area",
     "en_trans": "",
-    "zh_trans": "「神器功能」生成阿卡纳之心，持续攻击它以恢复生命值",
+    "zh_trans": "「神器功能」生成阿卡纳之心，区域内恢复生命值",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": ">> 25 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 25 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -254,7 +254,7 @@
   {
     "original": ">> 50 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 50 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -263,7 +263,7 @@
   {
     "original": ">> 75 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 75 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 75,
@@ -272,7 +272,7 @@
   {
     "original": ">> 100 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 100 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
@@ -281,7 +281,7 @@
   {
     "original": ">>Stage Failed<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡失败<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": ">>Reflect<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>反射<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "> 2 - T <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 2 - 真结局 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "「Tips」 Human must touch <Blue Key> to recover 3 HP and avoiding damage in second part.",
     "en_trans": "",
-    "zh_trans": "「提示」人类必须触碰＜蓝色钥匙＞才能回复3点生命值并避免伤害",
+    "zh_trans": "「提示」人类必须触碰<蓝键>才能回复3点生命值并避免伤害",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "「Tips」 Human must touch <Blue Snake> and <Long Key> to avoiding damage in second part.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "「提示」在二阶段，人类必须触碰<蓝蛇>和<长键>以避免受到伤害。 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,11 +371,11 @@
   {
     "original": "> 2 - F <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 2 - 假结局 <",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>Ver:1.6.12<<",

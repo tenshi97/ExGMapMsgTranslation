@@ -1,105 +1,6 @@
 [
   {
-    "original": "***Map by Reflelia***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Particle Effect by Airvulpes***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Thanks to Shizuru[idea] / uuz[model]***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***CURRENT LEVEL - 1 -***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  },
-  {
-    "original": "***20 seconds***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "***Freezer picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Zombie picked up Nuke***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***RESIST FOR 35 SECONDS***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
-  },
-  {
-    "original": "***HOLD FOR 20 SECONDS***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": "***RESIST 25 SECONDS***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "***Recovery picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***TELEPORT ENABLE IN 30 SECONDS***",
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 30 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,7 +9,7 @@
     "enable_timer": 1
   },
   {
-    "original": "***Wind picked up***",
+    "original": "幽霊少女 :",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -117,7 +18,34 @@
     "enable_timer": 0
   },
   {
-    "original": "***Elevator rise up in 10 seconds***",
+    "original": "「いつからここにいるのか分からない...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「私がなぜ死んでいるのかも分からない...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「一つ分かることと言えば...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 10 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,7 +54,7 @@
     "enable_timer": 1
   },
   {
-    "original": "***Break the box***",
+    "original": "「渡木トンネルへ行かなければならないということ...」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -135,79 +63,79 @@
     "enable_timer": 0
   },
   {
-    "original": "***Teleport activates in 45 seconds***",
+    "original": "「そこに私を知るための何かがあるかもしれないから...」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 45,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「この場所は療養所...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「なぜだかここにいると落ち着くような...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 15 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
     "enable_timer": 1
   },
   {
-    "original": "***Gravity Casted***",
+    "original": "<!> バリケードを破壊 -- Destroying the barricade 40 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Wind Casted***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Ice Casted***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Snow picked up***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Thruster Casted***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Go Back to teleport place***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Final teleport enable in 35 seconds***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 35,
+    "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": "***Zombie teleport in 10 seconds***",
+    "original": "「古い防空壕...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「私には辺りが燃えているように感じる...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> ドアを開く -- Open the door 30 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!> ドアを開く -- Open the door 10 sec <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -216,16 +144,43 @@
     "enable_timer": 1
   },
   {
-    "original": "***5 seconds left***",
+    "original": "「ここは何かの儀式場...？」",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "「ここからトンネルへ行けるかもしれない...」",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!> 最後の防衛だ -- This is the last defense 40 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": "***Run!***",
+    "original": "<!> 最後の防衛だ -- This is the last defense 10 sec <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!> 人間たちは脱出した -- The humans escaped <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -234,7 +189,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***ESCAPE***",
+    "original": "<!> 古びたレコードを再生した <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -243,16 +198,7 @@
     "enable_timer": 0
   },
   {
-    "original": "***Zombie picked up Ice***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "***Zombie picked up Heal***",
+    "original": "<!> Music : Awake <!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

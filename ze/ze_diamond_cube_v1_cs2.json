@@ -41,8 +41,8 @@
     "zh_trans": ">>> 墙已被拾取(冷却时间35秒) <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> door opening in 30 seconds <<<",
@@ -254,7 +254,7 @@
   {
     "original": ">>> door opening in 40 seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 40 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,

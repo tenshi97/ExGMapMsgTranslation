@@ -1,6 +1,6 @@
 [
   {
-    "original": "** last update:2024-11-29 **",
+    "original": "# RETURN TO CASTLE WOLFENSTEIN #",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,34 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": ">> 20 seconds <<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 20,
-    "enable_timer": 1
-  },
-  {
-    "original": ">> 5 seconds left <<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": ">> 40 seconds <<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": ">> falltp location has been updated <<",
+    "original": "# MAP BY JB_GAMBLE #",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,16 +18,25 @@
     "enable_timer": 0
   },
   {
-    "original": ">> 30 seconds <<",
+    "original": "# MISSION 1 - OMINOUS RUMORS #",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
-    "original": ">> Zombies took over the road <<",
+    "original": "# PART 1 - ESCAPE! #",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "<!!!> HOLD THIS POSITION <!!!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,7 +45,16 @@
     "enable_timer": 0
   },
   {
-    "original": ">> Failed <<",
+    "original": "<!!!> GATE OPEN <!!!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<!!!> FALL BACK <!!!>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

@@ -632,7 +632,7 @@
   {
     "original": "[FINAL STAGE]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[最终关]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "ONLY DEFEND! TELEPORT ENABLE IN 180 SECOND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "只需防守！180秒后传送。 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -650,16 +650,16 @@
   {
     "original": "STAGE 7 COMING SOON! NOW ZM ROUND!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第7关即将到来！现在是ZM关！ ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "90 SECOND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "90 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -668,7 +668,7 @@
   {
     "original": "30 SECOND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "30 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,

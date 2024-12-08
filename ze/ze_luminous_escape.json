@@ -2,7 +2,7 @@
   {
     "original": "*** GATE OPENS IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将在 20 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -11,7 +11,7 @@
   {
     "original": "***5 SECONDS LEFT ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***还剩 5 秒*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -20,7 +20,7 @@
   {
     "original": "> > PLAYER PICKED HURT ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 玩家拾取了伤害 < <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "> > PLAYER PICKED FIRE ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 玩家拾取了火 < <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "*** HOLD FOR 25 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守 25 秒 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -47,7 +47,7 @@
   {
     "original": "*** 5 SECONDS LEFT ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***还剩 5 秒*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -56,7 +56,7 @@
   {
     "original": "> > PLAYER PICKED SLOW ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 玩家拾取了减速 < <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "*** BRIDGE OPENS IN 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 桥将在 15 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -74,7 +74,7 @@
   {
     "original": "*** DOOR OPENS IN 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在 15 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -83,7 +83,7 @@
   {
     "original": "*** OH NO, ZOMBIE TRIGGERED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 哦不，僵尸碰到触发了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "*** YOU LOST!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你输了！！ *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "*** GATE OPENS IN 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将在 15 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -119,16 +119,16 @@
   {
     "original": "*** SOMEONE NEEDS TO DESTROY 8 BALLS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 需要摧毁 8 个球 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 8,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** THEY ARE PLACED RANDOMLY IN THE ROOM ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 它们被随机放置在房间里 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,25 +137,25 @@
   {
     "original": "*** THE FIRST 4 WILL SPAWN AT THE BOTTOM ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 前 4 个会在底部生成 *** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** NEXT 4 WILL SPAWN AT THE TOP ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 接下来的 4 个将在顶部生成 *** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** GOOD JOB YOU GOT THEM ALL ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 干得好，你把它们都搞定了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "*** GO TO THE TOP OF THE PILLAR ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 前往柱子顶部 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "*** TP IN 25 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 25 秒后进行传送 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -182,7 +182,7 @@
   {
     "original": "*** ZOMBIE TP IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸将在 10 秒后传送过来 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -191,7 +191,7 @@
   {
     "original": "*** DEFEND FOR 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 20 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -200,7 +200,7 @@
   {
     "original": "*** SOMEONE NEEDS TO REACH TO THE OTHER SIDE!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有人需要到达另一边！！！*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "*** GOOD JOB !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 干得好！！！*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "*** LASERS STOPPED !!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 激光停止了！！！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "*** GATE CLOSING IN 25 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将在 25 秒后关闭 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -236,7 +236,7 @@
   {
     "original": "*** ZOMBIE TP IN 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸将在 15 秒后传送 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -245,7 +245,7 @@
   {
     "original": "*** GOOD JOB, YOU WON !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 干得漂亮，你赢了！！！ *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
