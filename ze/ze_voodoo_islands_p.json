@@ -59,8 +59,8 @@
     "zh_trans": "***在这个岛上再坚守90秒，通往下一个岛屿的传送器90秒后激活***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 90,
+    "enable_timer": 1
   },
   {
     "original": "*** 10 seconds left till zombies are trapped. prepare to run to the teleporter***",

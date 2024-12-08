@@ -1100,7 +1100,7 @@
   {
     "original": "We'll go back here tomorrow",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们明天会回到这里。 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1109,7 +1109,7 @@
   {
     "original": "Blue's long dead",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "蓝色已经陨落",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "15 Seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15 秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1127,7 +1127,7 @@
   {
     "original": "What's happening?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发生什么了？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1136,7 +1136,7 @@
   {
     "original": "I think Blue's going to contain Red",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我感觉蓝色是想要吸收掉红色",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1145,7 +1145,7 @@
   {
     "original": "That might require this place to react abnormaly, in short: explode!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "那可能会导致这个地方出现异常反应，简而言之就是：要爆炸了！ ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1154,7 +1154,7 @@
   {
     "original": "It's starting!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "开始了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1163,7 +1163,7 @@
   {
     "original": "Doors will be opened in 10 Seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 10 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1172,7 +1172,7 @@
   {
     "original": "Quick! Let's find a way to escape!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快！咱们得找个办法逃出去！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1181,7 +1181,7 @@
   {
     "original": "We have to be quick!, this things going to be a big one!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "得快点！爆炸规模会很大的！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1190,7 +1190,7 @@
   {
     "original": "Look, a flying vehicle!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "看，一辆飞行器！ ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1199,7 +1199,7 @@
   {
     "original": "It's powered by magic, I've never seen this kind before..",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "它是由魔法驱动的，我以前从未见过这种类型的…… ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1208,7 +1208,7 @@
   {
     "original": "Whatever! We just need to learn how to control it! Defend first!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "管它呢！我们只需要学会如何操控它就好了！先守住！ ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1217,7 +1217,7 @@
   {
     "original": "We got it!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "成功了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1226,7 +1226,7 @@
   {
     "original": "Quick!! Get on!! Let's get out of here!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快！！上去！！我们离开这儿！！ ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1235,7 +1235,7 @@
   {
     "original": "We escaped..",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "终于逃脱了..",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1244,7 +1244,7 @@
   {
     "original": "Look at that view..",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "瞧瞧那的景色..",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1253,7 +1253,7 @@
   {
     "original": "PROVE YOURSELF",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "证明你自己",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1262,7 +1262,7 @@
   {
     "original": "Failed!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "失败！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1271,10 +1271,10 @@
   {
     "original": "Stage 1 has been set!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至 关卡1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
