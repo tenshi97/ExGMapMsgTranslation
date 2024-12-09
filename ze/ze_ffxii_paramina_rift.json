@@ -857,16 +857,16 @@
   {
     "original": "TREASURE +53 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+53 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 53,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** SOLVE THE BUTTON PUZZLE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 解开按钮谜题 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": "** Player has acquired a AMMO-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家获得了一个弹药药水 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": "** BUTTON PRESSED - HOLD 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 按钮已按下 - 坚守 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -893,7 +893,7 @@
   {
     "original": "** Player has acquired a HP-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家获得了一个生命药水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": "** Player has acquired a SPEED-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家获得了一个速度药水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "** DOOR WILL OPEN IN 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在 25 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -920,7 +920,7 @@
   {
     "original": "** 5 MORE SECONDS TILL DOOR OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 距离门打开还有 5 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -929,7 +929,7 @@
   {
     "original": "** Player has acquired a HI-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已获得一个高级药水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": "** GATE WILL OPEN IN 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 25 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -947,7 +947,7 @@
   {
     "original": "** Player has acquired a HOLY-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已获得一瓶神圣药水 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": "** MATEUS IS CHARGING FOR SUPERATTACK **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 马特乌斯正在为超级攻击蓄力 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": "** YOU KILLED MATEUS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你杀死了马特乌斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": "** Player has acquired the esper MATEUS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已获得马特乌斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": "** ELEVATOR WILL LEAVE IN 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 30 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -992,7 +992,7 @@
   {
     "original": "** ELEVATOR WILL LEAVE IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 5 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1001,7 +1001,7 @@
   {
     "original": "** HOLD THE ELEVATOR TILL WE REACH THE TOP **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住电梯，直到我们到达顶部 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,7 +1010,7 @@
   {
     "original": "** DEFEND 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -1019,7 +1019,7 @@
   {
     "original": ">>The esper MATEUS has been summoned<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>超能力者马特乌斯已被召唤<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": "** LIFT IS LEAVING IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 5 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1037,7 +1037,7 @@
   {
     "original": "** LIFT IS LEAVING AGAIN - GET IN **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯又要离开了 - 快上来 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": "** GET IN THE TREASURE ROOM!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 进入藏宝室！！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,16 +1055,16 @@
   {
     "original": "** Congratulations - you won STAGE 2 NORMAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜 - 你赢得了普通难度的第二关 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** [DIFFICULTY] INSANE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [难度] 疯魔 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
