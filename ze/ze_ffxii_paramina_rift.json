@@ -2,7 +2,7 @@
   {
     "original": "** ZE FFXII PARAMINA RIFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最终幻想12：帕拉米纳大峡谷 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,25 +11,25 @@
   {
     "original": "** [STAGE 1] PARAMINA RIFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [关卡 1] 帕拉米纳大峡谷 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Stage 1 - Find a way through Paramina Rift and locate the",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "关卡 1 - 找到一条穿过帕拉米纳大峡谷的路",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** [DIFFICULTY] NORMAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [难度] 普通 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "** MAP BY SLAYERDRAGON & NOCTALI **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图由 SLAYERDRAGON 和 NOCTALI 制作**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "** MAP Ported To CSGO By Asami**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 由 Asami 移植至 CSGO **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,16 +56,16 @@
   {
     "original": "35 GIL OBTAINED BY DEACTIVATING A TOWER",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通过使一座塔停止运作获得了 35 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** GATE OPENS IN 15 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -74,7 +74,7 @@
   {
     "original": "** Player has learned AERO (WIND MAGICK LV.1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**玩家已学会气疗术（风之魔法 LV.1）** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -83,7 +83,7 @@
   {
     "original": "** GATE OPENS IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -92,25 +92,25 @@
   {
     "original": "** Player has learned POISON (POISON MAGICK LV.1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**玩家已学会毒咒（毒之魔法 LV.1）** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Player has learned CURE (HEAL MAGICK LV.1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**玩家已学会治愈术（治疗魔法 LV.1）** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** GATES OPEN IN 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 30 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -119,7 +119,7 @@
   {
     "original": "** GATES OPEN IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在 5 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -128,25 +128,25 @@
   {
     "original": "TREASURE +27 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+27 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 27,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Player has learned FIRE (FIRE MAGICK LV.2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**玩家已学会火焰术（火焰魔法 LV.2）** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** HOLD 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守 25 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -155,7 +155,7 @@
   {
     "original": "** 5 SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 5 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -164,7 +164,7 @@
   {
     "original": "** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 随机路径开启前先守 20 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -173,25 +173,25 @@
   {
     "original": "** Player has learned BLIZZARD (ICE MAGICK LV.1)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**玩家已学会暴风雪（冰系魔法 LV.1）** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "TREASURE +113 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，获得 113 金币 ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 113,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** HOLD 5 MORE SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 再坚持 5 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -200,7 +200,7 @@
   {
     "original": "** THE RIGHT WAY HAS BEEN OPENED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 右边的路已打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "** WE ARE ALMOST OUT THIS FOREST **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们差不多要走出这片森林了 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "** DEFEND HERE TILL THIS GATE OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在此防守，直至这扇门打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,16 +227,16 @@
   {
     "original": "TREASURE +120 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+120 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 120,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 15 MORE SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有 15 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -245,7 +245,7 @@
   {
     "original": "** 5 MORE SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有 5 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -254,16 +254,16 @@
   {
     "original": "** Player has learned AERO (WIND MAGICK LV.2)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**玩家已学会气疗术（风之魔法LV.2）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** IT SEEMS THAT THE ENTRANCE TO THE SHRINE IS BLOCKED BY ICE PIKES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 看起来神殿的入口被冰锥堵住了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "** YOU COULD USE FIRE TO MELT IT FASTER.. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你可以使用火魔法来更快地融化它…… **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "** YOU HAVE COMPLETED THE SIDE QUEST **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你已经完成了支线任务 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,16 +290,16 @@
   {
     "original": "** POTIONS REWARD OBTAINED IN STAGE 2 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第二关将会获得药水奖励 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰已经融化 - 门应该很快就会打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": "** MAP Ported To CSGO By Asami **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图由 Asami 移植至 CSGO **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "** MAP Ported To CS2 By Futues Rewrtten & Tenshi. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图由 Futues Rewrtten 和 Tenshi. 移植至 CS2 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "1/5 TOWERS DESTROYED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1/5 的塔已被摧毁！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "** Player has learned BLIZZARD (ICE MAGICK)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已学会暴风雪（冰系魔法）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "** Player has learned FIRE (FIRE MAGICK)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已学会火焰（火焰魔法）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "** Player has learned CURE (HEAL MAGICK)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已学会治愈术（治疗魔法）** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "** Player has learned POISON (POISON MAGICK)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已学会毒咒（毒系魔法）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "2/5 TOWERS DESTROYED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "2/5 的塔已被摧毁！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "3/5 TOWERS DESTROYED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "3/5 的塔已被摧毁！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "4/5 TOWERS DESTROYED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "4/5 的塔已被摧毁！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "ALL TOWERS DESTROYED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "所有塔都已摧毁！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "** Player has learned AERO (WIND MAGICK)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已学会气疗术（风之魔法）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "** HOLD THE ENTRANCE FOR 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住入口 30 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -425,7 +425,7 @@
   {
     "original": "** THIS IS THE END OF THE FIRST STAGE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是第一关的结尾 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "** MAKE SURE NO ZOMBIES ENTER THE SHRINE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 确保没有僵尸进入神殿 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,7 +443,7 @@
   {
     "original": "** HOLD THE ENTRANCE FOR 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住入口 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -452,7 +452,7 @@
   {
     "original": "** HOLD THE ENTRANCE FOR 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住入口 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -461,7 +461,7 @@
   {
     "original": "** HOLD THE ENTRANCE FOR 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住入口 5 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -470,16 +470,16 @@
   {
     "original": "** Congratulations - you won STAGE 1 NORMAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜 - 你获得了 关卡 1 普通难度 的胜利 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** THE LEFT WAY HAS BEEN OPENED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 左边的路已打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "** YOU FOUND A WAY TO OPEN THE GATE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你找到了打开这扇门的方法 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "** SHOULDNT BE TOO LONG TILL IT OPENS.. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 应该用不了多久它就会打开了……** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,61 +506,61 @@
   {
     "original": "TREASURE +64 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+64 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 64,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "TREASURE +100 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+100 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 100,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "TREASURE +71 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+71 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 71,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "TREASURE +1 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+1 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** [STAGE 2] STILSHRINE OF MIRIAM **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [关卡 2] 米利暗遗迹 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Stage 2 - Find the hidden treasures and defeat the Esper Mateus in",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "关卡 2 - 找到隐藏的宝藏并打败超能力者马特乌斯 ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** SOLVE THE STATUE PUZZLE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 解开雕像谜题 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "** ALL STATUES HAVE BEEN ALIGNED.. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有雕像已排列整齐……**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "** .. HOLD 10 MORE SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ……再坚持 10 秒** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -587,7 +587,7 @@
   {
     "original": "** A WAY HAS BEEN OPENED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一条路已经打开了** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "** BARRIER 2 OPENS IN 15 SECS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 栅栏 2 将在 15 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -605,7 +605,7 @@
   {
     "original": "** BARRIER 1 OPENS IN 15 SECS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 栅栏 1 将在 15 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -614,7 +614,7 @@
   {
     "original": "** HOLD HERE TILL THE GATE OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守在此，直至大门开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "** 5 MORE SECONDS TILL GATE OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 距离大门开启还有 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -632,7 +632,7 @@
   {
     "original": "** COVER AND WAIT FOR SOMETHING TO HAPPEN **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 掩护并等待，有什么事要发生了 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "** THE SWORD WILL OPEN THE WAY SOON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这把剑很快就会开辟出道路 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 神秘房间将在 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -659,7 +659,7 @@
   {
     "original": "** 5 MORE SECONDS LEFT BEFORE ENTERING THE MYSTERIOUS ROOM **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 5 秒就能进入神秘房间了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -668,7 +668,7 @@
   {
     "original": "** NADES DO A LOT OF DAMAGE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 手雷能造成大量伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "** STAGGERED (15 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 15 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -686,7 +686,7 @@
   {
     "original": "** BOSS HAS BEEN STAGGERED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** BOSS 已陷入虚弱状态 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,7 +695,7 @@
   {
     "original": "** BULLETS/NADES DOES 200 '/. DAMAGE ON BOSS FOR 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 10 秒内能对BOSS造成双倍伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -704,7 +704,7 @@
   {
     "original": "** STAGGERED (14 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 14 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 14,
@@ -713,7 +713,7 @@
   {
     "original": "** STAGGERED (13 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 13 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 13,
@@ -722,7 +722,7 @@
   {
     "original": "** STAGGERED (12 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 12 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 12,
@@ -731,7 +731,7 @@
   {
     "original": "** STAGGERED (11 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 11 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 11,
@@ -740,7 +740,7 @@
   {
     "original": "** STAGGERED (10 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 10 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -749,7 +749,7 @@
   {
     "original": "** STAGGERED (9 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 9 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 9,
@@ -758,7 +758,7 @@
   {
     "original": "** STAGGERED (8 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 8 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 8,
@@ -767,7 +767,7 @@
   {
     "original": "** STAGGERED (7 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 7 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -776,7 +776,7 @@
   {
     "original": "** STAGGERED (6 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 6 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -785,7 +785,7 @@
   {
     "original": "** STAGGERED (5 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 5 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -794,7 +794,7 @@
   {
     "original": "** STAGGERED (4 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 4 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -803,7 +803,7 @@
   {
     "original": "** STAGGERED (3 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 3 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -812,7 +812,7 @@
   {
     "original": "** STAGGERED (2 SECS LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 2 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -821,7 +821,7 @@
   {
     "original": "** STAGGERED (1 SEC LEFT) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (还剩 1 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -830,7 +830,7 @@
   {
     "original": "** STAGGERED (DONE) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 虚弱状态 (已结束) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "** BOSS MATEUS CHARGES HIS LAST ATTACK! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** BOSS马特乌斯正在蓄力他的最后一击！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": "** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**还有 15 秒，所有人都将被冻死！** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -857,16 +857,16 @@
   {
     "original": "TREASURE +53 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+53 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 53,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** SOLVE THE BUTTON PUZZLE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 解开按钮谜题 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": "** Player has acquired a AMMO-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家获得了一个弹药药水 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": "** BUTTON PRESSED - HOLD 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 按钮已按下 - 坚守 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -893,7 +893,7 @@
   {
     "original": "** Player has acquired a HP-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家获得了一个生命药水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -902,7 +902,7 @@
   {
     "original": "** Player has acquired a SPEED-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家获得了一个速度药水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "** DOOR WILL OPEN IN 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在 25 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -920,7 +920,7 @@
   {
     "original": "** 5 MORE SECONDS TILL DOOR OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 距离门打开还有 5 秒 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -929,7 +929,7 @@
   {
     "original": "** Player has acquired a HI-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已获得一个高级药水 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": "** GATE WILL OPEN IN 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 25 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -947,7 +947,7 @@
   {
     "original": "** Player has acquired a HOLY-POTION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已获得一瓶神圣药水 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": "** MATEUS IS CHARGING FOR SUPERATTACK **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 马特乌斯正在为超级攻击蓄力 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,7 +965,7 @@
   {
     "original": "** YOU KILLED MATEUS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你杀死了马特乌斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": "** Player has acquired the esper MATEUS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家已获得马特乌斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": "** ELEVATOR WILL LEAVE IN 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 30 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -992,7 +992,7 @@
   {
     "original": "** ELEVATOR WILL LEAVE IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 5 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1001,7 +1001,7 @@
   {
     "original": "** HOLD THE ELEVATOR TILL WE REACH THE TOP **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住电梯，直到我们到达顶部 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1010,7 +1010,7 @@
   {
     "original": "** DEFEND 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 防守 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -1019,7 +1019,7 @@
   {
     "original": ">>The esper MATEUS has been summoned<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>超能力者马特乌斯已被召唤<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1028,7 +1028,7 @@
   {
     "original": "** LIFT IS LEAVING IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 5 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1037,7 +1037,7 @@
   {
     "original": "** LIFT IS LEAVING AGAIN - GET IN **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯又要离开了 - 快上来 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": "** GET IN THE TREASURE ROOM!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 进入藏宝室！！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,16 +1055,16 @@
   {
     "original": "** Congratulations - you won STAGE 2 NORMAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜 - 你赢得了普通难度的第二关 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** [DIFFICULTY] INSANE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [难度] 疯魔 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1073,16 +1073,16 @@
   {
     "original": "TREASURE +87 GIL FOUND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "发现宝藏，+87 金币",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 87,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** SHOOT THE SWARM BEFORE THEY CAN ATTACK **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在它们发动攻击之前射击 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1091,7 +1091,7 @@
   {
     "original": "** REMEMBER TO HOLD THE ZOMBIES TOO!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 也要记得牵制住那些僵尸！！** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1100,7 +1100,7 @@
   {
     "original": "** OH NO - THEY SUMMONED CHAOS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 哦不 - 他们召唤出了卡奥斯 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1109,7 +1109,7 @@
   {
     "original": "** CHAOS IS CASTING RAINS OF TERROR **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 卡奥斯正在施展恐怖之雨 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1118,7 +1118,7 @@
   {
     "original": "** CHAOS IS DEFEATED ONCE AND FOR ALL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 卡奥斯被彻底击败了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1127,7 +1127,7 @@
   {
     "original": "** KILL REMAINING ZOMBIES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 杀死剩余的僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1136,16 +1136,16 @@
   {
     "original": "** Congratulations - you won STAGE 1 INSANE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜 - 你赢得了疯魔难度的第一关 ** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "exmode stripper(by bxzl) loaded",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ex模式 stripper(by 冰雪葬泪) 已加载",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1154,7 +1154,7 @@
   {
     "original": "** [ADMIN] LEVEL CHANGED TO EX Mode **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [管理员] 关卡已变更为极限模式 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1163,7 +1163,7 @@
   {
     "original": "** [EXMode_Part1] PARAMINA RIFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [极限模式-第一部分] 帕拉米纳大峡谷 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1172,7 +1172,7 @@
   {
     "original": "EXMode(by bxzl) Activated",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "EX模式(by 冰雪葬泪) 已激活",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1181,7 +1181,7 @@
   {
     "original": "**zombie get released in 15 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸将在 15 秒后被释放 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1190,25 +1190,25 @@
   {
     "original": "**all zombies get 1 item level upgrade**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有僵尸神器等级提升 1 级 ** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**all humans get 2 item level upgrades**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有人类神器等级提升 2 级 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** [EXMode_Part2] STILSHRINE OF MIRIAM **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [极限模式-第二部分] 米利暗遗迹 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1217,7 +1217,7 @@
   {
     "original": "** DOOR WILL OPEN IN 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在 30 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1226,7 +1226,7 @@
   {
     "original": "** HOLD 30 SECONDS UNTIL THE WAY OPENS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持 30 秒，直到道路打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1235,7 +1235,7 @@
   {
     "original": "** BOSS SPAWNED SOME MINIONS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** BOSS召唤了一些小怪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1244,7 +1244,7 @@
   {
     "original": "** YOU DEFEATED MATEUS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你击败了马特乌斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1253,7 +1253,7 @@
   {
     "original": "** MAKE A STAND HERE TILL WE FOUND A WAY OUT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在我们找到出路之前，先坚守此地 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1262,7 +1262,7 @@
   {
     "original": "** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 如果我们想要逃离这座神庙就必须跳下去！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1271,7 +1271,7 @@
   {
     "original": "** OH GOD ITS MATEUS! SHOOT IT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 哦，天哪，是马特乌斯！快开枪！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1280,7 +1280,7 @@
   {
     "original": "** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 马特乌斯死了！逃往森林吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1289,7 +1289,7 @@
   {
     "original": "** END OF THE LINE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 终点到了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1298,7 +1298,7 @@
   {
     "original": "** Congratulations - you won EX Mode **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜 - 你赢得了极限模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1307,7 +1307,7 @@
   {
     "original": ">>The esper MATEUS is killed in action<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>超能力者马特乌斯在行动中被杀<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1316,7 +1316,7 @@
   {
     "original": "** [ADMIN] LEVEL CHANGED TO STAGE 2 INSANE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [管理员] 关卡已变更为疯魔难度第二关** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -1325,7 +1325,7 @@
   {
     "original": "** BARRIER 1 OPENS IN 20 SECS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 栅栏 1 将在 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1334,7 +1334,7 @@
   {
     "original": "** BARRIER 2 OPENS IN 20 SECS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 栅栏 2 将在 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1343,7 +1343,7 @@
   {
     "original": "** YOU HAVE FAILED.. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你失败了.. ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1352,7 +1352,7 @@
   {
     "original": "** MATEUS TRICKED US! IT'S A FAKE ESPER! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 马特乌斯骗了我们！这是假的！** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1361,19 +1361,19 @@
   {
     "original": "** Congratulations - you won STAGE 2 INSANE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 恭喜 - 你赢得了疯魔难度的第二关 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** [ADMIN] LEVEL CHANGED TO STAGE 2 NORMAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [管理员] 关卡已变更为普通难度的第二关 ** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
