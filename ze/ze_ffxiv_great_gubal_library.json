@@ -169,5 +169,23 @@
     "kr_trans": "",
     "timer_num": 22,
     "enable_timer": 1
+  },
+  {
+    "original": "*A player acquires the ice element.*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "* Defend until the gates open 30s *",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
   }
 ]
