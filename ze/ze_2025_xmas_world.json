@@ -2,16 +2,16 @@
   {
     "original": "+ 4 Years Later... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 四年后... +",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "+ Warning! SnowBalls Coming For 5 Seconds... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 警告！5 秒后雪球来袭... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -20,7 +20,7 @@
   {
     "original": "+ 20 Seconds Defend For Double Doors... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 防守双门 20 秒... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -29,7 +29,7 @@
   {
     "original": "+ Fall Back Guys, Zombies Teleporting For 5 Seconds... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 撤，兄弟们，僵尸 5 秒后传送... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -38,7 +38,7 @@
   {
     "original": "+ 20 Seconds Defend For Strong Defend... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 防守 20 秒，确保坚固防御... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +47,7 @@
   {
     "original": "+ Run Boys, Zombies Teleporting For 5 Seconds... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 快跑，伙计们，僵尸 5 秒后传送... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -56,7 +56,7 @@
   {
     "original": "+ 10 Seconds Defend For Russian's House... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 防守俄罗斯人的房子 10 秒... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -65,7 +65,7 @@
   {
     "original": "+ Get in Bros, 40 Seconds Defend... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 兄弟们，赶快进来，防守 40 秒... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -74,7 +74,7 @@
   {
     "original": "+ Get Out Dudes!, Zombies Teleported... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 快出来，兄弟们！僵尸已经传送过来了... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "+ 30 Seconds Defend For Military Vehicle... +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 防守军用车辆 30 秒... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -92,7 +92,7 @@
   {
     "original": "+ Last 10 Seconds, Humans Teleporting...+",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 最后 10 秒，人类即将传送... +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -101,7 +101,7 @@
   {
     "original": "+ Humans Teleported!+",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 人类已传送！+",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,16 +110,16 @@
   {
     "original": "+ 40 Seconds Survival For Top Floor, (20 sc zm tp) +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 在顶楼生存 40 秒，（倒计时 20 秒时僵尸传送） + ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   },
   {
     "original": "+ Zombies Teleported +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 僵尸已传送 +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "+ Last 10 Seconds Final! +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 最后 10 秒，决胜时刻！+",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -137,7 +137,7 @@
   {
     "original": "+ GG! Humans Win EZ!! +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 打得不错！轻松获胜！！ +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "+ Everyone RTV! for Frostdrake! +",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+ 按Y输入rtv换图! 选冰龙塔! +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
