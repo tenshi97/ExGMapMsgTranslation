@@ -2,16 +2,16 @@
   {
     "original": ">>> Stage 1 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第 1 关<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Map by Moray and nano <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 地图由 Moray 和 nano 制作<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": ">>> Updates by HOBGOBLIN and djinnz <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 由 HOBGOBLIN 和 djinnz 更新 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "*** Right Door Opening in 15 Seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 右侧门将在 15 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -38,7 +38,7 @@
   {
     "original": ">>>[Admin] Ammo Unlocked <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 弹药已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": ">>>[Admin] Ballista Unlocked <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 弩炮已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": ">>>[Admin] Bible Unlocked <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 圣经已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": ">>>[Admin] Shade Staff Unlocked <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 暗影法杖已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": ">>>[Admin] Stage 5 Activated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 第5关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Player has picked up Meteor Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已捡起陨石法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": ">>>[Admin] Sacred Staff Unlocked <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 神圣法杖已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": ">>> Hold 20 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 20 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -110,7 +110,7 @@
   {
     "original": ">>> AFK Teleport in 10 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 挂机玩家将在 10 秒后传送 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -119,16 +119,16 @@
   {
     "original": ">>> Stage 5 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第 5 关 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Player has picked up Ballista <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取弩炮 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": ">>> Player has picked up Ammo <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取弹药 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": ">>> Player has picked up Bible <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已捡起圣经 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": ">>> Hold 35 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 35 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -164,7 +164,7 @@
   {
     "original": ">>> Player has picked up Abyss <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取深渊 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": ">>> Player has picked up Explosive Barrel <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取炸药桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": ">>> Player has picked up Necromancy <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取死灵法术 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": ">>> Player has picked up Blood Orb <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取血球 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": ">>> Player has picked up Tornado Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取龙卷风法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": ">>> Player has picked up Heal Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取治疗法杖 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": ">>> Player has picked up Shade Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取暗影法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": ">>> Hold 25 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 25 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -236,7 +236,7 @@
   {
     "original": ">>> Hold 15 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 15 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -245,7 +245,7 @@
   {
     "original": ">>> Player has picked up Sacred Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取神圣法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": ">>> Player has picked up Venom Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取猛毒法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": ">>> Player has picked up Crystal Staff <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取水晶法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": ">>> Hold 5 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 5 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -281,7 +281,7 @@
   {
     "original": ">>> AFK Teleport in 5 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 挂机玩家将在 5 秒后传送 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -290,7 +290,7 @@
   {
     "original": ">>> Diablo is Coming <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 迪亚波罗来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": ">>> Diablo has been Defeated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 迪亚波罗已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": ">>> Hold 30 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 30 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -317,7 +317,7 @@
   {
     "original": ">>> Hold 40 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 40 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -326,7 +326,7 @@
   {
     "original": ">>> ZM TP IN 15 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 僵尸将在 15 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -335,7 +335,7 @@
   {
     "original": ">>> Angra has been Defeated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 安格拉已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,16 +344,16 @@
   {
     "original": ">>> Stage 5 Completed <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第 5 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Hold 10 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 10 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -362,7 +362,7 @@
   {
     "original": ">>> Spider has been Defeated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 蜘蛛已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": ">>> Bible has been Found <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 圣经已被找到 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": ">>> Spider is Coming <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 蜘蛛来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": ">>> Door Closing in 15 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 15 秒后关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -398,7 +398,7 @@
   {
     "original": ">>> Stage1 Completed <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第 1 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": ">>> DIABLO DEEMS YOUR SACRIFICE WORTHY <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 迪亚波罗认为你的贡品是有价值的 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": ">>> SECRET EASTER EGG COMPLETED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 秘密复活节彩蛋已完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": ">>> TRUE ENDING ENABLED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 真结局已开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,16 +434,16 @@
   {
     "original": ">>>[Admin] Stage 2 Activated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 第2关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Ammo box has been Found <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 弹药箱已被找到 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": ">>> ze_Tyranny2 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> ze_Tyranny2 - 暴君2 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": ">>> Ported from CSS v2 version by Tenshi. <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 由Tenshi.从CS起源v2版本移植而来 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": ">>> CS2 Ported Thanks: 礼绮罗Reikira, 壹玖玖柒零壹贰玖, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> CS2 移植致谢: 礼绮罗Reikira, 壹玖玖柒零壹贰玖, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": ">>> CS2 Ported Thanks: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> CS2 移植致谢: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": ">>> Player has picked up Guillotine <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 玩家已拾取断头台 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
