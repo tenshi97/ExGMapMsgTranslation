@@ -1271,7 +1271,7 @@
   {
     "original": "正在净化祭坛[20]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在净化祭坛[20]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1280,16 +1280,16 @@
   {
     "original": "僵尸传送点10秒后移动!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸传送点10秒后移动!",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "getin!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快进来!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
