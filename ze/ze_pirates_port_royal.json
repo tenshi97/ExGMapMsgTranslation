@@ -434,7 +434,7 @@
   {
     "original": ">>> DOOR OPENS IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门在 5 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -443,16 +443,16 @@
   {
     "original": ">>> |LEVEL 3| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第三关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> DOOR OPENS IN 10 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门在 10 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -461,7 +461,7 @@
   {
     "original": ">>> HOLD FOR 15 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 15 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -470,7 +470,7 @@
   {
     "original": ">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 站在操纵轮旁边以放下桥梁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": ">>> BRIDGE IS DOWN. RUN! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 桥梁已放下。快跑！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": ">>> GET ONTO THE SHIP <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快上船 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": ">>> DOOR OPENS IN 25 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 25 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -506,7 +506,7 @@
   {
     "original": ">>> DOOR CLOSES IN 15 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 15 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -515,7 +515,7 @@
   {
     "original": ">>> DOOR IS OPEN! RUN!!! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门开了！快跑！！！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": ">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 是海盗！在他动手之前干掉他！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": ">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 手雷能对他造成很大伤害。多扔雷！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": ">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 他死了。去藏宝室能保命！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": ">>> HOLD ZOMBIES FOR 20 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 阻挡僵尸 20 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -560,7 +560,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 您已通过第三关。挑战将在第四关继续 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,16 +569,16 @@
   {
     "original": ">>> |LEVEL 4| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第四关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "+++ BARBOSSA picked up +++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+++ 巴博萨 被捡起 +++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": "*** MEDALLION picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 勋章 已拾起 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": ">>> HOLD THE CELLAR FOR 30 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守地窖 30 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -605,7 +605,7 @@
   {
     "original": ">>> CELLAR OPENING IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 地窖将在 5 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -614,7 +614,7 @@
   {
     "original": ">>> RUN AWAY FROM THE ZOMBIES! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 从僵尸的追杀中逃脱！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "*** HEAL picked up***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 治疗 已被捡起***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": ">>> HOLD FOR 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 25 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
