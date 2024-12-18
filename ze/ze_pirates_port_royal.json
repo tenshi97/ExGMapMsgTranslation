@@ -263,7 +263,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 您已通过第一关。第二关继续挑战 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,16 +272,16 @@
   {
     "original": ">>> |LEVEL 2| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第二关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> DOOR CLOSES IN 20 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 20 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -290,7 +290,7 @@
   {
     "original": ">>> DOOR CLOSES IN 10 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 10 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -299,7 +299,7 @@
   {
     "original": ">>> GATE IS CLOSING IN 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 25 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -308,7 +308,7 @@
   {
     "original": ">>> GATE IS CLOSING IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -317,7 +317,7 @@
   {
     "original": "(CT) >>>--SHOOT CANNON--<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "(人类) >>>--向加农炮开火--<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "(僵尸) >>>--站在加农炮旁边来推动它--<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": ">>> CANNON HAS BEEN DESTROYED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 加农炮已被摧毁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": ">>> RUN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快撤 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": ">>> THE SHIP DEPARTS IN 25 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 船将在 25 秒后出发 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -362,7 +362,7 @@
   {
     "original": ">>> ENTRANCE TO THE SHELTER IS OPENING IN 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 通往避难所的入口将在 25 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -371,7 +371,7 @@
   {
     "original": ">>> SHELTER OPENING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 避难所开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": ">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 该岛屿将在 25 秒后被摧毁 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -389,7 +389,7 @@
   {
     "original": ">>> 5 SEC REMAINING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 还剩 5 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -398,7 +398,7 @@
   {
     "original": ">>> SHELTER CLOSING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 避难所正在关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "!!! KILL ALL ZOMBIES !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "!!! 杀光所有僵尸 !!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你已经通过了第二关。挑战在第三关继续 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 人类处于无敌状态 < ** 杀死避难所里的所有僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
