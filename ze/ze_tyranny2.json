@@ -2,7 +2,7 @@
   {
     "original": ">>> Stage 1 <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 1 关<<<",
+    "zh_trans": ">>> 第 一 关<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": ">>>[Admin] Stage 5 Activated <<<",
     "en_trans": "",
-    "zh_trans": ">>>[管理员] 第5关已激活 <<<",
+    "zh_trans": ">>>[管理员] 第五关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": ">>> Stage 5 <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 5 关 <<<",
+    "zh_trans": ">>> 第 五 关 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": ">>> Stage 5 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 5 关 完成 <<<",
+    "zh_trans": ">>> 第 五 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": ">>> Stage1 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 1 关 完成 <<<",
+    "zh_trans": ">>> 第 一 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": ">>>[Admin] Stage 2 Activated <<<",
     "en_trans": "",
-    "zh_trans": ">>>[管理员] 第2关已激活 <<<",
+    "zh_trans": ">>>[管理员] 第二关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,16 +506,16 @@
   {
     "original": ">>> Stage 2 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第二关 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Left Door Opening in 15 Seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 左侧门将在 15 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -524,7 +524,7 @@
   {
     "original": ">>> AFK Teleport 10 Seconds <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 挂机玩家将在 10 秒后传送 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -533,25 +533,25 @@
   {
     "original": ">>>[Admin] Stage 4 Activated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 第四关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Stage 4 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第四关 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Middle Door Opening in 20 Seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 中门将在 20 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -560,7 +560,7 @@
   {
     "original": "*** Meeting Room Route Opened ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 会议室路线已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": ">>> Gargantua is Coming <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 巨人伽刚特尔来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": ">>> Gargantua has been Defeated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 巨人伽刚特尔已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,10 +587,10 @@
   {
     "original": ">>> Stage 4 Completed <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第 四 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
