@@ -1424,55 +1424,55 @@
   {
     "original": "** 坚守30s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守30s **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** 不要让僵尸靠近，10s后传送 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 不要让僵尸靠近，10s后传送 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 坚守47s **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守47s **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 47,
+    "enable_timer": 1
   },
   {
     "original": "** 30s后石墙爆炸 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 30s后石墙爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** 10s后门关 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 10s后门关 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 门50s后开启 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门50s后开启 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 50,
+    "enable_timer": 1
   }
 ]
