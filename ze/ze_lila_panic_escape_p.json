@@ -2,7 +2,7 @@
   {
     "original": "** MAP BY SLAYERDRAGON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图作者；SLAYERDRAGON **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,16 +11,16 @@
   {
     "original": "** LEVEL 1 (EASY) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第一关（简单难度） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** DOOR OPENS IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在10秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -29,7 +29,7 @@
   {
     "original": "** DOOR OPENS IN 15 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在15秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -38,7 +38,7 @@
   {
     "original": "** 5 MORE SECONDS LEFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -47,7 +47,7 @@
   {
     "original": "** Button A2 pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** A2按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "** Button A3 Pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** A3按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "** Button A1 pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** A1按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "** ALL BUTTONS HAVE BEEN PRESSED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有按钮均已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "[MUSIC] ACDC - Highway To Hell",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；ACDC - Highway To Hell",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,16 +92,16 @@
   {
     "original": "** AMMO GUN - 40 sec cooldown **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 弹药-40秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** DEFEND 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守20秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -110,7 +110,7 @@
   {
     "original": "** DEFEND 5 MORE SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 再守5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -119,7 +119,7 @@
   {
     "original": "** DJ IN DA HOUSE !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 点歌机已拾取，该换台了！（左键切歌右键放） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "** Button B2 Pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** B2按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "** Button B1 Pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** B1按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；HOLLYWOOD UNDEAD - Everywhere i go",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "** Button B3 Pressed **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** B3按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "** GO TO THE CENTRAL BUILDING... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 快去中间的建筑... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "** ... AND WAIT FOR EVACUATION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ... 然后等待救援 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,16 +182,16 @@
   {
     "original": "[MUSIC] EIFEL 65 - Blue",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；EIFEL 65 - Blue",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 65,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** SECRET BLUE WORLD COMPLETED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图彩蛋（BLUE WORLD）已触发 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "** DEFEND 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守10秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -209,7 +209,7 @@
   {
     "original": "** END OF THE LINE !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是我们最后的守点!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "** HOLD THIS POSITION FOR 60 SECONDS !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地60秒!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -227,7 +227,7 @@
   {
     "original": "** 50 SECONDS REMAINING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有50秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -236,7 +236,7 @@
   {
     "original": "** 40 SECONDS REMAINING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有40秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -245,7 +245,7 @@
   {
     "original": "** 30 SECONDS REMAINING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有30秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -254,7 +254,7 @@
   {
     "original": "** 20 SECONDS REMAINING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有20秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -263,7 +263,7 @@
   {
     "original": "** 10 SECONDS REMAINING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有10秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -272,7 +272,7 @@
   {
     "original": "[MUSIC] S3RL - Pika Girl",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；S3RL - Pika Girl",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "** 5 SECONDS REMAINING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -290,16 +290,16 @@
   {
     "original": "** U WON LEVEL 1 (EASY) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了第一关（简单难度） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "[MUSIC] CARAMELLDANSEN !!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**当前地图bgm；CARAMELLDANSEN !!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
