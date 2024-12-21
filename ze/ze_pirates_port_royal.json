@@ -2,7 +2,7 @@
   {
     "original": "Map made by Puklica",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "本图由 Puklica 制作",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,25 +11,25 @@
   {
     "original": ">>> |LEVEL 1| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第一关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "|Admin Room| ***Admin has changed difficulty to-LEVEL 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|调关房| ***管理员已将难度更改为 - 第三关***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "|Admin Room| *** ADMIN SLAYING EVERYONE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|调关房| ***重启回合***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,16 +38,16 @@
   {
     "original": "|Admin Room| ***Admin has changed difficulty to LEVEL 4 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|调关房| ***管理员已将难度更改为 - 第四关***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> GATE OPENS IN 20 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 20 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -56,7 +56,7 @@
   {
     "original": ">>> GATE IS OPENING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门正在打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": ">>> GATE CLOSES IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -74,7 +74,7 @@
   {
     "original": ">>> GATE IS CLOSING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门正在关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -83,7 +83,7 @@
   {
     "original": "*** SWORD picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 捡到了 剑 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": ">>> DEFEND THE VILLAGE FOR 40 SEC! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 防守村庄 40 秒！<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -101,7 +101,7 @@
   {
     "original": "*** BUBBLES picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 捡起了 泡泡 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": ">>> 10 SECONDS REMAINING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 还剩 10 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -119,7 +119,7 @@
   {
     "original": ">>> RUN! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快跑! <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "*** WALL picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 捡起了 墙 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": ">>> DOOR CLOSES IN 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 25 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -146,7 +146,7 @@
   {
     "original": "*** BARREL picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 捡起了 炸药桶 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": ">>> DOOR CLOSES IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -164,7 +164,7 @@
   {
     "original": ">>> HORSES LEAVING IN 10 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 马车将在 10 秒后离开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -173,7 +173,7 @@
   {
     "original": "***ACTIVATE ALL CANNONS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 启动所有大炮 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": ">>> GATE CLOSES IN 18 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 18 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 18,
@@ -191,7 +191,7 @@
   {
     "original": ">>> ALL CANNONS ACTIVATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 所有大炮已启动 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": ">>> GATE IS CLOSING! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门正在关闭！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": ">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 等待黑珍珠号射击 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": ">>> RUN TO THE PRISON! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快去监狱！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": ">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 防守监狱！！<<< *** 营救杰克·斯派洛船长 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": ">>> RUN TO THE BLACK PEARL <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快去黑珍珠号 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": ">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 保卫黑珍珠号 45 秒！<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -254,7 +254,7 @@
   {
     "original": ">>> LAST 10 SECONDS REMAINING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 还剩最后 10 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -263,7 +263,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 您已通过第一关。第二关继续挑战 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,16 +272,16 @@
   {
     "original": ">>> |LEVEL 2| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第二关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> DOOR CLOSES IN 20 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 20 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -290,7 +290,7 @@
   {
     "original": ">>> DOOR CLOSES IN 10 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 10 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -299,7 +299,7 @@
   {
     "original": ">>> GATE IS CLOSING IN 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 25 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -308,7 +308,7 @@
   {
     "original": ">>> GATE IS CLOSING IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -317,7 +317,7 @@
   {
     "original": "(CT) >>>--SHOOT CANNON--<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "(人类) >>>--朝加农炮开火--<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "(僵尸) >>>--站在加农炮旁边推动它--<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": ">>> CANNON HAS BEEN DESTROYED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 加农炮已被摧毁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": ">>> RUN <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快撤 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": ">>> THE SHIP DEPARTS IN 25 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 船将在 25 秒后出发 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -362,7 +362,7 @@
   {
     "original": ">>> ENTRANCE TO THE SHELTER IS OPENING IN 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 通往避难所的入口将在 25 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -371,7 +371,7 @@
   {
     "original": ">>> SHELTER OPENING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 避难所开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": ">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 该岛屿将在 25 秒后被摧毁 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -389,7 +389,7 @@
   {
     "original": ">>> 5 SEC REMAINING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 还剩 5 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -398,7 +398,7 @@
   {
     "original": ">>> SHELTER CLOSING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 避难所正在关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "!!! KILL ALL ZOMBIES !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "!!! 杀光所有僵尸 !!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你已经通过了第二关。挑战在第三关继续 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 人类处于无敌状态 < ** 杀死避难所里的所有僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": ">>> DOOR OPENS IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门在 5 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -443,16 +443,16 @@
   {
     "original": ">>> |LEVEL 3| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第三关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> DOOR OPENS IN 10 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门在 10 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -461,7 +461,7 @@
   {
     "original": ">>> HOLD FOR 15 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 15 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -470,7 +470,7 @@
   {
     "original": ">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 站在操纵轮旁边以放下桥梁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": ">>> BRIDGE IS DOWN. RUN! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 桥梁已放下。快跑！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": ">>> GET ONTO THE SHIP <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快上船 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": ">>> DOOR OPENS IN 25 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 25 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -506,7 +506,7 @@
   {
     "original": ">>> DOOR CLOSES IN 15 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 15 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -515,7 +515,7 @@
   {
     "original": ">>> DOOR IS OPEN! RUN!!! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门开了！快跑！！！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": ">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 是海盗！在他动手之前干掉他！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": ">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 手雷能对他造成很大伤害。多扔雷！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": ">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 他死了。去藏宝室能保命！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": ">>> HOLD ZOMBIES FOR 20 sec <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 阻挡僵尸 20 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -560,7 +560,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 您已通过第三关。挑战将在第四关继续 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,16 +569,16 @@
   {
     "original": ">>> |LEVEL 4| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第四关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "+++ BARBOSSA picked up +++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+++ 巴博萨 被捡起 +++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": "*** MEDALLION picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 勋章 已拾起 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": ">>> HOLD THE CELLAR FOR 30 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守地窖 30 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -605,7 +605,7 @@
   {
     "original": ">>> CELLAR OPENING IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 地窖将在 5 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -614,7 +614,7 @@
   {
     "original": ">>> RUN AWAY FROM THE ZOMBIES! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 从僵尸的追杀中逃脱！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "*** HEAL picked up***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 治疗 已被捡起***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": ">>> HOLD FOR 25 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 25 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -641,7 +641,7 @@
   {
     "original": ">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 拖住僵尸，能多久是多久！ <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": ">>> DOOR OPENS IN 30 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门在 30 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -659,7 +659,7 @@
   {
     "original": ">>> BARBOSSA IS COMING IN 5 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 巴博萨将在 5 秒后抵达 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -668,7 +668,7 @@
   {
     "original": ">>> IT'S BARBOSSA. KILL HIM! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 是巴博萨。快杀了他！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": ">>> HE HAS DISAPPEARED. RUN! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 他消失了。快跑！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "*** YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 您已通关第四关。是时候挑战第五关了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
