@@ -20,7 +20,7 @@
   {
     "original": "Special thanks zoya",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "特别感谢：zoya",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,11 +47,11 @@
   {
     "original": "通往山谷外的道路30s后开放",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往山谷外的道路30s后开放",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "一位玩家习得*狂暴*魔法",
@@ -110,11 +110,11 @@
   {
     "original": "可恶!通往桥面的路被神秘力量封锁了,需要15s破解",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "可恶!通往桥面的路被神秘力量封锁了,需要15s破解",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "一位玩家习得*秘隐*魔法",
@@ -128,11 +128,11 @@
   {
     "original": "进入瓯博讷修道院的入口将于20s后开放",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "进入瓯博讷修道院的入口将于20s后开放",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "这建筑不像是自然生成在这与世隔绝的密林深处,看来已经荒废许久了,四周一片寂寥静默让人不寒而栗...",
@@ -155,11 +155,11 @@
   {
     "original": "我们需要15s时间来架设传送阵",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们需要15s时间来架设传送阵",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "机工士-我是姆斯塔迪奥，想继续前进，要先过我这关！",

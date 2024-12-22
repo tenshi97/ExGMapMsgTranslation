@@ -38,7 +38,7 @@
   {
     "original": "***HOLD FOR 30 seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守 30 秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -47,7 +47,7 @@
   {
     "original": "***HOLD FOR 10 seconds***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守 10 秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -56,7 +56,7 @@
   {
     "original": "LEVEL COMPLETED!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "关卡完成!!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "***ZOMBIES INSIDE!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸进来了!!!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": ">>LEVEL 2<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡 2<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***GO!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***走!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "***STAY ON GLOWING AREA OR...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***待在发光区域内，否则……***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***--- 当气球开始移动时，你将会死亡***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -110,7 +110,7 @@
   {
     "original": "***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***科特克斯不会受到子弹的伤害*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "***TRY TO KILL IT WITH SOMETHING ELSE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***试着用别的办法杀死它***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,16 +128,16 @@
   {
     "original": ">>LEVEL 3<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡 3<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***DEFEND FOR 10 SECONDS!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***防守 10 秒！！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -146,7 +146,7 @@
   {
     "original": "*** GET OFF THE ELEVATOR!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***离开电梯！！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": "*** OH NO! ITS UKA UKA!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 噢不！是乌卡乌卡！！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "*** KILL IT BEFORE IT DOES SOMETHING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在它行动之前杀了它*** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "*** UKA UKA IS DEFEATED! RUN TO SAFETY!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 乌卡乌卡被击败了！去安全的地方！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,16 +182,16 @@
   {
     "original": ">>LEVEL 1 Extreme<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>关卡 1 极限模式<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Defend both sides***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守两侧 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

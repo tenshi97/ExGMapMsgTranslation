@@ -317,16 +317,16 @@
   {
     "original": "# PART 3 - TRAM RIDE #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 第三部分——电车之旅 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "# TRAM ON ITS WAY #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 电车正在行进中 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "# TRAM ARRIVED #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 电车已到达 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "# TRAM IS LEAVING #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 电车正在离开 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "# HOLD TRAM #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 守住电车 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "# TRAM START IN 20 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 电车将在 20 秒后启动 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -371,7 +371,7 @@
   {
     "original": "# DOOR OPEN IN 20 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 门将在 20 秒后打开 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -380,7 +380,7 @@
   {
     "original": "# DOOR OPEN #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 门开了 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "# TORCH #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 火炬 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "# FINAL DOOR CLOSING IN 20 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 最后一道门将在 20 秒后关闭 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -407,7 +407,7 @@
   {
     "original": "# 5 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 5 秒 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -416,16 +416,16 @@
   {
     "original": "<!!!> PART 3 - TRAM RIDE PASSED <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 第三部分 - 电车之旅 已通过 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<!!!> EASY COMPLETED <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 简单难度已完成 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "# MG42 AMMO LOADED #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# MG42 弹药已装填  #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

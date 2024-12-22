@@ -1271,7 +1271,7 @@
   {
     "original": "正在净化祭坛[20]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在净化祭坛[20]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -1280,16 +1280,16 @@
   {
     "original": "僵尸传送点10秒后移动!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸传送点10秒后移动!",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "getin!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快进来!",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1388,20 +1388,20 @@
   {
     "original": "亡城的屏障将在55秒后升起",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "亡城的屏障将在55秒后升起",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 55,
+    "enable_timer": 1
   },
   {
     "original": "我们再坚持一会,屏障将于10秒后形成!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们再坚持一会,屏障将于10秒后形成!",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "在天罚面前,跪下!",
