@@ -29,34 +29,34 @@
   {
     "original": "***Tram leaving in 10secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电车将在 10 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***Boat 2 leaving in 5secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***2 号船将在 5 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": "***Boat 1 leaving in 10secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***1 号船将在 10 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
     "original": "++Admin choose to skip warmup++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++管理员选择跳过热身阶段++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "*Genesis laser in 6s*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*激光在 6 秒后发射* ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -74,29 +74,29 @@
   {
     "original": "***Bobsled leaving in 5secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***雪撬车将在 5 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***Boat 3 leaving in 10secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***3 号船将在 10 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
     "original": "***First shortcuts opening in 15secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***第一条近路将在 15 秒后开启*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": ">全皮肤模式...<",
@@ -110,7 +110,7 @@
   {
     "original": "<< Misaka will help you >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂美琴会帮你 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "<<< Shadow appears in its strongest form >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 暗影以其最强形态显现 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "** THE WHITE KNIGHT IS READY ROCK THE WORLD **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 白骑士已准备震撼世界 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "<< Ice >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 冰 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "<< The cannon will deactive if misaka pick other magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 如果御坂美琴选择其他魔法，电磁炮将会失效 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,115 +155,115 @@
   {
     "original": "***Boat 4 leaving in 10secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***4 号船将在 10 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
     "original": "***Ice Wall breaking in 10secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***冰墙将在 10 秒后破裂*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***...WashTub leaving in 3secs...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***...洗澡盆将在 3 秒后离开...*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "***Final Boat leaving in 75secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后一艘船将在 75 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 75,
+    "enable_timer": 1
   },
   {
     "original": "***WashTub leaving in 65secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***洗澡盆将在 65 秒后离开*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 65,
+    "enable_timer": 1
   },
   {
     "original": "***Second shortcuts opening in 15secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***第二条近路将在 15 秒后开启*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "***WashTub leaving in 30secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***洗澡盆将在 30 秒后离开*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "***Final Boat leaving in 30secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后一艘船将在 30 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "***WashTub leaving in 5secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***洗澡盆将在 5 秒后离开*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***Final Boat leaving in 5secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***最后一艘船将在 5 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***Gate opening in 55secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***大门将在 55 秒后开启*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 55,
+    "enable_timer": 1
   },
   {
     "original": "***Gate opening in 30secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***大门将在 30 秒后开启*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "> Nuke in 10s <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 核弹将在 10 秒后爆炸 < ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -272,7 +272,7 @@
   {
     "original": "***5***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***5***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -281,7 +281,7 @@
   {
     "original": "***4***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***4***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -290,7 +290,7 @@
   {
     "original": "***3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***3***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -299,16 +299,16 @@
   {
     "original": "***Gate opening in 5secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***大门将在 5 秒后开启*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***2***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -317,7 +317,7 @@
   {
     "original": "***1***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***1***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
