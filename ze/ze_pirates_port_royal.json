@@ -695,16 +695,16 @@
   {
     "original": ">>> |LEVEL 5| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第五关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> GATE OPENING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门正在开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": ">>> HOLD FOR 45 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 45 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -722,7 +722,7 @@
   {
     "original": ">>> HOLD <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚持住 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 克拉肯用波浪清理了道路 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": ">>> HOLD FOR 35 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 35 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
