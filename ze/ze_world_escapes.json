@@ -1,6 +1,6 @@
 [
   {
-    "original": "** ze_Tensor_of_Ice - ver.1.1 **",
+    "original": "[MAP INFO] *** This map has been created by FuTuRe ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** ze_Tensor_of_Ice - ver.1.1.2 **",
+    "original": "[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,79 +18,70 @@
     "enable_timer": 0
   },
   {
-    "original": "< 30 >",
+    "original": "*** WORLD NUKE INCOMING IN 15 SECONDS! ***",
     "en_trans": "",
-    "zh_trans": "< 30 >",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 15,
     "enable_timer": 1
   },
   {
-    "original": "< 5 >",
+    "original": "*** WORLD NUKE INCOMING IN 10 SECONDS! ***",
     "en_trans": "",
-    "zh_trans": "< 5 >",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
-  },
-  {
-    "original": "< 35 >",
-    "en_trans": "",
-    "zh_trans": "< 35 >",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 35,
-    "enable_timer": 1
-  },
-  {
-    "original": "~ 10 ~",
-    "en_trans": "",
-    "zh_trans": "~ 10 ~",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
   },
   {
-    "original": "~ 15 ~",
+    "original": "*** WORLD NUKE INCOMING IN 5 SECONDS! ***",
     "en_trans": "",
-    "zh_trans": "~ 15 ~",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
-    "original": "< 25 >",
+    "original": "[MAP INFO] The gate will open in 20 seconds! *****",
     "en_trans": "",
-    "zh_trans": "< 25 >",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** The gate has opened, move on! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
     "enable_timer": 1
   },
   {
-    "original": "< 40 >",
-    "en_trans": "",
-    "zh_trans": "< 40 >",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 40,
-    "enable_timer": 1
-  },
-  {
-    "original": "< 15 >",
+    "original": "[MAP INFO] *** Get in the hole! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
-    "original": "|| Failed ||",
+    "original": "[MAP INFO] The gate is slowly opening, hold this area! ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
