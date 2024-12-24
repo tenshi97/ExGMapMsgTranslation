@@ -380,7 +380,7 @@
   {
     "original": "***Start up the Helicopter.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***启动直升机***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,19 +389,19 @@
   {
     "original": "***Helicopter leaving in 5secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***直升机将在 5 秒后离开*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***...WashBucket leaving in 5secs...Seriously?***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***...洗澡盆将在 5 秒后离开...认真的？*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   }
 ]
