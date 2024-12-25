@@ -335,11 +335,11 @@
   {
     "original": "**最后10秒钟**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后10秒钟**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**你完成了普通难度**",
@@ -434,29 +434,29 @@
   {
     "original": "**电梯需要45秒的时间来激活，一定要坚持住，我们马上就可以离开了**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**电梯需要45秒的时间来激活，一定要坚持住，我们马上就可以离开了**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 45,
+    "enable_timer": 1
   },
   {
     "original": "**最后10秒**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后10秒**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**60秒后我们将引爆炸弹！boom！**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**60秒后我们将引爆炸弹！boom！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "**快跑到船上！**",
