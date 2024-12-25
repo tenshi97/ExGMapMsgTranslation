@@ -587,11 +587,11 @@
   {
     "original": "<< 25s后处死还在出生点的人类>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 25s后处死还在出生点的人类>>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "<< 你待的太久了 >>",
