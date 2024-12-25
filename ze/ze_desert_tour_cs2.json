@@ -20,7 +20,7 @@
   {
     "original": "**hold here until a door is open somewhere**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在此处坚守，直到某处的门打开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,25 +29,25 @@
   {
     "original": "**The Door is open in 25seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门将在 25 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "**Teleporter is open in 10seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**传送器将在 10 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**Hold here untile the rock explodes**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在此处坚守，直到岩石爆炸**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,16 +56,16 @@
   {
     "original": "**The Door is open in 30seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门将在 30 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "**Boss is dead,fall back!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**Boss已死,撤退!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,16 +74,16 @@
   {
     "original": "**final 25seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**最后 25 秒** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "**STAGE1 Won**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**第一关胜利**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
