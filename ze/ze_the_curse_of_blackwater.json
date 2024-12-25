@@ -2,7 +2,7 @@
   {
     "original": "MAP BY FRENCHY",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者；FRENCHY",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,16 +11,16 @@
   {
     "original": "[STAGE 1 HOSPITAL OF BLACKWATER]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[第一章 黑水镇医院]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Blackwater main gates will open in 60 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑水大门将在60秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -29,7 +29,7 @@
   {
     "original": "Blackwater main gates will open in 5 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑水大门将在5秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -38,7 +38,7 @@
   {
     "original": "Blackwater hospital doors will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑水医院的大门20秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +47,7 @@
   {
     "original": "Find the key to the maternity ward",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "去找产科病房的钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "We have collected a bottle of pill, it can increase the number of times the heal can be used.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们收集了一瓶药，它可以增加一次奶神器的使用次数。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": "We have collected a battery, it can increase the number of times the lantern can be used.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们找到了一块电池，它可以增加一次探照灯的使用次数。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "Door to maternity ward will open in 40 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往产科病房的门将在40秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -83,7 +83,7 @@
   {
     "original": "Nice, key was found, now we can enter maternity ward room.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "很好，钥匙找到了，现在我们可以进入产科病房了。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,7 +92,7 @@
   {
     "original": "Door to maternity ward will open in 5 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往产科病房的门将在5秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -101,7 +101,7 @@
   {
     "original": "The door will close in 5 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在5秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -110,7 +110,7 @@
   {
     "original": "Who owns this casket?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这是谁的匣子？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": "The door will open in 25 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在25秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -128,7 +128,7 @@
   {
     "original": "Omg did you hear that? Someone broke in",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "天哪，你听到什么声音了吗？有人闯进来了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "Find the key from storage room",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "去找储藏室里的钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "Door to the storage room will open in 25 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往储藏室的门25秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -155,7 +155,7 @@
   {
     "original": "Find crowbar to break down the wc door",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "找到撬棍来撬开厕所的门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "The door will close in 25 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在25秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -173,7 +173,7 @@
   {
     "original": "Door to wc will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "厕所的门30秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -182,7 +182,7 @@
   {
     "original": "Pick up the key for the second floor room",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "捡起二楼房间的钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "The door will close in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在20秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -200,7 +200,7 @@
   {
     "original": "The door will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在20秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -209,7 +209,7 @@
   {
     "original": "Pick up the key",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "捡起钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "Seems this wardrobe cant be moved, there might be secret passage",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们似乎推不动这个衣柜，这里应该有密道才对",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "The door will close in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在30秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -236,7 +236,7 @@
   {
     "original": "Good, we found lever that will move wardrobe",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "很好，我们找到了可以挪动衣柜的杠杆",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -245,7 +245,7 @@
   {
     "original": "Who is this? Looks like a little girl",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这谁啊？看起来是个小女孩",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "Oh god she is scary, run for your lifes",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "妈呀，她好吓人，大家快跑",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": "Good, we escaped from her, now we need to find a key from secret lab",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还好，我们从她手里逃了出来，现在我们需要从秘密实验室找到一把钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "Blackwater - this crazy ass bitch not letting us through, we need to get rid of her so we can get to the lab",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑水-这b不让我们通过这里，我们需要解决她之后才能去实验室",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "Girl is dead now we can pass through",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "那女孩死了，我们现在可以离开了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "AFK TELEPORT IN 10 SECOND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "挂机和走得慢的玩家10秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -299,7 +299,7 @@
   {
     "original": "Doors to Blackwater underground lab will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑水地下实验室的门将在30秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -308,7 +308,7 @@
   {
     "original": "AFK TELEPORT IN 5 SECOND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "挂机和走得慢的玩家5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -317,7 +317,7 @@
   {
     "original": "The doors will close in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在20秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -326,7 +326,7 @@
   {
     "original": "Stage 1 - Completed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第一章已完成",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
