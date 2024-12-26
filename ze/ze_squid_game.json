@@ -2,7 +2,7 @@
   {
     "original": "<<< MAP BY =LIROY= >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 地图作者；=LIROY= >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "DOOR OPENING IN 40 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在40秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -20,7 +20,7 @@
   {
     "original": "ZOMBIES ARE GONE ! GO TO THE DOOR !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸来了！快去贴门！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "DOOR OPENING IN 30 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在30秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -38,7 +38,7 @@
   {
     "original": "SURVIVE 70 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "生存70秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
@@ -47,7 +47,7 @@
   {
     "original": "DEFEND ZOMBIES FOR 40 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚守40秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -56,7 +56,7 @@
   {
     "original": "DOOR OPENING IN 60 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在60秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -65,7 +65,7 @@
   {
     "original": "DOOR OPENING IN 20 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -74,34 +74,34 @@
   {
     "original": "BOSS USE ELECTRO !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "boss释放了电（蹲下）6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "BOSS USE WIND !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "boss释放了风（对着boss抵抗推力）6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "LOOK DOWN !!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "看下面（躲脚底特效）6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<<< YOU MUST KILL ALL ZOMBIES ! >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 你必须解决进来的僵尸才能继续游戏! >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
