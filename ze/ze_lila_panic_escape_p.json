@@ -308,25 +308,25 @@
   {
     "original": "** LEVEL 2 (BOSS) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第二关（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** FIRE BARREL - 50 sec cooldown **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 火桶 - 50秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** GATE WILL OPEN IN 15 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在15秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -335,7 +335,7 @@
   {
     "original": "** GATE WILL OPEN IN 5 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在5秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -344,7 +344,7 @@
   {
     "original": "** GATE WILL CLOSE IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在10秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -353,7 +353,7 @@
   {
     "original": "** OH NOES! ITs PEDOBEAR !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我去，是萝莉熊! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "** KILL IT BEFORE IT RAPES EVERYONE !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在它弄死我们之前解决它 !! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 手雷和特殊物品（神器和头顶的蓝加号）能对它造成更多伤害！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "[MUSIC] REAL2REAL - I Like To Move It",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；REAL2REAL - I Like To Move It",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "** PEDOBEAR HAS BEEN DEFEATED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 萝莉熊被击败了 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "[MUSIC] PENDULUM - Encoder",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；PENDULUM - Encoder",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "[MUSIC] LINKIN PARK - Numb",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；LINKIN PARK - Numb",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,16 +416,16 @@
   {
     "original": "** U WON LEVEL 2 (BOSS) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了第二关（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "[MUSIC] NYAN CAT",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；NYAN CAT",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "[MUSIC] DAFT PUNK - One More Time",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；DAFT PUNK - One More Time",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
