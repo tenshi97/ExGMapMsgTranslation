@@ -29,7 +29,7 @@
   {
     "original": ">>>tp in 30 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>30 秒后传送<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -56,7 +56,7 @@
   {
     "original": ">>>door open in 30 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 30 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -83,7 +83,7 @@
   {
     "original": ">>>在天台最后防守 30 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>在天台最后防守 30 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -110,7 +110,7 @@
   {
     "original": ">>>nuke in 20 seconds<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>20 秒后引爆核弹<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -119,16 +119,16 @@
   {
     "original": ">>>stage 1 complete<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>第一关完成<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>>给我点时间搭一座木桥, 10 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>给我点时间搭一座木桥,还剩 10 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -137,7 +137,7 @@
   {
     "original": ">>>10 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩 10 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -146,7 +146,7 @@
   {
     "original": ">>>我们要通过港务长办公室进入伯拉勒斯, 40 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>我们要通过港务长办公室进入伯拉勒斯,还剩 40 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -155,7 +155,7 @@
   {
     "original": ">>>正在清理障碍, 30 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>正在清理障碍,还剩 30 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -173,7 +173,7 @@
   {
     "original": ">>>door open in 30 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 还剩 30 秒门就打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -218,7 +218,7 @@
   {
     "original": ">>>20 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩 20 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -236,7 +236,7 @@
   {
     "original": ">>>防守到门关, 20 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>防守到门关,还剩 20 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -245,7 +245,7 @@
   {
     "original": ">>>stage 2 complete<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>第二关完成<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
