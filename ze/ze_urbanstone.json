@@ -542,7 +542,7 @@
   {
     "original": "<< STEPS OPEN >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 台阶开启 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -560,7 +560,7 @@
   {
     "original": "<< DOOR OPEN 30 SECONDS >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门将在 30 秒后打开 >> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -569,7 +569,7 @@
   {
     "original": "<< FINAL DOOR CLOSING 30 SECONDS >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 最后的门将在 30 秒后关闭 >> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -578,7 +578,7 @@
   {
     "original": "<< DOOR OPENING >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门正在打开 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
