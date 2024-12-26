@@ -20,7 +20,7 @@
   {
     "original": "ZOMBIES ARE GONE ! GO TO THE DOOR !",
     "en_trans": "",
-    "zh_trans": "僵尸来了！快去贴门！",
+    "zh_trans": "僵尸已经被传送到尸笼，快去贴门！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": "BOSS USE ELECTRO !!!",
     "en_trans": "",
-    "zh_trans": "boss释放了电（蹲下）6",
+    "zh_trans": "boss释放了电（蹲蹲蹲蹲蹲）6",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -128,10 +128,10 @@
   {
     "original": "BOSS USE LASERS !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "boss使用了跳刀（面对boss方向固定低刀）6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   }
 ]
