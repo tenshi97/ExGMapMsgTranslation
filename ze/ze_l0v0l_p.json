@@ -722,11 +722,11 @@
   {
     "original": ">>> QUEEN CASTED TRAIN <<<",
     "en_trans": "",
-    "zh_trans": ">>> 女王召唤了火车：远离铁轨 <<<",
+    "zh_trans": ">>> 女王召唤了火车：远离铁轨(6) <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": ">>> ENERGY TANK USED HEAL TO QUEEN <<<",
@@ -740,11 +740,11 @@
   {
     "original": ">>> WATCH OUT FOR HUGE TAEPODONG <<<",
     "en_trans": "",
-    "zh_trans": ">>> 大浦洞导弹来袭：远离白色光点 <<<",
+    "zh_trans": ">>> 大浦洞导弹来袭：远离白色光点(6) <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": ">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<",
@@ -803,20 +803,20 @@
   {
     "original": ">>> QUEEN CASTED VACUUM <<<",
     "en_trans": "",
-    "zh_trans": ">>> 女王释放了真空吸：按S后退抵抗 <<<",
+    "zh_trans": ">>> 女王释放真空吸：切刀按 S 后退抵抗(10)<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>> QUEEN CASTED WIND <<<",
     "en_trans": "",
-    "zh_trans": ">>> 女王释放了推力风：按W前进抵抗 <<<",
+    "zh_trans": ">>> 女王释放推力风：切刀按 W 前进抵抗(10)<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": ">>> QUEEN CASTED SANIC RUSH <<<",
@@ -830,7 +830,7 @@
   {
     "original": ">>> GET ON THE PLATFORM <<<",
     "en_trans": "",
-    "zh_trans": ">>> 快上到平台 <<<",
+    "zh_trans": ">>> 等平台靠近再上去 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,16 +956,16 @@
   {
     "original": ">>> ADMIN CHANGED TO STAGE 2 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 管理员调关至 第二关 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> ADMIN PRESSED KILLALL BUTTON <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 重启回合 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": ">>> ADMIN CHANGED TO STAGE 1 <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 管理员调关至 第一关 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,

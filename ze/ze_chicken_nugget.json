@@ -83,11 +83,11 @@
   {
     "original": "僵尸将在10s后传送",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在10s后传送",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "这又是什么地方？",
@@ -110,11 +110,11 @@
   {
     "original": "地板在30s后碎裂",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地板在30s后碎裂",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "看来是个快餐店？去门口守住,等着上车！",
@@ -128,11 +128,11 @@
   {
     "original": "这玩意怎么跑脸上来了？看来只能消灭它了！（boss战在10s后开启）",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这玩意怎么跑脸上来了？看来只能消灭它了！（boss战在10s后开启）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "看来这玩意死了，应该结束了！",
@@ -146,10 +146,10 @@
   {
     "original": "将在35秒后全体传送！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "将在35秒后全体传送！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   }
 ]

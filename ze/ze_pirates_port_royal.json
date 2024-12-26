@@ -695,16 +695,16 @@
   {
     "original": ">>> |LEVEL 5| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第五关| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> GATE OPENING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 大门正在开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": ">>> HOLD FOR 45 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 45 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -722,7 +722,7 @@
   {
     "original": ">>> HOLD <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚持住 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 克拉肯用波浪清理了道路 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -740,7 +740,7 @@
   {
     "original": ">>> HOLD FOR 35 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 35 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -749,7 +749,7 @@
   {
     "original": ">>> IT'S KRAKEN. KILL HIM! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 是克拉肯。杀了它！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": ">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 手雷和神器能对他造成大量伤害。好好利用它们！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,16 +767,16 @@
   {
     "original": "||| KRAKEN HAS SENT A WAVE ON YOU |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 克拉肯向你发出了一道波浪。按 W 抵抗推力 (6) |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "||| KRAKEN HAS THROWN BARRELS ON YOU |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 克拉肯向你们投掷了炸药桶 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 克拉肯派出了一只自爆僵尸 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "||| KRAKEN HAS SENT A BUBBLES ON YOU |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 克拉肯向你们发射了泡泡 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,16 +803,16 @@
   {
     "original": "||| KRAKEN HAS USED VORTEX |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 克拉肯使用了漩涡。按 S 抵抗吸力 (6) |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": ">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 克拉肯已死。跳到木筏上 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": ">>> RUN TO THE CAVE <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 快进洞穴 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": ">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 又是巴博萨。别让他跑了！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": "*** LAST MEDALLION picked up ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已拾起最后的勋章 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 最后的勋章已归还到宝箱内 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">>> BARBOSSA IS DEAD <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 巴博萨死了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "||| KRAKEN HAS THROWN BARREL ON YOU |||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "||| 克拉肯向你们投掷了炸药桶 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": ">>> YOU WON THE MAP, BUT YOU DIDN’T KILL THE GOD KRAKEN. <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 你赢了，但你没有杀死传奇海怪克拉肯 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
