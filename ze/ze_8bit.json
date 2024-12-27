@@ -677,19 +677,19 @@
   {
     "original": "[ADMIN] Selected [FINAL STAGE] for next round. Restarting round in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[管理员] 已选择[最终关卡]作为下一轮。将在6秒后重新开始。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
     "original": "[ADMIN] Selected [STAGE 1 NORMAL] for next round. Restarting round in 5 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[管理员] 已选择[第一关 普通难度]作为下一轮。将在6秒后重新开始。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   }
 ]
