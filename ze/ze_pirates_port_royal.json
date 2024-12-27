@@ -884,16 +884,16 @@
   {
     "original": "|Admin Room| ***Admin has changed difficulty to LEVEL 2 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|管理员房间| ***管理员已将难度更改为 第二关***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> HOLD FOR 30 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 30 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
