@@ -335,7 +335,7 @@
   {
     "original": "Zombie TP 10 SEC ! GO BACK",
     "en_trans": "",
-    "zh_trans": "僵尸 4 秒后传送 ! 撤退",
+    "zh_trans": "僵尸 10 秒后传送 ! 撤退",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -371,10 +371,10 @@
   {
     "original": "Stay away from mossy stones!",
     "en_trans": "",
-    "zh_trans": "远离长满青苔的石头!5",
+    "zh_trans": "远离长满青苔的石头!6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -479,7 +479,7 @@
   {
     "original": "The bridge will open in 15 seconds.",
     "en_trans": "",
-    "zh_trans": "桥会在 25 秒后出现.",
+    "zh_trans": "桥会在 15 秒后出现.",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -569,10 +569,10 @@
   {
     "original": ">>> LASER ACTIVATED <<<",
     "en_trans": "",
-    "zh_trans": ">>> 跳刀激活 <<<5",
+    "zh_trans": ">>> 跳刀激活 <<<6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -587,10 +587,10 @@
   {
     "original": "!!! LOOK UP !!!",
     "en_trans": "",
-    "zh_trans": "!!! 看头顶 !!!5",
+    "zh_trans": "!!! 看头顶 !!!6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -614,10 +614,10 @@
   {
     "original": ">>> CROUCH DOWN NOW <<<",
     "en_trans": "",
-    "zh_trans": ">>> 蹲蹲蹲蹲蹲蹲蹲蹲! <<<5",
+    "zh_trans": ">>> 蹲蹲蹲蹲蹲蹲蹲蹲! <<<6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -641,11 +641,11 @@
   {
     "original": "BOSS PUSH COMING !!",
     "en_trans": "",
-    "zh_trans": " BOSS 的推力要来了 !!5",
+    "zh_trans": " BOSS 的推力要来了 !!6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "MOVE FORWARD AND DON'T JUMP!",
@@ -659,10 +659,10 @@
   {
     "original": "OPENING THE ZOMBIE PATH! DEFEND!",
     "en_trans": "",
-    "zh_trans": "僵尸的路要出现了! 速速防守僵尸!5",
+    "zh_trans": "僵尸的路要出现了! 速速防守僵尸!6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -1046,19 +1046,19 @@
   {
     "original": "DESTROY THE CUBE !",
     "en_trans": "",
-    "zh_trans": "摧毁立方体 !5",
+    "zh_trans": "摧毁立方体 !6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
     "original": "THE CUBE IS PUSHING YOU.",
     "en_trans": "",
-    "zh_trans": "立方体正在推你.5",
+    "zh_trans": "立方体正在推你.6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -1073,10 +1073,10 @@
   {
     "original": "THE CUBE DRAWS YOU IN.",
     "en_trans": "",
-    "zh_trans": "立方体吸引着你.5 ",
+    "zh_trans": "立方体吸引着你.6 ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -1100,10 +1100,10 @@
   {
     "original": "GO TO THE SIDE ALCOVES!",
     "en_trans": "",
-    "zh_trans": "去边缘侧凹处!5",
+    "zh_trans": "去边缘侧凹处!6",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -1181,7 +1181,7 @@
   {
     "original": "### ADMIN ROOM ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 调关房 ###",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1190,16 +1190,16 @@
   {
     "original": "SET LEVEL : 3 (EXTREME MEGA SCHIZO)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至 关卡 : 3 (EXTREME MEGA SCHIZO)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "SET LEVEL : 2 (MEGA SCHIZO)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至 关卡 : 2 (MEGA SCHIZO)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
