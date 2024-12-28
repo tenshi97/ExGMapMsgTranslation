@@ -88,5 +88,68 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Hold here for 25 seconds! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** 5 seconds left until explosion! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] ** The metal wall will break down in 15 seconds! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "[MAP INFO] *** Button has been pressed, hold area until gate opens! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
