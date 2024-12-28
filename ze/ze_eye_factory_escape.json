@@ -56,20 +56,20 @@
   {
     "original": "** 第一扇门将在15秒后打开,请稍候 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第一扇门将在15秒后打开,请稍候 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 第二扇门将在10秒后打开,请稍候 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第二扇门将在10秒后打开,请稍候 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** 试着调查一下电脑,也许我们能找到一些东西 **",
@@ -119,11 +119,11 @@
   {
     "original": "** 给我15秒破坏这个木箱 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 给我15秒破坏这个木箱 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 这台电脑存储了一些关于眼睛的东西 **",
@@ -146,20 +146,20 @@
   {
     "original": "** 电梯将在30秒后启动,摧毁掉这堵墙 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在30秒后启动,摧毁掉这堵墙 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** 这扇门是锁着的,给我15秒 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这扇门是锁着的,给我15秒 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "** 一位玩家捡起了喷火器,有燃料限制 **",
@@ -191,11 +191,11 @@
   {
     "original": "** 门将在25秒后开启 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在25秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** 拿去吧,也许有用 **",
@@ -227,11 +227,11 @@
   {
     "original": "** 等待30秒守住僵尸,直到桥升起 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等待30秒守住僵尸,直到桥升起 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** 桥出现了,后退 **",
@@ -245,11 +245,11 @@
   {
     "original": "** 这道门将在20秒后开门 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这道门将在20秒后开门 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "** 我感觉门后有一个危险的陷阱 **",
@@ -290,10 +290,10 @@
   {
     "original": "** 门将在35秒后打开 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在35秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   }
 ]
