@@ -902,16 +902,16 @@
   {
     "original": ">>> |LEVEL 6 KRAKEN GOD!| <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> |第六关 克拉肯之神!| <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> DOOR OPENS IN 15 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 15 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -920,7 +920,7 @@
   {
     "original": ">>> DOOR OPENS IN 20 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 门将在 20 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -929,7 +929,7 @@
   {
     "original": ">>> HOLD FOR 20 SEC <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 20 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
