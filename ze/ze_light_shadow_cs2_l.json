@@ -1,6 +1,6 @@
 [
   {
-    "original": "** THE PLANE IS GOING TO CRASH **",
+    "original": "<<< stage set to [Ring] >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** BRACE YOURSELVES **",
+    "original": "<<< stage set to [Core] >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,7 +18,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Follow the game trails through the island interior to reach Embryonic Research B. **",
+    "original": "<<< Map creat by lopb,Port by linyan >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -27,7 +27,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Zodiac departing for island interior. **",
+    "original": "<<< Map is currently being tested >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -36,7 +36,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** BRIDGE CHARGE DETONATED -- JUMP YOU FOOLS! **",
+    "original": "<<< A human get wing >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -45,16 +45,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Push the C4 between the barrels **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**AFK TELE 20 SECONDS**",
+    "original": "<<< 20 seconds left >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -63,7 +54,7 @@
     "enable_timer": 1
   },
   {
-    "original": "** C4 planted! **",
+    "original": "<<< This is the temple of light, but it has been occupied by the core >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -72,16 +63,25 @@
     "enable_timer": 0
   },
   {
-    "original": "**AFK TELE 10 SECONDS**",
+    "original": "<<< 18 seconds left >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
+    "timer_num": 18,
     "enable_timer": 1
   },
   {
-    "original": "** Raptor nest has been disturbed! **",
+    "original": "<<< 15 seconds left >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<< Touch the light block to destroy the core >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -90,7 +90,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** There's no power. We're screwed! **",
+    "original": "<<< Something's wrong >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +99,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Power has been restored to Isla Sorna **",
+    "original": "<<< Core perceives us ,it will use the power of light to defeat us >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -108,16 +108,7 @@
     "enable_timer": 0
   },
   {
-    "original": "** Satellite link established. Phone access enabled. **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "** InGen has received your distress signal. A109 inbound for extraction in 60... **",
+    "original": "<<< 60 seconds left >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -126,12 +117,48 @@
     "enable_timer": 1
   },
   {
-    "original": "** Laboratory Security online. Locking in 10 seconds... **",
+    "original": "<<< Beat it! False light ! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< it's too late! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< The core run away,But we found another way >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<< 10 seconds left >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
+  },
+  {
+    "original": "<<< Core has noticed us >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
