@@ -407,16 +407,16 @@
   {
     "original": "**bride move in 10secs**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**新娘将在 10 秒后移动** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***Armory open.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***军械库已开放。***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "wait 12 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待 12 秒 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 12,
@@ -461,11 +461,11 @@
   {
     "original": "***Tram leaving in 17secs.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电车将在 17 秒后出发*** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 17,
+    "enable_timer": 1
   },
   {
     "original": ">克隆皮肤...攀登岛屿...<",
