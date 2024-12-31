@@ -322,5 +322,41 @@
     "kr_trans": "",
     "timer_num": 15,
     "enable_timer": 1
+  },
+  {
+    "original": "*僵尸将在 20 秒后传送*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "* 15 秒*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "*门将在 65 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 65,
+    "enable_timer": 1
+  },
+  {
+    "original": "*管道在 30 秒后打开*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
   }
 ]
