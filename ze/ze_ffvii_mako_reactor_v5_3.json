@@ -222,7 +222,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 100,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 90 SECONDS LEFT **",
@@ -231,7 +231,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **",
@@ -249,7 +249,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** Well done! Door is opening in 10 seconds **",
@@ -267,7 +267,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 70,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 60 SECONDS LEFT **",
@@ -276,7 +276,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 50 SECONDS LEFT **",
@@ -285,7 +285,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 40 SECONDS LEFT **",
@@ -294,7 +294,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "** 30 SECONDS LEFT **",
@@ -303,7 +303,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **",
@@ -335,7 +335,7 @@
   {
     "original": "** A player has adquired GRAVITY MATERIA **",
     "en_trans": "",
-    "zh_trans": "** 玩家取得了 重力魔晶石 **",
+    "zh_trans": "** 玩家取得了 黑洞魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **",
     "en_trans": "",
-    "zh_trans": "** 这是ZM关 ** 找个地方勾住就行，不要走正常流程路线 **",
+    "zh_trans": "** 这是ZM关 ** 找个地方苟住就行，不要走正常流程路线 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "** BAHAMUT HAS CAST GRAVITY **",
     "en_trans": "",
-    "zh_trans": "** 巴哈姆特·重力 ~~",
+    "zh_trans": "** 巴哈姆特·黑洞 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
