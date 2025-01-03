@@ -146,7 +146,7 @@
   {
     "original": "***Gravity Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了黑洞 6***",
+    "zh_trans": "***boss使用了黑洞***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -155,7 +155,7 @@
   {
     "original": "***Wind Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了风 6***",
+    "zh_trans": "***boss使用了风***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -164,11 +164,11 @@
   {
     "original": "***Ice Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了冰 6***",
+    "zh_trans": "***boss使用了冰***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Snow picked up***",
@@ -182,11 +182,11 @@
   {
     "original": "***Thruster Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了击飞 6***",
+    "zh_trans": "***boss使用了击飞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Go Back to teleport place***",
@@ -200,7 +200,7 @@
   {
     "original": "***Final teleport enable in 35 seconds***",
     "en_trans": "",
-    "zh_trans": "***最后的传送将在35秒后开始***",
+    "zh_trans": "***最终传送将在35秒后启动***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -470,10 +470,10 @@
   {
     "original": "***Reflection will cast in 2s*",
     "en_trans": "",
-    "zh_trans": "***反伤将在2秒后启用（停枪）*",
+    "zh_trans": "***boss即将开启反伤技能（停枪）6*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
@@ -482,8 +482,8 @@
     "zh_trans": "***反伤将在1秒后启用（停枪）*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "***Reflection Casted***",
