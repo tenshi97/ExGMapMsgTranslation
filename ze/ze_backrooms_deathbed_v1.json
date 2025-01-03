@@ -29,11 +29,11 @@
   {
     "original": "> Platform starts in 5 sec. <",
     "en_trans": "",
-    "zh_trans": "> 平台将在五秒后启动 <",
+    "zh_trans": "> 平台将在5秒后启动 <",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": ">> This map contain Jumpscare Sence!(When die) <<",
@@ -560,7 +560,7 @@
   {
     "original": "Admin has turn on Nightmare Mode.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "管理员已开启 噩梦模式",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "> Jumpscare been turnoff in this round. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 在这一轮中，跳吓元素已被关闭。 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
