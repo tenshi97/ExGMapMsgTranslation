@@ -113,8 +113,8 @@
     "zh_trans": ">>> 正在播放: Eiffel 65 - Blue <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 65,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> NOW PLAYING: Radiohead - Knives Out <<<",
@@ -311,8 +311,8 @@
     "zh_trans": "管理员调关：第四关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Janitor selected Level 4",
@@ -320,8 +320,8 @@
     "zh_trans": "管理员调关：第四关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Janitor selected Level 2",
@@ -329,8 +329,8 @@
     "zh_trans": "管理员调关：第二关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Janitor selected Level 1",
@@ -338,7 +338,7 @@
     "zh_trans": "管理员调关：第一关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
