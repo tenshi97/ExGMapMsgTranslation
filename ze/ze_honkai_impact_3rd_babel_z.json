@@ -236,10 +236,10 @@
   {
     "original": "已呼叫电梯！等待40秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已呼叫电梯！等待40秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 40,
+    "enable_timer": 1
   }
 ]
