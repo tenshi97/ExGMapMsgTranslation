@@ -2,7 +2,7 @@
   {
     "original": "Stage ->Encounter",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前关卡 ->邂逅",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": ">>Map by Runa<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>地图作者；Runa<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": ">>Thanks to Tianli & Dakotec and i7 for providing models<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>特别感谢Tianli，Dakotec和i7提供的模型<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": ">>A player has learned an ability from White Mage <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家学习了白魔法师的能力",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": ">>Defend until the path is clear<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守住僵尸直到道路净空<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": ">>A player has learned an ability from Scholar<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一位玩家学习了学者的能力<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": ">>A player has picked up Electric <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>有人拾取了电<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +65,7 @@
   {
     "original": ">>A player has learned an ability from Bard<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家学习了吟游诗人的能力",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +74,7 @@
   {
     "original": ">>Defend 40s for the teleport<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚守40秒，等待传送<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -83,7 +83,7 @@
   {
     "original": ">>Defend until both sides doors open<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持到两侧大门打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -92,16 +92,16 @@
   {
     "original": ">>AFK 40s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>挂机者40秒后传送至点位一<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": ">>AFK 80s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>挂机者80秒后传送至点位二和三<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 80,
@@ -110,7 +110,7 @@
   {
     "original": ">>Small ADS can provide speed to zombie<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>小的ADS能给僵尸提供加速效果<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +119,7 @@
   {
     "original": ">>Destory small ADS can also reduce the main ADS hp<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>摧毁小的ADS也能对主ADS造成伤害<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": ">>A player has learned an ability from Astrologian <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一位玩家学习了占星术士的能力",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": ">>Destory ADS in 180s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>在180秒内摧毁ADS<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 180,
@@ -146,7 +146,7 @@
   {
     "original": ">>Last defense, keep holding here for 15s!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>最后的守点，坚守15秒!<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -155,7 +155,7 @@
   {
     "original": ">>Bahamut<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>巴哈姆特<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

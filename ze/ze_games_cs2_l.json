@@ -1,6 +1,6 @@
 [
   {
-    "original": "我们已经进入了琪亚娜的记忆中",
+    "original": "-=[ Welcome to Zombie Games ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -9,7 +9,16 @@
     "enable_timer": 0
   },
   {
-    "original": "环境数据匹配中.....",
+    "original": "-=[ Round starting in 10 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Starting game: Obstacle Race ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -18,232 +27,106 @@
     "enable_timer": 0
   },
   {
-    "original": "环境数据匹配完成",
+    "original": "-=[ You have 1 minute to reach the end ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
-    "original": "匹配结果:巴比伦实验室!!!!!",
+    "original": "-=[ You have 40 seconds ]=-",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "该死,琪亚娜怎么会有巴比伦实验室的记忆?",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "检测到大量死士出没!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "准备迎战坚守到舱门关闭!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "舱门已成功关闭!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "检测到大量死士从后方接近中......",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "该死!这些死士到底是从哪里来的?",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "是第二律者,她正向我们这边传送死士!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "往上跑,快快快!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "该死,上面也有死士出现!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "快到桥上!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "趁下一波攻击到来前,赶紧离开这里",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "门被锁住了,我们没有磁卡需要时间破解!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "闸门破解完成!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "这么高的崩坏能浓度是怎么回事!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "快启动安全系统降低崩坏能浓度不然我们无法继续前进!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "系统启动中.......崩坏能浓度正在下降......",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "崩坏能浓度已降低至安全水平!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "ok!现在我们去把那个该死的崩坏炉关掉否者第二律者会更加强大",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "崩坏炉关闭程序启动中!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "守住这里,直到崩坏炉彻底关闭!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "崩坏炉已关闭",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "检测到虚数空间波动大量死士接近中!",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "已呼叫电梯！等待40秒",
-    "en_trans": "",
-    "zh_trans": "已呼叫电梯！等待40秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
     "enable_timer": 1
   },
   {
-    "original": "去控制中心调查一下是怎么回事!",
+    "original": "-=[ You have 20 more seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Hurry, 10 seconds left ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ 5 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ 4 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 4,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ 3 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 3,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ 2 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 2,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ 1 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Autopick in 1 minute ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Extreme Mode :: CT/T < 1 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Starting game: Obstacle ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -252,7 +135,7 @@
     "enable_timer": 0
   },
   {
-    "original": "守住!等待电梯到来!",
+    "original": "-=[ Extreme Mode ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -261,7 +144,16 @@
     "enable_timer": 0
   },
   {
-    "original": "里面就是控制中心了坚持到闸门破解完成!",
+    "original": "-=[ Survive 90 Seconds... ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Starting Game: Castle Defence ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -270,7 +162,7 @@
     "enable_timer": 0
   },
   {
-    "original": "快利用控制台关闭闸门",
+    "original": "-=[ Enter the Castle ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -279,7 +171,16 @@
     "enable_timer": 0
   },
   {
-    "original": "闸门已关闭数据传输中......",
+    "original": "-=[ Doors closing in 5 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Zombies are free ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -288,7 +189,16 @@
     "enable_timer": 0
   },
   {
-    "original": "该死!她发现我们了",
+    "original": "-=[ Hold for 30 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Shoot the ladders down ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -297,7 +207,7 @@
     "enable_timer": 0
   },
   {
-    "original": "守住,等待数据传输完成",
+    "original": "-=[ The catapult is coming!!! ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -306,7 +216,16 @@
     "enable_timer": 0
   },
   {
-    "original": "数据传输已完成!",
+    "original": "-=[ Castle gates open in 30 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Fallback ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -315,7 +234,16 @@
     "enable_timer": 0
   },
   {
-    "original": "守住这里!等待电梯到来",
+    "original": "-=[ Castle gates open in 15 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 15,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Castle gates are opening ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -324,7 +252,25 @@
     "enable_timer": 0
   },
   {
-    "original": "快撤!快撤!赶紧进电梯!",
+    "original": "-=[ Finishing in 30 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Finishing in 5 ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Starting game: Deathrun ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -333,7 +279,34 @@
     "enable_timer": 0
   },
   {
-    "original": "上面被不知名的力量封锁了,正在尝试破解",
+    "original": "-=[ Hold for 90 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 90,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Lavapit activating in 5 seconds ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ 1 more minute ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 1,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Zombie spawn advanced ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -342,7 +315,25 @@
     "enable_timer": 0
   },
   {
-    "original": "封锁已解除！",
+    "original": "-=[ 30 more seconds... ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 30,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Finishing in 5... ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Starting game: Slingshot ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -351,7 +342,16 @@
     "enable_timer": 0
   },
   {
-    "original": "是琪亚娜!",
+    "original": "-=[ Survive 60 Seconds... ]=-",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
+  },
+  {
+    "original": "-=[ Here come the zombies ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -360,16 +360,16 @@
     "enable_timer": 0
   },
   {
-    "original": "她的情况不对劲！",
+    "original": "-=[ You have 60 seconds ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
-    "original": "她向我们发动攻击了！",
+    "original": "-=[ Zombie spawn has advanced ]=-",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
