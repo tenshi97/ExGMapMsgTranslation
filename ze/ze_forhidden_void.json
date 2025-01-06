@@ -29,7 +29,7 @@
   {
     "original": "We have to take back our devices,Search the missing devices around the crash site!!!",
     "en_trans": "",
-    "zh_trans": "我们必须取回我们的设备，在坠机地点周围搜寻丢失的设备！！！",
+    "zh_trans": "我们必须取回我们的设备，在坠机地点周围搜寻丢失的设备！（对物品划刀来收集）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": "Zombies Escape!!!!",
     "en_trans": "",
-    "zh_trans": "僵尸大逃亡！！！",
+    "zh_trans": "你们把僵尸放跑了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -965,25 +965,25 @@
   {
     "original": "s**t!We still need 4 pieces,altar is devouring all of us,it wants our lives to fill its gaps",
     "en_trans": "",
-    "zh_trans": "该死！我们还需要4块，祭坛正在吞噬我们所有人，它想要我们的生命来填补它的空缺。",
+    "zh_trans": "该死！我们还需要4块碎片，祭坛正在吞噬我们所有人，它想要我们的生命来填补它的空缺。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "s**t!We still need 1 pieces,altar is devouring all of us,it wants our lives to fill its gaps",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "该死！我们还需要1块碎片，祭坛正在吞噬我们所有人，它想要我们的生命来填补它的空缺",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Wait for the path to open [20 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待道路开放 [20秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -992,7 +992,7 @@
   {
     "original": "Wait for the path to extend [22 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待道路延伸 [22秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 22,
