@@ -461,7 +461,7 @@
   {
     "original": "<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 检测到僵尸 - 你输了 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "# MAGIC - FOG #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 魔法 - 迷雾 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "# VENT OPEN IN 15 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 通风口将在 15 秒后打开 # ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -488,7 +488,7 @@
   {
     "original": "# VENT OPEN #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 通风口打开了 # ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "# FINAL DOOR CLOSING IN 40 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 最终的门将在 40 秒后关闭 # ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -506,7 +506,7 @@
   {
     "original": "# 30 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 30 秒 # ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -515,7 +515,7 @@
   {
     "original": "# 20 SECONDS #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 20 秒 # ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -524,7 +524,7 @@
   {
     "original": "<!!!> MED COMPLETED <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 中等难度已完成 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "# ITEM RESTRICTION - BAZOOKA #",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "# 限定道具 - 火箭筒 #",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -542,7 +542,7 @@
   {
     "original": "<!!!> 60 SECONDS <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 60 秒 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -551,7 +551,7 @@
   {
     "original": "<!!!> 50 SECONDS <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 50 秒 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,

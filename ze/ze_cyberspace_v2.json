@@ -344,16 +344,16 @@
   {
     "original": ">> Admin set to Chapter 2 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>管理员设置为 第二关<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">> Admin set to Chapter Ex <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>管理员设置为 EX关<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": ">> Restart round... <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 重启回合... <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": ">> 40 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 40秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -380,7 +380,7 @@
   {
     "original": ">> platform appeared <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>平台出现了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": ">> 20 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 20秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -398,7 +398,7 @@
   {
     "original": ">> 5 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 5秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -407,7 +407,7 @@
   {
     "original": ">> Beam stopped <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>光束停止了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": ">> look down <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>向下看<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,10 +425,10 @@
   {
     "original": ">> Chapter 2 Completed <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>第二关已完成<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
