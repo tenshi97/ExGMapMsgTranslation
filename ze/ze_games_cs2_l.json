@@ -2,7 +2,7 @@
   {
     "original": "-=[ Welcome to Zombie Games ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 欢迎来到僵尸小游戏 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "-=[ Round starting in 10 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 10 秒后回合开始 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -20,7 +20,7 @@
   {
     "original": "-=[ Starting game: Obstacle Race ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 开始游戏：障碍赛跑 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,16 +29,16 @@
   {
     "original": "-=[ You have 1 minute to reach the end ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 你有 60 秒时间前往终点 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
     "original": "-=[ You have 40 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 你还有 40 秒 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -47,7 +47,7 @@
   {
     "original": "-=[ You have 20 more seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 还剩 20 秒 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -56,7 +56,7 @@
   {
     "original": "-=[ Hurry, 10 seconds left ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 快点，只剩 10 秒了 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -65,7 +65,7 @@
   {
     "original": "-=[ 5 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 5 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -74,7 +74,7 @@
   {
     "original": "-=[ 4 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 4 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -83,7 +83,7 @@
   {
     "original": "-=[ 3 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 3 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -92,7 +92,7 @@
   {
     "original": "-=[ 2 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 2 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -101,7 +101,7 @@
   {
     "original": "-=[ 1 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 1 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -110,25 +110,25 @@
   {
     "original": "-=[ Autopick in 1 minute ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 60 秒后自动选择 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
     "original": "-=[ Extreme Mode :: CT/T < 1 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 极限模式 :: 存活人类数量少于僵尸 ]=-",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "-=[ Starting game: Obstacle ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 开始游戏：障碍 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "-=[ Extreme Mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 极限模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,7 +146,7 @@
   {
     "original": "-=[ Survive 90 Seconds... ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 存活 90 秒... ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -155,7 +155,7 @@
   {
     "original": "-=[ Starting Game: Castle Defence ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 开始游戏：城堡防御 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -164,7 +164,7 @@
   {
     "original": "-=[ Enter the Castle ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 进入城堡 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -173,7 +173,7 @@
   {
     "original": "-=[ Doors closing in 5 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 门将在 5 秒后关闭 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -182,7 +182,7 @@
   {
     "original": "-=[ Zombies are free ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 僵尸开始行动了 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "-=[ Hold for 30 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 坚守 30 秒 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -200,7 +200,7 @@
   {
     "original": "-=[ Shoot the ladders down ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 把梯子射倒 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,7 +209,7 @@
   {
     "original": "-=[ The catapult is coming!!! ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 投石机来了!!! ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "-=[ Castle gates open in 30 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 城堡大门将在 30 秒后开启 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -227,7 +227,7 @@
   {
     "original": "-=[ Fallback ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 撤退 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -236,7 +236,7 @@
   {
     "original": "-=[ Castle gates open in 15 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 城堡大门将在 15 秒后打开 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -245,7 +245,7 @@
   {
     "original": "-=[ Castle gates are opening ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 城堡大门正在打开 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -254,7 +254,7 @@
   {
     "original": "-=[ Finishing in 30 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 30 秒后结束 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -263,7 +263,7 @@
   {
     "original": "-=[ Finishing in 5 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 5 秒后结束 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -272,7 +272,7 @@
   {
     "original": "-=[ Starting game: Deathrun ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 开始游戏：死亡奔跑 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "-=[ Hold for 90 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 坚守 90 秒 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 90,
@@ -290,7 +290,7 @@
   {
     "original": "-=[ Lavapit activating in 5 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 熔岩坑将在 5 秒后激活 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -299,16 +299,16 @@
   {
     "original": "-=[ 1 more minute ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 还有 60 秒 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
     "original": "-=[ Zombie spawn advanced ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 僵尸提前复活 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "-=[ 30 more seconds... ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 还有 30 秒... ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -326,7 +326,7 @@
   {
     "original": "-=[ Finishing in 5... ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 5 秒后结束... ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -335,7 +335,7 @@
   {
     "original": "-=[ Starting game: Slingshot ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 开始游戏：弹弓游戏 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "-=[ Survive 60 Seconds... ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 生存 60 秒... ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -353,7 +353,7 @@
   {
     "original": "-=[ Here come the zombies ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 僵尸来了 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "-=[ You have 60 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 你有 60 秒 ]=- ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -371,7 +371,7 @@
   {
     "original": "-=[ Zombie spawn has advanced ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 僵尸复活时间提前了 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
