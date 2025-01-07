@@ -416,7 +416,7 @@
   {
     "original": "*** ZOMBIE GOT INSIDE THE LIFT ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***有僵尸进入了电梯***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,16 +425,16 @@
   {
     "original": "Level 3 set",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至第三关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** GIGA FLARE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 千兆耀斑 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -443,10 +443,10 @@
   {
     "original": "Level 1 set",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至第一关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
