@@ -326,11 +326,11 @@
   {
     "original": "***YOU NEED TO DEFEND THE TOWN 1MIN***",
     "en_trans": "",
-    "zh_trans": "***你需要在这里防守1分钟***",
+    "zh_trans": "***你需要在这里防守60秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "***DEFEND AGAIN 45s***",
@@ -497,7 +497,7 @@
   {
     "original": "***NEXT DIFFICULTY : EXTREM ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***下一关难度：EX***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -524,7 +524,7 @@
   {
     "original": "***NEXT DIFFICULTY : HARD ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***下一关难度：困难***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -551,7 +551,7 @@
   {
     "original": "***NEXT DIFFICULTY : EASY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***当前难度：简单***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

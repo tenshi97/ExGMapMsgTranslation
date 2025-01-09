@@ -2,16 +2,16 @@
   {
     "original": "<!!!> LEVEL 1 <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 第一关 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<!!!> COLD MOUNTAIN <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 寒冷山脉 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "<!!!> THE COLD HURTS <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 寒冷会对玩家造成伤害 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "<!!!> FIRE BARRELS HEALS <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 烤火能恢复生命值 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "<> PREVIOUS FIRE EXTINGUISHING <>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<> 在火堆熄灭之前出发 <>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "<!!!> HOLD 50 SECONDS <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 坚守 50 秒 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -56,7 +56,7 @@
   {
     "original": "<!!!> HUMANS WIN <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 人类胜利 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
