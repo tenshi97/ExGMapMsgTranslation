@@ -995,8 +995,8 @@
     "zh_trans": "<正在关闭01号大门.>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<正在打开02号大门...>",
@@ -1004,8 +1004,8 @@
     "zh_trans": "<正在打开02号大门...>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<等下,电源被他们切断了!>",
@@ -1031,8 +1031,8 @@
     "zh_trans": "<02号大门启动了!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "-- 检测到 超过38个人 存活 --",
@@ -1040,8 +1040,8 @@
     "zh_trans": "-- 检测到 超过38个人 存活 --",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 38,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<收到!>",
