@@ -149,8 +149,8 @@
     "zh_trans": "推力枪的冷却时间为 45 秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 45,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Door opening in 10 seconds",
@@ -203,8 +203,8 @@
     "zh_trans": "地雷的冷却时间为 24 秒",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 24,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Arming C4 in 30 seconds",
