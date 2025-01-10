@@ -77,8 +77,8 @@
     "zh_trans": "**提示: 如果你在防守点防守（大门和城墙），每防守10秒你会获得1分奖励**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**",
@@ -86,8 +86,8 @@
     "zh_trans": "**给僵尸的提示: 架设攻城梯或使用攻城锤破门，每一次均可获得1分奖励**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**You must not retrieve ** The retrieve will be announced **",

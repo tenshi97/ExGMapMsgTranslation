@@ -554,8 +554,8 @@
     "zh_trans": "***岩壁将在5秒后破裂***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***SNOW WALL WILL BREAK IN 10 SECONDS***",
@@ -869,8 +869,8 @@
     "zh_trans": "***测路工厂门5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***",
@@ -905,8 +905,8 @@
     "zh_trans": "***激光5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***FINAL ELEVATOR DOOR IS CLOSING***",
@@ -932,8 +932,8 @@
     "zh_trans": "***最终的电梯门在5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***",
@@ -1010,11 +1010,11 @@
   {
     "original": "***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***钢铁工厂大门在五秒后关闭***",
+    "zh_trans": "***钢铁工厂大门在5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***STEELWORKS DOOR IS CLOSING***",
@@ -1055,7 +1055,7 @@
   {
     "original": "***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***钢铁工厂大门五秒后重新打开***",
+    "zh_trans": "***钢铁工厂大门5秒后重新打开***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1211,8 +1211,8 @@
     "zh_trans": "***工厂门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***FACTORY DOOR OPENS IN 4 SECONDS***",
@@ -1220,8 +1220,8 @@
     "zh_trans": "***工厂门将在4秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 4,
+    "enable_timer": 1
   },
   {
     "original": "***FACTORY DOOR OPENS IN 3 SECONDS***",
@@ -1229,8 +1229,8 @@
     "zh_trans": "***工厂门将在3后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "***FACTORY DOOR OPENS IN 2 SECONDS***",
@@ -1238,8 +1238,8 @@
     "zh_trans": "***工厂门将在2秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "***FACTORY DOOR OPENS IN 1 SECONDS***",
@@ -1247,8 +1247,8 @@
     "zh_trans": "***工厂门将在1秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***",
@@ -1262,7 +1262,7 @@
   {
     "original": "***GLASS WILL BREAK IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***玻璃将在五秒后碎裂***",
+    "zh_trans": "***玻璃将在5秒后碎裂***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1283,8 +1283,8 @@
     "zh_trans": "***5秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OPENING DOORS IN 10 SECONDS***",
@@ -1310,8 +1310,8 @@
     "zh_trans": "***5秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR***",
@@ -1337,8 +1337,8 @@
     "zh_trans": "***桥出口门5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***",
@@ -1400,8 +1400,8 @@
     "zh_trans": "***主电梯在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OPENING BASE SOCRATES ELEVATOR GATE***",
@@ -1571,8 +1571,8 @@
     "zh_trans": "***性感的通风口将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***SEXY VENT GATE IS OPENING***",
@@ -1616,8 +1616,8 @@
     "zh_trans": "***距离出发还有5秒***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***THE BURRITO SHITTER IS DEPARTING***",
@@ -1697,8 +1697,8 @@
     "zh_trans": "***圣诞老人工厂门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***SANTA FACTORY DOOR IS OPENING***",
@@ -1850,8 +1850,8 @@
     "zh_trans": "***中间路电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OPENING DOORS IN 5 SECONDS***",
@@ -1859,8 +1859,8 @@
     "zh_trans": "***5秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OPENING DOORS***",
@@ -1895,8 +1895,8 @@
     "zh_trans": "***5秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR***",
@@ -1931,8 +1931,8 @@
     "zh_trans": "***桥出口门5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***HEAD TOWARD SANTAS LAIR***",
@@ -2255,8 +2255,8 @@
     "zh_trans": "***外门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***MOVE IT***",
@@ -2291,8 +2291,8 @@
     "zh_trans": "***真相电梯将在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***SOCRATES PONDERS***",
@@ -2372,8 +2372,8 @@
     "zh_trans": "***中央大门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***CENTER GATE IS OPENING",
@@ -2399,8 +2399,8 @@
     "zh_trans": "外墙入口将在5秒内打开",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "****OUTER WALL ENTRANCE IS OPENING***",
@@ -2435,8 +2435,8 @@
     "zh_trans": "***内侧上层门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***",
@@ -2453,8 +2453,8 @@
     "zh_trans": "***电梯井门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***ELEVATOR SHAFT GATE IS OPENING***",
@@ -2480,8 +2480,8 @@
     "zh_trans": "***下层电梯将在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING***",
@@ -2507,8 +2507,8 @@
     "zh_trans": "***下层门将在5秒开启***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***LOWER GATE IS OPENING***",
@@ -2534,8 +2534,8 @@
     "zh_trans": "***鹦鹉路电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING***",
@@ -2561,8 +2561,8 @@
     "zh_trans": "***狮子路电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***OUTER ELEVATOR IS LEAVING***",
@@ -2624,8 +2624,8 @@
     "zh_trans": "***最终电梯还有20秒离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***",
@@ -2633,8 +2633,8 @@
     "zh_trans": "***最终电梯还有10秒离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -2642,8 +2642,8 @@
     "zh_trans": "***最终电梯还有5秒离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING***",
@@ -2705,8 +2705,8 @@
     "zh_trans": "***圣诞老人巢穴门4秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 4,
+    "enable_timer": 1
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 3 SECONDS***",
@@ -2714,8 +2714,8 @@
     "zh_trans": "***圣诞老人巢穴门3秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 2 SECONDS***",
@@ -2723,8 +2723,8 @@
     "zh_trans": "***圣诞老人巢穴门2秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 2,
+    "enable_timer": 1
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 1 SECONDS***",
@@ -2732,8 +2732,8 @@
     "zh_trans": "***圣诞老人巢穴门1秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING***",
@@ -2759,8 +2759,8 @@
     "zh_trans": "***外门将在10秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "***OUTER GATE IS OPENING***",
@@ -2840,8 +2840,8 @@
     "zh_trans": "***真相电车5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***MAP RESET - GOING BACK TO PROLOUGE***",
@@ -2894,8 +2894,8 @@
     "zh_trans": "***最终的门5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "***FINAL GATE IS CLOSING***",
@@ -3602,7 +3602,7 @@
   {
     "original": "EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大家都去叫Kaemon别再偷懒了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
