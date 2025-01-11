@@ -749,16 +749,16 @@
   {
     "original": "*ADMIN Room: Next round set to Chapter 1*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*调关房: 下回合为 第一章*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*ADMIN Room: Difficulty permanently set to EASY*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*调关房: 难度已永久设置为 简单*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">>Wait for corridor to drain...<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待走廊里的水排干...<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">>Hold until the security door unlocks<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守到安全门解锁<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": ">>Detonate and Destroy the tunnel<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>引爆炸药摧毁隧道<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": ">>Splicers must not make it past the marker<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>绝不能让基因改造人越过标记处<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,7 +884,7 @@
   {
     "original": ">>>Chapter failed<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>章节失败<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
