@@ -524,16 +524,16 @@
   {
     "original": "** ADMIN HAS SWITCH ENDING 1 AT THIS ROUND.**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员为本回合选择了结局 1**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** KILL REMAINING ZOMBIES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 消灭剩余的僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
