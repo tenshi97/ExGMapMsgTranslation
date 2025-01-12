@@ -20,7 +20,7 @@
   {
     "original": "< Map by @Seth >",
     "en_trans": "",
-    "zh_trans": "< Map by @Seth >",
+    "zh_trans": "< 地图作者；@Seth >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,6 +875,24 @@
   {
     "original": "距离僵尸核爆还有240秒！",
     "en_trans": "",
+    "zh_trans": "距离僵尸核爆还有240秒！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 240,
+    "enable_timer": 1
+  },
+  {
+    "original": "距离僵尸核爆还有20秒,普通人类和僵尸躁起来了！",
+    "en_trans": "",
+    "zh_trans": "距离僵尸核爆还有20秒,普通人类和僵尸躁起来了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 20,
+    "enable_timer": 1
+  },
+  {
+    "original": "< 当前模式: 街舞大乱斗 >",
+    "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
@@ -882,7 +900,70 @@
     "enable_timer": 0
   },
   {
-    "original": "距离僵尸核爆还有20秒,普通人类和僵尸躁起来了！",
+    "original": "< Current Mode: Abyss Fight >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 第一轮街舞队在15秒后上场！ >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 斗舞大会正式开始！ >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 每一轮上场会间隔15秒,直到所有人出场！ >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 消灭对面全部阵营即可胜利！ >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "< 人类方斗舞技高一筹！ >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "未检测到人类上岛,核爆启用!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "僵尸幸运盒子已达上限！",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
