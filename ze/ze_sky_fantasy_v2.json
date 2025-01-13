@@ -317,7 +317,7 @@
   {
     "original": "-- God --",
     "en_trans": "",
-    "zh_trans": "-- 终极持有者当前处于免抓状态 --",
+    "zh_trans": "-- 终极持有者当前处于免抓状态（但会吃秒） --",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "<< Zombie ESCAPE!!! >>",
     "en_trans": "",
-    "zh_trans": "<< Zombie ESCAPE!!! >>",
+    "zh_trans": "<< 僵尸跟着跑出来了！！>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "--- Misaka Ending ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 御坂结局 ---",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,16 +578,16 @@
   {
     "original": "--- Do not trust the black laser!!! ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 不要相信黑色刀!!（黄刀要躲黑刀要接） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< STAGE Fail...... >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 回合失败 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
