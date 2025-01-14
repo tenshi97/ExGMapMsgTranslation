@@ -1,177 +1,285 @@
 [
   {
-    "original": "**Stage1**",
+    "original": "**20 seconds until rocks are cleared**",
     "en_trans": "",
-    "zh_trans": "**第一关**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Map By artesurf**",
-    "en_trans": "",
-    "zh_trans": "**地图作者:artesurf**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**hold here until a door is open somewhere**",
-    "en_trans": "",
-    "zh_trans": "**在此处坚守，直到某处的门打开**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The Door is open in 25seconds**",
-    "en_trans": "",
-    "zh_trans": "**门将在 25 秒后打开** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Teleporter is open in 10seconds**",
-    "en_trans": "",
-    "zh_trans": "**传送器将在 10 秒后开启** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Hold here untile the rock explodes**",
-    "en_trans": "",
-    "zh_trans": "**在此处坚守，直到岩石爆炸**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**The Door is open in 30seconds**",
-    "en_trans": "",
-    "zh_trans": "**门将在 30 秒后打开** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 30,
-    "enable_timer": 1
-  },
-  {
-    "original": "**Boss is dead,fall back!**",
-    "en_trans": "",
-    "zh_trans": "**Boss已死,撤退!**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**final 25seconds**",
-    "en_trans": "",
-    "zh_trans": "**最后 25 秒** ",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 25,
-    "enable_timer": 1
-  },
-  {
-    "original": "**STAGE1 Won**",
-    "en_trans": "",
-    "zh_trans": "**第一关胜利**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Stage2**",
-    "en_trans": "",
-    "zh_trans": "**第二关**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Hole here**",
-    "en_trans": "",
-    "zh_trans": "**这里有个洞**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**the door is open in 20seconds**",
-    "en_trans": "",
-    "zh_trans": "**门将在 20 秒后打开** ",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
     "enable_timer": 1
   },
   {
-    "original": "**the door is open in 15seconds**",
+    "original": "**Debug successful mass healing word**",
     "en_trans": "",
-    "zh_trans": "**门将在 15 秒后打开** ",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Debug successful spirit guardians**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend for 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Door opens in 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Debug successful wall of fire**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**AFK teleport in 5 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Debug successful arms of hadar**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Debug successful expeditious retreat**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**40 seconds until rocks are cleared**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "**Debug successful fireball**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Door will open in 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**AFK Teleport in 25 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 25,
+    "enable_timer": 1
+  },
+  {
+    "original": "**A lever has been pulled**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Defend for 40 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 40,
+    "enable_timer": 1
+  },
+  {
+    "original": "**The Hydra is approaching**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Enter the arena now!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra breaks the earth**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra dwells beneath the surface**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra spits acid**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra breathes acid smoke**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra screams deafening**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra quakes the earth**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra blasts you with acid**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra lost its right head**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra lost its left head**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra is vulnerable**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**The Hydra has been defeated**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Retreat to the surface**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**15 seconds until rocks are cleared**",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
     "enable_timer": 1
   },
   {
-    "original": "**It went into rage**",
+    "original": "**Lift raises in 30 seconds**",
     "en_trans": "",
-    "zh_trans": "**它陷入了狂怒状态**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Wind**",
-    "en_trans": "",
-    "zh_trans": "**风**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Boss is dead!**",
-    "en_trans": "",
-    "zh_trans": "**Boss死了!**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**30seconds left**",
-    "en_trans": "",
-    "zh_trans": "**还剩 30 秒** ",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
     "enable_timer": 1
   },
   {
-    "original": "**Stage2 won**",
-    "en_trans": "",
-    "zh_trans": "**第二关胜利**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Earth Shield**",
+    "original": "**Quest successful**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -180,7 +288,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Earth Quake**",
+    "original": "**Map completed**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -189,7 +297,7 @@
     "enable_timer": 0
   },
   {
-    "original": "**Stage3**",
+    "original": "**Thanks for playing**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,174 +306,12 @@
     "enable_timer": 0
   },
   {
-    "original": "**Cover here until the door is open**",
+    "original": "**Nuke in 4 seconds**",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**the door is open in 15seconds****",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**invisible wall is remove in 35seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**the door to the pyramid will open in 10seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Underground gate open in 15seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[1/2]**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[2/2]Hold here untile open the way to the pyramid**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Fall Back,Teleport in 20seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Press 6 buttons**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 4,
     "enable_timer": 1
-  },
-  {
-    "original": "**[1/6]**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[2/6]**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[3/6]**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[4/6]**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[5/6]**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**[6/6]Teleporter will open in 25seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Blast Laser**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Blast Laser Ex**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Survive for 30seconds**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
-  },
-  {
-    "original": "**Stage3 won**",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
   }
 ]
