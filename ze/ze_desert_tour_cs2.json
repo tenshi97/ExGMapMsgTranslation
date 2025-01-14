@@ -173,7 +173,7 @@
   {
     "original": "**Earth Shield**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大地之盾**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -182,7 +182,7 @@
   {
     "original": "**Earth Quake**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大地震颤**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -191,7 +191,7 @@
   {
     "original": "**Stage3**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**第三关**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -200,7 +200,7 @@
   {
     "original": "**Cover here until the door is open**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在这里守到门开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -209,38 +209,38 @@
   {
     "original": "**the door is open in 15seconds****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门将在 15 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**invisible wall is remove in 35seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**隐形墙将在 35 秒后移除** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 35,
+    "enable_timer": 1
   },
   {
     "original": "**the door to the pyramid will open in 10seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**通往金字塔的门将在 10 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**Underground gate open in 15seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**地下大门将在 15 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 15,
+    "enable_timer": 1
   },
   {
     "original": "**[1/2]**",
@@ -254,7 +254,7 @@
   {
     "original": "**[2/2]Hold here untile open the way to the pyramid**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[2/2]在此坚守，直到通往金字塔的道路打开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,20 +263,20 @@
   {
     "original": "**Fall Back,Teleport in 20seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**撤退,20 秒后进行传送** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**Press 6 buttons**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**按下 6 个按钮**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**[1/6]**",
@@ -326,16 +326,16 @@
   {
     "original": "**[6/6]Teleporter will open in 25seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[6/6]传送器将在 25 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "**Blast Laser**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**爆破激光**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -344,7 +344,7 @@
   {
     "original": "**Blast Laser Ex**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**超级爆破激光**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,16 +353,16 @@
   {
     "original": "**Survive for 30seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**存活 30 秒** ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "**Stage3 won**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**第三关胜利**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
