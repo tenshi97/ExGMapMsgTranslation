@@ -779,13 +779,13 @@
     "zh_trans": ">>> 第 三 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>> Blessed ancient scroll has been Found <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 已找到受祝福的古老卷轴 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,10 +794,10 @@
   {
     "original": ">>>[Admin] Stage 3 Activated <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>[管理员] 第三关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]

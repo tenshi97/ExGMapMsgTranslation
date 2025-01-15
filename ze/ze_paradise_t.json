@@ -2,7 +2,7 @@
   {
     "original": "HINT: 'Crouch' into the hang gliders and then stand up inside.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "提示：“蹲下”进入滑翔机，然后在里面站起来。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "HINT: Cut the boat cable!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "提示：切断船的缆绳！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,7 +20,7 @@
   {
     "original": "HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "提示：绕着浮标游往威尔梅卡峰！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,7 +29,7 @@
   {
     "original": "HINT: Ocean currents will impede progress.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "提示：洋流会阻碍前进。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,7 +38,7 @@
   {
     "original": "** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 橡皮筏驾驶员：鲨鱼正在靠近我们，六点钟方向！开枪打它！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -47,7 +47,7 @@
   {
     "original": "** Magma chamber charges detonated. Wilmekea Peak has become unstable! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 岩浆中心的炸药已引爆。威尔梅卡峰变得不稳定了！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +56,7 @@
   {
     "original": "** Wilmekea has gone critical. 10 seconds until eruption! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 威尔梅卡峰已到达临界点。还有 10 秒就要喷发了！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -65,19 +65,19 @@
   {
     "original": "** V-22 Operator: Extraction complete. Dust off in 10... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** V-22 操作员: 撤离完成。10 秒后起飞... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "** V-22 Operator: SAM launch detected. Taking evasive maneuvers... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** V-22 操作员: 检测到地对空导弹发射。正在采取规避动作... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 22,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
