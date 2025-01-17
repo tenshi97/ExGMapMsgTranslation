@@ -677,7 +677,7 @@
   {
     "original": "NICE! we have 1 out of 3 chemicals",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "太棒了！我们找到了1/3的化学药品。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "Door to storage room will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往储藏室的门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -695,16 +695,16 @@
   {
     "original": "We found 2-nd chemical, last one is on the left side of the lab",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们找到了第二种化学药品，最后一种在实验室的左侧",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Frenchy is retarded, just pick up the meat",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "弗兰奇真是个蠢货，赶紧把肉捡起来",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -713,7 +713,7 @@
   {
     "original": "Hunter will break the storage room door in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "将在 30 秒后打开储藏室的门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -722,7 +722,7 @@
   {
     "original": "Bomb is ready we are good to go",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "炸药准备完毕，我们可以出发了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -731,7 +731,7 @@
   {
     "original": "Omg! We need to kill that hunter",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "天哪！我们得干掉那个猎人。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
