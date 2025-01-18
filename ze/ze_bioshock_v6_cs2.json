@@ -920,25 +920,25 @@
   {
     "original": ">>Extra Chapter - 1999<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>额外章节 - 1999<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1999,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>1999 is a special mode<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>本关是特殊模式<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1999,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>Its long and difficult<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>章节流程较长且难度增加<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": ">>Enjoy it<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>祝各位玩得愉快<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,7 +956,7 @@
   {
     "original": ">>Wait for the storage doors to open - 60<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待仓库门开 - 60 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -965,16 +965,16 @@
   {
     "original": ">>There are 2 ways to go. Someone must take the upper path<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>有两条路可走。必须有人走上面那条路<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>They must go and open the lower door from behind<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>他们必须从后面打开下面那扇门<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -983,7 +983,7 @@
   {
     "original": ">>Wait for access to Fort Frolic<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待进入欢乐堡的通道开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -992,7 +992,7 @@
   {
     "original": ">>Wait for access to the Bathysphere - 35s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待进入深海球形潜水器 - 35 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -1001,7 +1001,7 @@
   {
     "original": ">>Hold the Wineries - 25s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚守酒庄 - 25 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
