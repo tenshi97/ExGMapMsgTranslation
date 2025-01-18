@@ -29,11 +29,11 @@
   {
     "original": "We have to take back our devices,Search the missing devices around the crash site!!!",
     "en_trans": "",
-    "zh_trans": "我们必须取回我们的设备，在坠机地点周围搜寻丢失的设备！（对物品划刀来收集）",
+    "zh_trans": "我们必须取回我们的设备，在坠机地点周围搜寻丢失的设备！（用刀划需要收集的物品）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "人类弹药已获取",
@@ -839,11 +839,11 @@
   {
     "original": "It seems like we have to go left side",
     "en_trans": "",
-    "zh_trans": "看起来我们得走左边。",
+    "zh_trans": "看起来我们得走左边",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "It needs some time [18 sec]",
@@ -923,8 +923,8 @@
     "zh_trans": "看起来我们得走右边。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "the middle way is blocked,destroy the iron fence",
@@ -1001,16 +1001,16 @@
   {
     "original": "s**t!We still need 2 pieces,altar is devouring all of us,it wants our lives to fill its gaps",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "该死！我们还需要2块碎片，祭坛正在吞噬我们所有人，它想要我们的生命来填补它的空缺",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Acheron Arrive!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黄泉已抵达战场！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1019,7 +1019,7 @@
   {
     "original": "Wait for the slate to move [30 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待石板移动 [30 秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1028,7 +1028,7 @@
   {
     "original": "A strange crystal, try to touch it",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一块奇怪的水晶，试着触碰它",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": "Crystal has been activated, wait for it to function [16 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水晶已经激活，等待他的运作 [16秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 16,
@@ -1046,7 +1046,7 @@
   {
     "original": "defend until entrance opens [50 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防守到入口开启[50秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -1055,7 +1055,7 @@
   {
     "original": "Gate is opening [5 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "大门已开启 [5秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1064,16 +1064,16 @@
   {
     "original": "Right Side",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "右边",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "Wait for the iron fence to open [30 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待铁栅栏打开[30秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1082,7 +1082,7 @@
   {
     "original": "defend until the crystal falls [63 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚守到水晶下降[63秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 63,
@@ -1091,7 +1091,7 @@
   {
     "original": "The crystal is activated, wait for the slate to function [30 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水晶被激活，等待石板运作[30秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1100,16 +1100,16 @@
   {
     "original": "trigger 3 slates to activate the mechanism",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "触发3个石板以激活装置",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "wait for the path to clear [22 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待道路净空[22秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 22,
@@ -1118,7 +1118,7 @@
   {
     "original": "Is this inside the building?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这是那个建筑内部吗？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1127,7 +1127,7 @@
   {
     "original": "Wait for the gate to fall [30 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待大门开启[30秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -1136,16 +1136,16 @@
   {
     "original": "Find crystal to remove the barrier of the gate",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "寻找水晶来清除障碍（左边两个，右边两个）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "Wait for the barrier to disappear [30 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待屏障消失[30秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
