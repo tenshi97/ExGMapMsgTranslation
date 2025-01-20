@@ -398,16 +398,16 @@
   {
     "original": "The boss battle starts in ten seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS战将在 10 秒后开始 ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "**The BloodSucker is dead.Run!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**血魔已死。快跑！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -416,7 +416,7 @@
   {
     "original": "**A player picked up nightstar**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了夜星**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "**OPENING THE GATES (30 SECONDS)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**正在开启大门(30 秒) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -434,7 +434,7 @@
   {
     "original": "**The door wil open in 10 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门将在 10 秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -443,7 +443,7 @@
   {
     "original": "**We don't have much time. Get the document**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们的时间不多了。去拿文件**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "<<Got the Document>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<已拿到文件>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +461,7 @@
   {
     "original": "**The door has rusted so much that it can't be opened**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**这扇门生锈太严重，已经打不开了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -470,7 +470,7 @@
   {
     "original": "**We need to blow this door open**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们需要炸开这扇门**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,7 +479,7 @@
   {
     "original": "**The door blew open. Get out of here with the Document**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门被炸开了。带着文件离开这里**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -488,7 +488,7 @@
   {
     "original": "**The documents are here!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**文件在这儿！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "**We are too close!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们靠得太近了！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -506,7 +506,7 @@
   {
     "original": "**Defend a bit**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**稍微防守一下**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -515,7 +515,7 @@
   {
     "original": "**The door will explode in a few seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**这扇门几秒后就会爆炸！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -523,6 +523,33 @@
   },
   {
     "original": "**RUN RUN RUN!!!**",
+    "en_trans": "",
+    "zh_trans": "**走走走!!!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "**Prototype N62 was picked up**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<Gauss gun is out of ammo>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": "<<BloodSucker has appeared>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

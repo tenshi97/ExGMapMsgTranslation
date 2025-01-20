@@ -560,7 +560,7 @@
   {
     "original": "<< Fire >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 火 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -586,6 +586,24 @@
   },
   {
     "original": "++Admin choose All Item++",
+    "en_trans": "",
+    "zh_trans": "++管理员选择了全神器模式++",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">魔神！<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
+  },
+  {
+    "original": ">艾利克斯！<",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
