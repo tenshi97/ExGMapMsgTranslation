@@ -758,7 +758,7 @@
   {
     "original": "*找到灭火器了*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*找到灭火器了*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": "*地图上显示这里就是要潜入的地方*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*地图上显示这里就是要潜入的地方*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -776,7 +776,7 @@
   {
     "original": ">>>火焰熄灭了<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>火焰熄灭了<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -785,7 +785,7 @@
   {
     "original": "玖神:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -794,7 +794,7 @@
   {
     "original": "玖神:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "玖神:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "玖神:*辐射水平会影响你们的生命安全。你们必须尽快穿过这片区域*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官:*辐射水平会影响你们的生命安全。你们必须尽快穿过这片区域*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -821,7 +821,7 @@
   {
     "original": "玖神:*对了，中心区可能电能已经耗尽，需要你们自己去启用备用电源*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官:*对了，中心区可能电能已经耗尽，需要你们自己去启用备用电源*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -830,7 +830,7 @@
   {
     "original": "*不能让其他小队再次进入这个鬼地方*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*不能让其他小队再次进入这个鬼地方*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -839,7 +839,7 @@
   {
     "original": ">>>快走！！<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>快走！！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -848,7 +848,7 @@
   {
     "original": ">>>通风口功率已经提高到25%<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>通风口功率已经提高到25%<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": ">>>通风口功率已经提高到50%<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>通风口功率已经提高到50%<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": ">>>通风口功率已经提高到75%<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>通风口功率已经提高到75%<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": ">>>通风口功率已经过载<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>通风口功率已经过载<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -884,25 +884,25 @@
   {
     "original": ">>>大门还有20秒打开<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>大门还有20秒打开<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": ">>>大门还有10秒打开<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>大门还有10秒打开<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "玖神: *终于联系上你们小队了*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官: *终于联系上你们小队了*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -911,7 +911,7 @@
   {
     "original": "玖神: *我们的另外一支小队已经在这片区域安装了炸弹*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官: *我们的另外一支小队已经在这片区域安装了炸弹*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": "玖神: *自从联系断了之后我就以为你们已经...*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官: *自从联系断了之后我就以为你们已经...*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -929,7 +929,7 @@
   {
     "original": "玖神: *那边有一条通道连接到外面的水道，我在地图上给你们标识出来了*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官: *那边有一条通道连接到外面的水道，我在地图上给你们标识出来了*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -938,7 +938,7 @@
   {
     "original": "玖神: *我们会在外面接应你们*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "长官: *我们会在外面接应你们*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -947,7 +947,7 @@
   {
     "original": "*我们得再快一点了*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*我们得再快一点了*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -956,16 +956,16 @@
   {
     "original": ">>>门还有10秒钟关闭<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>门还有10秒钟关闭<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 10,
+    "enable_timer": 1
   },
   {
     "original": "*快进到房间里来!!!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*快进到房间里来!!!*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -974,7 +974,7 @@
   {
     "original": ">>>通风口已经过载<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>通风口已经过载<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1271,7 +1271,7 @@
   {
     "original": "*我可不想进去游泳*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*我可不想进去游泳*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
