@@ -59,8 +59,8 @@
     "zh_trans": "** 如果我们转动仓鼠轮上面的门就可能会打开（在轮子里对着门口按s或背对着按w） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **",
@@ -239,8 +239,8 @@
     "zh_trans": "** 试着让这个小火车动起来！我们必须离开这里！（拉杆要拉七下，第六下的时候老鼠会被放出来） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **",
@@ -338,8 +338,8 @@
     "zh_trans": "** 打计数器! 如果我们能把它打爆应该就可以通过燃气灶了（对红点中间的位置开枪） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **",
@@ -425,7 +425,7 @@
   {
     "original": "** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **",
     "en_trans": "",
-    "zh_trans": "** 比利会腐化所有恐怖的东西! 僵尸将会变得很脆弱! **",
+    "zh_trans": "** 比利会腐化所有恐怖的东西! 僵尸将会变得很脆弱!（幽灵走过的地方才有强制1血） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -452,7 +452,7 @@
   {
     "original": "** THE END **",
     "en_trans": "",
-    "zh_trans": "** 地图已通关！恭喜！（括号内容补充；水木、） **",
+    "zh_trans": "** 地图已通关！恭喜！（补充；水木、） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

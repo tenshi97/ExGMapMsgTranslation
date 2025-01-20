@@ -266,8 +266,8 @@
     "zh_trans": "** 神圣之泪 - 快蹲下 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Vampire - stop shooting **",
@@ -275,8 +275,8 @@
     "zh_trans": "** 吸血状态 - 停止射击 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Ricochet - jump **",
@@ -284,8 +284,8 @@
     "zh_trans": "** 弹射 - 跳起来! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** You are too slow! Boss enrage soon! **",
@@ -524,29 +524,29 @@
   {
     "original": "** Vortex **",
     "en_trans": "",
-    "zh_trans": "** 黑洞 **",
+    "zh_trans": "** 黑洞（远离特效） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Weight of the Land **",
     "en_trans": "",
-    "zh_trans": "** 大地之力 **",
+    "zh_trans": "** 大地之力（远离脚底特效） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Sink **",
     "en_trans": "",
-    "zh_trans": "** 下沉 **",
+    "zh_trans": "** 下沉（站在两块平台交接处） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Door is opening in 40s *",
@@ -695,47 +695,47 @@
   {
     "original": "** Dancing Claw **",
     "en_trans": "",
-    "zh_trans": "** 舞动之爪 **",
+    "zh_trans": "** 舞动之爪（准备起跳） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Divine Tears **",
     "en_trans": "",
-    "zh_trans": "** 神圣之泪 **",
+    "zh_trans": "** 神圣之泪（蹲下） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Swallow **",
     "en_trans": "",
-    "zh_trans": "** 淹没一切**",
+    "zh_trans": "** 淹没一切（按s抵抗）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Vampire **",
     "en_trans": "",
-    "zh_trans": "** 吸血状态 **",
+    "zh_trans": "** 吸血状态（停枪） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Force **",
     "en_trans": "",
-    "zh_trans": "** 自然之力 **",
+    "zh_trans": "** 自然之力（按w抵抗） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** MOVING ON TO STAGE 2 **",
@@ -788,8 +788,8 @@
     "zh_trans": "** 山崩地裂 - 避开红色平台 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** Incorrect combination! The pit will open SLOWER!! **",
