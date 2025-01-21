@@ -2,7 +2,7 @@
   {
     "original": "**Map By R1cko27**",
     "en_trans": "",
-    "zh_trans": "**地图作者；R1cko27**",
+    "zh_trans": "**地图作者；R1cko27（补充；水木、）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -14,8 +14,8 @@
     "zh_trans": "**目眩山巅（躲开障碍前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Revolving Platforms**",
@@ -23,8 +23,8 @@
     "zh_trans": "**旋转木马（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Crazy Rock**",
@@ -32,26 +32,26 @@
     "zh_trans": "**障碍狂欢（避开障碍抵达终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**KZ**",
     "en_trans": "",
-    "zh_trans": "**KZ**",
+    "zh_trans": "**KZ（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Fruit Race**",
     "en_trans": "",
-    "zh_trans": "**完美配对（记住图案尽可能不掉下去）**",
+    "zh_trans": "**完美配对（记住头顶的图案不要掉下去）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Moving Walls**",
@@ -59,26 +59,26 @@
     "zh_trans": "*五花八门（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Fragile floor**",
     "en_trans": "",
-    "zh_trans": "**蜂窝迷图（稳住自己不掉下去）**",
+    "zh_trans": "**蜂窝迷图（被玩家踩过的方块会碎掉）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Skipping Rope**",
     "en_trans": "",
-    "zh_trans": "**跳绳**",
+    "zh_trans": "**跳绳（保证自己在平台上）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "**Zombie on elevator**",

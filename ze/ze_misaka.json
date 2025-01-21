@@ -32,8 +32,8 @@
     "zh_trans": "<< 推力 (按w抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Drain >>",
@@ -41,8 +41,8 @@
     "zh_trans": "<< 漏极 (按s抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Trials of Sword >>",
@@ -50,8 +50,8 @@
     "zh_trans": "<< 剑之试炼 (跳蹲刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Fallen Sky >>",
@@ -59,8 +59,8 @@
     "zh_trans": "<< 天空坠落 (看头顶躲避) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Misaka will use holy in 6 seconds >>",
@@ -74,11 +74,11 @@
   {
     "original": "<< Misaka is using cannon >>",
     "en_trans": "",
-    "zh_trans": "<< 御坂使用了超电磁炮 >>",
+    "zh_trans": "<< 御坂使用了超电磁炮（去两边） >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Wind >>",
@@ -86,8 +86,8 @@
     "zh_trans": "<< 风之引 (反方向抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Congratulation !!! >>",
@@ -491,8 +491,8 @@
     "zh_trans": "<< 三段暗浪 (按w抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Absolute Purification >>",
@@ -500,8 +500,8 @@
     "zh_trans": "<< 绝对净化 (中间旋转刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Flame of Revenge >>",
@@ -509,8 +509,8 @@
     "zh_trans": "<< 复仇之焰 (尸笼) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Sign of Death >>",
@@ -518,8 +518,8 @@
     "zh_trans": "<< 死亡征兆 (头顶刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Hunting Instinct >>",
@@ -527,8 +527,8 @@
     "zh_trans": "<< 狩猎本能 (跳刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< hold for 55 seconds >>",
@@ -896,8 +896,8 @@
     "zh_trans": "<< 千兆漏极 (按s抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Reaping Slash >>",
@@ -905,8 +905,8 @@
     "zh_trans": "<< 收割之刃 (蹲下) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< MEGA PUSH >>",
@@ -914,8 +914,8 @@
     "zh_trans": "<< 三段推力 (按w抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< the platform will rise in 15 seconds >>",
@@ -1190,7 +1190,7 @@
   {
     "original": "<< RTV plz >>",
     "en_trans": "",
-    "zh_trans": "<< RTV plz >>",
+    "zh_trans": "<< 现在请动动你们发财的小手按y输入RTV  >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1496,7 +1496,7 @@
   {
     "original": "<< INSANE I Complete >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< ex1完成 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1505,7 +1505,7 @@
   {
     "original": "<< RTV II Selected >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 有人选择了 RTV II >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1514,7 +1514,7 @@
   {
     "original": "<< Next round will be INSANE II >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 下关将是ex2 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
