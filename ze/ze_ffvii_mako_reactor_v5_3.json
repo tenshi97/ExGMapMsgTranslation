@@ -902,7 +902,7 @@
   {
     "original": "** 5 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 5 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -911,7 +911,7 @@
   {
     "original": "** 4 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 4 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -920,7 +920,7 @@
   {
     "original": "** 3 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 3 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -929,7 +929,7 @@
   {
     "original": "** 2 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 2 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -938,7 +938,7 @@
   {
     "original": "** 1 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 1 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1028,7 +1028,7 @@
   {
     "original": "** CURRENT DIFFICULTY ** >> EXTREME IV << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前难度 ** >> EX 4 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1037,7 +1037,7 @@
   {
     "original": "** ZEDDYS VERSION **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ZEDDYS 版本 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1046,7 +1046,7 @@
   {
     "original": "** >> WARNING! REACTOR CORE UNSTABLE << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** >> 警告！魔晄炉核心不稳定 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1055,7 +1055,7 @@
   {
     "original": "** >> IT IS RECOMMENDED YOU STAY INDOORS << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** >> 建议您待在室内 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": "** Bridge is rotating in 45 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 桥梁将在 45 秒后旋转 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -1073,16 +1073,16 @@
   {
     "original": "** WELCOME TO EXTREME 4! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 尽情享受EX4难度吧! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** CURRENT DIFFICULTY ** >> EXTREME II << **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前难度 ** >> EX 2 << **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1091,7 +1091,7 @@
   {
     "original": "** HEAL AND ULTIMA ONLY AVAILABLE AT THE CORE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 治疗和终极只有在魔晄炉核心处才能找到 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
