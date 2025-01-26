@@ -920,16 +920,16 @@
   {
     "original": "** ADMIN CHANGED TO EXTREME 1 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员将关卡更改为 EX1 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** ZOMBIES ON BOARD YOU FAIL! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸上船了，你输了！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
