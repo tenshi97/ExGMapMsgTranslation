@@ -92,7 +92,7 @@
   {
     "original": "<< A zombie has picked up touching infection >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸获取了接触感染 >>",
+    "zh_trans": "<< 一名僵尸拾取了接触感染（秒杀） >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +101,7 @@
   {
     "original": "<< A zombie has picked up gravity magic >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸获取了zm黑洞 >>",
+    "zh_trans": "<< 一名僵尸拾取了黑洞 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -128,7 +128,7 @@
   {
     "original": "<< A zombie has picked up ice magic >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸获取了zm冰 >>",
+    "zh_trans": "<< 一名僵尸拾取了冰 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "<< A zombie has picked up heal magic >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸获取了zm奶 >>",
+    "zh_trans": "<< 一名僵尸拾取了奶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -263,7 +263,7 @@
   {
     "original": "<< Zombie has escaped!!! Try again... >>",
     "en_trans": "",
-    "zh_trans": "<< 真的假的，你们连僵尸都守不住？罚你们重新再打一次！ >>",
+    "zh_trans": "<< 真的假的，你们连僵尸都守不住？ >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -329,8 +329,8 @@
     "zh_trans": "<< 推力 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Pull >>",
@@ -338,8 +338,8 @@
     "zh_trans": "<< 吸力 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "<< Well Done!!! >>",
@@ -536,8 +536,8 @@
     "zh_trans": "<< X博士使用了数据删除（远离黄色区域） >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "### Dr.X: We will meet later.... ###",
@@ -560,7 +560,7 @@
   {
     "original": "<< Admin select OVERDRIVE MODE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 有权男选择了第五关 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -569,7 +569,7 @@
   {
     "original": "- OVERDRIVE MODE -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 梦魇难度 -",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "### Minolila: I've already prepared the teleporter for you, Good Luck! ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "###米诺利拉：我已经为你准备好了传送器，祝你好运###",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,7 +587,7 @@
   {
     "original": "<< Teleporter will activate in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 传送将在20秒后开始 >>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,

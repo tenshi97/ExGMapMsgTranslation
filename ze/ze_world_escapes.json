@@ -178,5 +178,23 @@
     "kr_trans": "",
     "timer_num": 10,
     "enable_timer": 1
+  },
+  {
+    "original": "[MAP INFO] *** Zombies get sent to the new world in 5 seconds!***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 5,
+    "enable_timer": 1
+  },
+  {
+    "original": "*** HUMANS MUST KILL ZOMBIES WITHIN 60 SECS OR KNIFE IT OUT! ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 60,
+    "enable_timer": 1
   }
 ]
