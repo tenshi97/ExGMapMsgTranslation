@@ -335,7 +335,7 @@
   {
     "original": "** Poison swamp, go to the second floor **",
     "en_trans": "",
-    "zh_trans": "** 剧毒沼泽 - 必须前往二楼 6**",
+    "zh_trans": "** 剧毒沼泽 - 必须前往二楼 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -353,7 +353,7 @@
   {
     "original": "** Overcharge, hold the zombie **",
     "en_trans": "",
-    "zh_trans": "** 精力超载 - 守住僵尸 6**",
+    "zh_trans": "** 精力超载 - 守住僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -362,7 +362,7 @@
   {
     "original": "** Spirit diffusion, avoid injury **",
     "en_trans": "",
-    "zh_trans": "** 精神扩散, 规避伤害 6**",
+    "zh_trans": "** 精神扩散, 规避伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -371,7 +371,7 @@
   {
     "original": "** Poison fog, take shelter in the pool **",
     "en_trans": "",
-    "zh_trans": "** 毒气蔓延 - 进入圣池中的庇护所 6**",
+    "zh_trans": "** 毒气蔓延 - 进入圣池中的庇护所 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -380,7 +380,7 @@
   {
     "original": "** Spirits out, pay attention to the spirit ball **",
     "en_trans": "",
-    "zh_trans": "** 精神污染 - 注意能量球 6**",
+    "zh_trans": "** 精神污染 - 注意能量球 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -389,7 +389,7 @@
   {
     "original": "** Hurt poison, stay away from the entrance **",
     "en_trans": "",
-    "zh_trans": "** 剧毒雾气 - 远离出口 6**",
+    "zh_trans": "** 剧毒雾气 - 远离出口 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -410,8 +410,8 @@
     "zh_trans": "** 现在将核心抛进圣池 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "** The core will emit energy, protect it from being polluted by the undead **",
@@ -533,7 +533,7 @@
   {
     "original": "** We failed to protect the core **",
     "en_trans": "",
-    "zh_trans": "** 我们未能保护核心。 **",
+    "zh_trans": "** 我们未能保护好核心... **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
