@@ -56,7 +56,7 @@
   {
     "original": "[MAP HINT MASTER] EVERY ITEM APART FROM BERSERK ON THIS MAP CAN",
     "en_trans": "",
-    "zh_trans": "[地图提示] 地图上的每件神器除了狂暴之外都能使用。",
+    "zh_trans": "[地图提示] 地图上的每件神器除了增益之外都能使用。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -68,8 +68,8 @@
     "zh_trans": "[地图提示] 你的开始等级为 一级.",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Welcome to Garland airship**",
@@ -101,7 +101,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BERSERK MAGICK**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 狂暴 魔法**",
+    "zh_trans": "** 一位玩家习得了 增益 魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -146,11 +146,11 @@
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了治疗术** (治疗等级 - 一级)**",
+    "zh_trans": "**僵尸拾起了ZM奶** (治疗等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**DEFEND THE GROUND FOR 30 SECONDS**",
@@ -182,7 +182,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 雷电 魔法** (雷电等级 - 一级)",
+    "zh_trans": "** 一位玩家习得了 电 魔法** (电等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -191,7 +191,7 @@
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了破坏之术** (破坏等级 - 一级)**",
+    "zh_trans": "**僵尸拾起了ZM秒杀** (秒杀等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -209,7 +209,7 @@
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了火焰之术** (火焰等级 - 一级)**",
+    "zh_trans": "**僵尸拾起了ZM火** (火焰等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -236,7 +236,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 暴雪 魔法** (冰冻等级 - 一级)",
+    "zh_trans": "** 一位玩家习得了 冰暴 魔法** (冰冻等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -254,11 +254,11 @@
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 一级)",
+    "zh_trans": "** 一位玩家习得了 黑洞 魔法** (黑洞等级 - 一级)",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "YOU FOUND THE CACTUS. YOU GOT 100 EXP AND LEVELED UP",
@@ -275,8 +275,8 @@
     "zh_trans": "**仙人掌找到了。找到仙人掌的玩家将升一级",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**THIS IS A DRAGON**WE MUST KILL HIM**",
@@ -326,7 +326,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 雷电 魔法** (雷电等级 - 二级)",
+    "zh_trans": "** 一位玩家习得了 电 魔法** (雷电等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -335,7 +335,7 @@
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了暗黑之术** (吸力等级 - 一级)**",
+    "zh_trans": "**僵尸拾起了ZM黑洞** (吸力等级 - 一级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -362,7 +362,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 二级)",
+    "zh_trans": "** 一位玩家习得了 黑洞 魔法** (黑洞等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -374,8 +374,8 @@
     "zh_trans": "**龙使用了吸血魔法 （每当玩家攻击一次，龙将恢复 10 点血量）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "30% POWER",
@@ -488,7 +488,7 @@
   {
     "original": "**OH NO! THIS IS A CHAOS**",
     "en_trans": "",
-    "zh_trans": "**不好，是混沌**",
+    "zh_trans": "**不好，是卡俄斯**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -497,7 +497,7 @@
   {
     "original": "**CHAOS HAS CAST DARKAGA**",
     "en_trans": "",
-    "zh_trans": "**混沌释放了暗黑术**",
+    "zh_trans": "**卡俄斯释放了黑洞术**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -506,7 +506,7 @@
   {
     "original": "**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**",
     "en_trans": "",
-    "zh_trans": "**混沌释放了神圣魔法**快远离他！**",
+    "zh_trans": "**卡俄斯释放了神圣魔法**快远离他！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -515,7 +515,7 @@
   {
     "original": "**CHAOS HAS CAST TORNADO**",
     "en_trans": "",
-    "zh_trans": "**混沌释放了风暴魔法**",
+    "zh_trans": "**卡俄斯释放了风暴魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -524,7 +524,7 @@
   {
     "original": "**CHAOS HAS CAST THUNDAGA**",
     "en_trans": "",
-    "zh_trans": "**混沌释放了雷电魔法****",
+    "zh_trans": "**卡俄斯释放了雷电魔法****",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -533,7 +533,7 @@
   {
     "original": "**WE HAVE DEFEATED CHAOS**",
     "en_trans": "",
-    "zh_trans": "**我们击败混沌了!**",
+    "zh_trans": "**我们击败卡俄斯了!**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "**YOU WILL ENTER IN 5 SECONDS**",
     "en_trans": "",
-    "zh_trans": "**你将在 5 秒后进入**",
+    "zh_trans": "** 5 秒后门开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -650,7 +650,7 @@
   {
     "original": "**THE WAY WILL OPEN IN 25 SECONDS**",
     "en_trans": "",
-    "zh_trans": "**道路将在 25 秒后开放**",
+    "zh_trans": "**道路 25 秒后开**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -677,7 +677,7 @@
   {
     "original": "**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**",
     "en_trans": "",
-    "zh_trans": "**道路将在 25 秒后开放**保持防御**",
+    "zh_trans": "**道路将在 25 秒后开放**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -713,7 +713,7 @@
   {
     "original": "**THE DRAGON HAS CAST DARKAGA**",
     "en_trans": "",
-    "zh_trans": "**龙释放了 暗黑魔法**",
+    "zh_trans": "**龙释放了 黑洞魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -731,7 +731,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 暴雪 魔法** (冰冻等级 - 二级)",
+    "zh_trans": "** 一位玩家习得了 冰暴 魔法** (冰冻等级 - 二级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -803,7 +803,7 @@
   {
     "original": "EXTREME MODE - Discover the Garamsythe Waterway. WARNING - Esper.",
     "en_trans": "",
-    "zh_trans": "极限模式 - 探索加兰赛兹水路",
+    "zh_trans": "极限难度 - 探索加兰赛兹水路",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 三级)",
+    "zh_trans": "** 一位玩家习得了 黑洞 魔法** (黑洞等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -821,20 +821,20 @@
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了暗黑之术** (吸力等级 - 二级)**",
+    "zh_trans": "**僵尸拾起了ZM黑洞** (吸力等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了破坏之术** (破坏等级 - 二级)**",
+    "zh_trans": "**僵尸拾起了ZM秒杀** (秒杀等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** ADMIN HAS SELECTED LEGEND MODE IN THE ADMIN ROOM **",
@@ -857,7 +857,7 @@
   {
     "original": "**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**",
     "en_trans": "",
-    "zh_trans": "**飞船遭到护卫攻击**",
+    "zh_trans": "**飞船遭到守卫攻击**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -866,7 +866,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 暗黑 魔法** (暗黑等级 - 三级)",
+    "zh_trans": "** 一位玩家习得了 冰暴 魔法** (冰冻等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -884,7 +884,7 @@
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家习得了 雷电 魔法** (雷电等级 - 三级)",
+    "zh_trans": "** 一位玩家习得了 电 魔法** (雷电等级 - 三级)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -965,7 +965,7 @@
   {
     "original": "**YOU WILL ENTER THE ARENA IN 10 SECONDS****",
     "en_trans": "",
-    "zh_trans": "**你将在 10 秒后进入决斗场**",
+    "zh_trans": "**10 秒后进Boss房与佐迪亚克战斗**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -992,11 +992,11 @@
   {
     "original": "HASTE +1",
     "en_trans": "",
-    "zh_trans": "速度提升一级",
+    "zh_trans": "Boss速度提升一级",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**ZODIARK READIES DARK. USE HEAL IF NESSESARY**",
@@ -1028,7 +1028,7 @@
   {
     "original": "HASTE +2",
     "en_trans": "",
-    "zh_trans": "速度提升两级",
+    "zh_trans": "Boss速度提升两级",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1037,7 +1037,7 @@
   {
     "original": "HASTE +3",
     "en_trans": "",
-    "zh_trans": "速度提升三级",
+    "zh_trans": "Boss速度提升三级",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1046,7 +1046,7 @@
   {
     "original": "HASTE +4",
     "en_trans": "",
-    "zh_trans": "速度提升四级",
+    "zh_trans": "Boss速度提升四级",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1064,7 +1064,7 @@
   {
     "original": "HASTE +5(MAX POWER)",
     "en_trans": "",
-    "zh_trans": "速度提升至最大上限",
+    "zh_trans": "Boss速度提升至最大上限",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -1082,7 +1082,7 @@
   {
     "original": "**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**",
     "en_trans": "",
-    "zh_trans": "**佐迪亚克准备释放最终一击!!!**所有人将在 15 秒后死亡**",
+    "zh_trans": "**佐迪亚克准备释放最终一击!!!**所有人 15 秒后死亡**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -1199,7 +1199,7 @@
   {
     "original": "**THE END DOOR WILL OPEN IN 10 SECONDS**GET READY FOR THE END FIGHT**",
     "en_trans": "",
-    "zh_trans": "**最后的大门 10 秒后开启** Prepare to meet your end, attack!**",
+    "zh_trans": "**最后的大门 10 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -1271,7 +1271,7 @@
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了治疗术** (治疗等级 - 二级)**",
+    "zh_trans": "**僵尸拾起了ZM奶** (治疗等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1424,7 +1424,7 @@
   {
     "original": "**CHAOS HAS CAST BLIZZAGA**",
     "en_trans": "",
-    "zh_trans": "** 混沌释放了 暴雪 **",
+    "zh_trans": "** 卡俄斯释放了 暴雪 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1433,7 +1433,7 @@
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**",
     "en_trans": "",
-    "zh_trans": "** 僵尸拾起了 火焰之术 ** (火焰等级 - 二级)**",
+    "zh_trans": "** 僵尸拾起了 ZM火 ** (火焰等级 - 二级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1595,7 +1595,7 @@
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "** **僵尸拾起了暗黑之术** (吸力等级 - 三级)**",
+    "zh_trans": "** **僵尸拾起了ZM黑洞** (吸力等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1613,7 +1613,7 @@
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了破坏之术** (破坏等级 - 三级)**",
+    "zh_trans": "**僵尸拾起了ZM秒杀** (破坏等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1685,7 +1685,7 @@
   {
     "original": "**CHAOS HAS CAST FIRAGA**",
     "en_trans": "",
-    "zh_trans": "** 混沌释放了 火焰 **",
+    "zh_trans": "** 卡俄斯释放了 火焰 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1694,7 +1694,7 @@
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了治疗术** (治疗等级 - 三级)**",
+    "zh_trans": "**僵尸拾起了ZM奶** (治疗等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1712,7 +1712,7 @@
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾起了火焰之术** (火焰等级 - 三级)**",
+    "zh_trans": "**僵尸拾起了ZM火** (火焰等级 - 三级)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -1784,7 +1784,7 @@
   {
     "original": "**THE MOST POWERFUL ATTACK IS IN 5 SECONDS**",
     "en_trans": "",
-    "zh_trans": "**最强大的攻击将在 5 秒后到来**",
+    "zh_trans": "**最强一击 5 秒后到来**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
