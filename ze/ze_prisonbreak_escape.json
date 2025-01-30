@@ -2,11 +2,11 @@
   {
     "original": "僵尸猖狂起来了！请坚持2分钟！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸猖狂起来了！请坚持120秒！！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 120,
+    "enable_timer": 1
   },
   {
     "original": "地下沙坑的入口被打开了！",
@@ -65,10 +65,10 @@
   {
     "original": "控制器在30秒后启动！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "控制器在30秒后启动！！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   }
 ]

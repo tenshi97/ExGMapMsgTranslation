@@ -560,16 +560,16 @@
   {
     "original": "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**管理员已调关至 第五关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "<<I found something interesting>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<我发现了一些有趣的东西>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -578,7 +578,7 @@
   {
     "original": "***Zombie WIN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***僵尸胜利***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -587,16 +587,16 @@
   {
     "original": "<< Level 3 >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第三关 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**GO INTO THE TELEPORTER***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**快进传送***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "**Take a break, find a few things and move on**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**休息一下，找些东西然后继续前进**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "**NOW WE ARE READY TO GO**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**现在准备出发了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "**The weather is getting worse and worse**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**天气变得越来越糟**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "**We'll be out of here in no time**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们很快就会离开这里**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -641,7 +641,7 @@
   {
     "original": "**Wait a minute**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**稍等片刻**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "**Get out of here**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**离开这里**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "**DON'T LET HIM TO FAIL US!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**别让他打败我们！！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -668,7 +668,7 @@
   {
     "original": "**PLAY AS YOU CAN**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**拼尽全力**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -677,7 +677,7 @@
   {
     "original": "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你已接近胜利**坚持住**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -686,7 +686,7 @@
   {
     "original": "**THE END TELEPORTER WILL OPEN SOON**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*最终传送器很快就会开启**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -695,16 +695,16 @@
   {
     "original": "<< Level 4 >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第四关 >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "**Electromagnetic storm approaching in 50 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**电磁风暴将在 50 秒后逼近** ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
