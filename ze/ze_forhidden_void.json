@@ -11,7 +11,7 @@
   {
     "original": "port by lopb to cs2||Thanks fong,Tenshi,x1aOFu and 气流 for offering help",
     "en_trans": "",
-    "zh_trans": "由 lopb 移植至cs2||感谢 fong,Tenshi,x1aOFu 和 气流 提供帮助",
+    "zh_trans": "由 lopb 移植至cs2||感谢 fong,Tenshi,x1aOFu 和 气流 提供帮助（括号补充；水木、）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +218,7 @@
   {
     "original": "It looks like a church, we need to get in",
     "en_trans": "",
-    "zh_trans": "这看起来这是一座教堂，进去看看。",
+    "zh_trans": "这看起来这是一座教堂，进去看看",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -227,7 +227,7 @@
   {
     "original": "Wait for the church gate to open",
     "en_trans": "",
-    "zh_trans": "等待教堂大门打开。",
+    "zh_trans": "等待教堂大门打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -272,7 +272,7 @@
   {
     "original": "try to give life to crystals to activate it",
     "en_trans": "",
-    "zh_trans": "尝试赋予水晶生命力以激活它。",
+    "zh_trans": "尝试赋予水晶生命力以激活它",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -281,7 +281,7 @@
   {
     "original": "Crystal has been activated, wait for it to function",
     "en_trans": "",
-    "zh_trans": "水晶已被激活，等它生效。",
+    "zh_trans": "水晶已被激活，等它生效",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -290,7 +290,7 @@
   {
     "original": "Portal is now open",
     "en_trans": "",
-    "zh_trans": "传送门现在已打开。",
+    "zh_trans": "传送门现在已打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "defend until entrance opens",
     "en_trans": "",
-    "zh_trans": "在入口打开之前先守住。",
+    "zh_trans": "在入口打开之前先守住这里",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,7 +308,7 @@
   {
     "original": "Wait for the crystal to fall",
     "en_trans": "",
-    "zh_trans": "等待水晶掉落。",
+    "zh_trans": "等待水晶掉落",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -317,7 +317,7 @@
   {
     "original": "Wait for the iron fence to open",
     "en_trans": "",
-    "zh_trans": "等待铁栅栏打开。",
+    "zh_trans": "等待铁栅栏打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -326,7 +326,7 @@
   {
     "original": "trigger the crystal to activate portal",
     "en_trans": "",
-    "zh_trans": "触发水晶以激活传送门。",
+    "zh_trans": "触发水晶以激活传送门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,16 +335,16 @@
   {
     "original": "Left Side",
     "en_trans": "",
-    "zh_trans": "左边",
+    "zh_trans": "左边（面对僵尸右边）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "Gate is opening",
     "en_trans": "",
-    "zh_trans": "大门正在开启。",
+    "zh_trans": "大门正在开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -353,7 +353,7 @@
   {
     "original": "Teleport is activated",
     "en_trans": "",
-    "zh_trans": "传送已激活。",
+    "zh_trans": "传送已激活",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -362,7 +362,7 @@
   {
     "original": "Portal is open",
     "en_trans": "",
-    "zh_trans": "传送门已开启。",
+    "zh_trans": "传送门已开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -371,7 +371,7 @@
   {
     "original": "defend until the crystal falls",
     "en_trans": "",
-    "zh_trans": "坚守至水晶掉落。",
+    "zh_trans": "坚守至水晶掉落",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -380,7 +380,7 @@
   {
     "original": "Wait for the tunnel to open",
     "en_trans": "",
-    "zh_trans": "等待隧道打开。",
+    "zh_trans": "等待隧道打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "Obstacle has been moved",
     "en_trans": "",
-    "zh_trans": "障碍物已被移开。",
+    "zh_trans": "障碍物已被移开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -398,7 +398,7 @@
   {
     "original": "trigger the crystal to activate the slate",
     "en_trans": "",
-    "zh_trans": "触发水晶来激活石板。",
+    "zh_trans": "触发水晶来激活石板",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +407,7 @@
   {
     "original": "The tunnel is open",
     "en_trans": "",
-    "zh_trans": "隧道已开放。",
+    "zh_trans": "隧道已开放",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -434,7 +434,7 @@
   {
     "original": "We made it! What's the place? Again???",
     "en_trans": "",
-    "zh_trans": "我们成功了！这是什么地方？又是这里？？？",
+    "zh_trans": "我们成功了！这是什么地方？又来？？？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -533,7 +533,7 @@
   {
     "original": "Wait for the path to open",
     "en_trans": "",
-    "zh_trans": "等待道路打开。",
+    "zh_trans": "等待道路打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -596,7 +596,7 @@
   {
     "original": "Wait for the path to extend",
     "en_trans": "",
-    "zh_trans": "等待道路延伸。",
+    "zh_trans": "等待道路延伸",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "Arbitration has arrived!",
     "en_trans": "",
-    "zh_trans": "星际仲裁者已抵达！",
+    "zh_trans": "星际仲裁已抵达！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "Human_SpaceShock is picked!",
     "en_trans": "",
-    "zh_trans": "人类空间冲击已获取",
+    "zh_trans": "人类空间震已获取",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -623,7 +623,7 @@
   {
     "original": "Wait for the slate to move",
     "en_trans": "",
-    "zh_trans": "等待石板移动。",
+    "zh_trans": "等待石板移动",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -632,7 +632,7 @@
   {
     "original": "Wait for the slate to rise",
     "en_trans": "",
-    "zh_trans": "等待石板升起。",
+    "zh_trans": "等待石板升起",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -650,7 +650,7 @@
   {
     "original": "Find the mechanism to open the slate below",
     "en_trans": "",
-    "zh_trans": "找到打开下面石板的机关。",
+    "zh_trans": "找到打开下面石板的机关",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -659,7 +659,7 @@
   {
     "original": "The slate is opening",
     "en_trans": "",
-    "zh_trans": "石板正在打开。",
+    "zh_trans": "石板正在打开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -758,7 +758,7 @@
   {
     "original": "What's this place? Weird magic teleport us to here",
     "en_trans": "",
-    "zh_trans": "这是什么地方？奇怪的魔法把我们传送到了这里。",
+    "zh_trans": "这是什么地方？奇怪的魔法把我们传送到了这里",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +767,7 @@
   {
     "original": "It seems to need a key,Maybe we should look around",
     "en_trans": "",
-    "zh_trans": "似乎需要一把钥匙，也许我们应该四处找找。",
+    "zh_trans": "似乎需要一把钥匙，也许我们应该四处找找",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -803,7 +803,7 @@
   {
     "original": "This corpse has a C4,Use it to destroy the stone below",
     "en_trans": "",
-    "zh_trans": "这具尸体上有C4，用它来炸毁下面的石头。",
+    "zh_trans": "这具尸体上有C4，用它来炸毁下面的石头",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -812,7 +812,7 @@
   {
     "original": "set C4 to destroy the rock",
     "en_trans": "",
-    "zh_trans": "用C4炸毁岩石。",
+    "zh_trans": "用C4炸毁岩石",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -857,7 +857,7 @@
   {
     "original": "Path is clear, time to move",
     "en_trans": "",
-    "zh_trans": "道路畅通，是时候前进了。",
+    "zh_trans": "道路畅通，是时候前进了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -875,7 +875,7 @@
   {
     "original": "It seems like a altar,need something to active it",
     "en_trans": "",
-    "zh_trans": "这看起来像一个祭坛，需要一些东西来激活它。",
+    "zh_trans": "这看起来像一个祭坛，需要一些东西来激活它",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -920,7 +920,7 @@
   {
     "original": "It seems like we have to go right side",
     "en_trans": "",
-    "zh_trans": "看起来我们得走右边。",
+    "zh_trans": "看起来我们得走右边",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -929,7 +929,7 @@
   {
     "original": "the middle way is blocked,destroy the iron fence",
     "en_trans": "",
-    "zh_trans": "中间的路被堵住了，摧毁铁栅栏。",
+    "zh_trans": "中间的路被堵住了，摧毁铁栅栏",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": "Right Side",
     "en_trans": "",
-    "zh_trans": "右边",
+    "zh_trans": "右边（面对僵尸左边）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -1154,7 +1154,7 @@
   {
     "original": "Wait for the crystal to fall [23 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待水晶落下[23秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 23,
@@ -1163,7 +1163,7 @@
   {
     "original": "Wait for the tunnel to open [24 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待隧道开放[24秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 24,
@@ -1172,7 +1172,7 @@
   {
     "original": "Wait for tunnel open [18 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待隧道开放[18秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 18,
@@ -1181,16 +1181,16 @@
   {
     "original": "Holy Spirit Prayer [5 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "圣灵祷告[5秒后在奶神器位置释放断头奶]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
     "original": "She disappeared, we need to leave this place now [37 sec]!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "她消失了，我们现在需要离开这个地方！[37秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 37,
@@ -1199,7 +1199,7 @@
   {
     "original": "This is the end,Get in and leave this s**t place [19 sec]!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这就是终点了，准备离开这个该死的地方！[19秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 19,
