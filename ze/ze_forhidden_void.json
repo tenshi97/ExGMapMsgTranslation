@@ -2,7 +2,7 @@
   {
     "original": "map:forhidden void||original made by Blackrock",
     "en_trans": "",
-    "zh_trans": "地图:禁地：虚空遗迹||由 黑岩 原创制作",
+    "zh_trans": "地图:禁地：虚空遗迹||由 黑岩 原创制作（翻译；方糖彩彩）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,7 +11,7 @@
   {
     "original": "port by lopb to cs2||Thanks fong,Tenshi,x1aOFu and 气流 for offering help",
     "en_trans": "",
-    "zh_trans": "由 lopb 移植至cs2||感谢 fong,Tenshi,x1aOFu 和 气流 提供帮助",
+    "zh_trans": "由 lopb 移植至cs2||感谢 fong,Tenshi,x1aOFu 和 气流 提供帮助（括号补充；水木、）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -299,7 +299,7 @@
   {
     "original": "defend until entrance opens",
     "en_trans": "",
-    "zh_trans": "在入口打开之前先守住。",
+    "zh_trans": "在入口打开之前先守住这里",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,11 +335,11 @@
   {
     "original": "Left Side",
     "en_trans": "",
-    "zh_trans": "左边",
+    "zh_trans": "左边（面对僵尸右边是路）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 6,
+    "enable_timer": 1
   },
   {
     "original": "Gate is opening",
@@ -434,7 +434,7 @@
   {
     "original": "We made it! What's the place? Again???",
     "en_trans": "",
-    "zh_trans": "我们成功了！这是什么地方？又是这里？？？",
+    "zh_trans": "我们成功了！这是什么地方？又来？？？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -605,7 +605,7 @@
   {
     "original": "Arbitration has arrived!",
     "en_trans": "",
-    "zh_trans": "星际仲裁者已抵达！",
+    "zh_trans": "星际仲裁已抵达！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -614,7 +614,7 @@
   {
     "original": "Human_SpaceShock is picked!",
     "en_trans": "",
-    "zh_trans": "人类空间冲击已获取",
+    "zh_trans": "人类空间震已获取",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1064,7 +1064,7 @@
   {
     "original": "Right Side",
     "en_trans": "",
-    "zh_trans": "右边",
+    "zh_trans": "右边（面对僵尸左边是路）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 6,
@@ -1154,7 +1154,7 @@
   {
     "original": "Wait for the crystal to fall [23 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待水晶落下[23秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 23,
@@ -1163,7 +1163,7 @@
   {
     "original": "Wait for the tunnel to open [24 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待隧道开放[24秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 24,
@@ -1172,7 +1172,7 @@
   {
     "original": "Wait for tunnel open [18 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等待隧道开放[18秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 18,
@@ -1181,16 +1181,16 @@
   {
     "original": "Holy Spirit Prayer [5 sec]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "圣灵祷告[5秒后在奶神器位置释放断头奶]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
+    "timer_num": 6,
     "enable_timer": 1
   },
   {
     "original": "She disappeared, we need to leave this place now [37 sec]!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "她消失了，我们现在需要离开这个地方！[37秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 37,
@@ -1199,7 +1199,7 @@
   {
     "original": "This is the end,Get in and leave this s**t place [19 sec]!!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这就是终点了，准备离开这个该死的地方！[19秒]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 19,
