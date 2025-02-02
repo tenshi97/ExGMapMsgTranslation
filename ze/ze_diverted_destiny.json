@@ -1280,7 +1280,7 @@
   {
     "original": "Step in the middle to vote for Marathon Mode!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "站到中间来投票选择马拉松模式！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1289,7 +1289,7 @@
   {
     "original": "MARATHON stage has been set!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "马拉松模式已设定！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1298,7 +1298,7 @@
   {
     "original": "Loading your fate...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在加载您的命运...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1307,16 +1307,16 @@
   {
     "original": "STAGE 2",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "关卡 2",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Zombie Speed has been picked up",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸加速已被捡起",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1325,7 +1325,7 @@
   {
     "original": "Zombie Speed Activated!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸加速已激活！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
