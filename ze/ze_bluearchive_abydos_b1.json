@@ -263,7 +263,7 @@
   {
     "original": "<<35s>>",
     "en_trans": "",
-    "zh_trans": "<<35s>>",
+    "zh_trans": "<<35秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -272,7 +272,7 @@
   {
     "original": "<<25s>>",
     "en_trans": "",
-    "zh_trans": "<<25s>>",
+    "zh_trans": "<<25秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -281,7 +281,7 @@
   {
     "original": "<<40s>>",
     "en_trans": "",
-    "zh_trans": "<<40s>>",
+    "zh_trans": "<<40秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -290,10 +290,28 @@
   {
     "original": "<<15s>>",
     "en_trans": "",
-    "zh_trans": "<<15s>>",
+    "zh_trans": "<<15秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
     "enable_timer": 1
+  },
+  {
+    "original": "<<中间栅栏碎了!!>>",
+    "en_trans": "",
+    "zh_trans": "<<中间栅栏碎了!!>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 6,
+    "enable_timer": 1
+  },
+  {
+    "original": "<<左边栅栏碎了!!>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
