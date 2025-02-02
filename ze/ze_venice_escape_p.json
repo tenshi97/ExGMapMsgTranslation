@@ -23,10 +23,10 @@
     "zh_trans": "***人类需要穿过大运河逃离威尼斯并前往逃生岛！***",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Boat 1 leaving in 10secs!***",
