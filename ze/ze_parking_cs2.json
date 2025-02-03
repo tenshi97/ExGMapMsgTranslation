@@ -5,8 +5,8 @@
     "zh_trans": ">>>关卡  1 ： 撤离点 ： 电梯<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>>>Grenade Launcher has been picked<<<<",
@@ -77,8 +77,8 @@
     "zh_trans": ">>>>只有15个地雷<<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 15,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>>>Proxi Mine has been picked<<<<",
@@ -122,8 +122,8 @@
     "zh_trans": ">>>你到达了最后一个掩护点下一个回合开始将会是关卡 2<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>AFK TELEPORT<<",
@@ -167,8 +167,8 @@
     "zh_trans": ">>>关卡  2 ：撤离点 ：街道<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>>>Only one Shot - 10s of loading<<<<",
@@ -176,8 +176,8 @@
     "zh_trans": ">>>>只有一次射击的机会 - 冷却10秒<<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>>>Electro Gun has been picked<<<<",
@@ -266,8 +266,8 @@
     "zh_trans": ">>>>电击枪射击时间10秒<<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>COVER THE EVACUATION AREA 45 SECONDS<<",
@@ -293,8 +293,8 @@
     "zh_trans": ">>>你到达了最后的掩护点下一个回合开始将会是 关卡 3<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>EXPLOSION IN 5 SECONDS<<",
@@ -311,8 +311,8 @@
     "zh_trans": ">>>关卡  3：撤离点：屋顶<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>COVER UNTIL CHOPPER ARRIVE<<",
@@ -356,8 +356,8 @@
     "zh_trans": ">>>你抵达了最后的掩护点下一个回合开始将会是 关卡 1<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": ">>CHOPPER ON WAY<<",
