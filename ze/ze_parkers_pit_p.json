@@ -23,8 +23,8 @@
     "zh_trans": "*** 左侧路线 | 坚持住 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** LEFT ROUTE | FALL BACK ***",
@@ -32,8 +32,8 @@
     "zh_trans": "***左侧路线 | 撤退！ ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** DOORS OPEN - 5 SECONDS ***",
@@ -50,8 +50,8 @@
     "zh_trans": "*** 右侧路线 | 坚持住 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** HOLD HERE ***",
@@ -68,8 +68,8 @@
     "zh_trans": "*** 右侧路线 | 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** FALL BACK | FALL BACK ***",
@@ -77,8 +77,8 @@
     "zh_trans": "*** 撤退！ | 撤退！ ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** DOOR OPEN - 5 SECONDS ***",
@@ -95,8 +95,8 @@
     "zh_trans": "*** 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** MELON FOUND ***",
@@ -275,8 +275,8 @@
     "zh_trans": "*** 信息 - 站在石头上避免被火灼烧 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "*** DEFEATED THE ADVISORS! ***",
@@ -380,7 +380,7 @@
   {
     "original": "*** MASS TELEPORT IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "*** 10 秒后大量传送 ***",
+    "zh_trans": "*** 10 秒后传送僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -389,7 +389,7 @@
   {
     "original": "*** MASS TELEPORT IN 10 SECONDS",
     "en_trans": "",
-    "zh_trans": "*** 10 秒后大量传送 ***",
+    "zh_trans": "*** 10 秒后传送僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -434,7 +434,7 @@
   {
     "original": "*** MASS TELEPORT IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "*** 20 秒后大量传送 ***",
+    "zh_trans": "*** 20 秒后传送僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
