@@ -343,7 +343,7 @@
   {
     "original": "**A player has picked up Dark Magick**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家拾起了 黑洞魔法 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "**A player has picked up Fire Magick**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家拾起了 火魔法 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "**The Behemoth has vanquished!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝希摩斯已被击败！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "**[Bash] We shouldn't have come in here. Let's get out of here while we still can!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 我们本不该来这儿的。趁我们还能走，赶紧离开这儿吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "**[Balthier] It's a dead end!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚] 这是个死胡同!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "**[Bash] Destroy the activation crystal or we'll all stay here forever**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]摧毁那个水晶，否则我们会永远困在这里**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]水晶已被摧毁！需要 15 秒来完全激活！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "**[Bash] Get to the fountain! Fast!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]快去喷泉那里！快点！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "**[Bash] The Guard of the gates. If we want to escape we have to defeat him!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]那是大门的守卫。如果我们想逃离这里，就必须打败他！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "**[Bash] The Guard has vanquished! Keep runing!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]守卫已被消灭！继续走！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "**[Balthier] We have to hold this area for 20 seconds! Get ready!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚]我们必须坚守这个区域 20 秒！准备好！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "**[Balthier] Don't let them get to the balcony!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚]别让他们到达阳台！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,18 +475,18 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 6 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你需要再给我带 6 把钥匙来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**Stage completed!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**关卡完成!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,29 +519,29 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 8 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你得再给我拿 8 把钥匙过来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 8,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 9 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你需要再给我带 9 把钥匙过来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 9,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**[Setzer] Dark clouds begin to gather over Temple Grounds. This is a bad sign**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[萨兹]乌云开始在圣殿广场上空聚集。这是个不祥之兆。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "**[Setzer] Anyway find and talk with Gran Kiltias. Hope he acknowledge her as the rightful heir to the throne of Dalmasca!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[萨兹]不管怎样，去找格兰·基尔提斯谈谈。希望他承认她是达尔玛斯卡王位的合法继承人！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -563,18 +563,18 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 5 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你需要再给我带 5 把钥匙来。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**A player has picked up Limit Break Magick**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家已获得极限爆发魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "**A player has picked up Poison Magick**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家已获得毒魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,7 +596,7 @@
   {
     "original": "**A player has picked up Zombie Dark Magick**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家已获得僵尸黑洞魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -607,7 +607,7 @@
   {
     "original": "**Hold here for 28 seconds until the teleport is enabled!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在这里坚守 28 秒，直到传送开启！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "**[Vaan] Is that who I think it is!?**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[梵]那是我认为的那个人吗！？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,7 +629,7 @@
   {
     "original": "**[Bash] Yes! It's the Sanctuary Keeper! The most dangerous guard! We must kill him before he kills us!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]是的！是圣殿守护者！最危险的守卫！我们必须在他杀死我们之前干掉他！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,7 +640,7 @@
   {
     "original": "**[Bash] Prepare for battle! Do not get close or you will die immediately!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]准备战斗！不要靠近，否则你会立刻死掉！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -651,7 +651,7 @@
   {
     "original": "**Sanctuary Keeper has casted Wind Rage!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了风之狂怒！** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -662,7 +662,7 @@
   {
     "original": "**Sanctuary Keeper has casted Carnage of Phantoms!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了幻影屠戮！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "**Sanctuary Keeper has casted Solar Orb!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了日光之球！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "**Sanctuary Keeper has casted Shadow Blast!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了暗影冲击！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,7 +695,7 @@
   {
     "original": "**The Sanctuary Keeper has vanquished!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者已被击败！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": "**[Bash] The last guard has vanquished! Now we can meet Gran Kiltias!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]最后一个守卫已被打败！现在我们可以去见格兰·基尔提斯了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -717,7 +717,7 @@
   {
     "original": "**[Bash] Hurry and find a way to the lower parts of the Hall!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]快点找到通往大厅下层区域的路！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": "**Hold here! Gates will open in 8 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "在这里坚守！大门将在 8 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": "**[Bash] Well done! Hold this area for 40 seconds until the gates open!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]干得好！守住这个区域 40 秒直到大门打开！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,18 +750,18 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 3 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你得再给我拿 3 把钥匙过来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**Sanctuary Keeper has casted Annihilate!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了毁灭术！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "**Get to the teleport to to avoid death!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**快去传送点不然要去世了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,7 +783,7 @@
   {
     "original": "**Sanctuary Keeper has casted Interruption Seal!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了中断封印！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -794,7 +794,7 @@
   {
     "original": "**Get out of the middle now!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "马上从中间离开！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -805,7 +805,7 @@
   {
     "original": "**Sanctuary Keeper has casted Flare of Freezing!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了冰冷耀斑！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -816,7 +816,7 @@
   {
     "original": "**Sanctuary Keeper has casted Wave of Redemption!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**圣殿守护者施展了救赎之波！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -827,7 +827,7 @@
   {
     "original": "**Press all statues to interrupt the attack**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "按下所有雕像来打断攻击",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,7 +838,7 @@
   {
     "original": "**[Bash] stay focused! I have a feeling this isn't the end!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]保持专注！我有一种感觉，还没结束！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,7 +849,7 @@
   {
     "original": "**[Bash] It's the Adrammelech Shoot before it's too late!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]是阿德拉梅莱赫，快开火，否则就太迟了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,7 +860,7 @@
   {
     "original": "**The Adrammelech has vanquished!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**阿德拉梅莱赫已被击败！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,7 +871,7 @@
   {
     "original": "**[Bash] Don't let zombies cross the bridge! Its last hold defend until something happen!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]别让僵尸过桥！这是最后的防线，守住，有什么事要发生了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
