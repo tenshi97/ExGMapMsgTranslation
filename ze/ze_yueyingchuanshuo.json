@@ -5,8 +5,10 @@
     "zh_trans": "你需要在这里防守23秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 23,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 25s",
@@ -14,8 +16,10 @@
     "zh_trans": "你需要守住25秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I remember here, here is my back mountain",
@@ -23,8 +27,10 @@
     "zh_trans": "我记得这里，这里是我的后山",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "From here you can reach my house directly",
@@ -32,8 +38,10 @@
     "zh_trans": "你可以从这里直接到我的家",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie shortcut open",
@@ -41,8 +49,10 @@
     "zh_trans": "僵尸侧路开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "we need hold 40s",
@@ -50,8 +60,10 @@
     "zh_trans": "我们守住40秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 20s",
@@ -59,8 +71,10 @@
     "zh_trans": "你需要守住20秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Initiate the zombie side in 4 seconds",
@@ -68,8 +82,10 @@
     "zh_trans": "4秒钟后开启僵尸侧路",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Wooden boat leaves after 7S",
@@ -77,8 +93,10 @@
     "zh_trans": "木船离开于7秒后",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie transfer has started",
@@ -86,8 +104,10 @@
     "zh_trans": "僵尸传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie transmission also has 13S",
@@ -95,8 +115,10 @@
     "zh_trans": "13秒后僵尸也将传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 13,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "hold 20s",
@@ -104,8 +126,10 @@
     "zh_trans": "守住 20秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 15s",
@@ -113,8 +137,10 @@
     "zh_trans": "你需要守住15秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombies are still transmitted after 7S",
@@ -122,8 +148,10 @@
     "zh_trans": "僵尸还有7秒钟传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 40s",
@@ -131,8 +159,10 @@
     "zh_trans": "你需要守住40秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 30s",
@@ -140,8 +170,10 @@
     "zh_trans": "你需要守住30秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombies are still transmitted after 5S",
@@ -149,8 +181,10 @@
     "zh_trans": "僵尸还有5秒钟后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Warning: zombies open near the road",
@@ -158,8 +192,10 @@
     "zh_trans": "警告：开启僵尸近路",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Something seems to have disappeared",
@@ -167,8 +203,10 @@
     "zh_trans": "似乎有什么东西不见了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "There seems to be no road above",
@@ -176,8 +214,10 @@
     "zh_trans": "好像这上面没有路",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "I am optimistic about the road under your feet. How come back? Do you understand?",
@@ -185,8 +225,10 @@
     "zh_trans": "我是个乐观主义者，路大概就在脚下。怎么回去？你知道吗？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "zombie coming watch you back",
@@ -194,8 +236,10 @@
     "zh_trans": "僵尸来临,当心！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Warning: trap is activated",
@@ -203,8 +247,10 @@
     "zh_trans": "警告：陷阱激活",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Warning: Zombie launches near the road",
@@ -212,8 +258,10 @@
     "zh_trans": "警告：僵尸近路开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombies approaching the road",
@@ -221,8 +269,10 @@
     "zh_trans": "僵尸接近",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "tip:You can't pass on the chessboard You must pass on the chess piece",
@@ -230,8 +280,10 @@
     "zh_trans": "提示：你不能跳上这个棋盘，你应该跳上棋子通过这里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie checkerboard teleport",
@@ -239,8 +291,10 @@
     "zh_trans": "僵尸传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "you need hold 14s",
@@ -248,8 +302,10 @@
     "zh_trans": "你需要守住14秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 14,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 45s",
@@ -257,8 +313,10 @@
     "zh_trans": "你需要守住45秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you need hold 22s",
@@ -266,8 +324,10 @@
     "zh_trans": "你需要守住22秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 22,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie teleport will turn on in 30 seconds",
@@ -275,8 +335,10 @@
     "zh_trans": "僵尸传送将在30秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I feel the earth shaking",
@@ -284,8 +346,10 @@
     "zh_trans": "我感到大地在颤抖",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "No, the mountain is shaking",
@@ -293,8 +357,10 @@
     "zh_trans": "不！这个山在震动",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Be prepared as if something is rising",
@@ -302,8 +368,10 @@
     "zh_trans": "做好准备，好像有什么事情要发生了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "I saw the hilt. I found a chance to get ready for the sword",
@@ -311,8 +379,10 @@
     "zh_trans": "我看到了剑柄。我准备把这把剑拔出来",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Please hold here for 18 seconds",
@@ -320,8 +390,10 @@
     "zh_trans": "请守住这里18秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 18,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The cave is blocked, damn it",
@@ -329,8 +401,10 @@
     "zh_trans": "这个洞真TM黑，淦！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Wait a minute, I seem to have seen this sword before",
@@ -338,8 +412,10 @@
     "zh_trans": "给我60秒，我看到这有一把剑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I'll inject strength into this sword",
@@ -347,8 +423,10 @@
     "zh_trans": "我准备注入力量到这把剑里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The first door on the left will open in 20 seconds",
@@ -356,8 +434,10 @@
     "zh_trans": "左边第一个门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The first door on the right will open in 20 seconds",
@@ -365,8 +445,10 @@
     "zh_trans": "右边第一个门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The second door on the left will open in 20 seconds",
@@ -374,8 +456,10 @@
     "zh_trans": "左边第二个门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Gather on the left and wait for the meeting",
@@ -383,8 +467,10 @@
     "zh_trans": "等左边的兄弟过来这里集合",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The second door on the right will open in 20 seconds",
@@ -392,8 +478,10 @@
     "zh_trans": "右边第二个门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "After the right road meets, wait for the left team mate",
@@ -401,8 +489,10 @@
     "zh_trans": "我们在右边路集合，等等左边的兄弟",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "you need hold 60s",
@@ -410,8 +500,10 @@
     "zh_trans": "你需要守住60秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "指挥我们来吃分了！！",
@@ -419,8 +511,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "指挥，我们来卖人了！！",
@@ -428,8 +522,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "long/normal mode switched!!! (wait 10s)",
@@ -437,8 +533,10 @@
     "zh_trans": "连关模式/普通模式已切换! (10秒后重启回合)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "long mode started!!! (stp by 2en0w)",
@@ -446,8 +544,10 @@
     "zh_trans": "连关月影，启动! (连关stpper由 2en0w 倾情巨献)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "fun kz mode!!! (stp by 2en0w)",
@@ -455,8 +555,10 @@
     "zh_trans": "全员kz路! Only the chosen may survive! (连关stpper由 2en0w 倾情巨献)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "welcome to ze_obj_moonshadows",
@@ -464,8 +566,10 @@
     "zh_trans": "欢迎游玩 obj；月影传说",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "special thanks Devil Digou",
@@ -473,8 +577,10 @@
     "zh_trans": "特别鸣谢 Devil Digou",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "happy_moonshadows start!!! (stp by 2en0w)",
@@ -482,8 +588,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "idea by nrf,good luck bro.",
@@ -491,7 +599,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "test",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
