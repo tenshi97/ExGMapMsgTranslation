@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The map isn't eazy. It needs good ZE skills and good teamplay**",
@@ -14,7 +16,64 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Type in console mat_colorcorrection 1 for dynamic effects!!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "Lab door 2 will open in 13 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 13,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "Lab door 2 will open for zombies in 18 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 18,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "THE LIFT 2 WILL LEAVE IN 9 SECONDS",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 9,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
