@@ -1,6 +1,6 @@
 [
   {
-    "original": ">>黑键,用魔力编织出剑刃并投掷,命中目标后在其附近形成一个控制型立场,冷却40秒<<",
+    "original": "> TRIGGER ACTIVATED <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -11,95 +11,18 @@
     "force_hint": 0
   },
   {
-    "original": "投影魔术，投影数把巨剑阻挡敌人，持续时间10秒",
+    "original": "> CAVE TELEPORT ACTIVATING FOR 20 SECONDS <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>火球,命中僵尸产生爆炸,冷却30秒<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>水旋涡,延迟4秒左右生效，对范围内僵尸造成持续减速冷却60秒<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>狂化<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>鲜血神殿,持续为范围内的僵尸恢复生命,并提供移速加成,中心区域可以为僵尸抵挡人类子弹,冷却90秒<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>蔷薇双枪,右键使用破魔红蔷薇向前冲刺,左键使用必灭黄蔷薇进行横扫，被命中的敌人无法进行恢复<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>治愈魔术，为范围内的人类持续恢复至250生命，持续时间10秒<<",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": ">>40 seconds left<<",
-    "en_trans": "",
-    "zh_trans": ">>还剩 40 秒<<",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 40,
+    "timer_num": 20,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": ">>道路已开启<<",
+    "original": "> CAVE TELEPORT ACTIVATED - FALL BACK <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -110,7 +33,18 @@
     "force_hint": 0
   },
   {
-    "original": ">>闪电魔术,持续发射闪电光束,强制将僵尸速度恢复至0,冷却20秒<<",
+    "original": "> 1 PERSON GO TRIGGER! <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "> OTHERS STAY DEFEND! <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -121,7 +55,7 @@
     "force_hint": 0
   },
   {
-    "original": ">>出现了奇怪的迷雾,它会使得我们的行动变得迟缓!<<",
+    "original": "> WHERE WE GO?: CAVE DOOR <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -132,7 +66,7 @@
     "force_hint": 0
   },
   {
-    "original": ">>誓约胜利之剑,蓄力后向前方发起强力的攻击,造成高额伤害和击退,冷却90秒<<",
+    "original": "> JUST RUN | DONT DEFEND <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -143,7 +77,18 @@
     "force_hint": 0
   },
   {
-    "original": ">>死棘之枪,使用后腾空,蓄力后向指定方向投出死棘之枪，到达人类附近后爆炸,冷却60秒<<",
+    "original": "> Zombie Teleport For 20 Seconds. <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "> HURRY UP! <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -154,13 +99,90 @@
     "force_hint": 0
   },
   {
-    "original": ">>25 seconds left<<",
+    "original": "> Cave is Open! <",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 25,
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "> DONT WAIT! <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "> Zombie Teleport For 10 Seconds. <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "> Zombie Teleport For 5 Seconds. <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "> KEY RECEIVED <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "> DEFEND FOR 20 SECONDS <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "> FALL BACK! <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "> FINAL AREA IN DEFEND FOR 30 SECONDS <",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 30,
     "enable_timer": 1,
     "force_hint": 0
   }
