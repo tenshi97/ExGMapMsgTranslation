@@ -5,8 +5,10 @@
     "zh_trans": ">> Map by TaskuVaras and Moltard <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> Special Thanks to nano <<",
@@ -14,8 +16,10 @@
     "zh_trans": ">> 特别鸣谢 nano <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> Thanks to Unloze and GFLClan.ru <<",
@@ -23,8 +27,10 @@
     "zh_trans": ">> 感谢 Unloze 和 GFLClan 提供的测试服 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> WARMUP ROUND <<",
@@ -32,8 +38,10 @@
     "zh_trans": ">> 热身 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> 40 SECONDS LEFT <<",
@@ -41,8 +49,10 @@
     "zh_trans": ">> 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 30 SECONDS LEFT <<",
@@ -50,8 +60,10 @@
     "zh_trans": ">> 30 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> LEVEL: DEAD TREE <<",
@@ -59,8 +71,10 @@
     "zh_trans": ">> 关卡：枯树 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP WATER <<",
@@ -68,8 +82,10 @@
     "zh_trans": ">> 水 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Door opening in 20 seconds ***",
@@ -77,8 +93,10 @@
     "zh_trans": "*** 20 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Door is open!!! ***",
@@ -86,8 +104,10 @@
     "zh_trans": "*** 门开了!!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Door opening in 30 seconds ***",
@@ -95,8 +115,10 @@
     "zh_trans": "*** 30 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Door opening in 5 seconds ***",
@@ -104,8 +126,10 @@
     "zh_trans": "*** 5 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Door is open! RUN!! ***",
@@ -113,8 +137,10 @@
     "zh_trans": "*** 门开了! 快跑!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP EARTH <<",
@@ -122,8 +148,10 @@
     "zh_trans": ">> 草墙 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP FIRE <<",
@@ -131,8 +159,10 @@
     "zh_trans": ">> 火 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP HEAL <<",
@@ -140,8 +170,10 @@
     "zh_trans": ">> 治疗 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP 6 MINES <<",
@@ -149,8 +181,10 @@
     "zh_trans": ">> 6个地雷 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<",
@@ -158,8 +192,10 @@
     "zh_trans": ">> 弹药 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Defend for 30 seconds ***",
@@ -167,8 +203,10 @@
     "zh_trans": "*** 守 30 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> OH NO!! IT'S THE KNIGHT <<",
@@ -176,8 +214,10 @@
     "zh_trans": ">> 不好! 是骑士! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP ICE <<",
@@ -185,8 +225,10 @@
     "zh_trans": ">> 冰 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP ELECTRO <<",
@@ -194,8 +236,10 @@
     "zh_trans": ">> 电 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE KNIGHT HAS BEEN DEFEATED !!! <<",
@@ -203,8 +247,10 @@
     "zh_trans": ">> 已击败 骑士 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Castle Gate is opening ***",
@@ -212,8 +258,10 @@
     "zh_trans": "*** 城堡门正在开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Gate opening in 25 seconds ***",
@@ -221,8 +269,10 @@
     "zh_trans": "*** 25 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP GRAVITY <<",
@@ -230,8 +280,10 @@
     "zh_trans": ">> 重力 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ALL 6 MINES USED <<",
@@ -239,8 +291,10 @@
     "zh_trans": ">> 全部地雷已使用 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Gate opening in 5 seconds ***",
@@ -248,8 +302,10 @@
     "zh_trans": "*** 5 秒后门开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> A PLAYER HAS FOUND A LADDER RUNG <<",
@@ -257,8 +313,10 @@
     "zh_trans": ">> 一个梯子横挡(木板)已找到 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> WE CAN REPAIR THE LADDER <<",
@@ -266,8 +324,10 @@
     "zh_trans": ">> 我们现在可以修好梯子了 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND ! <<",
@@ -275,8 +335,10 @@
     "zh_trans": ">> 守住! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE LADDER IS FIXED ! <<",
@@ -284,8 +346,10 @@
     "zh_trans": ">> 梯子修好了 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> RUN !!!! <<",
@@ -293,8 +357,10 @@
     "zh_trans": ">> 跑 !!! <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** RESCUE DRAGON LEAVING IN 15 SECONDS ***",
@@ -302,8 +368,10 @@
     "zh_trans": "*** 救援龙 15 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> LEVEL COMPLETED!! <<",
@@ -311,8 +379,10 @@
     "zh_trans": ">> 关卡完成 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> LEVEL: CAVES <<",
@@ -320,8 +390,10 @@
     "zh_trans": ">> 关卡：洞窟 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Defend until the path is clear ***",
@@ -329,8 +401,10 @@
     "zh_trans": "*** 防守至障碍清除 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** The path is open! RUN!! ***",
@@ -338,8 +412,10 @@
     "zh_trans": "*** 道路现在可以通行了! 快走!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Defend for 20 seconds ***",
@@ -347,8 +423,10 @@
     "zh_trans": "*** 守 20 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Defend for 5 seconds ***",
@@ -356,8 +434,10 @@
     "zh_trans": "*** 5 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> OH NO!! IT'S THE SPOOKY SCARY SKELETONS <<",
@@ -365,8 +445,10 @@
     "zh_trans": ">> 不好!! 是蹦迪骷髅! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> KILL THEM BEFORE IT'S TOO LATE <<",
@@ -374,8 +456,10 @@
     "zh_trans": ">> 赶快杀了他们! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE SKELETONS HAVE BEEN DEFEATED !!! <<",
@@ -383,8 +467,10 @@
     "zh_trans": ">> 已击败全部骷髅!!! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** PLAYER FOUND A KEY ***",
@@ -392,8 +478,10 @@
     "zh_trans": "*** 钥匙 已找到 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** THE WAY IS OPEN! RUUUN! ***",
@@ -401,8 +489,10 @@
     "zh_trans": "*** 路开了，快走! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** LIFT LEAVING IN 15 seconds ***",
@@ -410,8 +500,10 @@
     "zh_trans": "*** 电梯 15 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** LIFT LEAVING IN 5 seconds ***",
@@ -419,8 +511,10 @@
     "zh_trans": "*** 电梯 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP WIND <<",
@@ -428,8 +522,10 @@
     "zh_trans": ">> 风 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<",
@@ -437,8 +533,10 @@
     "zh_trans": ">> 僵尸上到电梯了!! 你们输了!! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE LADDER IS BROKEN <<",
@@ -446,8 +544,10 @@
     "zh_trans": ">> 梯子坏了，上不去 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> FIND 1 RUNG TO FIX IT <<",
@@ -455,8 +555,10 @@
     "zh_trans": ">> 找到一个横档(木板)修好梯子",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND WHILE WE REPAIR THE LADDER <<",
@@ -464,8 +566,10 @@
     "zh_trans": ">> 梯子修好需要点时间，守好! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> 20 SECONDS LEFT <<",
@@ -473,8 +577,10 @@
     "zh_trans": ">> 还剩 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 10 SECONDS LEFT <<",
@@ -482,8 +588,10 @@
     "zh_trans": ">> 还剩 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> WARMUP ROUND END <<",
@@ -491,8 +599,10 @@
     "zh_trans": ">> 热身结束 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> LEVEL: POKEBALL <<",
@@ -500,8 +610,10 @@
     "zh_trans": ">> 关卡：宝可梦 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** ELEVATOR LEAVING IN 20 seconds ***",
@@ -509,8 +621,10 @@
     "zh_trans": "*** 电梯 20 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** ELEVATOR LEAVING IN 5 seconds ***",
@@ -518,8 +632,10 @@
     "zh_trans": "*** 电梯 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<",
@@ -527,8 +643,10 @@
     "zh_trans": ">> 小火龙 精灵球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<",
@@ -536,8 +654,10 @@
     "zh_trans": ">> 杰尼龟 精灵球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Tunnel opening in 20 seconds ***",
@@ -545,8 +665,10 @@
     "zh_trans": "*** 隧道 20 秒后开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP DITTO POKEBALL <<",
@@ -554,8 +676,10 @@
     "zh_trans": ">> 百变怪 精灵球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Tunnel opening in 5 seconds ***",
@@ -563,8 +687,10 @@
     "zh_trans": "*** 隧道 5 秒后开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Guard House opening in 30 seconds ***",
@@ -572,8 +698,10 @@
     "zh_trans": "*** 警卫室 30 秒后开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Guard House opening in 5 seconds ***",
@@ -581,8 +709,10 @@
     "zh_trans": "*** 警卫室 5 秒后开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Gym opening in 20 seconds ***",
@@ -590,8 +720,10 @@
     "zh_trans": "*** 宝可梦道馆 20 秒后开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Gym opening in 5 seconds ***",
@@ -599,8 +731,10 @@
     "zh_trans": "*** 宝可梦道馆 5 秒后开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** RUN INTO THE GYM !!!! ***",
@@ -608,8 +742,10 @@
     "zh_trans": "*** 快进 道馆 !!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** YOU WOKE UP SNORLAX ***",
@@ -617,8 +753,10 @@
     "zh_trans": "*** 你们惊扰了 卡比兽 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** IT ATTACKED IN A GRUMPY RAGE !!! ***",
@@ -626,8 +764,10 @@
     "zh_trans": "*** 卡比兽很愤怒，因为你们惊扰了它的美梦!!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** SNORLAX IS MAKING US SLEEPY ***",
@@ -635,8 +775,10 @@
     "zh_trans": "*** 卡比兽 使用了昏睡! (屏幕变暗) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** DEFEAT HIM BEFORE IT'S TOO LATE ***",
@@ -644,8 +786,10 @@
     "zh_trans": "*** 快击败它! 要不然要核爆啦! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** SNORLAX IS GOING TO USE HYPERBEAM ***",
@@ -653,8 +797,10 @@
     "zh_trans": "*** 卡比兽 要释放 破坏死光 了! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** SHOOT BEFORE IT'S TOO LATE ***",
@@ -662,8 +808,10 @@
     "zh_trans": "*** 快击败它! 要吃核爆啦! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** SNORLAX USED REST ***",
@@ -671,8 +819,10 @@
     "zh_trans": "*** 卡比兽 已击败 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** ESCAPE WHILE HE IS ASLEEP ***",
@@ -680,8 +830,10 @@
     "zh_trans": "*** 趁着它睡着，赶紧溜走 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** ELEVATOR LEAVING IN 30 seconds ***",
@@ -689,8 +841,10 @@
     "zh_trans": "*** 电梯 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<",
@@ -698,8 +852,10 @@
     "zh_trans": ">> 妙蛙种子 精灵球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<",
@@ -707,8 +863,10 @@
     "zh_trans": ">> 皮卡丘 精灵球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<",
@@ -716,8 +874,10 @@
     "zh_trans": ">> 僵尸 鬼斯 精灵球 已拾起 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** SNORLAX USED HYPERBEAM ***",
@@ -725,8 +885,10 @@
     "zh_trans": "*** 卡比兽 使用了破坏死光 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** IT'S SUPER EFFECTIVE !!! ***",
@@ -734,8 +896,10 @@
     "zh_trans": "*** 效果拔群!!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> EXTREME MODE ADDED <<",
@@ -743,8 +907,10 @@
     "zh_trans": ">> 极限难度 已启用 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> 2 MORE RUNGS TO FIND <<",
@@ -752,8 +918,10 @@
     "zh_trans": ">> 需要找到两块木板来修梯子 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ALL THE RUNGS ARE FOUND <<",
@@ -761,8 +929,10 @@
     "zh_trans": ">> 所有木板均已找到 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** RESCUE DRAGON LEAVING IN 30 SECONDS ***",
@@ -770,8 +940,10 @@
     "zh_trans": "*** 救援龙 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 1 MORE RUNG TO FIND <<",
@@ -779,8 +951,10 @@
     "zh_trans": ">> 还需找到一块木板 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** LIFT LEAVING IN 30 seconds ***",
@@ -788,8 +962,10 @@
     "zh_trans": "*** 电梯 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** THE LIFT IS BROKEN ! ***",
@@ -797,8 +973,10 @@
     "zh_trans": "*** 电梯坏了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** WE HAVE TO GO DEEPER INTO THE CAVE ***",
@@ -806,8 +984,10 @@
     "zh_trans": "*** 我们必须往洞穴更深处走 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD WHILE WE OPEN THE WAY ***",
@@ -815,8 +995,10 @@
     "zh_trans": "*** 等我们开辟道路，坚持住 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> IT'S A DEAD END !! <<",
@@ -824,8 +1006,10 @@
     "zh_trans": ">> 这是条死胡同！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE MOLE WILL HELP US GET OUT <<",
@@ -833,8 +1017,10 @@
     "zh_trans": ">> 鼹鼠会帮助我们出去 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND WHILE THE MOLE IS DIGGING <<",
@@ -842,8 +1028,10 @@
     "zh_trans": ">> 鼹鼠还在挖掘，守住 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<",
@@ -851,8 +1039,10 @@
     "zh_trans": ">> 守住，不要让僵尸出洞穴 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE MOLE IS COMING BACK ! WATCH OUT !! <<",
@@ -860,8 +1050,10 @@
     "zh_trans": ">> 鼹鼠要回来了！小心！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** ZOMBIES TAKE THE SIDEWAY ***",
@@ -869,8 +1061,10 @@
     "zh_trans": "*** 僵尸侧路开了 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** ELEVATOR IS STUCK ***",
@@ -878,8 +1072,10 @@
     "zh_trans": "*** 电梯卡住了 *** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***",
@@ -887,8 +1083,10 @@
     "zh_trans": "*** 这层楼有一个紧急开关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** NICE JOB!!! ***",
@@ -896,8 +1094,10 @@
     "zh_trans": "*** 干得漂亮!!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<",
@@ -905,8 +1105,10 @@
     "zh_trans": ">> 在这个洞穴里，宝可梦不会跟随你 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Doors opening in 30 seconds ***",
@@ -914,8 +1116,10 @@
     "zh_trans": "*** 门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors opening in 5 seconds ***",
@@ -923,8 +1127,10 @@
     "zh_trans": "*** 门将在 5 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors are open! RUN!! ***",
@@ -932,8 +1138,10 @@
     "zh_trans": "*** 门开了! 快跑!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> IT'S A SHINY PIKACHU !!! <<",
@@ -941,8 +1149,10 @@
     "zh_trans": ">> 这是一只闪光皮卡丘！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> A POKEBALL HAS BEEN PICKED UP <<",
@@ -950,8 +1160,10 @@
     "zh_trans": ">> 一个精灵球已被捡起 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> CATCH HIM. HE IS OUR WAY OUT !!! <<",
@@ -959,8 +1171,10 @@
     "zh_trans": ">> 抓住它，我们就能出去了！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TAKE THE POKEBALL <<",
@@ -968,8 +1182,10 @@
     "zh_trans": ">> 拿起精灵球 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> SHINY PIKACHU HAS BEEN PICKED UP <<",
@@ -977,8 +1193,10 @@
     "zh_trans": ">> 闪光皮卡丘 已被捕获 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> WE CAN LEAVE THIS WORLD NOW <<",
@@ -986,8 +1204,10 @@
     "zh_trans": ">> 现在我们可以离开这里了 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE CLOCK IS A TIME MACHINE !!! <<",
@@ -995,8 +1215,10 @@
     "zh_trans": ">> 这个钟是一台时间机器！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PUT THE SHINY PIKACHU INSIDE IT <<",
@@ -1004,8 +1226,10 @@
     "zh_trans": ">> 把闪光皮卡丘放进里面 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ENTER IN THE CLOCK FROM THE BACK <<",
@@ -1013,8 +1237,10 @@
     "zh_trans": ">> 从后面进入时钟内部 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PUT SHINY PIKACHU IN THE CLOCK <<",
@@ -1022,8 +1248,10 @@
     "zh_trans": ">> 把闪光皮卡丘放进钟里 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<",
@@ -1031,8 +1259,10 @@
     "zh_trans": ">> 皮卡丘正在为时间机器提供能量！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> STAY ON THE BOOK <<",
@@ -1040,8 +1270,10 @@
     "zh_trans": ">> 待在书上 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> IT SHOULD BE SAFER <<",
@@ -1049,8 +1281,10 @@
     "zh_trans": ">> 这样应该会更安全 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PIKACHU IS GETTING OUT OF CONTROL !! <<",
@@ -1058,8 +1292,10 @@
     "zh_trans": ">> 皮卡丘快要失控了！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE OVERLOAD IS RECHARGING THE RADIO !! <<",
@@ -1067,8 +1303,10 @@
     "zh_trans": ">> 无线电超载!! 要爆炸了! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> GO ON THE BOOK ! <<",
@@ -1076,8 +1314,10 @@
     "zh_trans": ">> 到书上去！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> LEVEL: TIME LOOP <<",
@@ -1085,8 +1325,10 @@
     "zh_trans": ">> 关卡：时间循环 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE TIME MACHINE IS ALMOST READY !!! <<",
@@ -1094,8 +1336,10 @@
     "zh_trans": ">> 时光机马上就绪！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND !!! <<",
@@ -1103,8 +1347,10 @@
     "zh_trans": ">> 防御！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND FOR 40 SECONDS <<",
@@ -1112,8 +1358,10 @@
     "zh_trans": ">> 防御 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 5 SECONDS LEFT !!! <<",
@@ -1121,8 +1369,10 @@
     "zh_trans": ">> 还剩 5 秒！！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** WAIT TILL BOMBS BREAK THIS BOARD ***",
@@ -1130,8 +1380,10 @@
     "zh_trans": "*** 等炸弹炸毁这块板子 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** BOARD IS BROKEN RUUUUUUN!! ***",
@@ -1139,8 +1391,10 @@
     "zh_trans": "*** 板子炸开了，快跑！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Door opening in 25 seconds ***",
@@ -1148,8 +1402,10 @@
     "zh_trans": "*** 门 25 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors opening in 20 seconds ***",
@@ -1157,8 +1413,10 @@
     "zh_trans": "*** 门 20 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND FOR 30 SECONDS <<",
@@ -1166,8 +1424,10 @@
     "zh_trans": ">> 防御 30 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> OH NO!! IT'S PIKACHU NAZI <<",
@@ -1175,8 +1435,10 @@
     "zh_trans": ">> 不好! 是丘特勒! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<",
@@ -1184,8 +1446,10 @@
     "zh_trans": ">> 阻止他! 不要让他召唤出撒旦! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<",
@@ -1193,8 +1457,10 @@
     "zh_trans": ">> 丘特勒使用了 十万伏特. 保持火力!!! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<",
@@ -1202,8 +1468,10 @@
     "zh_trans": ">> 丘特勒已被击败！！！ << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> WE WERE TOO LATE !!! <<",
@@ -1211,8 +1479,10 @@
     "zh_trans": ">> 我们还是晚了！！！ <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<",
@@ -1220,8 +1490,10 @@
     "zh_trans": ">> 丘特勒献祭了自己的灵魂，让撒旦降世！！ <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> OH NO!! SATAN IS ALIVE ! <<",
@@ -1229,8 +1501,10 @@
     "zh_trans": ">> 不好! 撒旦苏醒了! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> SATAN OPENED A PORTAL TO HELL !!! <<",
@@ -1238,8 +1512,10 @@
     "zh_trans": ">> 撒旦开启了地狱之门!!! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- [ZOMBIES] Find Satan's Powers to make him stronger --",
@@ -1247,8 +1523,10 @@
     "zh_trans": "-- [僵尸] 找到撒旦的力量来让他变得更强 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<",
@@ -1256,8 +1534,10 @@
     "zh_trans": ">> 撒旦正在靠近时光机!! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> STOP HIM BEFORE IT'S TOO LATE !! <<",
@@ -1265,8 +1545,10 @@
     "zh_trans": ">> 快阻止他，不然就晚了！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<",
@@ -1274,8 +1556,10 @@
     "zh_trans": ">> 不好! 撒旦进入时光机了! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> GET READY FOR THE FINAL FIGHT !! <<",
@@ -1283,8 +1567,10 @@
     "zh_trans": ">> 准备好与撒旦的决战 !! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> KEEP ZOMBIES OUT OF THE ROOM <<",
@@ -1292,8 +1578,10 @@
     "zh_trans": ">> 阻止僵尸进入这个房间 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- [ZOMBIES] You can still find Satan's Powers during the fight --",
@@ -1301,8 +1589,10 @@
     "zh_trans": "-- [僵尸] 在战斗期间你们仍然可以找到撒旦的力量 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan can summon Ultimate Minions **",
@@ -1310,8 +1600,10 @@
     "zh_trans": "** 撒旦能够召唤 终极 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan control the Electricity **",
@@ -1319,8 +1611,10 @@
     "zh_trans": "** 撒旦操纵了 电 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan can summon Tornado Minions **",
@@ -1328,8 +1622,10 @@
     "zh_trans": "** 撒旦能召唤 龙卷风 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan is immune to Grenades **",
@@ -1337,8 +1633,10 @@
     "zh_trans": "** 手雷现在对撒旦无效 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan control the Ice **",
@@ -1346,8 +1644,10 @@
     "zh_trans": "** 撒旦操纵了 冰 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **",
@@ -1355,8 +1655,10 @@
     "zh_trans": "** 已献祭5名僵尸，赋予撒旦 5 种特殊能力。**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> SATAN IS ESCAPING !! <<",
@@ -1364,8 +1666,10 @@
     "zh_trans": ">> 撒旦逃跑了！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> HE WON'T GO FAR ! <<",
@@ -1373,8 +1677,10 @@
     "zh_trans": ">> 他跑不远的！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND 20 SECONDS !! <<",
@@ -1382,8 +1688,10 @@
     "zh_trans": ">> 防御 20 秒！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 5 SECONDS LEFT !! <<",
@@ -1391,8 +1699,10 @@
     "zh_trans": ">> 还剩 5 秒！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> GO IN THE TIMEMACHINE !! <<",
@@ -1400,8 +1710,10 @@
     "zh_trans": ">> 进入时光机！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THIS IS THE BRINK OF TIME <<",
@@ -1409,8 +1721,10 @@
     "zh_trans": ">> 这里是...时空裂缝  <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> SATAN IS HIDING SOMEWHERE <<",
@@ -1418,8 +1732,10 @@
     "zh_trans": ">> 撒旦一定躲在这里 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> BE CAREFUL <<",
@@ -1427,8 +1743,10 @@
     "zh_trans": ">> 小心 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND UNTIL SOMETHING HAPPENS <<",
@@ -1436,8 +1754,10 @@
     "zh_trans": ">> 守住，有什么事情要发生了 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<",
@@ -1445,8 +1765,10 @@
     "zh_trans": ">> 距离撒旦消失于未来还有 40 秒！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<",
@@ -1454,8 +1776,10 @@
     "zh_trans": ">> 我们得赶快杀了他！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<",
@@ -1463,8 +1787,10 @@
     "zh_trans": ">> 我们要在撒旦穿梭时间之前把他消灭！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE WORLD WILL FINALLY BE IN PEACE !!! <<",
@@ -1472,8 +1798,10 @@
     "zh_trans": ">> 世界终将归于和平！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> DEFEND 20 SECONDS <<",
@@ -1481,8 +1809,10 @@
     "zh_trans": ">> 守 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 5 SECONDS LEFT <<",
@@ -1490,8 +1820,10 @@
     "zh_trans": ">> 最后 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> Congratulations ! <<",
@@ -1499,8 +1831,10 @@
     "zh_trans": ">> 恭喜通关 ! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> You beat the map ! <<",
@@ -1508,8 +1842,10 @@
     "zh_trans": ">> 你征服了这张地图 ! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> Good Ending <<",
@@ -1517,8 +1853,10 @@
     "zh_trans": ">> 好结局 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> Thanks for being part of this incredible adventure <<",
@@ -1526,8 +1864,10 @@
     "zh_trans": ">> 感谢参加这场不可思议的冒险 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS CHOSEN: DEAD TREE <<",
@@ -1535,8 +1875,10 @@
     "zh_trans": ">> 玩家已选择：枯树 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> THE MASTERBALL HAS BEEN PICKED UP <<",
@@ -1544,8 +1886,10 @@
     "zh_trans": ">> 大师球已被拾取 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TAKE THE MASTERBALL <<",
@@ -1553,8 +1897,10 @@
     "zh_trans": ">> 带上大师球 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan's Speed Increased **",
@@ -1562,8 +1908,10 @@
     "zh_trans": "** 撒旦的速度提升了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan can summon Water Minions **",
@@ -1571,8 +1919,10 @@
     "zh_trans": "** 撒旦能够召唤水元素喽啰 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> MAP IS OVER <<",
@@ -1580,8 +1930,10 @@
     "zh_trans": ">> 全图通关 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TELEPORTER TO ADMIN ROOM AVAILABLE <<",
@@ -1589,8 +1941,10 @@
     "zh_trans": ">> 通往管理员房间的传送器已解锁 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> NUKE ALL IN 30 SECONDS <<",
@@ -1598,8 +1952,10 @@
     "zh_trans": ">> 30 秒后全体核爆 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS CHOSEN: TIME LOOP <<",
@@ -1607,8 +1963,10 @@
     "zh_trans": ">> 玩家已选择：时间循环 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> FIND 3 RUNGS TO FIX IT <<",
@@ -1616,8 +1974,10 @@
     "zh_trans": ">> 找到 3 块木板来修复它 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Satan control the Explosions **",
@@ -1625,8 +1985,10 @@
     "zh_trans": "**撒旦掌握了爆炸的能力**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> YOU TOOK TOO LONG !! <<",
@@ -1634,8 +1996,10 @@
     "zh_trans": ">> 你浪费了太多时间 !! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> PIKACHU CAUGHT HIMSELF !! <<",
@@ -1643,8 +2007,10 @@
     "zh_trans": ">> 皮卡丘捕获了它自己 !! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<",
@@ -1652,7 +2018,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
