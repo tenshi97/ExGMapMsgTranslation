@@ -401,8 +401,8 @@
     "zh_trans": ">>> 哈耳庇厄 已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> WATCH OUT FOR TAEPODONG <<<",
@@ -437,8 +437,8 @@
     "zh_trans": ">>> 躲刀时间~ <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> PLAYER HAS PICKED UP EARTH TOILET <<<",
@@ -491,8 +491,8 @@
     "zh_trans": ">>> 红色房间的按钮已经按下 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> BLUE BUTTON WAS PRESSED <<<",
@@ -500,8 +500,8 @@
     "zh_trans": ">>> 蓝色房间的按钮已经按下 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> YELLOW BUTTON WAS PRESSED <<<",
@@ -509,8 +509,8 @@
     "zh_trans": ">>> 黄色房间的按钮已经按下 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> 5 SECONDS LEFT GET OUT FROM TRAIN <<<",
@@ -626,8 +626,8 @@
     "zh_trans": ">>> 黄色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> GREEN PILLAR BROKEN <<<",
@@ -635,8 +635,8 @@
     "zh_trans": ">>> 绿色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> BLUE PILLAR BROKEN <<<",
@@ -644,8 +644,8 @@
     "zh_trans": ">>> 蓝色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> RED PILLAR BROKEN <<<",
@@ -653,8 +653,8 @@
     "zh_trans": ">>> 红色柱子已被破坏 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> TELEPORTER WILL ACTIVATE SOON <<<",
@@ -707,8 +707,8 @@
     "zh_trans": ">>> 女王释放了技能：激光刀 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> WATCH OUT FOR BEAM CANNON <<<",
@@ -716,16 +716,16 @@
     "zh_trans": ">>> 小心镭射加农炮：蹲下 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> QUEEN CASTED TRAIN <<<",
     "en_trans": "",
-    "zh_trans": ">>> 女王召唤了火车：远离铁轨(6) <<<",
+    "zh_trans": ">>> 女王召唤了火车：远离铁轨 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -740,10 +740,10 @@
   {
     "original": ">>> WATCH OUT FOR HUGE TAEPODONG <<<",
     "en_trans": "",
-    "zh_trans": ">>> 大浦洞导弹来袭：远离白色光点(6) <<<",
+    "zh_trans": ">>> 大浦洞导弹来袭：远离白色光点 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -797,25 +797,25 @@
     "zh_trans": ">>> 女王增强了力量 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> QUEEN CASTED VACUUM <<<",
     "en_trans": "",
-    "zh_trans": ">>> 女王释放真空吸：切刀按 S 后退抵抗(10)<<<",
+    "zh_trans": ">>> 女王释放真空吸：切刀按 S 后退抵抗<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": ">>> QUEEN CASTED WIND <<<",
     "en_trans": "",
-    "zh_trans": ">>> 女王释放推力风：切刀按 W 前进抵抗(10)<<<",
+    "zh_trans": ">>> 女王释放推力风：切刀按 W 前进抵抗<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -824,17 +824,17 @@
     "zh_trans": ">>> 女王释放了嗦尼克快跑 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> GET ON THE PLATFORM <<<",
     "en_trans": "",
-    "zh_trans": ">>> 等平台靠近再上去 <<<",
+    "zh_trans": ">>> 等平台靠近再上去，特效消失马上下平台 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": ">>> QUEEN IS HURTED <<<",

@@ -1630,7 +1630,7 @@
   {
     "original": "Ammo Item has been picked up",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "弹药神器已被捡起",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1641,18 +1641,18 @@
   {
     "original": "Cooldown: 90 Seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "冷却时间:90秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 90,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "Ammo Item Used",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "弹药已使用",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1663,7 +1663,7 @@
   {
     "original": "Found",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已找到",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

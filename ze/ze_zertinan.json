@@ -446,8 +446,8 @@
     "zh_trans": "** 冰<看脚底> **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Flash Freeze **",
@@ -461,10 +461,10 @@
   {
     "original": "** Reflexive **",
     "en_trans": "",
-    "zh_trans": "** 反射 **",
+    "zh_trans": "** 反射（不要开枪） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
