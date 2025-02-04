@@ -320,8 +320,8 @@
     "zh_trans": "(人类) >>>--朝加农炮开火--<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<",
@@ -329,8 +329,8 @@
     "zh_trans": "(僵尸) >>>--站在加农炮旁边推动它--<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> CANNON HAS BEEN DESTROYED <<<",
@@ -770,7 +770,7 @@
     "zh_trans": "||| 克拉肯向你发出了一道波浪。按 W 抵抗推力 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -779,8 +779,8 @@
     "zh_trans": "||| 克拉肯向你们投掷了炸药桶 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||",
@@ -788,8 +788,8 @@
     "zh_trans": "||| 克拉肯派出了一只自爆僵尸 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| KRAKEN HAS SENT A BUBBLES ON YOU |||",
@@ -797,8 +797,8 @@
     "zh_trans": "||| 克拉肯向你们发射了泡泡 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| KRAKEN HAS USED VORTEX |||",
@@ -806,7 +806,7 @@
     "zh_trans": "||| 克拉肯使用了漩涡。按 S 抵抗吸力  |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -851,8 +851,8 @@
     "zh_trans": ">>> 最后的勋章已归还到宝箱内 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> BARBOSSA IS DEAD <<<",
@@ -860,8 +860,8 @@
     "zh_trans": ">>> 巴博萨死了 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| KRAKEN HAS THROWN BARREL ON YOU |||",
@@ -869,8 +869,8 @@
     "zh_trans": "||| 克拉肯向你们投掷了炸药桶 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>> YOU WON THE MAP, BUT YOU DIDN’T KILL THE GOD KRAKEN. <<<",
