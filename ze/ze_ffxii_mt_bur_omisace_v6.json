@@ -574,7 +574,7 @@
   {
     "original": "**A player has picked up Limit Break Magick**",
     "en_trans": "",
-    "zh_trans": "**一名玩家已获得 极限爆发魔法**",
+    "zh_trans": "**一名玩家已获得 极限突破（终极）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "**[Vaan] Is that who I think it is!?**",
     "en_trans": "",
-    "zh_trans": "**[梵]那是我认为的那个人吗！？**",
+    "zh_trans": "**[梵]是我想的那个吗！？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -651,7 +651,7 @@
   {
     "original": "**Sanctuary Keeper has casted Wind Rage!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了风之狂怒！** ",
+    "zh_trans": "**圣殿守护者施展了风之狂怒！（按W抵抗推力）** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -662,7 +662,7 @@
   {
     "original": "**Sanctuary Keeper has casted Carnage of Phantoms!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了幻影屠戮！**",
+    "zh_trans": "**圣殿守护者施展了幻影屠戮！（按S抵抗吸力）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "**Sanctuary Keeper has casted Solar Orb!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了日光之球！**",
+    "zh_trans": "**圣殿守护者施展了日光之球！（躲避环形特效）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "**Sanctuary Keeper has casted Shadow Blast!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了暗影冲击！**",
+    "zh_trans": "**圣殿守护者施展了暗影冲击！（躲避脚底特效）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,11 +772,11 @@
   {
     "original": "**Get to the teleport to to avoid death!**",
     "en_trans": "",
-    "zh_trans": "**快去传送点不然要去世了！**",
+    "zh_trans": "**快去传送点(中间的蓝色光球)不然要去世了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -794,18 +794,18 @@
   {
     "original": "**Get out of the middle now!**",
     "en_trans": "",
-    "zh_trans": "马上从中间离开！",
+    "zh_trans": "远离场地中间特效！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "**Sanctuary Keeper has casted Flare of Freezing!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者施展了冰冷耀斑！**",
+    "zh_trans": "**圣殿守护者施展了冰冷耀斑！（躲避特效）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -827,7 +827,7 @@
   {
     "original": "**Press all statues to interrupt the attack**",
     "en_trans": "",
-    "zh_trans": "按下所有雕像来打断攻击",
+    "zh_trans": "对柱子按E ，打断攻击",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,12 +849,12 @@
   {
     "original": "**[Bash] It's the Adrammelech Shoot before it's too late!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]是阿德拉梅莱赫，快开火，否则就太迟了！**",
+    "zh_trans": "**[巴什]是阿德拉梅莱赫，快开火，否则就太迟了！（BOSS方向来高低刀）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -882,7 +882,7 @@
   {
     "original": "**[Vaan] What's that!? Cactus...**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[梵]那是什么！？仙人掌...**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -893,7 +893,7 @@
   {
     "original": "**[Ashe] Not again... Shoot him because he will never leave us alone!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[艾雪]又来了... 开火，他不会放过我们的！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
