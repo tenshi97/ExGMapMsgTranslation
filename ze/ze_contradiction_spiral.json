@@ -1,94 +1,6 @@
 [
   {
-    "original": "我们在前实验室取得了部分真相...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "这个时代已经结束了...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "代号_虚掩之庭的计划取消 离开这里",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "30",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 30,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "坚持5秒...",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "4",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "3",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "2",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "1",
+    "original": "World Level 01",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -99,7 +11,7 @@
     "force_hint": 0
   },
   {
-    "original": "0",
+    "original": "*** Electric has been acquired ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -110,7 +22,7 @@
     "force_hint": 0
   },
   {
-    "original": "侧路还有5秒打开",
+    "original": "*** Fire has been acquired ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -121,29 +33,7 @@
     "force_hint": 0
   },
   {
-    "original": "20",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "5",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "坚持10秒",
+    "original": "*** Heal has been acquired ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -154,7 +44,7 @@
     "force_hint": 0
   },
   {
-    "original": "大门需要30秒打开",
+    "original": "***You found a switch***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -165,7 +55,7 @@
     "force_hint": 0
   },
   {
-    "original": "僵尸还有3秒传送",
+    "original": "***Try to find more switches***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -176,7 +66,7 @@
     "force_hint": 0
   },
   {
-    "original": "还需要坚持5秒",
+    "original": "*The left door is about to open*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -187,7 +77,7 @@
     "force_hint": 0
   },
   {
-    "original": "十秒后僵尸传送",
+    "original": "*The right button is broken*",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -198,7 +88,7 @@
     "force_hint": 0
   },
   {
-    "original": "5秒后撤退",
+    "original": "Have the conditions to enter the next scene",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -209,7 +99,7 @@
     "force_hint": 0
   },
   {
-    "original": "侧路5秒后打开",
+    "original": "Ready to move on to the next location",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -220,7 +110,7 @@
     "force_hint": 0
   },
   {
-    "original": "再坚持5秒",
+    "original": "*** Water has been acquired ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -231,18 +121,106 @@
     "force_hint": 0
   },
   {
-    "original": "40",
+    "original": "*** Wind has been acquired ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 40,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
-    "original": "坚持5秒",
+    "original": "***left***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "The road will be cleared soon",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***The gift of diamonds***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***float***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***Flaming column***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***Bouncing dance steps***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***Stepping stone prank***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Ending | Flowing water |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Coming to the next level",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

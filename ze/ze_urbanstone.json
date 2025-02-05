@@ -5,8 +5,10 @@
     "zh_trans": "!!! 箱子搬运工 !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DEFEND HERE >>",
@@ -14,8 +16,10 @@
     "zh_trans": "<< 守住这里 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< FALL BACK >>>",
@@ -23,8 +27,10 @@
     "zh_trans": "<< 撤退 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< LEVEL 1 >>",
@@ -32,8 +38,10 @@
     "zh_trans": "<< 关卡 1 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< CHECKPOINTS >>",
@@ -41,8 +49,10 @@
     "zh_trans": "<< 存点 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CHECKPOINT 1 >>",
@@ -50,8 +60,10 @@
     "zh_trans": "<< 存点 1 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPEN 25 SECONDS >>",
@@ -59,8 +71,10 @@
     "zh_trans": "<< 25秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPEN >>",
@@ -68,8 +82,10 @@
     "zh_trans": "<< 开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR CLOSING >>",
@@ -77,8 +93,10 @@
     "zh_trans": "<< 关门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< PRESS AND HOLD >>",
@@ -86,8 +104,10 @@
     "zh_trans": "<< 长按按钮 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< CAUTION : FAN AUTOMATIC START >>>",
@@ -95,8 +115,10 @@
     "zh_trans": "<< 警告：风扇启动 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPEN 15 SECONDS >>",
@@ -104,8 +126,10 @@
     "zh_trans": "<< 15秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< CHECKPOINT 2 >>",
@@ -113,8 +137,10 @@
     "zh_trans": "<< 存点 2 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPEN 20 SECONDS >>",
@@ -122,8 +148,10 @@
     "zh_trans": "<< 20秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR CLOSING 5 SECONDS >>",
@@ -131,8 +159,10 @@
     "zh_trans": "<< 5秒后关门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< FALL BACK >>",
@@ -140,8 +170,10 @@
     "zh_trans": "<< 撤退 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CHECKPOINT 3 >>",
@@ -149,8 +181,10 @@
     "zh_trans": "<< 存点 3 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< BREAK TRAM >",
@@ -158,8 +192,10 @@
     "zh_trans": "< 破坏缆车 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< DROP CRATE INTO HOLE >",
@@ -167,8 +203,10 @@
     "zh_trans": "< 把箱子打下子接住 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< TO SPAWN CRATE >",
@@ -176,8 +214,10 @@
     "zh_trans": "< 去获得箱子 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< BOX SPAWNED >>",
@@ -185,8 +225,10 @@
     "zh_trans": "<< 箱子已生成 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CHECKPOINT 4 >>",
@@ -194,8 +236,10 @@
     "zh_trans": "<< 存点 4 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPENING 10 SECONDS >>",
@@ -203,8 +247,10 @@
     "zh_trans": "<< 10秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< FAN ACTIVATING >",
@@ -212,8 +258,10 @@
     "zh_trans": "< 风扇启动 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< USE BLOCKS FOR COVER >",
@@ -221,8 +269,10 @@
     "zh_trans": "< 用箱子来做掩体 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< FINAL DOOR CLOSING 20 SECONDS >>",
@@ -230,8 +280,10 @@
     "zh_trans": "<< 最后的门20秒关闭 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< LEVEL 1 - CHECKPOINTS WON >>",
@@ -239,8 +291,10 @@
     "zh_trans": "<< 关卡1 - 存点模式 胜利！ >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< LEVEL 2 >>",
@@ -248,8 +302,10 @@
     "zh_trans": "<< 关卡2 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< CHECKPOINT 1 >>>",
@@ -257,8 +313,10 @@
     "zh_trans": "<< 存点1 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPENING 8 SECONDS >>",
@@ -266,8 +324,10 @@
     "zh_trans": "<< 8秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<< DEFEND HERE >>>",
@@ -275,8 +335,10 @@
     "zh_trans": "<<< 守住这里 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPENING 15 SECONDS >>",
@@ -284,8 +346,10 @@
     "zh_trans": "<< 15秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<< CHECKPOINT 2 >>>",
@@ -293,8 +357,10 @@
     "zh_trans": "<<< 存点2 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< PUSH CART >",
@@ -302,8 +368,10 @@
     "zh_trans": "< 推车 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 6 PLAYERS - MAX SPEED >",
@@ -311,8 +379,10 @@
     "zh_trans": "< 6个玩家推车 - 速度就可以达到最快 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< HUMANS - PROTECT THE CART >",
@@ -320,8 +390,10 @@
     "zh_trans": "< 人类任务 - 保护好这个手推车 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< ZOMBIES - DESTROY THE CART >",
@@ -329,8 +401,10 @@
     "zh_trans": "< 僵尸任务 - 摧毁手推车 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CART HEALTH - 75% >>",
@@ -338,8 +412,10 @@
     "zh_trans": "<< 手推车血量 - 75% >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CART HEALTH - 50% >>",
@@ -347,8 +423,10 @@
     "zh_trans": "<< 手推车血量 - 50% >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< CHECKPOINT 3 >>>",
@@ -356,8 +434,10 @@
     "zh_trans": "<<< 存点 3 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CART HEALTH - 25% >>",
@@ -365,8 +445,10 @@
     "zh_trans": "<< 手推车血量 - 25% >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CART HEALTH - 10% >>",
@@ -374,8 +456,10 @@
     "zh_trans": "<< 手推车血量 - 10% >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< CART DESTROYED >>",
@@ -383,8 +467,10 @@
     "zh_trans": "<< 手推车被摧毁 完辣！ >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< LIFT LEAVING 15 SECONDS >>",
@@ -392,8 +478,10 @@
     "zh_trans": "<< 电梯15秒后离开 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< LIFT LEAVING >>",
@@ -401,8 +489,10 @@
     "zh_trans": "<< 电梯离开 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< CHECKPOINT 4 >>>",
@@ -410,8 +500,10 @@
     "zh_trans": "<<< 存点 4 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< THROW NADE IN HOLE >",
@@ -419,8 +511,10 @@
     "zh_trans": "< 把手雷丢进这个洞里获取箱子 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPEN 10 SECONDS >>",
@@ -428,8 +522,10 @@
     "zh_trans": "<< 10秒开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<< DOOR OPEN >>>",
@@ -437,8 +533,10 @@
     "zh_trans": "<< 开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< RIGHT BRIDGE ACTIVE >>",
@@ -446,8 +544,10 @@
     "zh_trans": "<< 右边的桥已被机会 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPENING 20 SECONDS >>",
@@ -455,8 +555,10 @@
     "zh_trans": "<< 20秒后开门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<< CHECKPOINT 5 >>>",
@@ -464,8 +566,10 @@
     "zh_trans": "<<< 存点 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< KEEP ZOMBIES OFF TRAM >>",
@@ -473,8 +577,10 @@
     "zh_trans": "<< 守住 别让僵尸上缆车 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< LAST DOOR OPEN >>>",
@@ -482,8 +588,10 @@
     "zh_trans": "<<< 最后的门开启 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< BUILD TOWER TO PLATFORM >>>",
@@ -491,8 +599,10 @@
     "zh_trans": "<<< 我们得用箱子搭上去这个平台（或者用些箱子做别的事情？） >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< MAP COMPLETE - CHECKPOINTS >>",
@@ -500,8 +610,10 @@
     "zh_trans": "<< 地图全通关 - 存点模式 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< NO CHECKPOINTS >>",
@@ -509,8 +621,10 @@
     "zh_trans": "<< 无存点模式 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< ZOMBIE DETECTED >>>",
@@ -518,8 +632,10 @@
     "zh_trans": "<<< 检测到僵尸 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< CATCH CRATE >",
@@ -527,8 +643,10 @@
     "zh_trans": "< 追上箱子 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< LEFT BRIDGE ACTIVE >>",
@@ -536,8 +654,10 @@
     "zh_trans": "<< 左边桥梁激活 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< STEPS OPEN >>",
@@ -545,8 +665,10 @@
     "zh_trans": "<< 台阶开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< CATCH BOX >",
@@ -554,8 +676,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPEN 30 SECONDS >>",
@@ -563,8 +687,10 @@
     "zh_trans": "<< 门将在 30 秒后打开 >> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< FINAL DOOR CLOSING 30 SECONDS >>",
@@ -572,8 +698,10 @@
     "zh_trans": "<< 最后的门将在 30 秒后关闭 >> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< DOOR OPENING >>",
@@ -581,7 +709,20 @@
     "zh_trans": "<< 门正在打开 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< FANS STOPPED >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
