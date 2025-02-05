@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>欢迎来到炽蓝仙野<<<",
@@ -14,8 +16,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>找出不同图案解锁机关<<<",
@@ -23,8 +27,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>祝你好运<<<",
@@ -32,8 +38,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>还需要再等一会哦,10second left<<<",
@@ -41,8 +49,10 @@
     "zh_trans": ">>>还需要再等一会哦,还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>还需要再等一会哦,30second left<<<",
@@ -50,8 +60,10 @@
     "zh_trans": ">>>还需要再等一会哦,还剩30秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>被你发现了,10second left<<<",
@@ -59,8 +71,10 @@
     "zh_trans": ">>>被你发现了,还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>石碑印记，指明道路。独一无二，引领前路<<<",
@@ -68,8 +82,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>前方的路很难走，要仔细辨别哦，5 seconds left<<<",
@@ -77,8 +93,10 @@
     "zh_trans": ">>>前方的路很难走，要仔细辨别哦，还剩5秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>你需要找到机关才能打开迷雾之门<<<",
@@ -86,8 +104,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>太好了，你找到了<<<",
@@ -95,8 +115,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>同类同形，虚无之路。唯一印记，唯一正途<<<",
@@ -104,8 +126,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>你好像走错了<<<",
@@ -113,8 +137,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>被你发现了<<<",
@@ -122,8 +148,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>终于出来了！小心前方荆棘！，15second<<<",
@@ -131,8 +159,10 @@
     "zh_trans": ">>>终于出来了！小心前方荆棘！，还剩15秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。10 seconds left<<<",
@@ -140,8 +170,10 @@
     "zh_trans": ">>>不采一株桑，不踏一粒石。自问此时心，不足何时足。还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>咦，这个宝石是干嘛的<<<",
@@ -149,8 +181,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>每个人都将迎来终结，10second<<<",
@@ -158,8 +192,10 @@
     "zh_trans": ">>>每个人都将迎来终结，还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>僵尸要来了，20 seconds left<<<",
@@ -167,8 +203,10 @@
     "zh_trans": ">>>僵尸要来了，还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>10 seconds<<<",
@@ -176,8 +214,10 @@
     "zh_trans": ">>>10 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>开关已全部激活 20 seconds left<<<",
@@ -185,8 +225,10 @@
     "zh_trans": ">>>开关已全部激活 还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>10 seconds left<<<",
@@ -194,8 +236,10 @@
     "zh_trans": ">>>还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>30 seconds left<<<",
@@ -203,8 +247,10 @@
     "zh_trans": ">>>还剩30秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>板子即将上升 20 seconds left<<<",
@@ -212,8 +258,10 @@
     "zh_trans": ">>>板子即将上升 还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>第一关胜利<<<",
@@ -221,8 +269,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>我们必须攻击那只眼睛<<<",
@@ -230,8 +280,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>僵尸被阻挡 10 seconds left<<<",
@@ -239,8 +291,10 @@
     "zh_trans": ">>>僵尸被阻挡 还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>跟着蓝色标记，快离开这里<<<",
@@ -248,8 +302,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>我们要利用这头怪兽的上升气流，逃出去<<<",
@@ -257,8 +313,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>最后防守 30 seconds<<<",
@@ -266,8 +324,10 @@
     "zh_trans": ">>>最后防守 30 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>中间的道路打开了<<<",
@@ -275,7 +335,31 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>>道路还有10秒显现, 10 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>>道路还有20秒显现, 20 seconds left<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
