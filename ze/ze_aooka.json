@@ -212,7 +212,7 @@
     "zh_trans": "< 涡旋 - 对boss按s >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -221,7 +221,7 @@
     "zh_trans": "< 火焰 - 上两边栏杆 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -230,7 +230,7 @@
     "zh_trans": "< 沙尘 - 蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -239,7 +239,7 @@
     "zh_trans": "< 空间传送 - 贴近boss但别贴死 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -365,7 +365,7 @@
     "zh_trans": "< 泥潭 - 上栏杆 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -374,16 +374,16 @@
     "zh_trans": "< 毒 - 先去中间再去外圈 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
     "original": "< Boot - Vortex >",
     "en_trans": "",
-    "zh_trans": "< 涡旋 - 抵抗中间吸力（不要站对角线上） >",
+    "zh_trans": "< 涡旋 - 抵抗中间吸力（不要站对角线上抵抗） >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -392,7 +392,7 @@
     "zh_trans": "< 雪环 - 远离特效 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -401,7 +401,7 @@
     "zh_trans": "< 星之落 - 先去外圈再去中间 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -509,7 +509,7 @@
     "zh_trans": "< 站在“金轮”的范围内以规避伤害 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 4,
     "enable_timer": 1
   },
   {
@@ -518,7 +518,7 @@
     "zh_trans": "< 黑暗之光 - 先远离光圈，等周围出现黑色特效之后再进入光圈躲避 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -527,7 +527,7 @@
     "zh_trans": "< 双生 - 前后躲避特效 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -545,7 +545,7 @@
     "zh_trans": "< 星锁 - 停枪，提前去场地中间 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 2,
     "enable_timer": 1
   },
   {
@@ -554,7 +554,7 @@
     "zh_trans": "< 星解 - 去中间规避伤害 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
+    "timer_num": 2,
     "enable_timer": 0
   },
   {
@@ -563,7 +563,7 @@
     "zh_trans": "< 死亡之星 - 远离中间 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 2,
     "enable_timer": 1
   },
   {
@@ -572,7 +572,7 @@
     "zh_trans": "< 灵魂汲取 - boss回血，提前蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 2,
     "enable_timer": 1
   },
   {
@@ -581,7 +581,7 @@
     "zh_trans": "< 电球 - 远离电球正面 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
+    "timer_num": 2,
     "enable_timer": 0
   },
   {
@@ -590,7 +590,7 @@
     "zh_trans": "< 天罪 - 蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 2,
     "enable_timer": 1
   },
   {
@@ -599,7 +599,7 @@
     "zh_trans": "< 时间之茧 - 从左上角开始按顺时针依次移动躲避四次伤害 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -608,7 +608,7 @@
     "zh_trans": "< 沙暴 - 按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -617,7 +617,7 @@
     "zh_trans": "< 加速蚕食 - 再次进入金轮范围规避秒杀 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 2,
     "enable_timer": 1
   },
   {
@@ -680,7 +680,7 @@
     "zh_trans": "< 火焰护盾 - 停枪并随机出现半场火场 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -689,7 +689,7 @@
     "zh_trans": "< 神圣-贴紧两边尸笼 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -698,7 +698,7 @@
     "zh_trans": "< 重力 - 抵抗吸力 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -707,7 +707,7 @@
     "zh_trans": "< 雷霆 - 去没有电球和特效的区域 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -716,7 +716,7 @@
     "zh_trans": "< 火焰治疗 - 随机出现半场火场 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -725,7 +725,7 @@
     "zh_trans": "< 飓风 - 对门口按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -806,7 +806,7 @@
     "zh_trans": "< 冰刃 - 躲避特效 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -815,7 +815,7 @@
     "zh_trans": "< 自我修复 - 停枪 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -860,7 +860,7 @@
     "zh_trans": "< 终极-贴紧内侧门框（注意是内侧） >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
