@@ -2,7 +2,7 @@
   {
     "original": "> TRIGGER ACTIVATED <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 触发已激活 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "> CAVE TELEPORT ACTIVATING FOR 20 SECONDS <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 洞穴传送将在 20 秒后激活 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,18 @@
   {
     "original": "> CAVE TELEPORT ACTIVATED - FALL BACK <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 洞穴传送已激活 - 撤退 <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "> 1 PERSON GO TRIGGER! <",
+    "en_trans": "",
+    "zh_trans": "> 1 个人去触发！<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -33,20 +44,9 @@
     "force_hint": 0
   },
   {
-    "original": "> 1 PERSON GO TRIGGER! <",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
     "original": "> OTHERS STAY DEFEND! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 其他人留下来防守！<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "> WHERE WE GO?: CAVE DOOR <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 我们去哪里？：洞穴门 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "> JUST RUN | DONT DEFEND <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 只管跑 | 不要防守 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "> Zombie Teleport For 20 Seconds. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸 20 秒后传送 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "> HURRY UP! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 赶快！<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "> Cave is Open! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 洞穴已打开！<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "> DONT WAIT! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 别等了！<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "> Zombie Teleport For 10 Seconds. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸 10 秒后传送 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "> Zombie Teleport For 5 Seconds. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸 5 秒后传送 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "> KEY RECEIVED <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 钥匙已收到 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": "> DEFEND FOR 20 SECONDS <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 防守 20 秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,7 +167,7 @@
   {
     "original": "> FALL BACK! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 撤退！<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "> FINAL AREA IN DEFEND FOR 30 SECONDS <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 防守最终区域 30 秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
