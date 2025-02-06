@@ -5,8 +5,10 @@
     "zh_trans": "**第一关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Map By artesurf**",
@@ -14,8 +16,10 @@
     "zh_trans": "**地图作者:artesurf**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**hold here until a door is open somewhere**",
@@ -23,8 +27,10 @@
     "zh_trans": "**在此处坚守，直到某处的门打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Door is open in 25seconds**",
@@ -32,8 +38,10 @@
     "zh_trans": "**门将在 25 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Teleporter is open in 10seconds**",
@@ -41,8 +49,10 @@
     "zh_trans": "**传送器将在 10 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold here untile the rock explodes**",
@@ -50,8 +60,10 @@
     "zh_trans": "**在此处坚守，直到岩石爆炸**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Door is open in 30seconds**",
@@ -59,8 +71,10 @@
     "zh_trans": "**门将在 30 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Boss is dead,fall back!**",
@@ -68,8 +82,10 @@
     "zh_trans": "**Boss已死,撤退!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**final 25seconds**",
@@ -77,8 +93,10 @@
     "zh_trans": "**最后 25 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**STAGE1 Won**",
@@ -86,8 +104,10 @@
     "zh_trans": "**第一关胜利**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Stage2**",
@@ -95,8 +115,10 @@
     "zh_trans": "**第二关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hole here**",
@@ -104,8 +126,10 @@
     "zh_trans": "**这里有个洞**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**the door is open in 20seconds**",
@@ -113,8 +137,10 @@
     "zh_trans": "**门将在 20 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**the door is open in 15seconds**",
@@ -122,8 +148,10 @@
     "zh_trans": "**门将在 15 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**It went into rage**",
@@ -131,8 +159,10 @@
     "zh_trans": "**它陷入了狂怒状态**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Wind**",
@@ -140,8 +170,10 @@
     "zh_trans": "**风**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Boss is dead!**",
@@ -149,8 +181,10 @@
     "zh_trans": "**Boss死了!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**30seconds left**",
@@ -158,8 +192,10 @@
     "zh_trans": "**还剩 30 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Stage2 won**",
@@ -167,8 +203,10 @@
     "zh_trans": "**第二关胜利**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Earth Shield**",
@@ -176,8 +214,10 @@
     "zh_trans": "**大地之盾**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Earth Quake**",
@@ -185,8 +225,10 @@
     "zh_trans": "**大地震颤**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Stage3**",
@@ -194,8 +236,10 @@
     "zh_trans": "**第三关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Cover here until the door is open**",
@@ -203,8 +247,10 @@
     "zh_trans": "**在这里守到门开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**the door is open in 15seconds****",
@@ -212,8 +258,10 @@
     "zh_trans": "**门将在 15 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**invisible wall is remove in 35seconds**",
@@ -221,8 +269,10 @@
     "zh_trans": "**隐形墙将在 35 秒后移除** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**the door to the pyramid will open in 10seconds**",
@@ -230,8 +280,10 @@
     "zh_trans": "**通往金字塔的门将在 10 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Underground gate open in 15seconds**",
@@ -239,8 +291,10 @@
     "zh_trans": "**地下大门将在 15 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[1/2]**",
@@ -248,8 +302,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[2/2]Hold here untile open the way to the pyramid**",
@@ -257,8 +313,10 @@
     "zh_trans": "**[2/2]在此坚守，直到通往金字塔的道路打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Fall Back,Teleport in 20seconds**",
@@ -266,8 +324,10 @@
     "zh_trans": "**撤退,20 秒后进行传送** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Press 6 buttons**",
@@ -275,8 +335,10 @@
     "zh_trans": "**按下 6 个按钮**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[1/6]**",
@@ -284,8 +346,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[2/6]**",
@@ -293,8 +357,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[3/6]**",
@@ -302,8 +368,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[4/6]**",
@@ -311,8 +379,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[5/6]**",
@@ -320,8 +390,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[6/6]Teleporter will open in 25seconds**",
@@ -329,8 +401,10 @@
     "zh_trans": "**[6/6]传送器将在 25 秒后开启** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Blast Laser**",
@@ -338,8 +412,10 @@
     "zh_trans": "**爆破激光**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Blast Laser Ex**",
@@ -347,8 +423,10 @@
     "zh_trans": "**超级爆破激光**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Survive for 30seconds**",
@@ -356,8 +434,10 @@
     "zh_trans": "**存活 30 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Stage3 won**",
@@ -365,8 +445,10 @@
     "zh_trans": "**第三关胜利**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Flame**",
@@ -374,8 +456,10 @@
     "zh_trans": "**烈火**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Fire Beam**",
@@ -383,7 +467,9 @@
     "zh_trans": "**火焰射线**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
