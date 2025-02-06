@@ -32,7 +32,7 @@
     "zh_trans": "<< 推力 (按w抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -41,7 +41,7 @@
     "zh_trans": "<< 漏极 (按s抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -50,7 +50,7 @@
     "zh_trans": "<< 剑之试炼 (跳蹲刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -59,7 +59,7 @@
     "zh_trans": "<< 天空坠落 (看头顶躲避) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -77,16 +77,16 @@
     "zh_trans": "<< 御坂使用了超电磁炮（去两边） >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
     "original": "<< Wind >>",
     "en_trans": "",
-    "zh_trans": "<< 风之引 (反方向抵抗) >>",
+    "zh_trans": "<< 风之引 (对光球反方向抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -491,7 +491,7 @@
     "zh_trans": "<< 三段暗浪 (按w抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -500,7 +500,7 @@
     "zh_trans": "<< 绝对净化 (中间旋转刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -509,7 +509,7 @@
     "zh_trans": "<< 复仇之焰 (尸笼) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -518,7 +518,7 @@
     "zh_trans": "<< 死亡征兆 (头顶刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -527,7 +527,7 @@
     "zh_trans": "<< 狩猎本能 (跳刀) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -896,7 +896,7 @@
     "zh_trans": "<< 千兆漏极 (按s抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -905,7 +905,7 @@
     "zh_trans": "<< 收割之刃 (蹲下) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -914,7 +914,7 @@
     "zh_trans": "<< 三段推力 (按w抵抗) >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -1157,8 +1157,8 @@
     "zh_trans": "<< 上下上下 !!! >>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<< defend for 15 seconds >>",

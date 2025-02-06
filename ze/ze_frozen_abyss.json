@@ -227,7 +227,7 @@
   {
     "original": "| Admin has choosed stage 2 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 管理员选择了第二关 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -338,8 +338,8 @@
     "zh_trans": "| 深渊守护者已施放出:冰封深渊 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "| Stay in the middle now ! |",
@@ -347,8 +347,8 @@
     "zh_trans": "| 现在待在中间位置 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Abyss guardian has casted Ice World **",
@@ -356,17 +356,17 @@
     "zh_trans": "** 深渊守护者已施放出:冰之世界 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Climb the side now ! **",
     "en_trans": "",
-    "zh_trans": "** 现在爬上侧面 **",
+    "zh_trans": "** 现在去贴墙 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 3
   },
   {
     "original": "| Abyss guardian has been defeated |",
