@@ -5,8 +5,10 @@
     "zh_trans": "** 地图作者；SLAYERDRAGON **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** LEVEL 1 (EASY) **",
@@ -14,8 +16,10 @@
     "zh_trans": "** 第一关（简单难度） **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 10 SECONDS **",
@@ -23,8 +27,10 @@
     "zh_trans": "** 门将在10秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 15 SECONDS **",
@@ -32,8 +38,10 @@
     "zh_trans": "** 门将在15秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 5 MORE SECONDS LEFT **",
@@ -41,8 +49,10 @@
     "zh_trans": "** 还有5秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Button A2 pressed **",
@@ -50,8 +60,10 @@
     "zh_trans": "** A2按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Button A3 Pressed **",
@@ -59,8 +71,10 @@
     "zh_trans": "** A3按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Button A1 pressed **",
@@ -68,8 +82,10 @@
     "zh_trans": "** A1按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ALL BUTTONS HAVE BEEN PRESSED **",
@@ -77,8 +93,10 @@
     "zh_trans": "** 所有按钮均已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] ACDC - Highway To Hell",
@@ -86,8 +104,10 @@
     "zh_trans": "当前地图bgm；ACDC - Highway To Hell",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** AMMO GUN - 40 sec cooldown **",
@@ -95,8 +115,10 @@
     "zh_trans": "** 弹药-40秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DEFEND 20 SECONDS **",
@@ -104,8 +126,10 @@
     "zh_trans": "** 坚守20秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DEFEND 5 MORE SECONDS **",
@@ -113,8 +137,10 @@
     "zh_trans": "** 再守5秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DJ IN DA HOUSE !! **",
@@ -122,8 +148,10 @@
     "zh_trans": "** 点歌机已拾取，该换台了！（左键切歌右键放） **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Button B2 Pressed **",
@@ -131,8 +159,10 @@
     "zh_trans": "** B2按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Button B1 Pressed **",
@@ -140,8 +170,10 @@
     "zh_trans": "** B1按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go",
@@ -149,8 +181,10 @@
     "zh_trans": "当前地图bgm；HOLLYWOOD UNDEAD - Everywhere i go",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Button B3 Pressed **",
@@ -158,8 +192,10 @@
     "zh_trans": "** B3按钮已按下 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** GO TO THE CENTRAL BUILDING... **",
@@ -167,8 +203,10 @@
     "zh_trans": "** 快去中间的建筑... **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ... AND WAIT FOR EVACUATION **",
@@ -176,8 +214,10 @@
     "zh_trans": "** ... 然后等待救援 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] EIFEL 65 - Blue",
@@ -185,8 +225,10 @@
     "zh_trans": "当前地图bgm；EIFEL 65 - Blue",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SECRET BLUE WORLD COMPLETED **",
@@ -194,8 +236,10 @@
     "zh_trans": "** 地图彩蛋（BLUE WORLD）已触发 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DEFEND 10 SECONDS **",
@@ -203,8 +247,10 @@
     "zh_trans": "** 坚守10秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** END OF THE LINE !! **",
@@ -212,8 +258,10 @@
     "zh_trans": "** 这是我们最后的守点!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** HOLD THIS POSITION FOR 60 SECONDS !! **",
@@ -221,8 +269,10 @@
     "zh_trans": "** 坚守此地60秒!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 50 SECONDS REMAINING **",
@@ -230,8 +280,10 @@
     "zh_trans": "** 还有50秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 40 SECONDS REMAINING **",
@@ -239,8 +291,10 @@
     "zh_trans": "** 还有40秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 30 SECONDS REMAINING **",
@@ -248,8 +302,10 @@
     "zh_trans": "** 还有30秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 20 SECONDS REMAINING **",
@@ -257,8 +313,10 @@
     "zh_trans": "** 还有20秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 10 SECONDS REMAINING **",
@@ -266,8 +324,10 @@
     "zh_trans": "** 还有10秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] S3RL - Pika Girl",
@@ -275,8 +335,10 @@
     "zh_trans": "当前地图bgm；S3RL - Pika Girl",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 5 SECONDS REMAINING **",
@@ -284,8 +346,10 @@
     "zh_trans": "** 最后5秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** U WON LEVEL 1 (EASY) **",
@@ -293,8 +357,10 @@
     "zh_trans": "** 你拿下了第一关（简单难度） **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] CARAMELLDANSEN !!",
@@ -302,8 +368,10 @@
     "zh_trans": "**当前地图bgm；CARAMELLDANSEN !!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** LEVEL 2 (BOSS) **",
@@ -311,8 +379,10 @@
     "zh_trans": "** 第二关（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FIRE BARREL - 50 sec cooldown **",
@@ -320,8 +390,10 @@
     "zh_trans": "** 火桶 - 50秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** GATE WILL OPEN IN 15 SECONDS **",
@@ -329,8 +401,10 @@
     "zh_trans": "** 大门将在15秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GATE WILL OPEN IN 5 SECONDS **",
@@ -338,8 +412,10 @@
     "zh_trans": "** 大门将在5秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GATE WILL CLOSE IN 10 SECONDS **",
@@ -347,8 +423,10 @@
     "zh_trans": "** 大门将在10秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** OH NOES! ITs PEDOBEAR !! **",
@@ -356,8 +434,10 @@
     "zh_trans": "** 我去，是萝莉熊! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** KILL IT BEFORE IT RAPES EVERYONE !! **",
@@ -365,8 +445,10 @@
     "zh_trans": "** 在它弄死我们之前解决它 !! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **",
@@ -374,8 +456,10 @@
     "zh_trans": "** 手雷和特殊物品（神器和头顶的蓝加号）能对它造成更多伤害！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] REAL2REAL - I Like To Move It",
@@ -383,8 +467,10 @@
     "zh_trans": "当前地图bgm；REAL2REAL - I Like To Move It",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** PEDOBEAR HAS BEEN DEFEATED **",
@@ -392,8 +478,10 @@
     "zh_trans": "** 萝莉熊被击败了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] PENDULUM - Encoder",
@@ -401,8 +489,10 @@
     "zh_trans": "当前地图bgm；PENDULUM - Encoder",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] LINKIN PARK - Numb",
@@ -410,8 +500,10 @@
     "zh_trans": "当前地图bgm；LINKIN PARK - Numb",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** U WON LEVEL 2 (BOSS) **",
@@ -419,8 +511,10 @@
     "zh_trans": "** 你拿下了第二关（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] NYAN CAT",
@@ -428,8 +522,10 @@
     "zh_trans": "当前地图bgm；NYAN CAT",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] DAFT PUNK - One More Time",
@@ -437,8 +533,10 @@
     "zh_trans": "当前地图bgm；DAFT PUNK - One More Time",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "修复神器按钮问题 (by bxzl) loaded",
@@ -446,8 +544,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SECRET NYAN CAT COMPLETED **",
@@ -455,8 +555,10 @@
     "zh_trans": "** 地图彩蛋（NYAN CAT）已触发 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SECRET ENCODER COMPLETED **",
@@ -464,8 +566,10 @@
     "zh_trans": "** 地图彩蛋（ENCODER）已触发 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ENEMY CHOPPER INBOUND **",
@@ -473,8 +577,10 @@
     "zh_trans": "** 敌方直升机已经抵达 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** YOU CAN KILL IT OR LEAVE IT !! **",
@@ -482,25 +588,42 @@
     "zh_trans": "** 你可以给它打下来或者直接不管它 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[MUSIC] AQUA - BARBIE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm；AQUA - BARBIE",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SECRET BARBIE COMPLETED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图彩蛋（BARBIE）已触发 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "[MUSIC] NUMA NUMA YODA",
+    "en_trans": "",
+    "zh_trans": "当前地图bgm；NUMA NUMA YODA",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
