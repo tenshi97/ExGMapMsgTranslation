@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Zombie Teleport For 20 Seconds. <",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> DONT WAIT! <",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> FINAL AREA IN DEFEND FOR 30 SECONDS <",
@@ -189,7 +189,7 @@
   {
     "original": "> TOUCH WOLF ICON - GO! GO! GO! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 触摸狼图标 - GO! GO! GO! <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
