@@ -362,7 +362,7 @@
   {
     "original": "--- Map by Misaka, Rework by K.KID ---",
     "en_trans": "",
-    "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（内容补充；水木、） ---",
+    "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（补充；水木、） ---",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -389,7 +389,7 @@
   {
     "original": "pressed",
     "en_trans": "",
-    "zh_trans": "pressed",
+    "zh_trans": "已按下",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -446,7 +446,7 @@
     "zh_trans": "--- 来历不明的风（随机推力） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -455,7 +455,7 @@
     "zh_trans": "--- 创世之盾（停枪） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -464,7 +464,7 @@
     "zh_trans": "--- 旋转刀（抬头躲刀） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -473,7 +473,7 @@
     "zh_trans": "--- 纯粹之怒（尸笼） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -491,7 +491,7 @@
     "zh_trans": "--- 彩虹牢笼（两侧高低刀） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -500,7 +500,7 @@
     "zh_trans": "--- 轨道炮（不能钻缝） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -509,16 +509,16 @@
     "zh_trans": "--- 阴险预兆 (站边缘) ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
     "original": "--- Aurora Veil ---",
     "en_trans": "",
-    "zh_trans": "--- 极光幕 ---",
+    "zh_trans": "--- 极光幕（躲四周光幕） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -527,7 +527,7 @@
     "zh_trans": "--- 星辰陨落（抬头） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -536,16 +536,16 @@
     "zh_trans": "--- 大地之力（去上升平台） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
     "original": "--- Pressure ---",
     "en_trans": "",
-    "zh_trans": "--- 压力（蹲下） ---",
+    "zh_trans": "--- 压力（蹲蹲蹲蹲蹲） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -563,7 +563,7 @@
     "zh_trans": "--- boss正在使用大火!!! 使用水或治疗来抵消伤害!!! ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -581,7 +581,7 @@
     "zh_trans": "--- 不要相信黑色刀!!（黄刀要躲黑刀要接） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {

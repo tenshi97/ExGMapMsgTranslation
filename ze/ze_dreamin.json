@@ -149,8 +149,8 @@
     "zh_trans": "***boss使用了黑洞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***Wind Casted***",
@@ -158,8 +158,8 @@
     "zh_trans": "***boss使用了风***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***Ice Casted***",
@@ -167,8 +167,8 @@
     "zh_trans": "***boss使用了冰***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***Snow picked up***",
@@ -185,8 +185,8 @@
     "zh_trans": "***boss使用了击飞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***Go Back to teleport place***",
@@ -227,7 +227,7 @@
   {
     "original": "***Run!***",
     "en_trans": "",
-    "zh_trans": "***跑路了兄弟！***",
+    "zh_trans": "***撤退！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -383,7 +383,7 @@
     "zh_trans": "***疯狂弹幕（先回头躲外圈再躲内圈）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -392,7 +392,7 @@
     "zh_trans": "***跳刀（四周随机来刀）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -401,7 +401,7 @@
     "zh_trans": "***自由落体（保证落在平台上）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -410,7 +410,7 @@
     "zh_trans": "***煎蛋（远离红色区域）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -470,10 +470,10 @@
   {
     "original": "***Reflection will cast in 2s*",
     "en_trans": "",
-    "zh_trans": "***boss即将反伤（停枪）*",
+    "zh_trans": "***反伤将在2秒后启用（停枪）*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 2,
     "enable_timer": 1
   },
   {
@@ -482,8 +482,8 @@
     "zh_trans": "***反伤将在1秒后启用（停枪）*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "***Reflection Casted***",

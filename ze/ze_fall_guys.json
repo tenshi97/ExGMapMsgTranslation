@@ -14,7 +14,7 @@
     "zh_trans": "**目眩山巅（躲开障碍前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -23,7 +23,7 @@
     "zh_trans": "**旋转木马（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -32,7 +32,7 @@
     "zh_trans": "**障碍狂欢（避开障碍抵达终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -41,16 +41,16 @@
     "zh_trans": "**KZ（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": "**Fruit Race**",
     "en_trans": "",
-    "zh_trans": "**完美配对（记住头顶的图案不要掉下去）**",
+    "zh_trans": "**完美配对（记住头顶即将出现的图案不要掉下去）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -59,7 +59,7 @@
     "zh_trans": "*五花八门（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -68,7 +68,7 @@
     "zh_trans": "**蜂窝迷图（被玩家踩过的方块会碎掉）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -77,13 +77,13 @@
     "zh_trans": "**跳绳（保证自己在平台上）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 6,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
     "original": "**Zombie on elevator**",
     "en_trans": "",
-    "zh_trans": "**僵尸摸到了电梯**",
+    "zh_trans": "**我趣，僵尸要和人类一起躲天坠啦**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -95,7 +95,7 @@
     "zh_trans": "**抬头躲天坠（躲完低头躲地坠）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   }
 ]
