@@ -167,18 +167,18 @@
   {
     "original": "** Secret Mode **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 隐藏模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You have only one chance **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你只有一次机会挑战 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
