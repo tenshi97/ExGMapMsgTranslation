@@ -5,8 +5,10 @@
     "zh_trans": "当前关卡 ->邂逅",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Map by Runa<<",
@@ -14,8 +16,10 @@
     "zh_trans": ">>地图作者；Runa<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Thanks to Tianli & Dakotec and i7 for providing models<<",
@@ -23,8 +27,10 @@
     "zh_trans": ">>特别感谢Tianli，Dakotec和i7提供的模型<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A player has learned an ability from White Mage <<",
@@ -32,8 +38,10 @@
     "zh_trans": "一位玩家学习了白魔法师的能力（奶/神圣，抬头E切换）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend until the path is clear<<",
@@ -41,8 +49,10 @@
     "zh_trans": ">>守住僵尸直到道路净空<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A player has learned an ability from Scholar<<",
@@ -50,8 +60,10 @@
     "zh_trans": ">>一位玩家学习了学者的能力（盾/奶，抬头E切技能）<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A player has picked up Electric <<",
@@ -59,8 +71,10 @@
     "zh_trans": ">>一位玩家拾取了电<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A player has learned an ability from Bard<<",
@@ -68,8 +82,10 @@
     "zh_trans": "一位玩家学习了吟游诗人的能力（加速/弹药，抬头E切换）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend 40s for the teleport<<",
@@ -77,8 +93,10 @@
     "zh_trans": ">>坚守40秒，等待传送<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Defend until both sides doors open<<",
@@ -86,8 +104,10 @@
     "zh_trans": ">>坚持到两侧大门打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>AFK 40s<<",
@@ -95,8 +115,10 @@
     "zh_trans": ">>挂机者40秒后传送至点位一<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>AFK 80s<<",
@@ -104,8 +126,10 @@
     "zh_trans": ">>挂机者80秒后传送至点位二和三<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 80,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Small ADS can provide speed to zombie<<",
@@ -113,8 +137,10 @@
     "zh_trans": ">>小ADS能给僵尸提供加速效果<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Destory small ADS can also reduce the main ADS hp<<",
@@ -122,8 +148,10 @@
     "zh_trans": ">>摧毁小ADS也能对主ADS造成伤害<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A player has learned an ability from Astrologian <<",
@@ -131,8 +159,10 @@
     "zh_trans": "一位玩家学习了占星术士的能力（黑洞/奶，抬头E切换）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Destory ADS in 180s<<",
@@ -140,8 +170,10 @@
     "zh_trans": ">>在180秒内摧毁ADS<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Last defense, keep holding here for 15s!<<",
@@ -149,8 +181,10 @@
     "zh_trans": ">>最后的守点，坚守15秒!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Bahamut<<",
@@ -158,8 +192,10 @@
     "zh_trans": ">>巴哈姆特<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Stage -> Aggression",
@@ -167,8 +203,10 @@
     "zh_trans": "当前关卡 ->入侵",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>The road on the right is blocked. We should find another way to go<<",
@@ -176,8 +214,10 @@
     "zh_trans": ">>右边的路被堵死了，我们得另辟蹊径。<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Look! There is a teleporter<<",
@@ -185,8 +225,10 @@
     "zh_trans": ">>快看！底下有个传送器！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend<<",
@@ -194,8 +236,10 @@
     "zh_trans": ">>守住这里<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend 15s<<",
@@ -203,8 +247,10 @@
     "zh_trans": ">>坚守15秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>AFK 5s<<",
@@ -212,8 +258,10 @@
     "zh_trans": ">>5秒后传送僵尸<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Provoke Unlock <<",
@@ -221,8 +269,10 @@
     "zh_trans": ">>骑士现在可以使用挑衅了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Iron Chariot<<",
@@ -230,8 +280,10 @@
     "zh_trans": ">>钢铁战车<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "|||No.1 Lunar Dynamo|||",
@@ -239,8 +291,10 @@
     "zh_trans": "|||分身No.1 月流电环|||",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Provoke<<",
@@ -248,8 +302,10 @@
     "zh_trans": ">>骑士使用了挑衅<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Dalamud Dive<<",
@@ -257,8 +313,10 @@
     "zh_trans": ">>月华冲<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Lunar Dynamo<<",
@@ -266,8 +324,10 @@
     "zh_trans": ">>月流电环<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "|||No.1 Iron Chariot|||",
@@ -275,8 +335,10 @@
     "zh_trans": "|||分身No.1 钢铁战车|||",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Million Nuclear Explosionst<<",
@@ -284,8 +346,10 @@
     "zh_trans": ">>百万核爆<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>10<<",
@@ -293,8 +357,10 @@
     "zh_trans": ">>10<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>9<<",
@@ -302,8 +368,10 @@
     "zh_trans": ">>9<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 9,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>8<<",
@@ -311,8 +379,10 @@
     "zh_trans": ">>8<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>7<<",
@@ -320,8 +390,10 @@
     "zh_trans": ">>7<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>6<<",
@@ -329,8 +401,10 @@
     "zh_trans": ">>6<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>5<<",
@@ -338,8 +412,10 @@
     "zh_trans": ">>5<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>4<<",
@@ -347,8 +423,10 @@
     "zh_trans": ">>4<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>3<<",
@@ -356,8 +434,10 @@
     "zh_trans": ">>3<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>2<<",
@@ -365,8 +445,10 @@
     "zh_trans": ">>2<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>1<<",
@@ -374,8 +456,10 @@
     "zh_trans": ">>1<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>YOU FAIL<<",
@@ -383,7 +467,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>A zombie got some power from Shiva<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
