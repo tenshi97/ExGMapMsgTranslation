@@ -46,7 +46,7 @@
   {
     "original": "**The ring has been picked!**",
     "en_trans": "",
-    "zh_trans": "**指环已被拾取！**",
+    "zh_trans": "**魔戒已被拾取！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Resist 45s!**",
@@ -129,7 +129,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**RUUUN**",
@@ -140,7 +140,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*RUUUN*",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gate up ahead appears closed! Defend until we can break it down.**",
@@ -178,13 +178,13 @@
   {
     "original": "**RUN TO THE TOP!!!**",
     "en_trans": "",
-    "zh_trans": "**快冲向顶端！！！**",
+    "zh_trans": "**快爬上楼梯！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gate in throne-room opens in 90 seconds!**",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Door closes in 15 seconds!**",
@@ -338,34 +338,34 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Another gate is closed ahead! This one isn't sturdy...**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**前方另一扇门关闭了！这扇门不太坚固...**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**SHOOT IT DOWN!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**把门打碎！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The tower is destroyed**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**塔被摧毁了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "**Map by Limon.**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**地图作者 Limon.**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
