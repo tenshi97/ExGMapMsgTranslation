@@ -2,23 +2,23 @@
   {
     "original": "@@ please wait a learjet!!!! @@",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "@@ 等待喷气式飞机到达!（60秒后上飞机，倒计时20秒时僵尸传送） @@",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "@@ Nuke launched! all die!! ha ha ha @@",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "@@ 核弹发射了！都死吧！！哈哈哈哈 @@",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

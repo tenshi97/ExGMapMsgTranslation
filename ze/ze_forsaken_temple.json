@@ -230,8 +230,8 @@
     "zh_trans": "** 干得漂亮! 门很快会解锁了! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** JUMP! **",
@@ -293,8 +293,8 @@
     "zh_trans": "** 打得太慢了! Boss要进入狂怒状态了! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Boss defeated **",
@@ -311,8 +311,8 @@
     "zh_trans": "** 原路返回! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Door is opening in 30s **",
@@ -428,8 +428,8 @@
     "zh_trans": "** 干得漂亮! 你们找到了正确组合 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Pit is opening in 20s **",
@@ -464,8 +464,8 @@
     "zh_trans": "** 混沌攻击 - 快使用治疗 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Servant - defend zombies from now **",
@@ -473,17 +473,17 @@
     "zh_trans": "** 奴仆召唤 - 守尸笼! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Weight of the Land - move away **",
     "en_trans": "",
-    "zh_trans": "** 大地之力 - 远离它! **",
+    "zh_trans": "** 大地之力 - 远离脚底特效! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Boss defeated! RUN! **",
@@ -605,20 +605,20 @@
   {
     "original": "** Temple door is opening soon **",
     "en_trans": "",
-    "zh_trans": "** 神庙大门很快开启 **",
+    "zh_trans": "** 神庙大门很快开启(5秒) **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "** You must defend until the door opens **",
     "en_trans": "",
-    "zh_trans": "** 你必须守到门开 **",
+    "zh_trans": "** 你必须守到门开（25秒后传送僵尸） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** Fixing the door. Keep defending! **",
@@ -644,8 +644,8 @@
     "zh_trans": "** 门很快开启 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Hang on... Keep defending! **",
@@ -653,8 +653,8 @@
     "zh_trans": "** 坚持住... 继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Just a little bit more... **",
@@ -662,8 +662,8 @@
     "zh_trans": "** 就差最后一点... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Maze exit is opening in 35s **",
@@ -797,8 +797,8 @@
     "zh_trans": "** 错误排序! 大坑将会延缓开启!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Pit is opening in 40s **",
@@ -815,8 +815,8 @@
     "zh_trans": "** 他死了! 快跑!!! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** GO LEFT **",
@@ -824,8 +824,8 @@
     "zh_trans": "** 左边是路 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** KILL IT BEFORE IT KILLS YOU **",
@@ -833,8 +833,8 @@
     "zh_trans": "** 击败他!要不然都得死! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** You have failed to escape from the temple **",
@@ -851,8 +851,8 @@
     "zh_trans": "** 杀了神庙造物! 要不然你要被他干死了! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** GET TO THE HELICOPTER NOW! **",
