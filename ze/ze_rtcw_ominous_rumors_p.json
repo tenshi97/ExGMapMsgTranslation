@@ -41,8 +41,8 @@
     "zh_trans": "<!!!> 坚守这个位置 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<!!!> GATE OPEN <!!!>",
@@ -50,8 +50,8 @@
     "zh_trans": "<!!!> 大门开启 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<!!!> FALL BACK <!!!>",
@@ -59,8 +59,8 @@
     "zh_trans": "<!!!> 撤退 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<!!!> DOOR OPEN <!!!>",
@@ -68,8 +68,8 @@
     "zh_trans": "<!!!> 门开了 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# SANDBAG WALL #",
@@ -86,8 +86,8 @@
     "zh_trans": "<!!!> 坚守此地 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# BLACK MAGIC #",
@@ -104,8 +104,8 @@
     "zh_trans": "<!!!> 最后一道门即将关闭 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<!!!> 40 SECONDS <!!!>",
@@ -185,8 +185,8 @@
     "zh_trans": "# 在此坚守 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<!!!> ACTIVATE LEVER <!!!>",
@@ -209,11 +209,11 @@
   {
     "original": "<!!!> GO GO GO <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> GO GO GO <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<!!!> UP THE STAIRS <!!!>",
@@ -221,8 +221,8 @@
     "zh_trans": "<!!!> 上楼梯 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# HOLD THIS POSITION #",
@@ -230,8 +230,8 @@
     "zh_trans": "# 坚守这个位置 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# PRESS BUTTON #",
@@ -257,8 +257,8 @@
     "zh_trans": "<!!!> 向左走 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# FLAMETHROWER #",
@@ -284,8 +284,8 @@
     "zh_trans": "<!!!> 在这个位置防守 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# FLAMETHROWER EMPTY #",
@@ -329,8 +329,8 @@
     "zh_trans": "# 电车正在行进中 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# TRAM ARRIVED #",
@@ -338,8 +338,8 @@
     "zh_trans": "# 电车已到达 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# TRAM IS LEAVING #",
@@ -347,8 +347,8 @@
     "zh_trans": "# 电车正在离开 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# HOLD TRAM #",
@@ -356,8 +356,8 @@
     "zh_trans": "# 守住电车 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# TRAM START IN 20 SECONDS #",
@@ -383,8 +383,8 @@
     "zh_trans": "# 门开了 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# TORCH #",
@@ -491,8 +491,8 @@
     "zh_trans": "# 通风口打开了 # ",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# FINAL DOOR CLOSING IN 40 SECONDS #",
@@ -605,11 +605,11 @@
   {
     "original": "# FALL BACK - DOOR #",
     "en_trans": "",
-    "zh_trans": "# 撤退 - 门 #",
+    "zh_trans": "# 撤退 - 走门 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# TURN TRAM POWER ON #",
@@ -626,8 +626,8 @@
     "zh_trans": "# 走 走 #",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "# TRAM START IN 30 SECONDS #",
