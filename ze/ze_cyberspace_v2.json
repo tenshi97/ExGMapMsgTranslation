@@ -514,7 +514,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Chapter 2 Completed <<",
@@ -530,7 +530,7 @@
   {
     "original": "<???> ** Something is protecting this system... but there must be a way to break through. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???> ** 有什么东西在保护这个系统……但肯定有办法突破。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
