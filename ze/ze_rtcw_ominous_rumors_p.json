@@ -5,8 +5,10 @@
     "zh_trans": "# 重返企鹅总部中文加强版# ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# MAP BY JB_GAMBLE #",
@@ -14,8 +16,10 @@
     "zh_trans": "# 原地图作者：JB_GAMBLE ，特供版由Linyan制作#",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# MISSION 1 - OMINOUS RUMORS #",
@@ -23,8 +27,10 @@
     "zh_trans": "# 任务1 - 不祥的传闻 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# PART 1 - ESCAPE! #",
@@ -32,8 +38,10 @@
     "zh_trans": "# 第一部分 - 逃脱！#",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> HOLD THIS POSITION <!!!>",
@@ -41,8 +49,10 @@
     "zh_trans": "<!!!> 坚守这个位置 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> GATE OPEN <!!!>",
@@ -50,8 +60,10 @@
     "zh_trans": "<!!!> 大门开启 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> FALL BACK <!!!>",
@@ -59,8 +71,10 @@
     "zh_trans": "<!!!> 撤退 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> DOOR OPEN <!!!>",
@@ -68,8 +82,10 @@
     "zh_trans": "<!!!> 门开了 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# SANDBAG WALL #",
@@ -77,8 +93,10 @@
     "zh_trans": "# 沙袋墙 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> HOLD HERE <!!!>",
@@ -86,8 +104,10 @@
     "zh_trans": "<!!!> 坚守此地 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# BLACK MAGIC #",
@@ -95,8 +115,10 @@
     "zh_trans": "# 黑魔法 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> FINAL DOOR CLOSING IN <!!!>",
@@ -104,8 +126,10 @@
     "zh_trans": "<!!!> 最后一道门即将关闭 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 40 SECONDS <!!!>",
@@ -113,8 +137,10 @@
     "zh_trans": "<!!!> 40 秒 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 30 SECONDS <!!!>",
@@ -122,8 +148,10 @@
     "zh_trans": "<!!!> 30 秒 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 20 SECONDS <!!!>",
@@ -131,8 +159,10 @@
     "zh_trans": "<!!!> 20 秒 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# MAGIC - FREEZE #",
@@ -140,8 +170,10 @@
     "zh_trans": "# 魔法 - 冰冻 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 10 SECONDS <!!!>",
@@ -149,8 +181,10 @@
     "zh_trans": "<!!!> 10 秒 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 5 SECONDS <!!!>",
@@ -158,8 +192,10 @@
     "zh_trans": "<!!!> 5 秒 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> PART 1 - ESCAPE! PASSED <!!!>",
@@ -167,8 +203,10 @@
     "zh_trans": "<!!!> 第一部分 - 逃脱！已通过 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# PART 2 - CASTLE KEEP #",
@@ -176,8 +214,10 @@
     "zh_trans": "# 第二部分 - 城堡要塞 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# HOLD HERE #",
@@ -185,8 +225,10 @@
     "zh_trans": "# 在此坚守 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> ACTIVATE LEVER <!!!>",
@@ -194,8 +236,10 @@
     "zh_trans": "<!!!> 启动操纵杆 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# 10 SECONDS #",
@@ -203,8 +247,10 @@
     "zh_trans": "# 10 秒 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> GO GO GO <!!!>",
@@ -212,8 +258,10 @@
     "zh_trans": "<!!!> GO GO GO <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> UP THE STAIRS <!!!>",
@@ -221,8 +269,10 @@
     "zh_trans": "<!!!> 上楼梯 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# HOLD THIS POSITION #",
@@ -230,8 +280,10 @@
     "zh_trans": "# 坚守这个位置 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# PRESS BUTTON #",
@@ -239,8 +291,10 @@
     "zh_trans": "# 按下按钮 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> GATE OPEN IN 20 SECONDS <!!!>",
@@ -248,8 +302,10 @@
     "zh_trans": "<!!!> 大门将在 20 秒后开启 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> GO LEFT <!!!>",
@@ -257,8 +313,10 @@
     "zh_trans": "<!!!> 向左走 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# FLAMETHROWER #",
@@ -266,8 +324,10 @@
     "zh_trans": "# 火焰喷射器 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> DOOR CLOSING IN 15 SECONDS <!!!>",
@@ -275,8 +335,10 @@
     "zh_trans": "<!!!> 门将在 15 秒后关闭 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> DEFEND THIS POSITION <!!!>",
@@ -284,8 +346,10 @@
     "zh_trans": "<!!!> 在这个位置防守 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# FLAMETHROWER EMPTY #",
@@ -293,8 +357,10 @@
     "zh_trans": "# 火焰喷射器燃料已空 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> PART 2 - CASTLE KEEP PASSED <!!!>",
@@ -302,8 +368,10 @@
     "zh_trans": "<!!!> 第二部分 - 城堡要塞 通过 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# MG42 AMMO #",
@@ -311,8 +379,10 @@
     "zh_trans": "# MG42 弹药 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# PART 3 - TRAM RIDE #",
@@ -320,8 +390,10 @@
     "zh_trans": "# 第三部分——电车之旅 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# TRAM ON ITS WAY #",
@@ -329,8 +401,10 @@
     "zh_trans": "# 电车正在行进中 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# TRAM ARRIVED #",
@@ -338,8 +412,10 @@
     "zh_trans": "# 电车已到达 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# TRAM IS LEAVING #",
@@ -347,8 +423,10 @@
     "zh_trans": "# 电车正在离开 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# HOLD TRAM #",
@@ -356,8 +434,10 @@
     "zh_trans": "# 守住电车 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# TRAM START IN 20 SECONDS #",
@@ -365,8 +445,10 @@
     "zh_trans": "# 电车将在 20 秒后启动 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# DOOR OPEN IN 20 SECONDS #",
@@ -374,8 +456,10 @@
     "zh_trans": "# 门将在 20 秒后打开 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# DOOR OPEN #",
@@ -383,8 +467,10 @@
     "zh_trans": "# 门开了 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# TORCH #",
@@ -392,8 +478,10 @@
     "zh_trans": "# 火炬 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# FINAL DOOR CLOSING IN 20 SECONDS #",
@@ -401,8 +489,10 @@
     "zh_trans": "# 最后一道门将在 20 秒后关闭 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# 5 SECONDS #",
@@ -410,8 +500,10 @@
     "zh_trans": "# 5 秒 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> PART 3 - TRAM RIDE PASSED <!!!>",
@@ -419,8 +511,10 @@
     "zh_trans": "<!!!> 第三部分 - 电车之旅 已通过 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> EASY COMPLETED <!!!>",
@@ -428,8 +522,10 @@
     "zh_trans": "<!!!> 简单难度已完成 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# MG42 AMMO LOADED #",
@@ -437,8 +533,10 @@
     "zh_trans": "# MG42 弹药已装填  #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# UNLIMITED AMMO #",
@@ -446,8 +544,10 @@
     "zh_trans": "# 无限弹药 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# UNLIMITED AMMO - 14 SECONDS #",
@@ -455,8 +555,10 @@
     "zh_trans": "# 无限弹药 - 14 秒 # ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 14,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>",
@@ -464,8 +566,10 @@
     "zh_trans": "<!!!> 检测到僵尸 - 你输了 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# MAGIC - FOG #",
@@ -473,8 +577,10 @@
     "zh_trans": "# 魔法 - 迷雾 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# VENT OPEN IN 15 SECONDS #",
@@ -482,8 +588,10 @@
     "zh_trans": "# 通风口将在 15 秒后打开 # ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# VENT OPEN #",
@@ -491,8 +599,10 @@
     "zh_trans": "# 通风口打开了 # ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# FINAL DOOR CLOSING IN 40 SECONDS #",
@@ -500,8 +610,10 @@
     "zh_trans": "# 最终的门将在 40 秒后关闭 # ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# 30 SECONDS #",
@@ -509,8 +621,10 @@
     "zh_trans": "# 30 秒 # ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# 20 SECONDS #",
@@ -518,8 +632,10 @@
     "zh_trans": "# 20 秒 # ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> MED COMPLETED <!!!>",
@@ -527,8 +643,10 @@
     "zh_trans": "<!!!> 中等难度已完成 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# ITEM RESTRICTION - BAZOOKA #",
@@ -536,8 +654,10 @@
     "zh_trans": "# 限定道具 - 火箭筒 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 60 SECONDS <!!!>",
@@ -545,8 +665,10 @@
     "zh_trans": "<!!!> 60 秒 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> 50 SECONDS <!!!>",
@@ -554,8 +676,10 @@
     "zh_trans": "<!!!> 50 秒 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# ITEM RESTRICTION - SANDBAG WALL #",
@@ -563,8 +687,10 @@
     "zh_trans": "# 限定道具 - 沙袋墙 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# ITEM RESTRICTION - UNLIMITED AMMO #",
@@ -572,8 +698,10 @@
     "zh_trans": "# 限定道具 - 无限弹药 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!!!> GATE OPEN IN 30 SECONDS <!!!>",
@@ -581,8 +709,10 @@
     "zh_trans": "<!!!> 大门将在 30 秒后开启 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# ITEM RESTRICTION - FLAMETHROWER #",
@@ -590,8 +720,10 @@
     "zh_trans": "# 限定道具 - 火焰喷射器 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# ITEM RESTRICTION - BLACK MAGIC #",
@@ -599,8 +731,10 @@
     "zh_trans": "# 限定道具 - 黑魔法 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# FALL BACK - DOOR #",
@@ -608,8 +742,10 @@
     "zh_trans": "# 撤退 - 走门 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# TURN TRAM POWER ON #",
@@ -617,8 +753,10 @@
     "zh_trans": "# 打开电车电源 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "# GO GO #",
@@ -626,8 +764,10 @@
     "zh_trans": "# 走 走 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# TRAM START IN 30 SECONDS #",
@@ -635,8 +775,10 @@
     "zh_trans": "# 电车将在 30 秒后启动 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# FINAL DOOR CLOSING IN 50 SECONDS #",
@@ -644,8 +786,10 @@
     "zh_trans": "# 最后的门将在 50 秒后关闭 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# 40 SECONDS #",
@@ -653,8 +797,10 @@
     "zh_trans": "# 40 秒 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> MAP COMPLETED <!!!>",
@@ -662,7 +808,20 @@
     "zh_trans": "<!!!> 全图通关 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "什么b动静",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
