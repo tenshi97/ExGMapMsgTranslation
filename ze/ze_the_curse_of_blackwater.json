@@ -5,8 +5,10 @@
     "zh_trans": "地图作者 FRENCHY",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[STAGE 1 HOSPITAL OF BLACKWATER]",
@@ -14,8 +16,10 @@
     "zh_trans": "[第一章：黑水镇医院]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Blackwater main gates will open in 60 sec",
@@ -23,8 +27,10 @@
     "zh_trans": "黑水镇的正门将在 60 秒后开启 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Blackwater main gates will open in 5 sec",
@@ -32,8 +38,10 @@
     "zh_trans": "黑水镇的正门将在 5 秒后开启 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Blackwater hospital doors will open in 20 sec",
@@ -41,8 +49,10 @@
     "zh_trans": "黑水镇医院的门将在 20 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Find the key to the maternity ward",
@@ -50,8 +60,10 @@
     "zh_trans": "找到产科病房的钥匙",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We have collected a bottle of pill, it can increase the number of times the heal can be used.",
@@ -59,8 +71,10 @@
     "zh_trans": "我们已经收集到了一瓶药丸，它可以增加治疗的使用次数。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We have collected a battery, it can increase the number of times the lantern can be used.",
@@ -68,8 +82,10 @@
     "zh_trans": "我们已经收集到了一节电池，它可以增加提灯可使用的次数。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to maternity ward will open in 40 sec",
@@ -77,8 +93,10 @@
     "zh_trans": "产科病房的门将在 40 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Nice, key was found, now we can enter maternity ward room.",
@@ -86,8 +104,10 @@
     "zh_trans": "太好了，钥匙找到了，现在我们可以进入产科病房了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to maternity ward will open in 5 sec",
@@ -95,8 +115,10 @@
     "zh_trans": "产科病房的门将在 5 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will close in 5 sec",
@@ -104,8 +126,10 @@
     "zh_trans": "这扇门将在 5 秒后关闭 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Who owns this casket?",
@@ -113,8 +137,10 @@
     "zh_trans": "这个棺材是谁的？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 25 sec",
@@ -122,8 +148,10 @@
     "zh_trans": "门将在 25 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Omg did you hear that? Someone broke in",
@@ -131,8 +159,10 @@
     "zh_trans": "哦，天哪，你听到了吗？有人闯进来了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Find the key from storage room",
@@ -140,8 +170,10 @@
     "zh_trans": "从储物间找到钥匙。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to the storage room will open in 25 sec",
@@ -149,8 +181,10 @@
     "zh_trans": "通往储物间的门将在 25 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Find crowbar to break down the wc door",
@@ -158,8 +192,10 @@
     "zh_trans": "寻找撬棍砸开厕所的门。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will close in 25 sec",
@@ -167,8 +203,10 @@
     "zh_trans": "门将在 25 秒后关闭 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door to wc will open in 30 sec",
@@ -176,8 +214,10 @@
     "zh_trans": "通往厕所的门将在 30 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Pick up the key for the second floor room",
@@ -185,8 +225,10 @@
     "zh_trans": "捡起二楼房间的钥匙。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will close in 20 sec",
@@ -194,8 +236,10 @@
     "zh_trans": "门将在 20 秒后关闭 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 20 sec",
@@ -203,8 +247,10 @@
     "zh_trans": "门将在 20 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Pick up the key",
@@ -212,8 +258,10 @@
     "zh_trans": "捡起钥匙。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Seems this wardrobe cant be moved, there might be secret passage",
@@ -221,8 +269,10 @@
     "zh_trans": "看起来这个衣柜无法移动，可能有秘密通道。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will close in 30 sec",
@@ -230,8 +280,10 @@
     "zh_trans": "门将在 30 秒后关闭 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Good, we found lever that will move wardrobe",
@@ -239,8 +291,10 @@
     "zh_trans": "太好了，我们找到了能移动衣柜的控制杆。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Who is this? Looks like a little girl",
@@ -248,8 +302,10 @@
     "zh_trans": "这是谁？看起来像个小女孩。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Oh god she is scary, run for your lifes",
@@ -257,8 +313,10 @@
     "zh_trans": "我的天，太可怕了，快跑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Good, we escaped from her, now we need to find a key from secret lab",
@@ -266,8 +324,10 @@
     "zh_trans": "好，我们从她手中逃脱了，现在需要从秘密实验室找到一把钥匙。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Blackwater - this crazy ass bitch not letting us through, we need to get rid of her so we can get to the lab",
@@ -275,8 +335,10 @@
     "zh_trans": "黑水 - 这个疯婆子不让我们通过，我们得除掉她才能进入实验室。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Girl is dead now we can pass through",
@@ -284,8 +346,10 @@
     "zh_trans": "她死了，现在我们可以通过了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "AFK TELEPORT IN 10 SECOND",
@@ -293,8 +357,10 @@
     "zh_trans": "挂机玩家将在 10 秒后传送 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Doors to Blackwater underground lab will open in 30 sec",
@@ -302,8 +368,10 @@
     "zh_trans": "通往黑水镇地下实验室的门将在 30 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "AFK TELEPORT IN 5 SECOND",
@@ -311,8 +379,10 @@
     "zh_trans": "挂机玩家将在 5 秒后传送 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The doors will close in 20 sec",
@@ -320,8 +390,10 @@
     "zh_trans": "门将在 20 秒后关闭 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Stage 1 - Completed",
@@ -329,8 +401,10 @@
     "zh_trans": "第一章 - 完成",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[STAGE 2 LABORATORY OF BLACKWATER]",
@@ -338,8 +412,10 @@
     "zh_trans": "[第二章 黑水实验室]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Finally we got into the lab, now we need to power it up",
@@ -347,8 +423,10 @@
     "zh_trans": "我们终于抵达了实验室，现在我们需要给它供电",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Lever is in guard post, find the key",
@@ -356,8 +434,10 @@
     "zh_trans": "拉杆在岗亭里，去找钥匙",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to guard post will open in 30 sec",
@@ -365,8 +445,10 @@
     "zh_trans": "岗亭的门30秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door to guard post will open in 5 sec",
@@ -374,8 +456,10 @@
     "zh_trans": "岗亭的门5秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Activate lever to power up the lab",
@@ -383,8 +467,10 @@
     "zh_trans": "启动拉杆来为实验室供电",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 10 sec",
@@ -392,8 +478,10 @@
     "zh_trans": "门将在10秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "To open 2-nd door we need 6 keycards",
@@ -401,8 +489,10 @@
     "zh_trans": "我们需要找齐六张钥匙卡来开启二号大门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to the main office will open in 10 sec",
@@ -410,8 +500,10 @@
     "zh_trans": "去往主办公室的门10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door to the main office will open in 5 sec",
@@ -419,8 +511,10 @@
     "zh_trans": "主办公室的门将在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "This is main office, we need to find key to other rooms",
@@ -428,8 +522,10 @@
     "zh_trans": "这里是主办公室，我们需要找到去往其它屋子的钥匙",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Office doors will open in 20 sec",
@@ -437,8 +533,10 @@
     "zh_trans": "办公室的门将在20秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "AFK TELEPORT IN 10 SECODN",
@@ -446,8 +544,10 @@
     "zh_trans": "10秒后传送挂机的僵尸",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Office doors will close in 10 sec",
@@ -455,8 +555,10 @@
     "zh_trans": "办公室的门将在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Now we need to find other 3 keycards in main lab",
@@ -464,8 +566,10 @@
     "zh_trans": "现在我们需要在主实验室找到另外三张钥匙卡",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to main lab will open in 20 sec",
@@ -473,8 +577,10 @@
     "zh_trans": "主实验室的门20秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "This is main lab, we need to find keys from experimental rooms",
@@ -482,8 +588,10 @@
     "zh_trans": "这里是主实验室，我们需要找到实验室里的钥匙",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The doors will open in 20 sec",
@@ -491,8 +599,10 @@
     "zh_trans": "门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The doors will close in 15 sec",
@@ -500,8 +610,10 @@
     "zh_trans": "门将在 15 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door to 2-nd lab will open in 20 sec",
@@ -509,8 +621,10 @@
     "zh_trans": "通往第二实验室的门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "OK we found 6 keycards now we can enter to second part of the lab",
@@ -518,8 +632,10 @@
     "zh_trans": "好，我们现在找到了6张钥匙卡，这样我们就可以进入实验室的第二部分了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to 2-nd lab will open in 25 sec",
@@ -527,8 +643,10 @@
     "zh_trans": "通往第二实验室的门将在 25 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "We need to gather chemicals for the bomb that will clear the way",
@@ -536,8 +654,10 @@
     "zh_trans": "我们需要收集用于制造炸弹的化学物品，以便清除障碍继续前进",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Doors to left side of the lab will open in 5sec",
@@ -545,8 +665,10 @@
     "zh_trans": "实验室左侧的门将在 5 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Find the key for left side of experimental rooms",
@@ -554,8 +676,10 @@
     "zh_trans": "找到实验室左侧的钥匙",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The doors to will open in 10 sec",
@@ -563,8 +687,10 @@
     "zh_trans": "门将在 10 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "We need to activate all levers to power up doors that jammed with stones",
@@ -572,8 +698,10 @@
     "zh_trans": "我们需要激活所有控制杆，为被石头卡住的门提供动力使其恢复正常",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to the right side of the lab will open in 15 sec",
@@ -581,8 +709,10 @@
     "zh_trans": "通往实验室右侧的门将会在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door into office will open in 15 sec",
@@ -590,8 +720,10 @@
     "zh_trans": "进入办公室的门将在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Pull the lever",
@@ -599,8 +731,10 @@
     "zh_trans": "拉动控制杆",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 15 sec",
@@ -608,8 +742,10 @@
     "zh_trans": "这扇门将在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will close in 15 sec",
@@ -617,8 +753,10 @@
     "zh_trans": "这扇门将会在 15 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "NICE! we got power back, all is left are chemicals for the bomb",
@@ -626,8 +764,10 @@
     "zh_trans": "太好了！我们恢复了电力，剩下的就只是制造炸弹所需的化学药品了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to storage room will open in 20 sec",
@@ -635,8 +775,10 @@
     "zh_trans": "通往储藏室的门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "We need crowbar to remove wooden blocks from wardrobe",
@@ -644,8 +786,10 @@
     "zh_trans": "我们需要撬棍来移除衣柜上的木块",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Pick up the key from locked office, you will find crowbar there",
@@ -653,8 +797,10 @@
     "zh_trans": "从上锁的办公室拿起钥匙，你会在那里找到撬棍",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door into office will open in 20 sec",
@@ -662,8 +808,10 @@
     "zh_trans": "进入办公室的门将会在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "We finally got crowbar, now we can remove wooden blocks",
@@ -671,8 +819,10 @@
     "zh_trans": "终于拿到撬棍了，现在我们可以移除那些木块了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "NICE! we have 1 out of 3 chemicals",
@@ -680,8 +830,10 @@
     "zh_trans": "太棒了！我们找到了1/3的化学药品。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door to storage room will open in 30 sec",
@@ -689,8 +841,10 @@
     "zh_trans": "通往储藏室的门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "We found 2-nd chemical, last one is on the left side of the lab",
@@ -698,8 +852,10 @@
     "zh_trans": "我们找到了第二种化学药品，最后一种在实验室的左侧",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Frenchy is retarded, just pick up the meat",
@@ -707,8 +863,10 @@
     "zh_trans": "弗兰奇真是个蠢货，赶紧把肉捡起来",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hunter will break the storage room door in 30 sec",
@@ -716,8 +874,10 @@
     "zh_trans": "将在 30 秒后打开储藏室的门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Bomb is ready we are good to go",
@@ -725,8 +885,10 @@
     "zh_trans": "炸药准备完毕，我们可以出发了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Omg! We need to kill that hunter",
@@ -734,8 +896,10 @@
     "zh_trans": "天哪！我们得干掉那个猎人。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 30 sec",
@@ -743,8 +907,10 @@
     "zh_trans": "门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "AFK TELEPORT IN 15 SECOND",
@@ -752,8 +918,10 @@
     "zh_trans": "挂机玩家将在 15 秒后传送 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door to the sewer will open in 40 sec",
@@ -761,8 +929,10 @@
     "zh_trans": "通往下水道的门将在 40 秒后打开 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door to the sewer will close in 10 sec",
@@ -770,7 +940,20 @@
     "zh_trans": "通往下水道的门将在 10 秒后关闭 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "Stage 2 - Completed",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
