@@ -163,5 +163,27 @@
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
+  },
+  {
+    "original": ">>王之财宝,向前方发射武器,命中敌人增加充能,满充能发射天之锁定身敌人5秒<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>你告诉我你出了什么?<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
