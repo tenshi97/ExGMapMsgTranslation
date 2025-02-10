@@ -270,14 +270,14 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "STAGE 1 COMPLETE",
     "en_trans": "",
-    "zh_trans": "第一关完成",
+    "zh_trans": "第一关已完成",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,18 +618,18 @@
   {
     "original": "Get ready to jump",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "准备跳到箱子上面",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "JUMP!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "跳跳跳跳跳",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,7 +640,7 @@
   {
     "original": "Watch out for barriers up ahead!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "注意躲避前面的障碍！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -651,12 +651,12 @@
   {
     "original": "STAGE 2 COMPLETE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第二关已完成",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
