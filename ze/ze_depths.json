@@ -5,8 +5,10 @@
     "zh_trans": "热身回合",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map starts in 30 seconds",
@@ -14,8 +16,10 @@
     "zh_trans": "30秒后开始游戏",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Stage 1 - Awakening",
@@ -23,8 +27,10 @@
     "zh_trans": "第一章- 觉醒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Lever found",
@@ -32,8 +38,10 @@
     "zh_trans": "开关已按下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Temple door opens in 25 seconds",
@@ -41,8 +49,10 @@
     "zh_trans": "神殿大门将在25秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Temple door opens in 5 seconds",
@@ -50,8 +60,10 @@
     "zh_trans": "神殿大门将在5秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Defend until the door opens",
@@ -59,8 +71,10 @@
     "zh_trans": "防守到门开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door is opening in 5 seconds",
@@ -68,8 +82,10 @@
     "zh_trans": "门将在5秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door is opening",
@@ -77,8 +93,10 @@
     "zh_trans": "门已开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hold until we get the gate open!",
@@ -86,8 +104,10 @@
     "zh_trans": "防守到我们开启大门！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Gate opens in 10 seconds",
@@ -95,8 +115,10 @@
     "zh_trans": "大门将在10秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door opens in 20 seconds",
@@ -104,8 +126,10 @@
     "zh_trans": "门将在20秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door opens in 5 seconds",
@@ -113,8 +137,10 @@
     "zh_trans": "门将在5秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door opens in 10 seconds",
@@ -122,8 +148,10 @@
     "zh_trans": "门将在10秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Button pressed",
@@ -131,8 +159,10 @@
     "zh_trans": "按钮已按下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Resist until the door opens!",
@@ -140,8 +170,10 @@
     "zh_trans": "坚守到大门开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "5 seconds left",
@@ -149,8 +181,10 @@
     "zh_trans": "还有5秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door has opened!",
@@ -158,8 +192,10 @@
     "zh_trans": "门已开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "There is a platform incoming!",
@@ -167,8 +203,10 @@
     "zh_trans": "有一个平台正在靠近我们！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Platform is here, get on it!",
@@ -176,8 +214,10 @@
     "zh_trans": "平台到了，快上来！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Defend for 25 seconds",
@@ -185,8 +225,10 @@
     "zh_trans": "坚守25秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Last doors are opening",
@@ -194,8 +236,10 @@
     "zh_trans": "最后的大门已开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Last doors are closing in 10 seconds",
@@ -203,8 +247,10 @@
     "zh_trans": "最后的门将在10秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Last doors are closing",
@@ -212,8 +258,10 @@
     "zh_trans": "最后的门已关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kill any remaining zombies!",
@@ -221,8 +269,10 @@
     "zh_trans": "把进来的僵尸做掉！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "STAGE 1 COMPLETE",
@@ -230,8 +280,10 @@
     "zh_trans": "第一关完成",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Map is starting",
@@ -239,8 +291,10 @@
     "zh_trans": "开始游戏",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "ADMINROOM - STAGE 3 SET",
@@ -248,8 +302,10 @@
     "zh_trans": "有权男选择了第三关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Stage 2 - Inner Facility",
@@ -257,8 +313,10 @@
     "zh_trans": "第二章 - 隐蔽工厂",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Buttons pressed",
@@ -266,8 +324,10 @@
     "zh_trans": "按钮已按下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Defend for 20 seconds",
@@ -275,8 +335,10 @@
     "zh_trans": "坚守20秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Elevator leaves in 20 seconds",
@@ -284,8 +346,10 @@
     "zh_trans": "电梯将在20秒后离开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Elevator leaves in 5 seconds",
@@ -293,8 +357,10 @@
     "zh_trans": "电梯将在5秒后离开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Fall back!",
@@ -302,8 +368,10 @@
     "zh_trans": "撤退！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Defend until something happens",
@@ -311,8 +379,10 @@
     "zh_trans": "守住这里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "There are boxes incoming, we should get on them!",
@@ -320,8 +390,10 @@
     "zh_trans": "那里有箱子传送过来了，我们得跳到上面！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We cannot pass through the barrier! Get down!",
@@ -329,8 +401,10 @@
     "zh_trans": "我们没法穿过这种屏障！赶紧下来！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Defend for 15 seconds",
@@ -338,8 +412,10 @@
     "zh_trans": "坚守15秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Gate opens in 15 seconds",
@@ -347,8 +423,10 @@
     "zh_trans": "大门将在15秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "This place seems to have traps as well",
@@ -356,8 +434,10 @@
     "zh_trans": "这里似乎也有陷阱",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We should be more careful",
@@ -365,8 +445,10 @@
     "zh_trans": "我们必须谨慎前进",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door opens in 15 seconds",
@@ -374,8 +456,10 @@
     "zh_trans": "门将在15秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Boxes will move again in 15 seconds",
@@ -383,8 +467,10 @@
     "zh_trans": "这些箱子将在15秒后再次移动",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The boxes have stopped",
@@ -392,8 +478,10 @@
     "zh_trans": "箱子停下了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We have to press both buttons to progress",
@@ -401,8 +489,10 @@
     "zh_trans": "我们需要按下两侧的按钮才能继续前进",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Boxes will move again in 10 seconds",
@@ -410,8 +500,10 @@
     "zh_trans": "这些箱子将在10秒后再次移动",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Double doors open in 20 seconds",
@@ -419,8 +511,10 @@
     "zh_trans": "双门将在20秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Double doors open in 5 seconds",
@@ -428,8 +522,10 @@
     "zh_trans": "双门将在5秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Hold until the door opens",
@@ -437,8 +533,10 @@
     "zh_trans": "坚守到门开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Get in! Door is closing in 5 seconds",
@@ -446,8 +544,10 @@
     "zh_trans": "快进来！门还有5秒就关上了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The gate should open soon! Keep holding!",
@@ -455,8 +555,10 @@
     "zh_trans": "大门应该很快就会打开！坚持住！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The gate is about to open!",
@@ -464,8 +566,10 @@
     "zh_trans": "大门即将开启!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Gate is opening",
@@ -473,8 +577,10 @@
     "zh_trans": "门开了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The gate appears to be stuck",
@@ -482,8 +588,10 @@
     "zh_trans": "这个门好像卡住了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hold until we figure something out",
@@ -491,8 +599,10 @@
     "zh_trans": "在我们想出个办法之前先守住这里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "There are boxes incoming again!",
@@ -500,7 +610,53 @@
     "zh_trans": "这些箱子又传过来了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Get ready to jump",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "JUMP!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Watch out for barriers up ahead!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "STAGE 2 COMPLETE",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
