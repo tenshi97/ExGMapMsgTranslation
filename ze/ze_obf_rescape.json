@@ -5,8 +5,10 @@
     "zh_trans": "欢迎来到《行动代号：浴火重生》",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map by Trazix & How Super Terrible",
@@ -14,8 +16,10 @@
     "zh_trans": "地图由Trazix制作",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "CS2 Port by @Seth",
@@ -23,8 +27,10 @@
     "zh_trans": "CS2版本由@seth进行移植",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "CSGO Port & Update by Nino",
@@ -32,8 +38,10 @@
     "zh_trans": "CSGO版本由Nino移植和更新",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Special thank for ClouNine & Trazix for Updated helps",
@@ -41,8 +49,10 @@
     "zh_trans": "特别感谢ClouNine和Trazix对于更新的帮助",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unkown Radio> ... ...",
@@ -50,8 +60,10 @@
     "zh_trans": "<未知无线电> ... ...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unkown Radio> The world is in chaos",
@@ -59,8 +71,10 @@
     "zh_trans": "<未知无线电>这个世界已经陷入了混沌",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unkown Radio> It's time to wake up, soldiers with a burning heart",
@@ -68,8 +82,10 @@
     "zh_trans": "<未知无线电>心怀烈火的战士们，是时候苏醒了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unkown Radio> Leave this place, Find me on the edge of the world",
@@ -77,8 +93,10 @@
     "zh_trans": "<未知无线电>离开此地，在世界的边缘找到我",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Good Luck !",
@@ -86,8 +104,10 @@
     "zh_trans": "祝你们好运!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Steam Off",
@@ -95,8 +115,10 @@
     "zh_trans": "蒸汽已经关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 20 >>>",
@@ -104,8 +126,10 @@
     "zh_trans": "门将在<<< 20 >>>秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 15 >>>",
@@ -113,8 +137,10 @@
     "zh_trans": "门将在<<< 15 >>>秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 10 >>>",
@@ -122,8 +148,10 @@
     "zh_trans": "门将在<<< 10 >>>秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 05 >>>",
@@ -131,8 +159,10 @@
     "zh_trans": "门将在<<< 5 >>>秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "C4 is on",
@@ -140,8 +170,10 @@
     "zh_trans": "炸弹已经安放,37秒后爆炸",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 37,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Prepare to leave",
@@ -149,8 +181,10 @@
     "zh_trans": "准备撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "RUN",
@@ -158,8 +192,10 @@
     "zh_trans": "快撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Overloading the powerbox",
@@ -167,8 +203,10 @@
     "zh_trans": "让电源箱过载",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN",
@@ -176,8 +214,10 @@
     "zh_trans": "门已经打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Starting the platform",
@@ -185,8 +225,10 @@
     "zh_trans": "启动升降平台，60秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Jump on the lift!",
@@ -194,8 +236,10 @@
     "zh_trans": "跳上升降平台!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Other side wall is break",
@@ -203,8 +247,10 @@
     "zh_trans": "另一边的墙壁已经被破坏",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The glass is going to break!",
@@ -212,8 +258,10 @@
     "zh_trans": "玻璃快碎了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The elevator will open in 10 seconds",
@@ -221,8 +269,10 @@
     "zh_trans": "电梯门会在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The elevator has opened! Get inside",
@@ -230,8 +280,10 @@
     "zh_trans": "电梯门已经打开!快进去!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Felt something was wrong",
@@ -239,8 +291,10 @@
     "zh_trans": "感觉有点不对劲",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The elevator stopped at the wrong floor",
@@ -248,8 +302,10 @@
     "zh_trans": "电梯停在了错误的楼层",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Let's move!",
@@ -257,8 +313,10 @@
     "zh_trans": "让我们动起身来!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Don't stay in the elevator",
@@ -266,8 +324,10 @@
     "zh_trans": "不要待在电梯里，快出来",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombies advance!",
@@ -275,8 +335,10 @@
     "zh_trans": "僵尸出笼了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie Advance",
@@ -284,8 +346,10 @@
     "zh_trans": "僵尸出笼了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "shoot the wall!",
@@ -293,8 +357,10 @@
     "zh_trans": "把这墙射开!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We are blocked by those eletric wires.",
@@ -302,8 +368,10 @@
     "zh_trans": "我们被那些电线挡住了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Find a way to turn off the eletric.",
@@ -311,8 +379,10 @@
     "zh_trans": "想个办法把电流关了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Electricity is Off",
@@ -320,8 +390,10 @@
     "zh_trans": "电流已经关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Run to the elevator",
@@ -329,8 +401,10 @@
     "zh_trans": "快向电梯间撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Find a way up there before the doors are closed !",
@@ -338,8 +412,10 @@
     "zh_trans": "在门关上之前想办法上去!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Ready to Move <<< 10 >>>",
@@ -347,8 +423,10 @@
     "zh_trans": "准备动身 <<< 10 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The elevator door will reopen in 30 seconds",
@@ -356,8 +434,10 @@
     "zh_trans": "电梯门会在30秒后再度开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Ready to Move <<< 05 >>>",
@@ -365,8 +445,10 @@
     "zh_trans": "准备动身 <<< 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The elevator door has opened",
@@ -374,8 +456,10 @@
     "zh_trans": "电梯门打开了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Wood Break <<< 20 >>>",
@@ -383,8 +467,10 @@
     "zh_trans": "木板破碎<<< 20 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Wood Break <<< 15 >>>",
@@ -392,8 +478,10 @@
     "zh_trans": "木板破碎<<< 15 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Wood Break <<< 10 >>>",
@@ -401,8 +489,10 @@
     "zh_trans": "木板破碎<<< 10 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Wood Break <<< 05 >>>",
@@ -410,8 +500,10 @@
     "zh_trans": "木板破碎<<< 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door is opening soon",
@@ -419,8 +511,10 @@
     "zh_trans": "大门将会在不久后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Don't forget to close the door ...",
@@ -428,8 +522,10 @@
     "zh_trans": "不要忘记关门...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Get ready to act <<< 10 >>>",
@@ -437,8 +533,10 @@
     "zh_trans": "准备动身<<< 10 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Get ready to act <<< 05 >>>",
@@ -446,8 +544,10 @@
     "zh_trans": "准备动身<<< 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Elevator door will open soon",
@@ -455,8 +555,10 @@
     "zh_trans": "电梯门将会在5秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Water Up",
@@ -464,8 +566,10 @@
     "zh_trans": "水位在上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The water level is increasing",
@@ -473,8 +577,10 @@
     "zh_trans": "水位正在上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "KEEP DEFENDING",
@@ -482,8 +588,10 @@
     "zh_trans": "继续防守",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Defend 40 seconds !",
@@ -491,8 +599,10 @@
     "zh_trans": "坚守40秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Be careful, zombies are coming from another way",
@@ -500,8 +610,10 @@
     "zh_trans": "小心，僵尸从另一边发起了进攻",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "prepare for your last rush",
@@ -509,8 +621,10 @@
     "zh_trans": "准备好最后的冲刺了吗，战士们!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Get Ready ?",
@@ -518,8 +632,10 @@
     "zh_trans": "预备备?倒计时50秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The Water is going Up",
@@ -527,8 +643,10 @@
     "zh_trans": "水位正在上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Last Fight <<< 10 >>>",
@@ -536,8 +654,10 @@
     "zh_trans": "最后一战<<< 10 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Last Fight <<< 05 >>>",
@@ -545,8 +665,10 @@
     "zh_trans": "最后一战<<< 05 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>Yes,that it!Keep running!",
@@ -554,8 +676,10 @@
     "zh_trans": "<未知无线电>是的，干得好!继续前进!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>Once you get outside,all will be safe!",
@@ -563,8 +687,10 @@
     "zh_trans": "<未知无线电>只要你出去了,一切都会安全的!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>We gonna to rescue other squad first,Come on!",
@@ -572,8 +698,10 @@
     "zh_trans": "<未知无线电>我们将要去拯救其他小队成员，一起来吧!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>It's call Objective Filth,Sounds familiar huh?",
@@ -581,8 +709,10 @@
     "zh_trans": "<未知无线电>他们被称为Filth小队,听起来很熟悉吧?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>..Vertigo?...",
@@ -590,8 +720,10 @@
     "zh_trans": "<未知无线电>..Vertigo小队?...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>Trust me,You won't want to hear about it.",
@@ -599,8 +731,10 @@
     "zh_trans": "<未知无线电>相信我,你不会想听的.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Unknown Radio>Attacker,Blow that damn place now.",
@@ -608,8 +742,10 @@
     "zh_trans": "<未知无线电>战斗机,快炸了那该死的地方.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">人类卡传送处死已启用.<",
@@ -617,8 +753,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "有人触发了管道，他被增加了100分",
@@ -626,7 +764,31 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "173你在干什么",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "173的玖说话！",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]

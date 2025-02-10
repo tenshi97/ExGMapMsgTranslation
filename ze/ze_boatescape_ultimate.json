@@ -5,8 +5,10 @@
     "zh_trans": "< ze_Super_Smash_Bros > Alpha Ver 1.3版本",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<若皮肤无法被拾取或技能不生效,则是社区插件非公版CS2FIX或非最新版插件.>",
@@ -14,8 +16,10 @@
     "zh_trans": "<若皮肤无法被拾取或技能不生效,则是社区插件非公版CS2FIX或非最新版插件.>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Map by @Seth >",
@@ -23,8 +27,10 @@
     "zh_trans": "< 地图作者；@Seth >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Selecting Game Mode... <",
@@ -32,8 +38,10 @@
     "zh_trans": "> 选择游戏模式... <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 当前模式: 克隆大作战 >",
@@ -41,8 +49,10 @@
     "zh_trans": "< 当前模式: 克隆大作战 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Current Mode: Clone >",
@@ -50,8 +60,10 @@
     "zh_trans": "< 当前模式: 克隆大作战 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 当前模式: 全明星大乱斗 >",
@@ -59,8 +71,10 @@
     "zh_trans": "< 当前模式: 全明星大乱斗 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Current Mode: ALL STAR BATTLE >",
@@ -68,8 +82,10 @@
     "zh_trans": "< 当前模式: 全明星大乱斗 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Boat leave in 15 sec. <",
@@ -77,8 +93,10 @@
     "zh_trans": "> 船将在 15 秒后离开。<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Helicopter leave in 7 sec. <",
@@ -86,8 +104,10 @@
     "zh_trans": "> 直升机将在 7 秒后起飞。<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 仅限制一种皮肤无限克隆. >",
@@ -95,8 +115,10 @@
     "zh_trans": "< 仅限制一种皮肤无限克隆. >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Teleport afk player in 10 sec. <",
@@ -104,8 +126,10 @@
     "zh_trans": "> 将在 10 秒后传送挂机玩家。<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> The rescue ship is on the way. <",
@@ -113,8 +137,10 @@
     "zh_trans": "> 救援船正在赶来.<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Iron Fence will break when ship arrive! <",
@@ -122,8 +148,10 @@
     "zh_trans": "> 船只抵达时，铁栅栏会断裂！<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Assistance is on the way,Just fucking defend!! <",
@@ -131,8 +159,10 @@
     "zh_trans": "> 援助马上就到，你他娘的给我守住！！<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Both Boat will left in 40 sec. <",
@@ -140,8 +170,10 @@
     "zh_trans": "> 两艘船将在 40 秒后离开.<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Warning! Nuke incoming..<",
@@ -149,8 +181,10 @@
     "zh_trans": "> 警告！核弹来袭...<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> 5 <",
@@ -158,8 +192,10 @@
     "zh_trans": "> 5 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> 4 <",
@@ -167,8 +203,10 @@
     "zh_trans": "> 4 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> 3 <",
@@ -176,8 +214,10 @@
     "zh_trans": "> 3 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> 2 <",
@@ -185,8 +225,10 @@
     "zh_trans": "> 2 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> 1 <",
@@ -194,8 +236,10 @@
     "zh_trans": "> 1 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< ze_Super_Smash_Bros > Alpha Ver 1.2",
@@ -203,8 +247,10 @@
     "zh_trans": "< ze_Super_Smash_Bros > Alpha Ver 1.2版本",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< ze_Boatescape_Ultimate > Alpha Ver 1.5",
@@ -212,8 +258,10 @@
     "zh_trans": "< 坐船跑至尊版 > Alpha Ver 1.5",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<为排除闪退问题,暂时下架人类方的亚尔特留斯.>>",
@@ -221,8 +269,10 @@
     "zh_trans": "<<为排除闪退问题,暂时下架人类方的亚尔特留斯.>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<为弥补人类方实力,加强并提升维吉尔拾取上限5 -> 10个.>>",
@@ -230,8 +280,10 @@
     "zh_trans": "<<为弥补人类方实力,加强并提升维吉尔拾取上限5 -> 10个.>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 仅限制一种皮肤有限克隆. >",
@@ -239,8 +291,10 @@
     "zh_trans": "< 仅限制一种皮肤有限克隆. >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*绯红女皇的技能在8秒后解锁.*",
@@ -248,8 +302,10 @@
     "zh_trans": "*绯红女皇的技能在8秒后解锁.*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<防刷传送PUSH已启用.>",
@@ -257,8 +313,10 @@
     "zh_trans": "<防刷传送PUSH已启用.>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<你感受到了来自塑料椅的抛瓦...>",
@@ -266,8 +324,10 @@
     "zh_trans": "<你感受到了来自塑料椅的抛瓦...>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<所有维吉尔的抛瓦得到了祝福.>",
@@ -275,8 +335,10 @@
     "zh_trans": "<所有维吉尔的抛瓦得到了祝福.>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< TRAM LEAVES 14 SECONDS >",
@@ -284,8 +346,10 @@
     "zh_trans": "< 电车 14 秒后离开 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 14,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The Judgement has Begun....",
@@ -293,8 +357,10 @@
     "zh_trans": "审判开始...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Teleport in 20 sec. >",
@@ -302,8 +368,10 @@
     "zh_trans": "< 20 秒后传送. >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Teleport in 10 sec. >",
@@ -311,8 +379,10 @@
     "zh_trans": "< 10 秒后传送. >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< RESCUE BOAT & HELI INBOUND 60 SECONDS >",
@@ -320,8 +390,10 @@
     "zh_trans": "< 救援船和直升机 60 秒后抵达 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< ZOMBIE PORTAL HAS ENABLE! >",
@@ -329,8 +401,10 @@
     "zh_trans": "< 僵尸传送门已开启! >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< HELI LEAVING 20 SECONDS >",
@@ -338,8 +412,10 @@
     "zh_trans": "< 直升机 20 秒后离开 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< HELI LEAVING 10 SECONDS >",
@@ -347,8 +423,10 @@
     "zh_trans": "< 直升机 10 秒后离开 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< NUKE IN 10 SECONDS >",
@@ -356,8 +434,10 @@
     "zh_trans": "< 10 秒后核爆 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< NUKE IN 5 SECONDS >",
@@ -365,8 +445,10 @@
     "zh_trans": "< 5 秒后核爆 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< ze_Boatescape_Ultimate > Alpha Ver 1.6",
@@ -374,8 +456,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<全明星模式重新限制为一个皮肤以更接近GO版设定.>",
@@ -383,8 +467,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<克隆限制数量 35 -> 20 ,以改善闪退炸服等问题.>",
@@ -392,8 +478,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<亚尔特留斯重新回归.>",
@@ -401,8 +489,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** BOAT LEAVING 15 SECONDS **",
@@ -410,8 +500,10 @@
     "zh_trans": "** 船 15 秒后离开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< ze_Boatescape_Ultimate > Alpha Ver 1.8",
@@ -419,8 +511,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<添加狮子王神器.>",
@@ -428,8 +522,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 当前模式: 无事发生(热身) >",
@@ -437,8 +533,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Current Mode: Normal >",
@@ -446,8 +544,10 @@
     "zh_trans": "< 当前模式：普通 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<跳过热身.>",
@@ -455,8 +555,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has adquired WIND MATERIA **",
@@ -464,8 +566,10 @@
     "zh_trans": "** 一名玩家已获得风之魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has adquired ULTIMA MATERIA **",
@@ -473,8 +577,10 @@
     "zh_trans": "** 一名玩家已获得究极魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has adquired HEAL MATERIA **",
@@ -482,8 +588,10 @@
     "zh_trans": "** 一名玩家已获得治愈魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has adquired FIRE MATERIA **",
@@ -491,8 +599,10 @@
     "zh_trans": "** 一名玩家已获得火焰魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has adquired ELECTRO MATERIA **",
@@ -500,8 +610,10 @@
     "zh_trans": "** 一名玩家已获得电气魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - MINI CANNON***",
@@ -509,8 +621,10 @@
     "zh_trans": "***玩家拾取物品 - 机关枪***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has adquired ICE MATERIA **",
@@ -518,8 +632,10 @@
     "zh_trans": "** 一名玩家已获得冰之魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - BEAM CANNON***",
@@ -527,8 +643,10 @@
     "zh_trans": "***玩家拾取物品 - 激光***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - ROCKET CANNON***",
@@ -536,8 +654,10 @@
     "zh_trans": "***玩家拾取物品 - 火箭筒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - HEALING SHITBOX***",
@@ -545,8 +665,10 @@
     "zh_trans": "***玩家拾取物品 - 狗屎治疗***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<有人为下局选择了幸运盒子模式！>",
@@ -554,8 +676,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 当前模式: 幸运盒挑战 >",
@@ -563,8 +687,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Current Mode: Luckybox >",
@@ -572,8 +698,10 @@
     "zh_trans": "< 当前模式: 幸运盒挑战 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 用脑袋去顶幸运盒获取惊喜大奖吧. >",
@@ -581,8 +709,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "新一轮的盒子已刷新！",
@@ -590,8 +720,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 当前模式: ZM大逃杀 >",
@@ -599,8 +731,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Current Mode: ZM >",
@@ -608,8 +742,10 @@
     "zh_trans": "< 当前模式: ZM大逃杀 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 拿上神器皮肤找个地方生存240秒吧！ >",
@@ -617,8 +753,10 @@
     "zh_trans": "< 拿上神器皮肤找个地方生存240秒吧！ >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 240,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有180秒！",
@@ -626,8 +764,10 @@
     "zh_trans": "距离僵尸核爆还有180秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有120秒！",
@@ -635,8 +775,10 @@
     "zh_trans": "距离僵尸核爆还有120秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有60秒！",
@@ -644,8 +786,10 @@
     "zh_trans": "距离僵尸核爆还有60秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有30秒！",
@@ -653,8 +797,10 @@
     "zh_trans": "距离僵尸核爆还有30秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有20秒！",
@@ -662,8 +808,10 @@
     "zh_trans": "距离僵尸核爆还有20秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有10秒！",
@@ -671,8 +819,10 @@
     "zh_trans": "距离僵尸核爆还有10秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有5秒！",
@@ -680,8 +830,10 @@
     "zh_trans": "距离僵尸核爆还有5秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有4秒！",
@@ -689,8 +841,10 @@
     "zh_trans": "距离僵尸核爆还有4秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有3秒！",
@@ -698,8 +852,10 @@
     "zh_trans": "距离僵尸核爆还有3秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有2秒！",
@@ -707,8 +863,10 @@
     "zh_trans": "距离僵尸核爆还有2秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有1秒！",
@@ -716,8 +874,10 @@
     "zh_trans": "距离僵尸核爆还有1秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< ze_Boatescape_Ultimate > Alpha Ver 2",
@@ -725,8 +885,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "僵尸追击传送已关闭.",
@@ -734,8 +896,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "A Abyss Watcher has rise up...",
@@ -743,8 +907,10 @@
     "zh_trans": "一名深渊监视者出现了...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 千音星璃 加入了派对! >",
@@ -752,8 +918,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<有人为下局选择了特殊模式 深渊大乱斗！>",
@@ -761,8 +929,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<有人为下局选择了全明星模式！>",
@@ -770,8 +940,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 僵尸深渊监视者突进技能已被暂时锁定,防止超车. >",
@@ -779,8 +951,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Metal gate open in 10 sec ***",
@@ -788,8 +962,10 @@
     "zh_trans": "*** 金属门将在 10 秒后打开 *** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "有玩家进入了调关房.",
@@ -797,8 +973,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 梦雨 加入了派对! >",
@@ -806,8 +984,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 僵尸深渊监视者/米诺斯突进技能已被暂时锁定,防止超车. >",
@@ -815,8 +995,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 僵尸深渊监视者/米诺斯突进技能已解锁！ >",
@@ -824,8 +1006,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "检测到有僵尸在终点,核爆已锁定.",
@@ -833,8 +1017,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 水银灯 加入了派对! >",
@@ -842,8 +1028,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 kirito 加入了派对! >",
@@ -851,8 +1039,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<有人为下局选择了克隆模式！>",
@@ -860,8 +1050,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<有人为下局选择了ZM大逃杀模式！>",
@@ -869,8 +1061,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有240秒！",
@@ -878,8 +1072,10 @@
     "zh_trans": "距离僵尸核爆还有240秒！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 240,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "距离僵尸核爆还有20秒,普通人类和僵尸躁起来了！",
@@ -887,8 +1083,10 @@
     "zh_trans": "距离僵尸核爆还有20秒,普通人类和僵尸躁起来了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 当前模式: 街舞大乱斗 >",
@@ -896,8 +1094,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Current Mode: Abyss Fight >",
@@ -905,8 +1105,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 第一轮街舞队在15秒后上场！ >",
@@ -914,8 +1116,10 @@
     "zh_trans": "< 第一轮街舞队在15秒后上场！ >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 斗舞大会正式开始！ >",
@@ -923,8 +1127,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 每一轮上场会间隔15秒,直到所有人出场！ >",
@@ -932,8 +1138,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 消灭对面全部阵营即可胜利！ >",
@@ -941,8 +1149,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 人类方斗舞技高一筹！ >",
@@ -950,8 +1160,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "未检测到人类上岛,核爆启用!",
@@ -959,8 +1171,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "僵尸幸运盒子已达上限！",
@@ -968,8 +1182,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 夏璃月音♪ 加入了派对! >",
@@ -977,8 +1193,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 二乃天外飞仙 加入了派对! >",
@@ -986,8 +1204,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 棘棘国王 加入了派对! >",
@@ -995,8 +1215,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 僵尸方斗舞技高一筹！ >",
@@ -1004,8 +1226,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 朝田诗乃QWQ 加入了派对! >",
@@ -1013,8 +1237,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< 赞助者 青鸟 加入了派对! >",
@@ -1022,7 +1248,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< 赞助者 季灾 加入了派对! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
