@@ -123,7 +123,7 @@
   {
     "original": ">>> PLAYER HAS PICKED UP PUSH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了推力 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了电马桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": ">>> PLAYER HAS PICKED UP EARTH TOILET <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了土马桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": ">>> HOLD 15 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守15秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,7 +167,7 @@
   {
     "original": ">>> BLOOPER IS COMING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼要来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,51 +178,51 @@
   {
     "original": ">>> BLOOPER USED BREATH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼使用了吐息 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> BLOOPER USED SPLASH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼使用了泼溅 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> BLOOPER USED INK <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼使用了墨汁 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> BLOOPER USED BEAM <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼使用了光束 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> BLOOPER HAS BEEN DEFEATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

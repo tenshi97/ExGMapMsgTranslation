@@ -420,12 +420,12 @@
   {
     "original": "Janitor selected Level 6",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "管理员选择了 第六关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
