@@ -5,8 +5,10 @@
     "zh_trans": "**最终幻想：雪域星空**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Map by Headshooter.SC & HaRyDe**",
@@ -14,8 +16,10 @@
     "zh_trans": "**Map by Headshooter.SC & HaRyDe**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**WARMUP ROUND**",
@@ -23,8 +27,10 @@
     "zh_trans": "**热身回**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**NORMAL MODE**",
@@ -32,8 +38,10 @@
     "zh_trans": "**普通难度**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!",
@@ -41,8 +49,10 @@
     "zh_trans": "[克劳德] 嗯…… 引擎似乎坏了.. 我们被困在沙漠中央了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] Do not worry. I know this place.. I was born in here..",
@@ -50,8 +60,10 @@
     "zh_trans": "[赤红十三] 别担心克劳德，这个地方我很熟悉...我就是在这出生的..",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?",
@@ -59,8 +71,10 @@
     "zh_trans": "[克劳德] 好吧。就是说，我们可以找到帮手来修复我们的飞船..是吧？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave.",
@@ -68,8 +82,10 @@
     "zh_trans": "[赤红十三] 没错。但在此之前，我需要处理一点事，咱在基族洞窟里会面",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] There I will give you all the stuff you need.",
@@ -77,8 +93,10 @@
     "zh_trans": "[赤红十三] 那时候我会给你找到帮手的",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] No problem. I will wait for you in there..",
@@ -86,8 +104,10 @@
     "zh_trans": "[克劳德] Ok,行，我在那等你",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up Damage materia**",
@@ -95,8 +115,10 @@
     "zh_trans": "**玩家拾起了 破坏魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Cover here for 5 seconds before we clear this obstacle**",
@@ -104,8 +126,10 @@
     "zh_trans": "** 在障碍清除前掩护此处 5 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**We are almost at Cosmo Canyon**",
@@ -113,8 +137,10 @@
     "zh_trans": "**我们快到宇宙峡谷了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend here for 25 seconds until the gates open**",
@@ -122,8 +148,10 @@
     "zh_trans": "**守住这里 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Gates are open. Welcome to Cosmo Canyon**",
@@ -131,8 +159,10 @@
     "zh_trans": "**门开了。欢迎来到宇宙峡谷**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up HEAL materia**",
@@ -140,8 +170,10 @@
     "zh_trans": "**玩家拾起了 治疗魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The barman will open the door in 5 seconds**",
@@ -149,8 +181,10 @@
     "zh_trans": "**酒吧店主会在 5 秒后给我们开门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**",
@@ -158,8 +192,10 @@
     "zh_trans": "**僵尸袭来! 在后门打开前守住星空酒吧 25 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**5 SECONDS LEFT**",
@@ -167,8 +203,10 @@
     "zh_trans": "**还剩 5 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**FALL BACK**",
@@ -176,8 +214,10 @@
     "zh_trans": "**撤退**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up BIO materia**",
@@ -185,8 +225,10 @@
     "zh_trans": "**玩家拾取了 剧毒魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**",
@@ -194,8 +236,10 @@
     "zh_trans": "**石头 25 秒后炸开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up GRAVITY materia**",
@@ -203,8 +247,10 @@
     "zh_trans": "**玩家拾起了 黑洞魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The gates will open in 25 seconds**",
@@ -212,8 +258,10 @@
     "zh_trans": "**大门 25 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The gates of gi cave will open in 15 seconds**",
@@ -221,8 +269,10 @@
     "zh_trans": "**基族洞窟的大门 15 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up ELECTRO materia**",
@@ -230,8 +280,10 @@
     "zh_trans": "**玩家拾取了 电魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Wait until something happens**",
@@ -239,8 +291,10 @@
     "zh_trans": "**似乎有什么东西**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The gi gate will open in 35 seconds**",
@@ -248,8 +302,10 @@
     "zh_trans": "**基族入口 35 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GRENADES DO A LOT OF DAMAGE. USE THEM!**",
@@ -257,8 +313,10 @@
     "zh_trans": "**手雷能造成更多伤害。记得丢雷!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**",
@@ -266,8 +324,10 @@
     "zh_trans": "**部分神器可以对Boss造成伤害**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using fire**",
@@ -275,8 +335,10 @@
     "zh_trans": "**基纳塔克 释放了火焰**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using wind**",
@@ -284,8 +346,10 @@
     "zh_trans": "**基纳塔克 释放了风**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using silence**",
@@ -293,8 +357,10 @@
     "zh_trans": "**基纳塔克 使用了沉默**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is spawning minions. Watch out for them**",
@@ -302,8 +368,10 @@
     "zh_trans": "**基纳塔克 召唤了奴仆。小心他们!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using gravity**",
@@ -311,8 +379,10 @@
     "zh_trans": "**基纳塔克 使用了重力**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using poison**",
@@ -320,8 +390,10 @@
     "zh_trans": "**基纳塔克 使用了剧毒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using shield**",
@@ -329,8 +401,10 @@
     "zh_trans": "**基纳塔克 使用了护盾**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**",
@@ -338,8 +412,10 @@
     "zh_trans": "**基纳塔克 使用了终极! 快杀了他要不然都得死**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**",
@@ -347,8 +423,10 @@
     "zh_trans": "**管理员在调关房更改了地图关卡**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**ADMIN PRESSED KILL ALL BUTTON**",
@@ -356,8 +434,10 @@
     "zh_trans": "**管理员按下了处死按钮**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**RAGE MODE**",
@@ -365,8 +445,10 @@
     "zh_trans": "**疯狂难度**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Cover here for 10 seconds before we clear this obstacle**",
@@ -374,8 +456,10 @@
     "zh_trans": "**在障碍清除前掩护此处 10 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up WIND materia**",
@@ -383,8 +467,10 @@
     "zh_trans": "**玩家拾起了 风魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The rock will explode in 25 seconds**",
@@ -392,8 +478,10 @@
     "zh_trans": "**石头 25 秒后炸开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The detonator seems to be broken**Go another way**",
@@ -401,8 +489,10 @@
     "zh_trans": "**雷管看上去坏了**得想个法子**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The airship to Shinra will arrive in 30 seconds**",
@@ -410,8 +500,10 @@
     "zh_trans": "**前往神罗公司的飞船 30 秒后抵达**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base.",
@@ -419,8 +511,10 @@
     "zh_trans": "[克劳德] 守住! 我会带你上船的，然后我们一起前往神罗基地",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Red-XIII will stay here and will help to reestablish the Village.",
@@ -428,8 +522,10 @@
     "zh_trans": "[克劳德] 赤红十三会留在这里帮助他们重建村子",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The airship is right here...**",
@@ -437,8 +533,10 @@
     "zh_trans": "**飞船到了..**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up EARTH materia**",
@@ -446,8 +544,10 @@
     "zh_trans": "**玩家拾起了 土魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up FIRE materia**",
@@ -455,8 +555,10 @@
     "zh_trans": "**玩家拾起了 火焰魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Zombie Confuse has been picked up**",
@@ -464,8 +566,10 @@
     "zh_trans": "**僵尸干扰 已拾起**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up SLEEP materia**",
@@ -473,8 +577,10 @@
     "zh_trans": "**玩家拾起了 沉寂魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using Fire Nova!!! Get out of middle**",
@@ -482,8 +588,10 @@
     "zh_trans": "**基纳塔克 使用了火焰新星!!!远离中间**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak is using aspil**",
@@ -491,8 +599,10 @@
     "zh_trans": "基纳塔克 使用了吸血",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattak has healed 150 hp**",
@@ -500,8 +610,10 @@
     "zh_trans": "基纳塔克 恢复了150点血量",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gi Nattack is escaped**",
@@ -509,8 +621,10 @@
     "zh_trans": "**基纳塔克 逃走了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Now you can get out of Cave of Gi**",
@@ -518,8 +632,10 @@
     "zh_trans": "**你现在可以离开基族洞穴了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**DOOR OPENS IN 40 SECONDS**",
@@ -527,8 +643,10 @@
     "zh_trans": "**门 40 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**10 SECONDS LEFT**",
@@ -536,8 +654,10 @@
     "zh_trans": "**还剩 10 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**This is your last hold point**",
@@ -545,8 +665,10 @@
     "zh_trans": "**这是你最后的守点**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Get on the rocks and hold 25 seconds**",
@@ -554,8 +676,10 @@
     "zh_trans": "**爬上石头，守住 25 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..",
@@ -563,8 +687,10 @@
     "zh_trans": "[赤红十三] 恭喜! 你做到了，但是基纳塔克逃走了! 不过我们下次会彻底击败他的!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**NORMAL mode was beaten. Unlocking HARD mode **",
@@ -572,8 +698,10 @@
     "zh_trans": "**普通模式已完成。正在解锁困难模式**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**EXTREME MODE**",
@@ -581,8 +709,10 @@
     "zh_trans": "**极限难度**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?",
@@ -590,8 +720,10 @@
     "zh_trans": "[赤红十三] 那家伙能召唤巴哈姆特!? 他是怎么得到那种力量的?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all..",
@@ -599,8 +731,10 @@
     "zh_trans": "[赤红十三] 算了，不管怎样。我们要彻底击败基纳塔克",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**CHEST SIDEQUEST STARTED**",
@@ -608,8 +742,10 @@
     "zh_trans": "**宝箱支线任务开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL ITEM THAT WILL HELP YOU ON GI NATTAK**",
@@ -617,8 +753,10 @@
     "zh_trans": "**找到所有的黄金箱子以取得特殊神器，那可以帮助你们击败基纳塔克",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up ULTIMA materia**",
@@ -626,8 +764,10 @@
     "zh_trans": "**玩家拾起了 终极魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up Ice materia**",
@@ -635,8 +775,10 @@
     "zh_trans": "**玩家拾起了 冰魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**HARD MODE**",
@@ -644,8 +786,10 @@
     "zh_trans": "** 困难模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hard mode is beaten. Challenge yourself in EXTREME mode ! **",
@@ -653,8 +797,10 @@
     "zh_trans": "** 困难模式已通过，下一关将会是 极限难度！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**...Are you surprised?...**",
@@ -662,8 +808,10 @@
     "zh_trans": "**...你不感到意外？..**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**...Didn't you expect me?...**",
@@ -671,8 +819,10 @@
     "zh_trans": "**...你没想到我回来吧？..**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**...Oh okay i'm disappearing...**",
@@ -680,8 +830,10 @@
     "zh_trans": "**..行，我走，可以了吧..**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The gates will open in 30 seconds**",
@@ -689,8 +841,10 @@
     "zh_trans": "**大门 30 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy..",
@@ -698,8 +852,10 @@
     "zh_trans": "[克劳德] 兄弟们注意一下。如果杰尼西斯真的在这里，那可能是杰诺瓦..跟他们两个打，那可是一场恶战。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become..",
@@ -707,8 +863,10 @@
     "zh_trans": "[克劳德]特别是如果他得到了基纳塔克的灵魂...无法想象他会强到什么地步...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] If you succeed with that then we explode the base with Jenova.",
@@ -716,8 +874,10 @@
     "zh_trans": "[克劳德] 如果你们成功了，就引爆基地与杰诺瓦同归于尽",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Wait 5 more seconds**",
@@ -725,8 +885,10 @@
     "zh_trans": "**等待 5 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Shinra gates will open in 25 seconds**",
@@ -734,8 +896,10 @@
     "zh_trans": "**神罗大门 25 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The gates will open in 15 seconds**",
@@ -743,8 +907,10 @@
     "zh_trans": "**大门 15 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The elevator will leave in 15 seconds**",
@@ -752,8 +918,10 @@
     "zh_trans": "**电梯 15 秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Genesis is defeated. Get back in the elevator**",
@@ -761,8 +929,10 @@
     "zh_trans": "**[即使是没有约定的明天，我也必定重返你所在之处] - 杰尼西斯已被击败。快撤退到电梯**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon.",
@@ -770,8 +940,10 @@
     "zh_trans": "[克劳德]我不太相信他会那么容易就被击败的...算了，不管怎样，基地快要爆炸了! ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] See you on the top evacuation point.",
@@ -779,8 +951,10 @@
     "zh_trans": "[克劳德]救援点见",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The power is lost. Defend until the emergency generators are on**",
@@ -788,8 +962,10 @@
     "zh_trans": "**电力已被中断。防守至应急发电器启动**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We got the power. The gates will open in 15 seconds**",
@@ -797,8 +973,10 @@
     "zh_trans": "**有电了。大门 15 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Nades do more damage. **",
@@ -806,8 +984,10 @@
     "zh_trans": "**[杰尼西斯] 如此自鸣得意？但能持续多久呢？(手雷能造成更多伤害)**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**You have beaten Cosmo Canyon!! Congratulations !! **",
@@ -815,8 +995,10 @@
     "zh_trans": "**恭喜你们通关最终幻想VII：雪域星空!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon..",
@@ -824,8 +1006,10 @@
     "zh_trans": "[克劳德] 干的不错! 希望下次我们能彻底干掉他们! 下一站是宇宙峡谷...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Jenova is defeated!**",
@@ -833,8 +1017,10 @@
     "zh_trans": "**杰诺瓦已被击败!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**",
@@ -842,8 +1028,10 @@
     "zh_trans": "**你必须杀死所有僵尸才能获胜**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** EXTREME mode is beaten. Get ready for your last challenge ...**",
@@ -851,8 +1039,10 @@
     "zh_trans": "**极限模式已被攻克。准备好迎接你们最后的挑战……**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Ultimate MODE**",
@@ -860,8 +1050,10 @@
     "zh_trans": "**终极模式**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Cover here for 15 seconds before we clear this obstacle**",
@@ -869,8 +1061,10 @@
     "zh_trans": "**清除这个障碍之前先在这里守 15 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Zombies are coming. Defend Cosmo Bar for 30 seconds before we open the back door**",
@@ -878,8 +1072,10 @@
     "zh_trans": "**僵尸来了。在我们打开后门之前，先防守酒吧 30 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Chest Quest completed!**",
@@ -887,8 +1083,10 @@
     "zh_trans": "**宝箱任务完成！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The reward is waiting for you in the gi cave**",
@@ -896,8 +1094,10 @@
     "zh_trans": "**奖励在基族洞窟中等着你。**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up Phoenix Down**",
@@ -905,8 +1105,10 @@
     "zh_trans": "**一名玩家捡起了凤凰尾**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**ZM MODE**",
@@ -914,8 +1116,10 @@
     "zh_trans": "**ZM 模式**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**",
@@ -923,8 +1127,10 @@
     "zh_trans": "**地图已通关。找一个地方进行防守，阻止僵尸靠近**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired.",
@@ -932,8 +1138,10 @@
     "zh_trans": "[赤红十三] 宇宙峡谷差不多恢复正常了。但天文台仍需要修理。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us.",
@@ -941,8 +1149,10 @@
     "zh_trans": "[克劳德] 这些人能够打败杰尼西斯和杰诺瓦。我想这对我们来说是一个问题解决了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] I cannot find enough words to thank them for all... they did a really good job.",
@@ -950,8 +1160,10 @@
     "zh_trans": "[赤红十三] 我找不到足够的言语来感谢他们所做的一切……他们做得真的很棒。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?",
@@ -959,8 +1171,10 @@
     "zh_trans": "[赤红十三] 我想我们可以在这里休息一会儿，然后再继续前进……你觉得呢？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do.",
@@ -968,8 +1182,10 @@
     "zh_trans": "[克劳德] 听起来不错……我们得继续前进。我们还得阻止萨菲罗斯……总之我们还有很多事要做。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[Cloud] So lets start from the Temple of the Ancients..",
@@ -977,8 +1193,10 @@
     "zh_trans": "[克劳德] 那我们就从古代种神殿开始吧……",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**2 MINUTES LEFT!**",
@@ -986,8 +1204,10 @@
     "zh_trans": "**还剩 120 秒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Zombie cactus has been picked up**",
@@ -995,8 +1215,10 @@
     "zh_trans": "**僵尸仙人掌已被捡起**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**1 MINUTES LEFT!**",
@@ -1004,8 +1226,10 @@
     "zh_trans": "**还剩 60 秒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**30 SECONDS LEFT!**",
@@ -1013,8 +1237,10 @@
     "zh_trans": "**还剩 30 秒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**15 SECONDS LEFT!**",
@@ -1022,8 +1248,10 @@
     "zh_trans": "**还剩 15 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Teleporting humans to the Observatory**",
@@ -1031,8 +1259,10 @@
     "zh_trans": "**将人类传送到天文台**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend here for 15 seconds before the platform leaves**",
@@ -1040,8 +1270,10 @@
     "zh_trans": "**在平台离开之前在此防守 15 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The platform is leaving**",
@@ -1049,8 +1281,10 @@
     "zh_trans": "**平台正在离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**WINNERS GONNA CHANGE NEXT STAGE**",
@@ -1058,8 +1292,10 @@
     "zh_trans": "**获胜者将进入下一阶段**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**THE WINNERS HAD SELECTED THE MODE**",
@@ -1067,8 +1303,10 @@
     "zh_trans": "**获胜者已经选择了模式**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**You are too slow**",
@@ -1076,7 +1314,20 @@
     "zh_trans": "**你太慢了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**Shiva is defeated!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
