@@ -5,8 +5,10 @@
     "zh_trans": "**感谢 Moltard 和 Kurimu 的帮助",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Map Status: No Stripper!**",
@@ -14,8 +16,10 @@
     "zh_trans": "**地图状态: 无 Stripper!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**ze_stilshrine_of_the_miriam**",
@@ -23,8 +27,10 @@
     "zh_trans": "**ze_stilshrine_of_the_miriam(最终幻想12：米利暗遗迹)**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Map by Ma/l/go**",
@@ -32,8 +38,10 @@
     "zh_trans": "**地图由 Ma/l/go 制作**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Special thanks to Vueru for textures",
@@ -41,8 +49,10 @@
     "zh_trans": "**特别感谢 Vueru 提供的材质",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**An ancient shrine deep within the Jagd Ramooda**",
@@ -50,8 +60,10 @@
     "zh_trans": "**在贾格·拉穆达深处的一座古老神祠**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Like Raithwall?s tomb this too was constructed in the time of the Galtean Alliance**",
@@ -59,8 +71,10 @@
     "zh_trans": "**像雷斯沃尔的陵墓一样，这个也是在加尔提亚军盟时期建造的**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Originally to honor the ancient god of swords and martial**",
@@ -68,8 +82,10 @@
     "zh_trans": "**最初是为了纪念古代的剑与武术之神**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**It is said that a Gran Kiltias of long ago selected the Stilshrine to house the relics of Dynast-King Raithwall!**",
@@ -77,8 +93,10 @@
     "zh_trans": "**据说很久以前的一位格兰·基尔蒂亚斯选择了史提尔神殿来存放国王雷斯沃尔的遗物！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Stilshrine of Miriam will open in 15 seconds**",
@@ -86,8 +104,10 @@
     "zh_trans": "**米利暗遗迹将在 15 秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Welcome to Stilshrine of Miriam!**",
@@ -95,8 +115,10 @@
     "zh_trans": "**欢迎来到米利暗遗迹!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Thunder Magick**",
@@ -104,8 +126,10 @@
     "zh_trans": "**一名玩家已习得 雷电魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 15 seconds!**",
@@ -113,8 +137,10 @@
     "zh_trans": "**坚守这片区域 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Blizzard Magick**",
@@ -122,8 +148,10 @@
     "zh_trans": "**一名玩家已习得 冰冻魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Walk of Mind segment will unlock in 23 seconds!**",
@@ -131,8 +159,10 @@
     "zh_trans": "**心灵之墙将在 23 秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 23,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Heal Magick**",
@@ -140,8 +170,10 @@
     "zh_trans": "**一名玩家已习得 治疗魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Gates of Ward of Measure will open in 15 seconds!**",
@@ -149,8 +181,10 @@
     "zh_trans": "**大门将在 15 秒后开启！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**We need to find teleport lantern!**",
@@ -158,8 +192,10 @@
     "zh_trans": "**我们需要找到传送灯笼！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Well done! Teleport lantern has been activeted!",
@@ -167,8 +203,10 @@
     "zh_trans": "**干得好！传送灯笼已激活！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Dark Magick**",
@@ -176,8 +214,10 @@
     "zh_trans": "**一名玩家已习得 黑暗魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Gates of Cold Distance will open in 20 seconds!",
@@ -185,8 +225,10 @@
     "zh_trans": "**大门将在 20 秒后开启！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Dragon Aevis vanquished!**",
@@ -194,8 +236,10 @@
     "zh_trans": "**巨龙埃维斯被打败了！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Now we can enter new segment on temple! Find button and open new area!*",
@@ -203,8 +247,10 @@
     "zh_trans": "**现在我们可以进入神庙新的部分了！找到按钮并开启新区域！*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Gates will open in 15 seconds!**",
@@ -212,8 +258,10 @@
     "zh_trans": "**大门将在 15 秒后开启！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The Gates Ward of Steel will open in 20 seconds!",
@@ -221,8 +269,10 @@
     "zh_trans": "**大门将在 20 秒后开启！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**It's last hold! defend here for 22 seconds!**",
@@ -230,8 +280,10 @@
     "zh_trans": "**最后的守点！在这里防守 22 秒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 22,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Stage completed!**",
@@ -239,8 +291,10 @@
     "zh_trans": "**关卡完成!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Level has been changed on Ultimate Mode**",
@@ -248,8 +302,10 @@
     "zh_trans": "**正在前往 极限模式**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Wind Magick**",
@@ -257,8 +313,10 @@
     "zh_trans": "**一名玩家已习得 风魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Fire Magick**",
@@ -266,8 +324,10 @@
     "zh_trans": "**一名玩家已习得 火魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**",
@@ -275,8 +335,10 @@
     "zh_trans": "**你必须杀死所有僵尸才能获胜**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**In the distant past the Great Condemner too sought such power and was stricken down by the gods!**",
@@ -284,8 +346,10 @@
     "zh_trans": "**在遥远的过去，伟大的谴责者也曾寻求这样的力量，却被众神击倒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Even now his spirit is bound within the Stilshrine of Miriam**",
@@ -293,8 +357,10 @@
     "zh_trans": "**即便到了现在，他的灵魂仍被束缚在米利暗遗迹内** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Know the fate of those who have fallen in their search for strength**",
@@ -302,8 +368,10 @@
     "zh_trans": "**了解那些在追寻力量过程中倒下之人的命运**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Be careful! Stars are falling from the sky they can be dangerous to us!**",
@@ -311,8 +379,10 @@
     "zh_trans": "**小心！星星正在从天空坠落，它们可能会对我们造成威胁！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Nades do more damage**",
@@ -320,8 +390,10 @@
     "zh_trans": "**手雷能造成更多伤害**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defeat Judge Bergan before ship escape! If you lose we never see him again!**",
@@ -329,8 +401,10 @@
     "zh_trans": "**在船只逃离前打败裁判长！如果你失败了，我们就再也见不到他了！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "修复第四关最后跳刀BOSS高爆问题stripper已加载(by bxzl)",
@@ -338,8 +412,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**You have beaten map! Congratulations! **",
@@ -347,8 +423,10 @@
     "zh_trans": "**你已通关这张地图！恭喜！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**You Journed across the Paramina Rift to the Stilshrine of Miriam**",
@@ -356,8 +434,10 @@
     "zh_trans": "**你穿越帕拉米纳大峡谷来到了米利暗遗迹**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**here rests the gift he entrusted to the Gran Kiltias of his time**",
@@ -365,8 +445,10 @@
     "zh_trans": "**这里安息着他托付给他那个时代的格兰·基尔蒂亚斯的礼物** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 17 seconds!**",
@@ -374,8 +456,10 @@
     "zh_trans": "**坚守这个区域 17 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 17,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Seek it out. The Sword of Kings... can cut through nethicite!**",
@@ -383,8 +467,10 @@
     "zh_trans": "**去寻找它。王者之剑……可以斩断魔石！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Gates will open in 10 seconds!**",
@@ -392,8 +478,10 @@
     "zh_trans": "**大门将在 10 秒后开启！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The Gates Walk of Prescience will open in 15 seconds!",
@@ -401,8 +489,10 @@
     "zh_trans": "**先见之廊的大门将在 15 秒后开启！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Well done! Teleport lantern has been activeted!**",
@@ -410,8 +500,10 @@
     "zh_trans": "**干得好！传送灯笼已被激活！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area until teleport start working!**",
@@ -419,8 +511,10 @@
     "zh_trans": "**坚守这个区域，直到传送开始生效！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Myath blocking path! Shoot him!**",
@@ -428,8 +522,10 @@
     "zh_trans": "**迈亚斯挡住了道路！开火！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Myath is defeated! Keep running!**",
@@ -437,8 +533,10 @@
     "zh_trans": "**迈亚斯被击败了！继续撤退！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Gates will open in 20 seconds!**",
@@ -446,8 +544,10 @@
     "zh_trans": "**大门将在 20 秒后打开！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area until way is open!**",
@@ -455,8 +555,10 @@
     "zh_trans": "**守住这个区域，直到道路打开！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The way past the colossus is open!**",
@@ -464,8 +566,10 @@
     "zh_trans": "**通过巨像的道路已打开！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Esper Mateus vanquished!**",
@@ -473,8 +577,10 @@
     "zh_trans": "**幻兽马提乌斯已被击败！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend until the gates is open!**",
@@ -482,8 +588,10 @@
     "zh_trans": "**防御直到大门打开！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The Gates are open! Hurry up take Sword of Kings!**",
@@ -491,8 +599,10 @@
     "zh_trans": "**大门已开启！赶快去拿王者之剑！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 8 seconds!**",
@@ -500,8 +610,10 @@
     "zh_trans": "**坚守这个区域 8 秒钟！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up Sword of Kings**",
@@ -509,8 +621,10 @@
     "zh_trans": "**一名玩家拾取了王者之剑**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Only player with Sword of Kings can save you! Don't let him die!**",
@@ -518,8 +632,10 @@
     "zh_trans": "**只有拥有王者之剑的玩家才能救你们！别让他死了！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Wait 12 seconds until teleport is enable!**",
@@ -527,8 +643,10 @@
     "zh_trans": "**等待 12 秒，直到传送打开！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 12,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold here for 10 seconds!**",
@@ -536,8 +654,10 @@
     "zh_trans": "**在此坚守 10 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Mateus come back again! Shoot!**",
@@ -545,8 +665,10 @@
     "zh_trans": "**马提乌斯又来了！射击！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Mateus vanquished! Keep running!**",
@@ -554,8 +676,10 @@
     "zh_trans": "**马提乌斯被击败了！继续跑！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Oil Magick**",
@@ -563,8 +687,10 @@
     "zh_trans": "**一名玩家已获得 油魔法**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We have to check what the next segment of the temple is hiding in front of us!**",
@@ -572,8 +698,10 @@
     "zh_trans": "**我们必须去神庙的下个区域看看里面隐藏着什么！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Go to the undiscovered part of the temple and explore its nooks and crannies!**",
@@ -581,8 +709,10 @@
     "zh_trans": "**前往神庙未被发现的部分并探索它的每个角落！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 20 seconds!**",
@@ -590,8 +720,10 @@
     "zh_trans": "**守住这个区域 20 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Smoke?**",
@@ -599,8 +731,10 @@
     "zh_trans": "**烟?**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**What could it mean?**",
@@ -608,8 +742,10 @@
     "zh_trans": "**这是什么意思?**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We get the hell back to city and soon as possible!**",
@@ -617,8 +753,10 @@
     "zh_trans": "**我们要尽快赶回城里去!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold here! I will take you on the airship.. And then we will back to city!**",
@@ -626,8 +764,10 @@
     "zh_trans": "**守住这里！我会用飞艇带你走.. 然后我们就回城市！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Find the answers to what's happening in this city**",
@@ -635,8 +775,10 @@
     "zh_trans": "**了解这座城市正在发生的一切**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We don't have time! Hurry up!**",
@@ -644,8 +786,10 @@
     "zh_trans": "**我们没有时间了！快一点！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 28 seconds!**",
@@ -653,8 +797,10 @@
     "zh_trans": "**守住这个区域 28 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 28,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold here for 25 seconds!**",
@@ -662,8 +808,10 @@
     "zh_trans": "**在这里坚守 25 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A Player has acquired Esper Mateus**",
@@ -671,8 +819,10 @@
     "zh_trans": "**一名玩家已获得 幻兽马提乌斯**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gabranth couldn?t easily died! We need to find him as soon as possible before the imperial army attacks!**",
@@ -680,8 +830,10 @@
     "zh_trans": "**加布拉斯不会轻易死去！我们必须在帝国军进攻之前尽快找到他！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gabranth must heal his wounds and he?s probably escaped to the city?s underworld. Find him and kill!**",
@@ -689,8 +841,10 @@
     "zh_trans": "**加布拉斯现在必须要疗伤，他很可能逃到了城市的地下世界。找到并杀掉他！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold here for 15 seconds!**",
@@ -698,8 +852,10 @@
     "zh_trans": "**在这里坚守 15 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Imperial army must have set a trap beforehand. Find Gabrantha and get out of here!**",
@@ -707,8 +863,10 @@
     "zh_trans": "**帝国军肯定事先设下了陷阱。找到加布拉斯然后离开这里！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold here for 20 seconds!**",
@@ -716,8 +874,10 @@
     "zh_trans": "**在这里坚守 20 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**We are almost there! Keep defending!**",
@@ -725,8 +885,10 @@
     "zh_trans": "**我们就快成功了！保持火力！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Nade do more damage!**",
@@ -734,8 +896,10 @@
     "zh_trans": "**手雷能造成更多伤害!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We need to defeat Gabranth once for all! Shoot him!**",
@@ -743,8 +907,10 @@
     "zh_trans": "**彻底击败加布拉斯，永绝后患！开火！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 25 seconds!**",
@@ -752,7 +918,163 @@
     "zh_trans": "**守住这个区域 25 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "**A Player has acquired Earth Magick**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**Find and kill General of Imperial Army then try to get the hell out of here**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**You can't fail**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**The way will open in 20 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "**Cactuar blocked the road!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**To get that materia you need to shoot him!*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**The Gate of Tower will open in 24 seconds**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 24,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "**We need to stop Imperial army! If you lose they capture city!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**Find General and kill him! You can't lose!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**If you defeat Judge! Find way out and get out of here!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**Hold area for 45 seconds!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 45,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "**Judge Bergan escape! We need to find him and kill once for all!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**Most likely Judge Bergan want escape by ship! Exit the tower fast!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**The Gate will open in 35 second!**",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
