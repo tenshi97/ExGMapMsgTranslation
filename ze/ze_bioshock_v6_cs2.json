@@ -5,8 +5,10 @@
     "zh_trans": ">>生化奇兵<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Map by DormantLemon<<",
@@ -14,8 +16,10 @@
     "zh_trans": ">>地图作者:DormantLemon<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Introduction<<",
@@ -23,8 +27,10 @@
     "zh_trans": ">>介绍<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Warmup ends in 60 seconds<<<",
@@ -32,8 +38,10 @@
     "zh_trans": ">>>热身回合将在60秒后结束<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Current Difficulty: Hard<<",
@@ -41,8 +49,10 @@
     "zh_trans": ">>当前难度:困难<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #1: Big Daddy is immensely strong. Don't let him get close<<",
@@ -50,8 +60,10 @@
     "zh_trans": ">>提示 #1：大老爹极其强壮。别让他靠近<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #2: Repeated losses will make the map easier. Don't give up!<<",
@@ -59,8 +71,10 @@
     "zh_trans": ">>提示#2：多次失败会让地图难度降低。别放弃！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #3: Plasmids are limited use. Keep count!<<",
@@ -68,8 +82,10 @@
     "zh_trans": ">>提示 #3：神器的使用次数有限。要留意数量！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<",
@@ -77,8 +93,10 @@
     "zh_trans": ">>提示#4：在“全民力量”站升级你的神器。升级是永久性的。谨慎选择！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<",
@@ -86,8 +104,10 @@
     "zh_trans": ">>提示#5：小妹妹可以采集尸体来强化她的队友。把她们找出来！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #6: Gene Tonics take effect on death. Don't die in vain!<<",
@@ -95,8 +115,10 @@
     "zh_trans": ">>提示#6：基因强化剂在死亡时生效。别白白送死。<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>TIP #7: Lost health? Visit a health station to recover it!<<",
@@ -104,8 +126,10 @@
     "zh_trans": ">>提示#7：血量剩余不多？可以去加血站回复<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Introduction Complete<<<",
@@ -113,8 +137,10 @@
     "zh_trans": "介绍完成",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Chapter 1 - Welcome to Rapture<<",
@@ -122,8 +148,10 @@
     "zh_trans": ">>第一章 —— 欢迎来到销魂城<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*ADMIN Room: Plasmids set to max level*",
@@ -131,8 +159,10 @@
     "zh_trans": "***admin:神器已设置为最高等级***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Insect Swarm 2***",
@@ -140,8 +170,10 @@
     "zh_trans": "***蜂群已提升至等级2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Winter Blast 2***",
@@ -149,8 +181,10 @@
     "zh_trans": "***寒霜已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Gravity Well 2***",
@@ -158,8 +192,10 @@
     "zh_trans": "***重力已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Sonic Boom 2***",
@@ -167,8 +203,10 @@
     "zh_trans": "***音爆已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Incinerate 2***",
@@ -176,8 +214,10 @@
     "zh_trans": "***焚烧已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Electro Bolt 2***",
@@ -185,8 +225,10 @@
     "zh_trans": "***电震波已升级至等级2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Insect Swarm 3***",
@@ -194,8 +236,10 @@
     "zh_trans": "***蜂群已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Winter Blast 3***",
@@ -203,8 +247,10 @@
     "zh_trans": "***寒霜已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Gravity Well 3***",
@@ -212,8 +258,10 @@
     "zh_trans": "***重力已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Sonic Boom 3***",
@@ -221,8 +269,10 @@
     "zh_trans": "***音爆已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Incinerate 3***",
@@ -230,8 +280,10 @@
     "zh_trans": "***焚烧已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid upgraded: Electro Bolt 3***",
@@ -239,8 +291,10 @@
     "zh_trans": "***电震波已升级至等级3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*ADMIN Room: Next round set to Chapter 4*",
@@ -248,8 +302,10 @@
     "zh_trans": "*管理员:下一回合更改为第四关*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for Bathysphere arrival - 25s<<",
@@ -257,8 +313,10 @@
     "zh_trans": ">>等待深海球形潜水器-25秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Chapter 4 - Hephaestus<<",
@@ -266,8 +324,10 @@
     "zh_trans": ">>第四章 —— 赫菲斯托斯<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Hephaestus security checks in progress.. - 15s<<",
@@ -275,8 +335,10 @@
     "zh_trans": ">>赫菲斯托斯安全检查进行中-15秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for Hephaestus to open - 15s<<",
@@ -284,8 +346,10 @@
     "zh_trans": ">>等待赫菲斯托斯开启-15秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Hephaestus is open<<",
@@ -293,8 +357,10 @@
     "zh_trans": ">>赫菲斯托斯已开启<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for Trophy Room access - 35s<<",
@@ -302,8 +368,10 @@
     "zh_trans": ">>等待进入奖杯陈列室——还需35秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>AFK teleport in 5s<<",
@@ -311,8 +379,10 @@
     "zh_trans": ">>挂机玩家在5秒后传送<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Door is open<<",
@@ -320,8 +390,10 @@
     "zh_trans": ">>大门已打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Evaporate the flood water<<",
@@ -329,8 +401,10 @@
     "zh_trans": ">>蒸发洪水<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Elevator is leaving - 5s<<",
@@ -338,8 +412,10 @@
     "zh_trans": ">>电梯即将离开——还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Laser incoming<<",
@@ -347,8 +423,10 @@
     "zh_trans": ">>激光来袭<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Get back to the elevator<<",
@@ -356,8 +434,10 @@
     "zh_trans": ">>回到电梯那里<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Elevator will be leaving soon<<",
@@ -365,8 +445,10 @@
     "zh_trans": ">>电梯很快就要离开了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*AFK teleport in 3s*",
@@ -374,8 +456,10 @@
     "zh_trans": "*挂机玩家3秒后传送*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>Bathysphere door opens in 20 seconds<<<",
@@ -383,8 +467,10 @@
     "zh_trans": ">>>深海球形潜水器的舱门将在20秒后打开<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Bathysphere is docking...<<",
@@ -392,8 +478,10 @@
     "zh_trans": ">>深海球形潜水器正在对接<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Get in the Bathysphere - 12s<<",
@@ -401,8 +489,10 @@
     "zh_trans": ">>进入深海球形潜水器——还剩12秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 12,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Hold the Atrium - 22s<<",
@@ -410,8 +500,10 @@
     "zh_trans": ">>坚守中庭——还需22秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 22,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid obtained: Winter Blast***",
@@ -419,8 +511,10 @@
     "zh_trans": "***一名玩家获得寒霜***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid obtained: Electro Bolt***",
@@ -428,8 +522,10 @@
     "zh_trans": "***一名玩家获得电震波***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid obtained: Incinerate***",
@@ -437,8 +533,10 @@
     "zh_trans": "***一名玩家获得焚烧***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Hold until secuity door releases - 15s<<",
@@ -446,8 +544,10 @@
     "zh_trans": ">>坚守住，直到安全门开启——还剩15秒。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid obtained: Insect Swarm***",
@@ -455,8 +555,10 @@
     "zh_trans": "***一名玩家获得蜂群***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for the elevators arrival<<",
@@ -464,8 +566,10 @@
     "zh_trans": ">>等待电梯到达<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*AFK teleport in 5s*",
@@ -473,8 +577,10 @@
     "zh_trans": "*挂机玩家在5秒后传送*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Elevator 1 leaving - 5s<<",
@@ -482,8 +588,10 @@
     "zh_trans": ">>1号电梯即将离开——还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Elevator 2 leaving - 5s<<",
@@ -491,8 +599,10 @@
     "zh_trans": ">>2号电梯即将离开——还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Hold until the security door releases<<",
@@ -500,8 +610,10 @@
     "zh_trans": ">>坚守住，直到安全门开启<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid obtained: Sonic Boom***",
@@ -509,8 +621,10 @@
     "zh_trans": "***一名玩家获得音爆***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "That's a Little Sister. Looks like she's alone...",
@@ -518,8 +632,10 @@
     "zh_trans": "那是小妹妹,看起来她仍然独自一人",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for the arrival of Rapture Metro<<",
@@ -527,8 +643,10 @@
     "zh_trans": ">>等待极乐城地铁的到来<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Board and defend the Rapture Metro<<",
@@ -536,8 +654,10 @@
     "zh_trans": ">>登上“极乐城地铁”并进行防守。<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>A Little Sister has been spotted nearby<<<",
@@ -545,8 +665,10 @@
     "zh_trans": ">>>附近发现了一个小妹妹<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Current Difficulty: Easy<<",
@@ -554,8 +676,10 @@
     "zh_trans": ">>当前难度：简单<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>The Big Daddy is lurking<<<",
@@ -563,8 +687,10 @@
     "zh_trans": ">>>大老爹正在潜伏着<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Plasmid obtained: Gravity Well***",
@@ -572,8 +698,10 @@
     "zh_trans": "***重力已被拾取***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>SECRET: Found the Bird Token<<",
@@ -581,8 +709,10 @@
     "zh_trans": ">>别告诉别人,我找到了鸟形代币。<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Chapter complete<<<",
@@ -590,8 +720,10 @@
     "zh_trans": ">>>章节完成<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Chapter 2 - Fort Frolic<<",
@@ -599,8 +731,10 @@
     "zh_trans": ">>第二章—欢乐堡<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for Siren Alley doors to open - 15s<<",
@@ -608,8 +742,10 @@
     "zh_trans": ">>等待海妖小巷的门开启——15秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Splicers have been blocked for 8 seconds*",
@@ -617,8 +753,10 @@
     "zh_trans": "*基因改造人已被阻挡了8秒*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Hide or hold until the exit has drained - 84s<<",
@@ -626,8 +764,10 @@
     "zh_trans": ">>坚守原地，直到出口的水排空-需要84秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 84,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Splicers have been blocked for 6 seconds*",
@@ -635,8 +775,10 @@
     "zh_trans": "*基因改造人已被阻挡了6秒*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Splicers have been blocked for 4 seconds*",
@@ -644,8 +786,10 @@
     "zh_trans": "*基因改造人已被阻挡了4秒*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Splicers have been blocked for 2 seconds*",
@@ -653,8 +797,10 @@
     "zh_trans": "*基因改造人已被阻挡了2秒*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Splicers have been freed!*",
@@ -662,8 +808,10 @@
     "zh_trans": "*基因改造人已经无法阻挡*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Hold the Decompression Chamber<<",
@@ -671,8 +819,10 @@
     "zh_trans": ">>守住减压舱<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend until Cohen opens the doors - 20s<<",
@@ -680,8 +830,10 @@
     "zh_trans": ">>防守直至桑德·科恩打开门——还剩20秒。<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Hold the doorway - 5s<<",
@@ -689,8 +841,10 @@
     "zh_trans": ">>守住门口—还剩5秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Go up the stairs<<",
@@ -698,8 +852,10 @@
     "zh_trans": ">>上去<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for Poseidon Plaza to unfreeze<<",
@@ -707,8 +863,10 @@
     "zh_trans": ">>等待波塞冬广场解冻<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend while the door unfreezes - 20s<<",
@@ -716,8 +874,10 @@
     "zh_trans": ">>在门解冻期间进行防守—还剩20秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Defend Jasmine Jolie's room - 60s<<",
@@ -725,8 +885,10 @@
     "zh_trans": ">>防守玛丽-凯瑟琳·乔琳娜的房间—60秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Chapter 3 - Arcadia<<",
@@ -734,8 +896,10 @@
     "zh_trans": ">>第三章-阿卡迪亚<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Hold the Balcony<<",
@@ -743,8 +907,10 @@
     "zh_trans": ">>守住阳台",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*ADMIN Room: Next round set to Chapter 1*",
@@ -752,8 +918,10 @@
     "zh_trans": "*调关房: 下回合为 第一章*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*ADMIN Room: Difficulty permanently set to EASY*",
@@ -761,8 +929,10 @@
     "zh_trans": "*调关房: 难度已永久设置为 简单*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Hold Julie Langford's Garden<<",
@@ -770,8 +940,10 @@
     "zh_trans": ">>守住朱莉・兰福德的花园<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "当前真结局和1999模式存在卡服情况，禁用 (by bxzl) loaded",
@@ -779,8 +951,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Defend the Bathysphere - 40s<<",
@@ -788,8 +962,10 @@
     "zh_trans": ">>保卫深海球形潜水器-剩余40秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Chapter Completed<<",
@@ -797,8 +973,10 @@
     "zh_trans": ">>章节已完成<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Find the secrets for the true ending<<<",
@@ -806,8 +984,10 @@
     "zh_trans": ">>>寻找达成真正结局的秘密<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Bad ending obtained!<<<",
@@ -815,8 +995,10 @@
     "zh_trans": ">>>已达成坏结局<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Campaign Completed<<",
@@ -824,8 +1006,10 @@
     "zh_trans": ">>战役已完成<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Thank you for playing. Try 1999 mode for a true challenge<<",
@@ -833,8 +1017,10 @@
     "zh_trans": ">>感谢游玩，尝试1999模式，迎接真正的挑战<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>SECRET: Found the Cage Token<<",
@@ -842,8 +1028,10 @@
     "zh_trans": ">>秘密信息：已找到牢笼信物<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for corridor to drain...<<",
@@ -851,8 +1039,10 @@
     "zh_trans": ">>等待走廊里的水排干...<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Hold until the security door unlocks<<",
@@ -860,8 +1050,10 @@
     "zh_trans": ">>守到安全门解锁<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Detonate and Destroy the tunnel<<",
@@ -869,8 +1061,10 @@
     "zh_trans": ">>引爆炸药摧毁隧道<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Splicers must not make it past the marker<<",
@@ -878,8 +1072,10 @@
     "zh_trans": ">>绝不能让基因改造人越过标记处<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Chapter failed<<<",
@@ -887,8 +1083,10 @@
     "zh_trans": ">>>章节失败<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>SECRET: Found the Airship Token<<",
@@ -896,8 +1094,10 @@
     "zh_trans": ">>秘密：找到了飞艇代币<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*ADMIN Room: Difficulty permanently set to HARD*",
@@ -905,8 +1105,10 @@
     "zh_trans": "*调关房: 难度已永久设置为 困难*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>SECRET: Found the Vox Populi Token<<",
@@ -914,8 +1116,10 @@
     "zh_trans": ">>秘密：找到了人民呼声代币<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Extra Chapter - 1999<<",
@@ -923,8 +1127,10 @@
     "zh_trans": ">>额外章节 - 1999<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>1999 is a special mode<<",
@@ -932,8 +1138,10 @@
     "zh_trans": ">>1999模式是一个跨越所有地点的一关制的挑战模式<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Its long and difficult<<",
@@ -941,8 +1149,10 @@
     "zh_trans": ">>这个模式会比前四关难，全流程大约需要14-20分钟<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Enjoy it<<",
@@ -950,8 +1160,10 @@
     "zh_trans": ">>祝各位轻松拿下，玩得愉快！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for the storage doors to open - 60<<",
@@ -959,8 +1171,10 @@
     "zh_trans": ">>等待仓库门开 - 60 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>There are 2 ways to go. Someone must take the upper path<<",
@@ -968,8 +1182,10 @@
     "zh_trans": ">>有两条路可走。必须有人走上面那条路<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>They must go and open the lower door from behind<<",
@@ -977,8 +1193,10 @@
     "zh_trans": ">>他们必须从后面打开下面那扇门<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for access to Fort Frolic<<",
@@ -986,8 +1204,10 @@
     "zh_trans": ">>等待进入欢乐堡的通道开启<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for access to the Bathysphere - 35s<<",
@@ -995,8 +1215,10 @@
     "zh_trans": ">>等待进入深海球形潜水器 - 35 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Hold the Wineries - 25s<<",
@@ -1004,8 +1226,10 @@
     "zh_trans": ">>坚守酒庄 - 25 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>All emblems obtained<<<",
@@ -1013,8 +1237,10 @@
     "zh_trans": ">>>所有徽章已获取<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Kill the Patriot<<",
@@ -1022,8 +1248,10 @@
     "zh_trans": ">>除掉机动爱国者<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>A Patriot is awake. Kill it!<<<",
@@ -1031,8 +1259,10 @@
     "zh_trans": ">>>机动爱国者苏醒了。干掉它！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for rail access - 15s<<",
@@ -1040,8 +1270,10 @@
     "zh_trans": ">>等待轨道放行 - 15 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>Jump onto the rail!<<<",
@@ -1049,8 +1281,10 @@
     "zh_trans": ">>>跳上轨道！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>You must wait for the islands to align - 30s<<",
@@ -1058,8 +1292,10 @@
     "zh_trans": ">>须待浮空岛完成校准，方可继续 - 30 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for garden access - 20s<<",
@@ -1067,8 +1303,10 @@
     "zh_trans": ">>等待花园开启 - 20 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Service must end before you may enter - 25s<<",
@@ -1076,8 +1314,10 @@
     "zh_trans": ">>接受洗礼之后才能进入 - 25 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Elizabeth is searching for a tear - 50s<<",
@@ -1085,8 +1325,10 @@
     "zh_trans": ">>伊丽莎白正在寻找时空裂隙 - 50 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Wait for the security door to open - 20s<<",
@@ -1094,8 +1336,10 @@
     "zh_trans": ">>等待安全门打开 - 20 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Defend while the door opens - 50s<<",
@@ -1103,8 +1347,10 @@
     "zh_trans": ">>守到门开 - 50 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Defend until the doors close - 15s<<",
@@ -1112,8 +1358,10 @@
     "zh_trans": ">>守至门关 - 15 秒<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Tip: The Songbird is vulnerable only to headshots. Remember this<<",
@@ -1121,8 +1369,10 @@
     "zh_trans": ">>提示：夜莺只有头部中弹才会受伤害。记住这点<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>ELIZABETH: This is it! Defend the boat!<<<",
@@ -1130,8 +1380,10 @@
     "zh_trans": ">>>伊丽莎白：就是这样！守住我们的船！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Elizabeth can't control the tear! Teleport in 5 seconds<<<",
@@ -1139,8 +1391,10 @@
     "zh_trans": ">>>伊丽莎白无法控制自己的眼泪！5秒后传送僵尸<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>ELIZABETH: The boat! GET IN THE BOAT<<<",
@@ -1148,8 +1402,10 @@
     "zh_trans": ">>>伊丽莎白：那里有一艘船！赶快上船<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>CONGRATULATIONS!<<<",
@@ -1157,8 +1413,10 @@
     "zh_trans": ">>>全图通关!恭喜！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>TRUE ENDING OBTAINED<<<",
@@ -1166,8 +1424,10 @@
     "zh_trans": ">>>真结局达成<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>It's your chance. Kill the Songbird<<",
@@ -1175,8 +1435,10 @@
     "zh_trans": ">>就是现在，击杀夜莺<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Congratulations<<",
@@ -1184,8 +1446,10 @@
     "zh_trans": ">>>全图通关!恭喜！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Thank you for playing<<",
@@ -1193,7 +1457,20 @@
     "zh_trans": ">>感谢游玩<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "You've come to the wrong place, go back",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]

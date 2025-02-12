@@ -5,8 +5,10 @@
     "zh_trans": "***检测到僵尸 - 你输了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MUFASA IS PRAYING FOR THE TRUTH***",
@@ -14,8 +16,10 @@
     "zh_trans": "***木法沙正在为真相祈祷（老狮子触发）***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ZAZU IS PRAYING FOR THE TRUTH***",
@@ -23,8 +27,10 @@
     "zh_trans": "***扎祖正在为真相祈祷（鹦鹉触发）***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LUFFAREN HAS ENTERED THE ADMIN ROOM***",
@@ -32,8 +38,10 @@
     "zh_trans": "***LUFFAREN 进入了ADMIN房间***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***",
@@ -41,8 +49,10 @@
     "zh_trans": "***此门将在两条路都被清除后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FALL BACK***",
@@ -50,8 +60,10 @@
     "zh_trans": "***撤退***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE ETERNAL TRUTH HAS BEEN RETRACTED***",
@@ -59,8 +71,10 @@
     "zh_trans": "***永恒的真理已被撤回***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS ALWAYS WATCHING***",
@@ -68,8 +82,10 @@
     "zh_trans": "***苏格拉底会一直凝视着你...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***UPPER GATE IS OPENING***",
@@ -77,8 +93,10 @@
     "zh_trans": "***上层闸门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***UPPER GATE IS OPENING IN 30 SECONDS***",
@@ -86,8 +104,10 @@
     "zh_trans": "***上层闸门在30秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER GATE IS OPENING IN 30 SECONDS***",
@@ -95,8 +115,10 @@
     "zh_trans": "***下层闸门在30秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER GATE IS OPENING***",
@@ -104,8 +126,10 @@
     "zh_trans": "***下层门正在开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ACT 2 COMPLETE***",
@@ -113,8 +137,10 @@
     "zh_trans": "***第二章节 完成***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ACT 1 COMPLETE***",
@@ -122,8 +148,10 @@
     "zh_trans": "***第一章节 完成***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE CURSE OF ETERNAL TRUTH HAS BEEN LIFTED***",
@@ -131,8 +159,10 @@
     "zh_trans": "***简直令人难以置信，永恒真理的诅咒已被解除***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU ARE THE ETERNAL LEGENDS***",
@@ -140,8 +170,10 @@
     "zh_trans": "***你们是真正的狮子王永恒传奇玩家！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE ETERNAL TRUTH HAS BEEN SUMMONED***",
@@ -149,8 +181,10 @@
     "zh_trans": "***永恒的真理已被召唤...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES WILL BE WITH YOU FOREVER***",
@@ -158,8 +192,10 @@
     "zh_trans": "***苏格拉底将永远与你同在***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE ETERNAL TRUTH LOOMS***",
@@ -167,8 +203,10 @@
     "zh_trans": "***永恒的真理若隐若现***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***",
@@ -176,8 +214,10 @@
     "zh_trans": "***超级苏格拉底僵尸将在5秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***",
@@ -185,8 +225,10 @@
     "zh_trans": "***制图者感到需要弥补他所缺乏的某些东西***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DON'T TELL HIM I SAID THAT***",
@@ -194,8 +236,10 @@
     "zh_trans": "***别告诉他是我说的***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LUFFAREN HAS ENTERED THE GAME***",
@@ -203,8 +247,10 @@
     "zh_trans": "***地图作者LUFFAREN 加入了游戏！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THERE IS NOTHING LEFT FOR YOU HERE...***",
@@ -212,8 +258,10 @@
     "zh_trans": "***你已经是冠军了，这里已经没有东西留给你了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NOTHING IS NOT REAL***",
@@ -221,8 +269,10 @@
     "zh_trans": "***没有什么东西是真实的***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LEAVE THIS REALM***",
@@ -230,8 +280,10 @@
     "zh_trans": "***离开这个地方，输入RTV***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUTH IS UNFORGIVING***",
@@ -239,8 +291,10 @@
     "zh_trans": "***如果真相带来痛苦,谎言只会雪上加霜***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PERISH***",
@@ -248,8 +302,10 @@
     "zh_trans": "***死亡***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU HAVE DONE IT!***",
@@ -257,8 +313,10 @@
     "zh_trans": "***你做到了!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***",
@@ -266,8 +324,10 @@
     "zh_trans": "***你打败了苏格拉底 - 真正的圣诞老人***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU WILL BE REMEMBERED AS CHAMPIONS***",
@@ -275,8 +335,10 @@
     "zh_trans": "***你将会被铭记为冠军***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THANK YOU FOR PLAYING***",
@@ -284,8 +346,10 @@
     "zh_trans": "***感谢您的游玩！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MAP MADE BY - LUFFAREN***",
@@ -293,8 +357,10 @@
     "zh_trans": "***地图作者 - LUFFAREN***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE END***",
@@ -302,8 +368,10 @@
     "zh_trans": "***全剧终***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** - TRUE SANTA - ***",
@@ -311,8 +379,10 @@
     "zh_trans": "*** - 真正的圣诞老人 - ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SPEEDER ITEMS ACTIVATED***",
@@ -320,8 +390,10 @@
     "zh_trans": "***加速神器已被激活***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***",
@@ -329,8 +401,10 @@
     "zh_trans": "***你想跳关到EX关吗? > 站在下面的平台上***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE VOTE HAS SPOKEN***",
@@ -338,8 +412,10 @@
     "zh_trans": "***投票结果已经出来了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ENABLING EXTREME MODE***",
@@ -347,8 +423,10 @@
     "zh_trans": "***开启EX模式 探索永恒的真理***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RESTARTING ROUND***",
@@ -356,8 +434,10 @@
     "zh_trans": "***重启回合***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HAIL TRUMP***",
@@ -365,8 +445,10 @@
     "zh_trans": "***愿特朗普保佑你***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***80% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***",
@@ -374,8 +456,10 @@
     "zh_trans": "***需要80%的人投票才能通过***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***TRUMP IS PROUD OF YOU***",
@@ -383,8 +467,10 @@
     "zh_trans": "***特朗普为你感到自豪***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***WANNA REVERT BACK TO NORMAL MODE? > STEP ON THE PLATFORM***",
@@ -392,8 +478,10 @@
     "zh_trans": "***想要退出永恒的真理吗？>站在下面的平台上***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***REVERTING TO NORMAL MODE***",
@@ -401,8 +489,10 @@
     "zh_trans": "***恢复正常模式***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***STOP THE COUNT!!!!!***",
@@ -410,8 +500,10 @@
     "zh_trans": "**停止计数!!!!!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***",
@@ -419,8 +511,10 @@
     "zh_trans": "***卤粉注意到，你不喜欢他的新混音带***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***",
@@ -428,8 +522,10 @@
     "zh_trans": "***卤粉认为你可能需要为这种无礼行为受到一些惩罚***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BE PREPARED FOR SOMETHING SPECIAL...***",
@@ -437,8 +533,10 @@
     "zh_trans": "***为一些特别的东西做好准备...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***...SOMETHING VERY SPECIAL...***",
@@ -446,8 +544,10 @@
     "zh_trans": "***...一些非常特别的东西...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIES GOT INSIDE - YOU LOSE***",
@@ -455,8 +555,10 @@
     "zh_trans": "***僵尸进来了！你输了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SIMBA IS PRAYING FOR THE TRUTH***",
@@ -464,8 +566,10 @@
     "zh_trans": "辛巴真正为了真相祈祷（小狮子被触发）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** - SANTA - ***",
@@ -473,8 +577,10 @@
     "zh_trans": "*** - 圣诞老人 - ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU HAVE DEFEATED SANTA***",
@@ -482,8 +588,10 @@
     "zh_trans": "***你击败了圣诞老人！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FOR NOW... IT SEEMS***",
@@ -491,8 +599,10 @@
     "zh_trans": "***但现在... 他看起来...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU HAVE DEFEATED SANTA CLAUS***",
@@ -500,8 +610,10 @@
     "zh_trans": "***你击败了胖子圣诞老人！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MUFASAS DEATH HAS BEEN AVENGED***",
@@ -509,8 +621,10 @@
     "zh_trans": "***狮子王的死亡之仇已报***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PEACE WILL NOW SPREAD THROUGH THE LANDS***",
@@ -518,8 +632,10 @@
     "zh_trans": "***和平的曙光将照耀整片大地！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MAP MADE BY - LUFFAREN***",
@@ -527,8 +643,10 @@
     "zh_trans": "***地图作者 - LUFFAREN***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** - BIG SANTA - ***",
@@ -536,8 +654,10 @@
     "zh_trans": "*** - 胖子圣诞老人 - ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ROCK WALL WILL BREAK IN 15 SECONDS***",
@@ -545,8 +665,10 @@
     "zh_trans": "***岩壁将在15秒后破裂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ROCK WALL WILL BREAK IN 5 SECONDS***",
@@ -554,8 +676,10 @@
     "zh_trans": "***岩壁将在5秒后破裂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SNOW WALL WILL BREAK IN 10 SECONDS***",
@@ -563,8 +687,10 @@
     "zh_trans": "***雪墙将在10秒后破裂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***STAGE SET - PROLOGUE***",
@@ -572,8 +698,10 @@
     "zh_trans": "***关卡设置 - 序章***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***STAGE SET - ACT I***",
@@ -581,8 +709,10 @@
     "zh_trans": "***关卡设置 - 第一章***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***STAGE SET - ACT II***",
@@ -590,8 +720,10 @@
     "zh_trans": "***关卡设置 - 第二章***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***STAGE SET - ACT III***",
@@ -599,8 +731,10 @@
     "zh_trans": "***关卡设置 - 第三章***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE ULTIMATE MURDER BUTTON HAS BEEN PRESSED***",
@@ -608,8 +742,10 @@
     "zh_trans": "***超级无敌谋杀按钮已被按下***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MERRY XMAS***",
@@ -617,8 +753,10 @@
     "zh_trans": "***圣诞节快乐！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***...AND HAPPY SIMBA DAY***",
@@ -626,8 +764,10 @@
     "zh_trans": "***...还有快乐辛巴节***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "^This fella is a silly-willy that everyone should point and laugh at!",
@@ -635,8 +775,10 @@
     "zh_trans": "这个家伙是个傻瓜，大家应该指着他笑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "^That was the stupidest thing I've ever heard as a map",
@@ -644,8 +786,10 @@
     "zh_trans": "那是我听过的最蠢的地图设计。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!",
@@ -653,8 +797,10 @@
     "zh_trans": "万岁，卤粉！，河狸与梦想之神！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hey there everyone, you should totally send Luffaren some hot nudes ASAP!",
@@ -662,8 +808,10 @@
     "zh_trans": "嗨！大家好，你们应该马上给卤粉发一些性感的裸照！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "HEY EVERYONE! Kaemon is a wet biscuit!!!",
@@ -671,8 +819,10 @@
     "zh_trans": "全体目光向我看齐! 我宣布个事! Kaemon正在鹿管!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Type 1 if you are jerking it right now",
@@ -680,8 +830,10 @@
     "zh_trans": "如果你现在在做那事，请扣1",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY",
@@ -689,8 +841,10 @@
     "zh_trans": "人终有一死",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "SEND ALL YOUR NUDES TO LUFFAREN!!!",
@@ -698,8 +852,10 @@
     "zh_trans": "把你所有的涩图都发给Luffaren！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "^Wtf are you even talking about?",
@@ -707,8 +863,10 @@
     "zh_trans": "你到底在说什么鬼话？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "What",
@@ -716,8 +874,10 @@
     "zh_trans": "什么",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "HEY GUYS!",
@@ -725,8 +885,10 @@
     "zh_trans": "嘿，大家！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http://steamcommunity.com/id/kaemonarch/",
@@ -734,8 +896,10 @@
     "zh_trans": "大家都去这里告诉Kaemon别再偷懒了 - http://steamcommunity.com/id/kaemonarch/",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Everyone should really consider sending Luffaren some nudes",
@@ -743,8 +907,10 @@
     "zh_trans": "大家真的应该考虑给Luffaren发一些涩图。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Where da nudes for Luffaren b at?",
@@ -752,8 +918,10 @@
     "zh_trans": "Luffaren的涩图在哪里？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIE DETECTED - YOU FAIL***",
@@ -761,8 +929,10 @@
     "zh_trans": "***检测到僵尸 - 你输了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MUFASA IS PRAYING FOR THE TRUTH***",
@@ -770,8 +940,10 @@
     "zh_trans": "***木法沙正在为真相祈祷（老狮子触发）***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ZAZU IS PRAYING FOR THE TRUTH***",
@@ -779,8 +951,10 @@
     "zh_trans": "***扎祖正在为真相祈祷（鹦鹉触发）***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOMETHING IS COMING...***",
@@ -788,8 +962,10 @@
     "zh_trans": "***有什么东西来了...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RUN***",
@@ -797,8 +973,10 @@
     "zh_trans": "***快跑***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GET UP ON THAT ROCK***",
@@ -806,8 +984,10 @@
     "zh_trans": "***找到石头爬上去！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PROLOGUE COMPLETE***",
@@ -815,8 +995,10 @@
     "zh_trans": "***序章完成***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SANTA CLAUS WILL PAY FOR HIS DEEDS***",
@@ -824,8 +1006,10 @@
     "zh_trans": "***圣诞老人将为他的行为付出代价！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MUFASA.. IS DEAD...***",
@@ -833,8 +1017,10 @@
     "zh_trans": "***狮子王木法沙.. 永远离开了我们...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THAT SEEMS TO BE THE LAST OF THEM***",
@@ -842,8 +1028,10 @@
     "zh_trans": "***这似乎是最后一个了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DRAWBRIDGE HAS BEEN DRAWED***",
@@ -851,8 +1039,10 @@
     "zh_trans": "***吊桥已被拉上***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***",
@@ -860,8 +1050,10 @@
     "zh_trans": "***测路工厂门40秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***",
@@ -869,8 +1061,10 @@
     "zh_trans": "***测路工厂门5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***",
@@ -878,8 +1072,10 @@
     "zh_trans": "***自毁程序已启动***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ESCAPE THE BEAVER STEELWORKS FACILITY***",
@@ -887,8 +1083,10 @@
     "zh_trans": "***逃出河狸生产工厂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LASER SHUTDOWN IN 20 SECONDS***",
@@ -896,8 +1094,10 @@
     "zh_trans": "***激光20秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LASER SHUTDOWN IN 5 SECONDS***",
@@ -905,8 +1105,10 @@
     "zh_trans": "***激光5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FINAL ELEVATOR DOOR IS CLOSING***",
@@ -914,8 +1116,10 @@
     "zh_trans": "***最终的电梯门正在关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***",
@@ -923,8 +1127,10 @@
     "zh_trans": "***最终的电梯门在30秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***",
@@ -932,8 +1138,10 @@
     "zh_trans": "***最终的电梯门在5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***",
@@ -941,8 +1149,10 @@
     "zh_trans": "***主路工厂一号门在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR OPENS IN 15 SECONDS***",
@@ -950,8 +1160,10 @@
     "zh_trans": "***电梯门15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR DOOR IS OPEN***",
@@ -959,8 +1171,10 @@
     "zh_trans": "***电梯门已开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*danny*At that time, I was always looking for my ideal eyes",
@@ -968,8 +1182,10 @@
     "zh_trans": "*danny*在那时，我一直在寻找我心仪的眼睛",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR LEAVES IN 5 SECONDS***",
@@ -977,8 +1193,10 @@
     "zh_trans": "***电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***",
@@ -986,8 +1204,10 @@
     "zh_trans": "***主路工厂二号门在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***",
@@ -995,8 +1215,10 @@
     "zh_trans": "***钢铁工厂大门将在30秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***STEELWORKS DOOR IS OPENING***",
@@ -1004,8 +1226,10 @@
     "zh_trans": "***钢铁工厂大门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***",
@@ -1013,8 +1237,10 @@
     "zh_trans": "***钢铁工厂大门在5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***STEELWORKS DOOR IS CLOSING***",
@@ -1022,8 +1248,10 @@
     "zh_trans": "***钢铁工厂大门正在关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOMETHING IS COMING...***",
@@ -1031,8 +1259,10 @@
     "zh_trans": "***有什么东西来了...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE BEAVERS ARE AGRESSIVE***",
@@ -1040,8 +1270,10 @@
     "zh_trans": "***检测到大量具有攻击性的河狸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE BEAVERS ARE COMING***",
@@ -1049,8 +1281,10 @@
     "zh_trans": "***它们来了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***",
@@ -1058,8 +1292,10 @@
     "zh_trans": "***钢铁工厂大门5秒后重新打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***",
@@ -1067,8 +1303,10 @@
     "zh_trans": "***内层近亲繁殖河狸防爆门将在15秒后打开***I",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***",
@@ -1076,8 +1314,10 @@
     "zh_trans": "***吊桥将在5秒内自行收回***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DRAWBRIDGE IS DRAWING***",
@@ -1085,8 +1325,10 @@
     "zh_trans": "***吊桥正在收回***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SEWER BLASTDOOR IS OPENING***",
@@ -1094,8 +1336,10 @@
     "zh_trans": "***下水道防爆门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***",
@@ -1103,8 +1347,10 @@
     "zh_trans": "***第一道门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***",
@@ -1112,8 +1358,10 @@
     "zh_trans": "***第一道门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***",
@@ -1121,8 +1369,10 @@
     "zh_trans": "***第三道门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***",
@@ -1130,8 +1380,10 @@
     "zh_trans": "***第三道门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***",
@@ -1139,8 +1391,10 @@
     "zh_trans": "***第三道门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***",
@@ -1148,8 +1402,10 @@
     "zh_trans": "***第三道门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***",
@@ -1157,8 +1413,10 @@
     "zh_trans": "***第四道门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***",
@@ -1166,8 +1424,10 @@
     "zh_trans": "***第四道门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***",
@@ -1175,8 +1435,10 @@
     "zh_trans": "***海狸内部防爆门将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***MAGIC ZOMBIE PUSH IS DISABLED***",
@@ -1184,8 +1446,10 @@
     "zh_trans": "***僵尸push魔法已被关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIES CAN NOW GET YOU FROM THE SIDES***",
@@ -1193,8 +1457,10 @@
     "zh_trans": "***小心侧面！他们现在可以跳过来抓到你！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 10 SECONDS***",
@@ -1202,8 +1468,10 @@
     "zh_trans": "***工厂门将在10秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 5 SECONDS***",
@@ -1211,8 +1479,10 @@
     "zh_trans": "***工厂门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 4 SECONDS***",
@@ -1220,8 +1490,10 @@
     "zh_trans": "***工厂门将在4秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 3 SECONDS***",
@@ -1229,8 +1501,10 @@
     "zh_trans": "***工厂门将在3后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 2 SECONDS***",
@@ -1238,8 +1512,10 @@
     "zh_trans": "***工厂门将在2秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 1 SECONDS***",
@@ -1247,8 +1523,10 @@
     "zh_trans": "***工厂门将在1秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***",
@@ -1256,8 +1534,10 @@
     "zh_trans": "***科比直升机已被激活***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GLASS WILL BREAK IN 5 SECONDS***",
@@ -1265,8 +1545,10 @@
     "zh_trans": "***玻璃将在5秒后碎裂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOORS***",
@@ -1274,8 +1556,10 @@
     "zh_trans": "***门已开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOORS IN 5 SECONDS***",
@@ -1283,8 +1567,10 @@
     "zh_trans": "***5秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOORS IN 10 SECONDS***",
@@ -1292,8 +1578,10 @@
     "zh_trans": "***10秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***",
@@ -1301,8 +1589,10 @@
     "zh_trans": "***10秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***",
@@ -1310,8 +1600,10 @@
     "zh_trans": "***5秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR***",
@@ -1319,8 +1611,10 @@
     "zh_trans": "***教堂门已开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING***",
@@ -1328,8 +1622,10 @@
     "zh_trans": "***桥出口门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***",
@@ -1337,8 +1633,10 @@
     "zh_trans": "***桥出口门5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***",
@@ -1346,8 +1644,10 @@
     "zh_trans": "***桥出口门15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*ray*Zack, stop walking and have a rest",
@@ -1355,8 +1655,10 @@
     "zh_trans": "*ray*扎克...别走了...休息一会吧..",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HEAD TOWARD SANTAS LAIR***",
@@ -1364,8 +1666,10 @@
     "zh_trans": "***进入圣诞老人的巢穴***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***",
@@ -1373,8 +1677,10 @@
     "zh_trans": "***如果你有击败圣诞老人的决心，你的双脚会变得灵活***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MAIN ELEVATOR IS LEAVING***",
@@ -1382,8 +1688,10 @@
     "zh_trans": "***主电梯正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***",
@@ -1391,8 +1699,10 @@
     "zh_trans": "***主电梯在20秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -1400,8 +1710,10 @@
     "zh_trans": "***主电梯在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING BASE SOCRATES ELEVATOR GATE***",
@@ -1409,8 +1721,10 @@
     "zh_trans": "***正在打开苏格拉底电梯门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BUTTON 1 PRESSED***",
@@ -1418,8 +1732,10 @@
     "zh_trans": "***第一个开关被摁下***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BUTTON 2 PRESSED***",
@@ -1427,8 +1743,10 @@
     "zh_trans": "***第二个开关被摁下***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BUTTON 3 PRESSED***",
@@ -1436,8 +1754,10 @@
     "zh_trans": "***第三个开关被摁下***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU CAN NOW ADVANCE***",
@@ -1445,8 +1765,10 @@
     "zh_trans": "***你现在可以前进了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SEXY REINDEER IS OPENING IN 15 SECONDS***",
@@ -1454,8 +1776,10 @@
     "zh_trans": "***性感驯鹿门会在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SEXY REINDEER IS OPENING IN 5 SECONDS***",
@@ -1463,8 +1787,10 @@
     "zh_trans": "***性感驯鹿门会在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SEXY REINDEER IS SPREADING***",
@@ -1472,8 +1798,10 @@
     "zh_trans": "***性感驯鹿门已被打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MAJOR FACE WALL EXPLODES IN 15 SECONDS***",
@@ -1481,8 +1809,10 @@
     "zh_trans": "***测路脸墙会在15秒后爆炸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***MAJOR FACE WALL IS ABOUT TO EXPLODE***",
@@ -1490,8 +1820,10 @@
     "zh_trans": "***大脸墙即将爆炸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***MAJOR FACE WALL WENT BOOM***",
@@ -1499,8 +1831,10 @@
     "zh_trans": "***大脸墙爆啦！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE PIZZA IS AGGRESSIVE***",
@@ -1508,8 +1842,10 @@
     "zh_trans": "***披萨对偷吃它的人降下神罚***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***",
@@ -1517,8 +1853,10 @@
     "zh_trans": "***左边脸墙会在30秒后爆炸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LEFT LEFT SECOND FACE WALL HAS EXPLODED***",
@@ -1526,8 +1864,10 @@
     "zh_trans": "***左边脸墙FUCKING OPEN***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***",
@@ -1535,8 +1875,10 @@
     "zh_trans": "***右边脸墙会在20秒后爆炸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***",
@@ -1544,8 +1886,10 @@
     "zh_trans": "***右边脸墙FUCKING OPEN***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GET INSIDE SANTAS LAIR***",
@@ -1553,8 +1897,10 @@
     "zh_trans": "***进入圣诞老人的巢穴***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SEXY VENT GATE IS OPENING IN 20 SECONDS***",
@@ -1562,8 +1908,10 @@
     "zh_trans": "***性感的通风口将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SEXY VENT GATE IS OPENING IN 5 SECONDS***",
@@ -1571,8 +1919,10 @@
     "zh_trans": "***性感的通风口将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SEXY VENT GATE IS OPENING***",
@@ -1580,8 +1930,10 @@
     "zh_trans": "***性感的通风口被打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***",
@@ -1589,8 +1941,10 @@
     "zh_trans": "***你触碰了巴比伦宝宝的按钮♂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***",
@@ -1598,8 +1952,10 @@
     "zh_trans": "***巴比伦宝宝对你的帮助感到满意***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***20 SECONDS UNTIL DEPARTURE***",
@@ -1607,8 +1963,10 @@
     "zh_trans": "***距离出发还有20秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***5 SECONDS UNTIL DEPARTURE***",
@@ -1616,8 +1974,10 @@
     "zh_trans": "***距离出发还有5秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE BURRITO SHITTER IS DEPARTING***",
@@ -1625,8 +1985,10 @@
     "zh_trans": "***墨西哥牌科比直升机正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***",
@@ -1634,8 +1996,10 @@
     "zh_trans": "***乘坐墨西哥牌科比直升机只需要40龙币***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***",
@@ -1643,8 +2007,10 @@
     "zh_trans": "***你设法在老毕登那爆了41龙币***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NEXT STOP - ILLEGALITY***",
@@ -1652,8 +2018,10 @@
     "zh_trans": "***下一站 - ZED***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***",
@@ -1661,8 +2029,10 @@
     "zh_trans": "***墨西哥人更喜欢你喊它 -墨西哥牌科比直升机-***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***",
@@ -1670,8 +2040,10 @@
     "zh_trans": "***请记得付款，否则你的账户将被ban0***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PUNISHING EDGERS WITH BURRITO LOVE***",
@@ -1679,8 +2051,10 @@
     "zh_trans": "***乘坐墨西哥科比直升机表示你对科比的爱***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***",
@@ -1688,8 +2062,10 @@
     "zh_trans": "***圣诞老人工厂门将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***",
@@ -1697,8 +2073,10 @@
     "zh_trans": "***圣诞老人工厂门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA FACTORY DOOR IS OPENING***",
@@ -1706,8 +2084,10 @@
     "zh_trans": "***圣诞老人工厂门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SMELL THE DANK MIXTAPE***",
@@ -1715,8 +2095,10 @@
     "zh_trans": "***我闻到了超棒混音带的味道***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE MIXTAPE IS OUT OF CONTROL***",
@@ -1724,8 +2106,10 @@
     "zh_trans": "***糟了，混音带失控了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***",
@@ -1733,8 +2117,10 @@
     "zh_trans": "***必须用下水道巧克力满足这张嘴，才可进入***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***",
@@ -1742,8 +2128,10 @@
     "zh_trans": "***7个被涂抹上巧克力的人应该能够满足这个痛苦的嘴唇***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GOOD LUCK***",
@@ -1751,8 +2139,10 @@
     "zh_trans": "***祝你好运***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HITLERS TEETH ARE NOW BROKEN***",
@@ -1760,8 +2150,10 @@
     "zh_trans": "***小日本的牙齿被你打碎了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DEMOCRACY HEREBY WINS THE SUPERBOWL***",
@@ -1769,8 +2161,10 @@
     "zh_trans": "***共产主义万岁！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***",
@@ -1778,8 +2172,10 @@
     "zh_trans": "***圣诞老人的神秘大门将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECRET SANTA CHAPEL DOOR IS OPENING*** ",
@@ -1787,8 +2183,10 @@
     "zh_trans": "***圣诞老人的神秘大门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***",
@@ -1796,8 +2194,10 @@
     "zh_trans": "***右侧电梯将在10秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***RIGHT PRIMAL ELEVATOR IS LEAVING***",
@@ -1805,8 +2205,10 @@
     "zh_trans": "***右侧电梯正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LEFT PRIMAL ELEVATOR IS LEAVING***",
@@ -1814,8 +2216,10 @@
     "zh_trans": "***左侧电梯正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***",
@@ -1823,8 +2227,10 @@
     "zh_trans": "***左侧电梯将在10秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECONDARY PROTOCOL ELEVATOR IS LEAVING***",
@@ -1832,8 +2238,10 @@
     "zh_trans": "***中间路电梯已离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***",
@@ -1841,8 +2249,10 @@
     "zh_trans": "***中间路电梯30秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -1850,8 +2260,10 @@
     "zh_trans": "***中间路电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOORS IN 5 SECONDS***",
@@ -1859,8 +2271,10 @@
     "zh_trans": "***5秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOORS***",
@@ -1868,8 +2282,10 @@
     "zh_trans": "***门已开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOORS IN 10 SECONDS***",
@@ -1877,8 +2293,10 @@
     "zh_trans": "***10秒后开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***",
@@ -1886,8 +2304,10 @@
     "zh_trans": "***10秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***",
@@ -1895,8 +2315,10 @@
     "zh_trans": "***5秒后打开上方教堂门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING UPPER CHAPEL DOOR***",
@@ -1904,8 +2326,10 @@
     "zh_trans": "***教堂门已开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING***",
@@ -1913,8 +2337,10 @@
     "zh_trans": "***桥出口门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***",
@@ -1922,8 +2348,10 @@
     "zh_trans": "***桥出口门15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***",
@@ -1931,8 +2359,10 @@
     "zh_trans": "***桥出口门5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HEAD TOWARD SANTAS LAIR***",
@@ -1940,8 +2370,10 @@
     "zh_trans": "***进入圣诞老人的巢穴***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***",
@@ -1949,8 +2381,10 @@
     "zh_trans": "***找到巴比伦宝宝 - 按下巴比伦宝宝性感的按钮***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FIND THE BUTTONS***",
@@ -1958,8 +2392,10 @@
     "zh_trans": "***找到按钮***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***TIP - YOU CAN BREAK THE RUSTY METAL***",
@@ -1967,8 +2403,10 @@
     "zh_trans": "***小贴士 - 你可以打碎生锈的金属***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***",
@@ -1976,8 +2414,10 @@
     "zh_trans": "***圣诞老人巢穴大门将在10秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S LAIR GATE IS CLOSING***",
@@ -1985,8 +2425,10 @@
     "zh_trans": "***圣诞老人巢穴大门正在关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***",
@@ -1994,8 +2436,10 @@
     "zh_trans": "***舌头对你的服务非常满意***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU MAY NOW ENTER***",
@@ -2003,8 +2447,10 @@
     "zh_trans": "***你现在可以进去了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HEAD TOWARDS SANTA'S FACTORY***",
@@ -2012,8 +2458,10 @@
     "zh_trans": "***前往圣诞老人的工厂***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BE PREPARED FOR ANYTHING***",
@@ -2021,8 +2469,10 @@
     "zh_trans": "***为任何事情做好准备***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU WANT TO STOP...***",
@@ -2030,8 +2480,10 @@
     "zh_trans": "***你想停下来...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU DO NOT WANT TO DO THIS ANYMORE...***",
@@ -2039,8 +2491,10 @@
     "zh_trans": "***你不想继续了...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***",
@@ -2048,8 +2502,10 @@
     "zh_trans": "***你感觉世界很快就要崩溃了...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***",
@@ -2057,8 +2513,10 @@
     "zh_trans": "***你突然感到面对圣诞老人有些不安...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE PATH IS CLEAR NOW***",
@@ -2066,8 +2524,10 @@
     "zh_trans": "***真正的道路已显现***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THIS IS WRONG...***",
@@ -2075,8 +2535,10 @@
     "zh_trans": "***这是...错的...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THIS.. IS THE TRUTH***",
@@ -2084,8 +2546,10 @@
     "zh_trans": "***这.. 就是真相***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES WISHES SILENTLY***",
@@ -2093,8 +2557,10 @@
     "zh_trans": "***苏格拉底默默许了一个愿望***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES FEELS YOU***",
@@ -2102,8 +2568,10 @@
     "zh_trans": "***苏格拉底感觉到你了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES REGRETS YOUR DEEDS***",
@@ -2111,8 +2579,10 @@
     "zh_trans": "***苏格拉底对你的行为感到遗憾...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES CRAVES***",
@@ -2120,8 +2590,10 @@
     "zh_trans": "***苏格拉底渴望***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES PLAYS NINTENDO 64***",
@@ -2129,8 +2601,10 @@
     "zh_trans": "***苏格拉底渴望玩任天堂64***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS NEAR***",
@@ -2138,8 +2612,10 @@
     "zh_trans": "***苏格拉底很近了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES WELCOMES YOU***",
@@ -2147,8 +2623,10 @@
     "zh_trans": "***苏格拉底欢迎你***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS SANTA***",
@@ -2156,8 +2634,10 @@
     "zh_trans": "***苏格拉底是圣诞老人***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES HAS TO CLEANSE YOU***",
@@ -2165,8 +2645,10 @@
     "zh_trans": "***苏格拉底想要净化你***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES DESPISES YOU***",
@@ -2174,8 +2656,10 @@
     "zh_trans": "***苏格拉底厌恶你***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IMAGINES***",
@@ -2183,8 +2667,10 @@
     "zh_trans": "***苏格拉底陷入了沉思***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES WILL ARRIVE***",
@@ -2192,8 +2678,10 @@
     "zh_trans": "***苏格拉底即将到达***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES WILL CLEANSE***",
@@ -2201,8 +2689,10 @@
     "zh_trans": "***苏格拉底即将净化***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES WILL DESTROY***",
@@ -2210,8 +2700,10 @@
     "zh_trans": "***苏格拉底想要毁灭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "****SOCRATES IS***",
@@ -2219,8 +2711,10 @@
     "zh_trans": "****苏格拉底是***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES NEEDS BENDER***",
@@ -2228,8 +2722,10 @@
     "zh_trans": "***苏格拉底需要酩酊大醉***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES FEEDS***",
@@ -2237,8 +2733,10 @@
     "zh_trans": "***苏格拉底想要进食***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OUTER GATE WILL OPEN IN 20 SECONDS***",
@@ -2246,8 +2744,10 @@
     "zh_trans": "***外门将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OUTER GATE WILL OPEN IN 5 SECONDS***",
@@ -2255,8 +2755,10 @@
     "zh_trans": "***外门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***MOVE IT***",
@@ -2264,8 +2766,10 @@
     "zh_trans": "***撤退！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE ELEVATOR IS LEAVING***",
@@ -2273,8 +2777,10 @@
     "zh_trans": "***真相电梯正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***",
@@ -2282,8 +2788,10 @@
     "zh_trans": "***真相电梯将在30秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -2291,8 +2799,10 @@
     "zh_trans": "***真相电梯将在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES PONDERS***",
@@ -2300,8 +2810,10 @@
     "zh_trans": "***苏格拉底沉思***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES CRIES***",
@@ -2309,8 +2821,10 @@
     "zh_trans": "***苏格拉底哭泣***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS BLOSSOMING***",
@@ -2318,8 +2832,10 @@
     "zh_trans": "***苏格拉底正在绽放***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES ERECTS***",
@@ -2327,8 +2843,10 @@
     "zh_trans": "***苏格拉底勃起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES CANNOT KEEP***",
@@ -2336,8 +2854,10 @@
     "zh_trans": "***苏格拉底无法坚持***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES RUMBLES YOUR WILL***",
@@ -2345,8 +2865,10 @@
     "zh_trans": "***苏格拉底动摇了你的意志***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES SELLS GASOLINE***",
@@ -2354,8 +2876,10 @@
     "zh_trans": "***苏格拉底十分愤怒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***CENTER GATE IS OPENING IN 30 SECONDS***",
@@ -2363,8 +2887,10 @@
     "zh_trans": "***中央大门将在30秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***CENTER GATE IS OPENING IN 5 SECONDS***",
@@ -2372,8 +2898,10 @@
     "zh_trans": "***中央大门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***CENTER GATE IS OPENING",
@@ -2381,8 +2909,10 @@
     "zh_trans": "***中央大门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***",
@@ -2390,8 +2920,10 @@
     "zh_trans": "***外墙入口将在30秒内打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***",
@@ -2399,8 +2931,10 @@
     "zh_trans": "外墙入口将在5秒内打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "****OUTER WALL ENTRANCE IS OPENING***",
@@ -2408,8 +2942,10 @@
     "zh_trans": "外墙入口正在打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***INNER UPPER GATE IS OPENING***",
@@ -2417,8 +2953,10 @@
     "zh_trans": "***内侧上层门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***INNER UPPER GATE IS OPENING IN 40 SECONDS***",
@@ -2426,8 +2964,10 @@
     "zh_trans": "***内侧上层门将在40秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***INNER UPPER GATE IS OPENING IN 5 SECONDS***",
@@ -2435,8 +2975,10 @@
     "zh_trans": "***内侧上层门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***",
@@ -2444,8 +2986,10 @@
     "zh_trans": "***电梯井门将在30秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***",
@@ -2453,8 +2997,10 @@
     "zh_trans": "***电梯井门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR SHAFT GATE IS OPENING***",
@@ -2462,8 +3008,10 @@
     "zh_trans": "***电梯井门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***",
@@ -2471,8 +3019,10 @@
     "zh_trans": "***鹦鹉路电梯20秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -2480,8 +3030,10 @@
     "zh_trans": "***下层电梯将在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING***",
@@ -2489,8 +3041,10 @@
     "zh_trans": "***鹦鹉路电梯离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LOWER GATE IS OPENING IN 35 SECONDS***",
@@ -2498,8 +3052,10 @@
     "zh_trans": "***下层门将在35秒开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER GATE IS OPENING IN 5 SECONDS***",
@@ -2507,8 +3063,10 @@
     "zh_trans": "***下层门将在5秒开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER GATE IS OPENING***",
@@ -2516,8 +3074,10 @@
     "zh_trans": "***下层门正在开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***",
@@ -2525,8 +3085,10 @@
     "zh_trans": "***鹦鹉路电梯20秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "****LOWER ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -2534,8 +3096,10 @@
     "zh_trans": "***鹦鹉路电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOWER ELEVATOR IS LEAVING***",
@@ -2543,8 +3107,10 @@
     "zh_trans": "***鹦鹉路电梯离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***",
@@ -2552,8 +3118,10 @@
     "zh_trans": "***狮子路电梯40秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -2561,8 +3129,10 @@
     "zh_trans": "***狮子路电梯5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OUTER ELEVATOR IS LEAVING***",
@@ -2570,8 +3140,10 @@
     "zh_trans": "***狮子路电梯离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***TRAM 1 IS LEAVING IN 20 SECONDS***",
@@ -2579,8 +3151,10 @@
     "zh_trans": "***一号电车将在20秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***TRAM 1 IS LEAVING***",
@@ -2588,8 +3162,10 @@
     "zh_trans": "***一号电车离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***TRAM 2 IS LEAVING***",
@@ -2597,8 +3173,10 @@
     "zh_trans": "***二号电车离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***TRAM 2 IS LEAVING IN 10 SECONDS***",
@@ -2606,8 +3184,10 @@
     "zh_trans": "***二号电车将在10秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***",
@@ -2615,8 +3195,10 @@
     "zh_trans": "***最终电梯还有50秒离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***",
@@ -2624,8 +3206,10 @@
     "zh_trans": "***最终电梯还有20秒离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***",
@@ -2633,8 +3217,10 @@
     "zh_trans": "***最终电梯还有10秒离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -2642,8 +3228,10 @@
     "zh_trans": "***最终电梯还有5秒离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE FINAL ELEVATOR IS LEAVING***",
@@ -2651,8 +3239,10 @@
     "zh_trans": "***最终电梯离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***",
@@ -2660,8 +3250,10 @@
     "zh_trans": "***上层塔楼门将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***UPPER TOWER DOOR IS OPENING***",
@@ -2669,8 +3261,10 @@
     "zh_trans": "***上层塔楼门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS OPENING IN 20 SECONDS***",
@@ -2678,8 +3272,10 @@
     "zh_trans": "***圣诞老人巢穴门20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS OPENING***",
@@ -2687,8 +3283,10 @@
     "zh_trans": "***圣诞老人巢穴门正在开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 5 SECONDS***",
@@ -2696,8 +3294,10 @@
     "zh_trans": "***圣诞老人巢穴门5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 4 SECONDS***",
@@ -2705,8 +3305,10 @@
     "zh_trans": "***圣诞老人巢穴门4秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 3 SECONDS***",
@@ -2714,8 +3316,10 @@
     "zh_trans": "***圣诞老人巢穴门3秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 2 SECONDS***",
@@ -2723,8 +3327,10 @@
     "zh_trans": "***圣诞老人巢穴门2秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING IN 1 SECONDS***",
@@ -2732,8 +3338,10 @@
     "zh_trans": "***圣诞老人巢穴门1秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SANTA'S DOOR IS CLOSING***",
@@ -2741,8 +3349,10 @@
     "zh_trans": "***圣诞老人巢穴门正在关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OUTER GATE IS OPENING IN 50 SECONDS***",
@@ -2750,8 +3360,10 @@
     "zh_trans": "***外门将在50秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OUTER GATE IS OPENING IN 10 SECONDS***",
@@ -2759,8 +3371,10 @@
     "zh_trans": "***外门将在10秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OUTER GATE IS OPENING***",
@@ -2768,8 +3382,10 @@
     "zh_trans": "***外门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS ALL***",
@@ -2777,8 +3393,10 @@
     "zh_trans": "***苏格拉底是所有***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS NOTHING***",
@@ -2786,8 +3404,10 @@
     "zh_trans": "***苏格拉底是虚无***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS AWAKENED***",
@@ -2795,8 +3415,10 @@
     "zh_trans": "***苏格拉底已经觉醒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS NOTHING AT ALL***",
@@ -2804,8 +3426,10 @@
     "zh_trans": "***苏格拉底什么也不是***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES DOES NOT EXIST***",
@@ -2813,8 +3437,10 @@
     "zh_trans": "***苏格拉底不存在***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE TRAM IS LEAVING***",
@@ -2822,8 +3448,10 @@
     "zh_trans": "***真相电梯正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE TRAM IS LEAVING IN 30 SECONDS***",
@@ -2831,8 +3459,10 @@
     "zh_trans": "***真相电车30秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TRUE TRAM IS LEAVING IN 5 SECONDS***",
@@ -2840,8 +3470,10 @@
     "zh_trans": "***真相电车5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***MAP RESET - GOING BACK TO PROLOUGE***",
@@ -2849,8 +3481,10 @@
     "zh_trans": "***地图重置 - 正在回到序章***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***IT FEELS LIKE YOU MISSED SOMETHING***",
@@ -2858,8 +3492,10 @@
     "zh_trans": "***看起来你好像错过了什么***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***IS THIS THE REAL ENDING?***",
@@ -2867,8 +3503,10 @@
     "zh_trans": "***这是真正的结局吗？***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***WHAT...***",
@@ -2876,8 +3514,10 @@
     "zh_trans": "***什么...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FINAL GATE IS CLOSING IN 15 SECONDS***",
@@ -2885,8 +3525,10 @@
     "zh_trans": "***最终的门15秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FINAL GATE IS CLOSING IN 5 SECONDS***",
@@ -2894,8 +3536,10 @@
     "zh_trans": "***最终的门5秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FINAL GATE IS CLOSING***",
@@ -2903,8 +3547,10 @@
     "zh_trans": "***最终的门关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU HAVE DEFILED MUFASAS CORPSE***",
@@ -2912,8 +3558,10 @@
     "zh_trans": "***你玷污了狮子王木法沙的尸体***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU SICK BASTARDS...***",
@@ -2921,8 +3569,10 @@
     "zh_trans": "***你真是个恶心的混蛋...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SKIPPING CUTSCENE***",
@@ -2930,8 +3580,10 @@
     "zh_trans": "***跳过过场动画***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PROLOGUE COMPLETE***",
@@ -2939,8 +3591,10 @@
     "zh_trans": "***序章完成***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - ROCKET CANNON***",
@@ -2948,8 +3602,10 @@
     "zh_trans": "***一位玩家获得了神器 - 火箭炮***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - BEAM CANNON***",
@@ -2957,8 +3613,10 @@
     "zh_trans": "***一位玩家获得了神器 - 激光枪***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - MINI CANNON***",
@@ -2966,8 +3624,10 @@
     "zh_trans": "***一位玩家获得了神器 - 机枪***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - HERDER***",
@@ -2975,8 +3635,10 @@
     "zh_trans": "***一位玩家获得了神器 - 超级推力***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - SPEEDER***",
@@ -2984,8 +3646,10 @@
     "zh_trans": "***一位玩家获得了神器 - 加速***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***PLAYER PICKED UP ITEM - HEALING SHITBOX***",
@@ -2993,8 +3657,10 @@
     "zh_trans": "***一位玩家获得了神器 - 狗屎治疗***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***KONY2012***",
@@ -3002,8 +3668,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)Nan aaaaaaaa***",
@@ -3011,8 +3679,10 @@
     "zh_trans": "***(祖鲁语)Nan aaaaaaaa***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)Ts'ingonyama***",
@@ -3020,8 +3690,10 @@
     "zh_trans": "***(祖鲁语)Ts'ingonyama***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)Bakithi baba***",
@@ -3029,8 +3701,10 @@
     "zh_trans": "***(祖鲁语)Bakithi baba***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)Ts'ingonyama Bakithi baba***",
@@ -3038,8 +3712,10 @@
     "zh_trans": "***(祖鲁语)Ts'ingonyama Bakithi baba***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)Sithi hu 'ngonyama Helele***",
@@ -3047,8 +3723,10 @@
     "zh_trans": "***(祖鲁语)Sithi hu 'ngonyama Helele***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)'Ngonyama Sizo nqo***",
@@ -3056,8 +3734,10 @@
     "zh_trans": "***(祖鲁语)'Ngonyama Sizo nqo***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)'Ngonyama Helele***",
@@ -3065,8 +3745,10 @@
     "zh_trans": "***(祖鲁语)'Ngonyama Helele***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***(祖鲁语)Ingonyama nengwe 'namabala***",
@@ -3074,8 +3756,10 @@
     "zh_trans": "***(祖鲁语)Ingonyama nengwe 'namabala***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***From the day we arrive on the planet***",
@@ -3083,8 +3767,10 @@
     "zh_trans": "***From the day we arrive on the planet***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***从我们来到这星球那日起***",
@@ -3092,8 +3778,10 @@
     "zh_trans": "***从我们来到这星球那日起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***And blinking,step into the sun***",
@@ -3101,8 +3789,10 @@
     "zh_trans": "***And blinking,step into the sun***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***眯着眼睛被阳光照耀***",
@@ -3110,8 +3800,10 @@
     "zh_trans": "***眯着眼睛被阳光照耀***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***There's more to see than can ever be seen***",
@@ -3119,8 +3811,10 @@
     "zh_trans": "***There's more to see than can ever be seen***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***所知之物不如可识之物***",
@@ -3128,8 +3822,10 @@
     "zh_trans": "***所知之物不如可识之物***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***More to do than can ever be done***",
@@ -3137,8 +3833,10 @@
     "zh_trans": "***More to do than can ever be done***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***所做之事不如可做之事***",
@@ -3146,8 +3844,10 @@
     "zh_trans": "***所做之事不如可做之事***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***There's far too much to take in here***",
@@ -3155,8 +3855,10 @@
     "zh_trans": "***There's far too much to take in here***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***还有太多的知识等待我们去获取***",
@@ -3164,8 +3866,10 @@
     "zh_trans": "***还有太多的知识等待我们去获取***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***More to find than can ever be found***",
@@ -3173,8 +3877,10 @@
     "zh_trans": "***More to find than can ever be found***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***还有太多的事物等待我们去发现***",
@@ -3182,8 +3888,10 @@
     "zh_trans": "***还有太多的事物等待我们去发现***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***But the sun rolling high***",
@@ -3191,8 +3899,10 @@
     "zh_trans": "***But the sun rolling high***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***但太阳升起又落下***",
@@ -3200,8 +3910,10 @@
     "zh_trans": "***但太阳升起又落下***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Through the sapphire sky***",
@@ -3209,8 +3921,10 @@
     "zh_trans": "***Through the sapphire sky***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***穿过那湛蓝的天空***",
@@ -3218,8 +3932,10 @@
     "zh_trans": "***穿过那湛蓝的天空***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Keeps great and small***",
@@ -3227,8 +3943,10 @@
     "zh_trans": "***Keeps great and small***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***把那伟大或是渺小***",
@@ -3236,8 +3954,10 @@
     "zh_trans": "***把那伟大或是渺小***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***on the endless round***",
@@ -3245,8 +3965,10 @@
     "zh_trans": "***on the endless round***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***都带入那无尽的生命轮回中***",
@@ -3254,8 +3976,10 @@
     "zh_trans": "***都带入那无尽的生命轮回中***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***It's the circle of life***",
@@ -3263,8 +3987,10 @@
     "zh_trans": "***It's the circle of life***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***这就是生生不息***",
@@ -3272,8 +3998,10 @@
     "zh_trans": "***这就是生生不息***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***And it moves us all***",
@@ -3281,8 +4009,10 @@
     "zh_trans": "***And it moves us all***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***它让我们所有人***",
@@ -3290,8 +4020,10 @@
     "zh_trans": "***它让我们所有人***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Through Despair And hope***",
@@ -3299,8 +4031,10 @@
     "zh_trans": "***Through Despair And hope***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***都能经历绝望和希望***",
@@ -3308,8 +4042,10 @@
     "zh_trans": "***都能经历绝望和希望***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Through faith and love***",
@@ -3317,8 +4053,10 @@
     "zh_trans": "***Through faith and love***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***面对忠诚和爱情***",
@@ -3326,8 +4064,10 @@
     "zh_trans": "***面对忠诚和爱情***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Till we find our place***",
@@ -3335,8 +4075,10 @@
     "zh_trans": "***Till we find our place***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***直到我们找到我们***",
@@ -3344,8 +4086,10 @@
     "zh_trans": "***直到我们找到我们***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***On the path unwinding***",
@@ -3353,8 +4097,10 @@
     "zh_trans": "***On the path unwinding***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***那生命中的***",
@@ -3362,8 +4108,10 @@
     "zh_trans": "***那生命中的***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***In the circle***",
@@ -3371,8 +4119,10 @@
     "zh_trans": "***In the circle***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***轮回***",
@@ -3380,8 +4130,10 @@
     "zh_trans": "***轮回***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***The circle of life***",
@@ -3389,8 +4141,10 @@
     "zh_trans": "***The circle of life***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***这就是生命的轮回啊***",
@@ -3398,8 +4152,10 @@
     "zh_trans": "***这就是生命的轮回啊***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS JUDGING YOU***",
@@ -3407,8 +4163,10 @@
     "zh_trans": "***苏格拉底正在审批你的罪行***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***4***",
@@ -3416,8 +4174,10 @@
     "zh_trans": "***4***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***3***",
@@ -3425,8 +4185,10 @@
     "zh_trans": "***3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***2***",
@@ -3434,8 +4196,10 @@
     "zh_trans": "***2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***UNO***",
@@ -3443,8 +4207,10 @@
     "zh_trans": "***1****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES CARES FOR NO MAN***",
@@ -3452,8 +4218,10 @@
     "zh_trans": "***苏格拉底不在乎任何人***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOCRATES IS***",
@@ -3461,8 +4229,10 @@
     "zh_trans": "***苏格拉底是***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***...***",
@@ -3470,8 +4240,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SORRY...***",
@@ -3479,8 +4251,10 @@
     "zh_trans": "***对不起...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***OUTER WALL ENTRANCE IS OPENING***",
@@ -3488,8 +4262,10 @@
     "zh_trans": "外墙入口正在打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SECRET SANTA CHAPEL DOOR IS OPENING***",
@@ -3497,8 +4273,10 @@
     "zh_trans": "***圣诞老人的秘密门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NAZI NIPPLE***",
@@ -3506,8 +4284,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FACTORY DOOR OPENS IN 1 SECOND***",
@@ -3515,8 +4295,10 @@
     "zh_trans": "***工厂门还有1秒开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***",
@@ -3524,8 +4306,10 @@
     "zh_trans": "***下水道防爆门将在40秒内打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***INCEST***",
@@ -3533,8 +4317,10 @@
     "zh_trans": "***INCEST***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***WINCEST***",
@@ -3542,8 +4328,10 @@
     "zh_trans": "***WINCEST***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BLACK HOLE***",
@@ -3551,8 +4339,10 @@
     "zh_trans": "***深邃的黑洞***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***CENTER GATE IS OPENING***",
@@ -3560,8 +4350,10 @@
     "zh_trans": "***中央门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "有一位玩家想试图用加速solo,但OBJ痴对他降下了神罚",
@@ -3569,8 +4361,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "U WOT M8",
@@ -3578,8 +4372,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "^That was the stupidest thing i've ever heard as a map",
@@ -3587,8 +4383,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "...",
@@ -3596,8 +4394,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:",
@@ -3605,8 +4405,10 @@
     "zh_trans": "大家都去叫Kaemon别再偷懒了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "123",
@@ -3614,8 +4416,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 123,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "有一位玩家想试图卡BUG,但OBJ痴对他降下了神罚",
@@ -3623,8 +4427,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "984220251 喜欢奶龙的来",
@@ -3632,8 +4438,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 984220251,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "测试",
@@ -3641,8 +4449,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "有人击碎了木板,他被增加了100分",
@@ -3650,8 +4460,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "有人触发了卤粉，他被增加了100分",
@@ -3659,7 +4471,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "111",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 111,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
