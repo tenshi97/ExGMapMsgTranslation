@@ -1388,7 +1388,7 @@
   {
     "original": "**Judge Bergan has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了冰霜箭！**",
+    "zh_trans": "**贝尔根审判官施展了寒冰箭！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1416,7 +1416,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Imperial Army trying to block the temple!**",
@@ -1471,7 +1471,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[Bash] Judge is dead! Keep running!!**",
@@ -1487,23 +1487,23 @@
   {
     "original": "**Judge Bergan has casted Rage of Magic!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了魔法狂怒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan summons Esper Zodiark!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官召唤出了幻兽佐迪亚克！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
