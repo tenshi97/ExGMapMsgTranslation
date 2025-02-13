@@ -1,8 +1,11 @@
 ### EXG 地图消息翻译仓库 ###
 
 ## 2025.2 更新内容:
+
 新增了两个词条，一个是force_hint,设置为1表示强制这个语句出现在中间提示2秒，即使语句里没有数字，默认应当为0
+
 一个是icon_name,默认为"icon_tip"(注意这个词条要有引号，force_int不能有引号）,例如:
+<pre><code>
   {
     "original": ">> Defend for 30 seconds <<",
     "en_trans": "",
@@ -14,9 +17,13 @@
     "enable_timer": 1,
     "force_hint": 0
 }
+</code></pre>  
 旧的语句没有这两个词条，你可以手动添加，顺序可以随意
+
 icon_name里目前只支持以下图标:
+
 "icon_tip", "icon_caution", "icon_alert","icon_alert_red", "icon_skull","icon_no", "icon_run","icon_interact","icon_door","icon_button","icon_fire","icon_key_up", "icon_key_down", "icon_key_left", "icon_key_right", "icon_arrow_up"
+
 至于每个名字对应什么我暂时懒得做，你可以从名字猜测以下,比如"icon_interact"是按E,"icon_key_up", "icon_key_down", "icon_key_left", "icon_key_right"是WASD，利用这个你也许可以做BOSS技能躲避方法提示，触发提醒之类
 
 ## 如何使用
