@@ -655,9 +655,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Sanctuary Keeper has casted Carnage of Phantoms!**",
@@ -666,9 +666,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Sanctuary Keeper has casted Solar Orb!**",
@@ -677,9 +677,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Sanctuary Keeper has casted Shadow Blast!**",
@@ -688,9 +688,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**The Sanctuary Keeper has vanquished!**",
@@ -701,7 +701,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] The last guard has vanquished! Now we can meet Gran Kiltias!**",
@@ -765,9 +765,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Get to the teleport to to avoid death!**",
@@ -787,9 +787,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Get out of the middle now!**",
@@ -809,9 +809,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Sanctuary Keeper has casted Wave of Redemption!**",
@@ -820,9 +820,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Press all statues to interrupt the attack**",
@@ -831,9 +831,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**[Bash] stay focused! I have a feeling this isn't the end!**",
@@ -853,9 +853,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**The Adrammelech has vanquished!**",
@@ -866,7 +866,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Don't let zombies cross the bridge! Its last hold defend until something happen!",
@@ -930,9 +930,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**",
@@ -1080,7 +1080,7 @@
   {
     "original": "**Judge Bergan has casted Soul Siphon!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了灵魂虹吸！**",
+    "zh_trans": "**贝甘审判官施展了灵魂虹吸！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1091,7 +1091,7 @@
   {
     "original": "**Judge Bergan has casted Dedication Aura!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了献祭光环！**",
+    "zh_trans": "**贝甘审判官施展了献祭光环！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1102,7 +1102,7 @@
   {
     "original": "**Judge Bergan has casted Flash of Shattering!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了破碎闪光！**",
+    "zh_trans": "**贝甘审判官施展了破碎闪光！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1113,7 +1113,7 @@
   {
     "original": "**All Bergan attacks do double damage!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根的所有攻击造成双倍伤害！**",
+    "zh_trans": "**贝甘的所有攻击造成双倍伤害！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,7 +1124,7 @@
   {
     "original": "**Judge Bergan has cased Flash of Burning Souls!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了灼魂之焰！**",
+    "zh_trans": "**贝甘审判官施展了灼魂之焰！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,7 +1135,7 @@
   {
     "original": "**Judge Bergan has casted 1000 Needles!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了千根针！**",
+    "zh_trans": "**贝甘审判官施展了千根针！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1146,18 +1146,18 @@
   {
     "original": "**[Bash] Judge Bergan used Magicite! We have to kill him!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]贝尔根审判官使用了魔石！我们必须杀了他！**",
+    "zh_trans": "**[巴什]贝甘审判官使用了魔石！我们必须杀了他！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan summons Esper Ultima!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官召唤出了终极幻兽！**",
+    "zh_trans": "**贝甘审判官召唤出了终极幻兽！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1168,7 +1168,7 @@
   {
     "original": "**Judge Bergan summons Esper Shemhazai!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官召唤出了幻兽舒米哈扎！**",
+    "zh_trans": "**贝甘审判官召唤出了幻兽舒米哈扎！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,7 +1179,7 @@
   {
     "original": "**Judge Bergan has casted Ceremony of the Nether!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了幽冥仪式！**",
+    "zh_trans": "**贝甘审判官施展了幽冥仪式！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1190,7 +1190,7 @@
   {
     "original": "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**",
     "en_trans": "",
-    "zh_trans": "**[巴什]贝尔根审判官召唤出了维纳特！快开火**",
+    "zh_trans": "**[巴什]贝甘审判官召唤出了维纳特！快开火**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]终于！维纳特死了！现在我们可以对付贝尔根了！**",
+    "zh_trans": "**[巴什]终于！维纳特死了！现在我们可以对付贝甘了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "**Judge Bergan has casted Illusion of Souls!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了灵魂幻觉！**",
+    "zh_trans": "**贝甘审判官施展了灵魂幻觉！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1339,7 +1339,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Adrammelech vanquished! Path is clear!**",
@@ -1350,12 +1350,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Frost Fury!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了冰霜之怒！**",
+    "zh_trans": "**贝甘审判官施展了冰霜之怒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "**Judge Bergan has casted Gift of Plagues!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了疫病恩赐！**",
+    "zh_trans": "**贝甘审判官施展了疫病恩赐！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1377,7 +1377,7 @@
   {
     "original": "**Judge Bergan has casted Aura of Water!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了水之灵气！**",
+    "zh_trans": "**贝甘审判官施展了水之灵气！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1388,7 +1388,7 @@
   {
     "original": "**Judge Bergan has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了寒冰箭！**",
+    "zh_trans": "**贝甘审判官施展了寒冰箭！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "**Judge Bergan has casted Blazing Surge!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了炽热涌动！**",
+    "zh_trans": "**贝甘审判官施展了炽热涌动！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1410,7 +1410,7 @@
   {
     "original": "**Judge Bergan summons Esper Famfirt!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官召唤了幻兽法姆弗里特！**",
+    "zh_trans": "**贝甘审判官召唤了幻兽法姆弗里特！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1487,7 +1487,7 @@
   {
     "original": "**Judge Bergan has casted Rage of Magic!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官施展了魔法狂怒！**",
+    "zh_trans": "**贝甘审判官施展了魔法狂怒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1498,7 +1498,7 @@
   {
     "original": "**Judge Bergan summons Esper Zodiark!**",
     "en_trans": "",
-    "zh_trans": "**贝尔根审判官召唤出了幻兽佐迪亚克！**",
+    "zh_trans": "**贝甘审判官召唤出了幻兽佐迪亚克！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
