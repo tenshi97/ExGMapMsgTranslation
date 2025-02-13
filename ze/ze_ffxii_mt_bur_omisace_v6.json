@@ -948,7 +948,7 @@
   {
     "original": "**[Setzer] The temple is being attacked by the guardians!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[西捷亚] 神庙正受到守护者的攻击！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,7 +959,7 @@
   {
     "original": "**[Setzer] We hit! We hit! We have to fly! So far you're on your own! Good luck**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[西捷亚] 我们被击中了！我们被击中了！我们得走了！目前只能靠你自己了！祝你好运**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -970,7 +970,7 @@
   {
     "original": "**[Bash] Look out! The Imperial Army is attacking!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 小心！帝国军正在进攻！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -981,18 +981,18 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你得再给我拿 1 把钥匙过来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**Defend here for 30 seconds until the gates open**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**在这里守 30 秒直到大门打开**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "**[Bash] Kingdom and Empire both formed a pact to guarantee the holy city's independence",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]王国和帝国都达成了一项协议以保证神都的独立**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,7 +1014,7 @@
   {
     "original": "**[Bash] In its long history Mt Bur-Omisace has never fallen under the control of any foreign power**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]在其漫长的历史中，神都布尔奥米赛斯从未落入过任何外国势力的控制之下*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1025,7 +1025,7 @@
   {
     "original": "**[Bash] On the understanding that Kiltia's followers would exempt themselves from political dealings in other lands**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]条件是基尔提亚的信徒们将自己免除在其他土地上的政治交易**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1036,7 +1036,7 @@
   {
     "original": "**The Gates of Temple will open soon!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**神庙的大门很快就会打开！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,7 +1047,7 @@
   {
     "original": "**[Balthier] Watch out! They are shooting us!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚]小心！他们在向我们射击！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1058,7 +1058,7 @@
   {
     "original": "**The way is open! Keep running!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**道路畅通了！继续跑！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1069,7 +1069,7 @@
   {
     "original": "**The gates will open in 30 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在 30 秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,73 +1080,73 @@
   {
     "original": "**Judge Bergan has casted Soul Siphon!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了灵魂虹吸！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Dedication Aura!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了献祭光环！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Flash of Shattering!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了破碎闪光！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**All Bergan attacks do double damage!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根的所有攻击造成双倍伤害！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has cased Flash of Burning Souls!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了灼魂之焰！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted 1000 Needles!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了千根针！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1000,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Judge Bergan used Magicite! We have to kill him!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]贝尔根审判官使用了魔石！我们必须杀了他！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,73 +1157,73 @@
   {
     "original": "**Judge Bergan summons Esper Ultima!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官召唤出了终极幻兽！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan summons Esper Shemhazai!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官召唤出了幻兽舒米哈扎！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Ceremony of the Nether!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了幽冥仪式！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]贝尔根审判官召唤出了维纳特！快开火**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]终于！维纳特死了！现在我们可以对付贝尔根了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Illusion of Souls!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了灵魂幻觉！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Balthier] He set his very bones about with manufacted nethicite**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚]他用人工制造的魔石强化了自己的骨骼**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1234,7 +1234,7 @@
   {
     "original": "**[Balthier] Anyway we need to get out of here! Imperial reinforcements incoming!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚]不管怎样，我们都要离开这里！帝国增援部队要来了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1245,7 +1245,7 @@
   {
     "original": "**[Bash] Remember trust no one!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]记住，不要相信任何人！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1256,7 +1256,7 @@
   {
     "original": "**[Bash] The Imperial Army set fire to the temples!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]帝国军放火烧了那些神庙！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1267,7 +1267,7 @@
   {
     "original": "**[Vaan] We have to get out of here before the main gates collapses!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[梵]我们必须在主大门倒塌之前离开这里！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1278,7 +1278,7 @@
   {
     "original": "**[Bash] We do not know they set additional traps for us! Be vigilant! Hold here for 20 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]我们不知道他们是否为我们设下了更多陷阱！保持警惕！在这里坚守 20 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1289,7 +1289,7 @@
   {
     "original": "**[Bash] We need to hold this area for 15 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]我们需要守住这个区域 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1300,7 +1300,7 @@
   {
     "original": "**[Bash] The exit is right in front of us! Get ready for the final battle**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]出口就在我们正前方！为最后的战斗做好准备**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1311,18 +1311,18 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你得再给我拿 2 把钥匙过来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**A player has picked up Invisible Magick**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸拾起了 隐身魔法**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1333,7 +1333,7 @@
   {
     "original": "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]阿德拉梅莱赫挡住了道路！快开火！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1344,7 +1344,7 @@
   {
     "original": "**[Bash] Adrammelech vanquished! Path is clear!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]阿德拉梅莱赫被击败了！道路畅通！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1355,62 +1355,62 @@
   {
     "original": "**Judge Bergan has casted Frost Fury!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了冰霜之怒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Gift of Plagues!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了疫病恩赐！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Aura of Water!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了水之灵气！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了冰霜箭！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan has casted Blazing Surge!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官施展了炽热涌动！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Bergan summons Esper Famfirt!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**贝尔根审判官召唤了幻兽法姆弗里特！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,7 +1421,7 @@
   {
     "original": "**[Bash] Imperial Army trying to block the temple!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]帝国军试图封锁神庙！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1432,7 +1432,7 @@
   {
     "original": "**[Vaan] Look! There is clean path! Keep running!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[梵]看！有一条畅通的路！继续跑！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1443,7 +1443,7 @@
   {
     "original": "**[Setzer] Hold on! They blocking the path!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[西捷亚]坚持住！他们在封锁道路！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1454,7 +1454,7 @@
   {
     "original": "**[Setzer] Watch out! We clean them out!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[塞策]小心！我们把他们解决掉！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1465,7 +1465,7 @@
   {
     "original": "**[Bash] Nades do more damage**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]手雷能造成更多伤害**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1476,7 +1476,7 @@
   {
     "original": "[Bash] Judge is dead! Keep running!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什]审判官死了！快跑！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
