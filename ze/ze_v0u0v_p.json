@@ -288,7 +288,7 @@
   {
     "original": ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了黑洞马桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,18 +299,18 @@
   {
     "original": ">>> BLOOPER USED PUSH <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 乌贼使用了推力 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> STAGE1 COMPLETED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第一阶段已完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
