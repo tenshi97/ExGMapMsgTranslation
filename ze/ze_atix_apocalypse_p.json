@@ -2,37 +2,37 @@
   {
     "original": "*** TRAIN EVACUATION ***",
     "en_trans": "",
-    "zh_trans": "*** 救援路线：火车 ***",
+    "zh_trans": "*** 救援路线：火车（90秒后火车鸣笛） ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 90,
     "enable_timer": 1
   },
   {
     "original": "*** HELICOPTER EVACUATION ***",
     "en_trans": "",
-    "zh_trans": "*** 救援路线：直升机 ***",
+    "zh_trans": "*** 救援路线：直升机（140秒后牢大归来） ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 140,
     "enable_timer": 1
   },
   {
     "original": "*** BOAT EVACUATION ***",
     "en_trans": "",
-    "zh_trans": "*** 救援路线：船 ***",
+    "zh_trans": "*** 救援路线：船（100秒后井盖上天） ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 100,
     "enable_timer": 1
   },
   {
     "original": "*** TRUCK EVACUATION ***",
     "en_trans": "",
-    "zh_trans": "*** 救援路线：卡车 ***",
+    "zh_trans": "*** 救援路线：卡车（100秒后开门） ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 100,
     "enable_timer": 1
   },
   {
