@@ -442,12 +442,12 @@
   {
     "original": "[ADMINROOMS] change for STAGE 1...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[调关房] 调关：第一关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
