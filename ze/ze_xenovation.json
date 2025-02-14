@@ -5,8 +5,10 @@
     "zh_trans": "Rakka 巨献",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "== Port By SIRloin ==",
@@ -14,8 +16,10 @@
     "zh_trans": "由 SIRloin 移植到CS2",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "== Original Material By Antosha ==",
@@ -23,8 +27,10 @@
     "zh_trans": "Antosha 提供原始素材",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "== SPECIAL THANKS : Hweyeon , Tsukasa , Koen ==",
@@ -32,8 +38,10 @@
     "zh_trans": "特别感谢:Hweyeon , Tsukasa , Koen",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "== THANKS SERVERS : Zeddy Servers ==",
@@ -41,8 +49,10 @@
     "zh_trans": "鸣谢: Zeddy 社区",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] ZM.CANNON PICK UP (Cool : 40s) <",
@@ -50,8 +60,10 @@
     "zh_trans": "僵尸 减速球 已拾取（冷却：40秒）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] ZM.SPEEDER PICK UP (Cool : 60s) <",
@@ -59,8 +71,10 @@
     "zh_trans": "僵尸 加速 已拾取（冷却：60秒）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 25 SECONDS ***",
@@ -68,8 +82,10 @@
     "zh_trans": "等待 25 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] G.CANNON PICK UP (Cool : 20s) <",
@@ -77,8 +93,10 @@
     "zh_trans": "人类 减速球 已拾取（冷却：20秒）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** FALL BACK ***",
@@ -86,8 +104,10 @@
     "zh_trans": "撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** LEAVING IN 30 SECONDS ***",
@@ -95,8 +115,10 @@
     "zh_trans": "平台将在 30 秒后移动",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 5 SECONDS LEFT ***",
@@ -104,8 +126,10 @@
     "zh_trans": "还剩 5 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** DOOR OPENING IN 20 SECONDS ***",
@@ -113,8 +137,10 @@
     "zh_trans": "20 秒后开门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** ALL PLAYERS ARE TELEPORTED ***",
@@ -122,8 +148,10 @@
     "zh_trans": "所有挂机玩家已被传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** DOOR IS OPEN ***",
@@ -131,8 +159,10 @@
     "zh_trans": "门开了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 20 SECONDS ***",
@@ -140,8 +170,10 @@
     "zh_trans": "等待 20 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 30 SECONDS ***",
@@ -149,8 +181,10 @@
     "zh_trans": "等待 30 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] B.CANNON PICK UP (Cool : 60s) <",
@@ -158,8 +192,10 @@
     "zh_trans": "人类 传送球 已拾取（冷却：60秒）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] P.PLAZMA PICK UP (Cool : 120s) <",
@@ -167,8 +203,10 @@
     "zh_trans": "人类 秒杀球 已拾取（冷却：120秒）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** DOOR OPENING IN 50 SECONDS ***",
@@ -176,8 +214,10 @@
     "zh_trans": "50 秒后门开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 20 SECONDS LEFT ***",
@@ -185,8 +225,10 @@
     "zh_trans": "还剩 20 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] XOLY PICK UP (Cool :Once Only) <",
@@ -194,8 +236,10 @@
     "zh_trans": "***终极***已拾取",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> [ITEM MESSAGE] Y.CANNON PICK UP (Cool : 30s) <",
@@ -203,8 +247,10 @@
     "zh_trans": "人类 推力球 已拾取",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 80 SECONDS ***",
@@ -212,8 +258,10 @@
     "zh_trans": "等待 80 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 80,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 40 SECONDS LEFT ***",
@@ -221,8 +269,10 @@
     "zh_trans": "还剩 40 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 10 SECONDS LEFT ***",
@@ -230,8 +280,10 @@
     "zh_trans": "还剩 10 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 40 SECONDS ***",
@@ -239,8 +291,10 @@
     "zh_trans": "等待 40 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Secret ALL TRIGGER...",
@@ -248,8 +302,10 @@
     "zh_trans": "里世界已触发...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** LEAVING IN 55 SECONDS ***",
@@ -257,8 +313,10 @@
     "zh_trans": "平台将在 55 秒后上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 55,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 5 SECONDS ***",
@@ -266,8 +324,10 @@
     "zh_trans": "还剩 5 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 50 SECONDS ***",
@@ -275,8 +335,10 @@
     "zh_trans": "等待 50 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD 120 SECONDS ***",
@@ -284,8 +346,10 @@
     "zh_trans": "等待 120 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 80 SECONDS LEFT ***",
@@ -293,8 +357,10 @@
     "zh_trans": "还剩 80 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 80,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 60 SECONDS LEFT ***",
@@ -302,8 +368,10 @@
     "zh_trans": "还剩 60 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** THANK YOU FOR PLAYING ***",
@@ -311,8 +379,10 @@
     "zh_trans": "感谢游玩",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Map By Rakka ***",
@@ -320,8 +390,10 @@
     "zh_trans": "Rakka 巨献",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Port By SIRloin ***",
@@ -329,8 +401,10 @@
     "zh_trans": "由 SIRloin 移植到CS2",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** CONGRATURATION ! END ***",
@@ -338,8 +412,10 @@
     "zh_trans": "*** CONGRATULATION！全图通关***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[ADMINROOMS] change for STAGE 2...",
@@ -347,8 +423,10 @@
     "zh_trans": "[调关房] 调关：第二关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** END ***",
@@ -356,7 +434,20 @@
     "zh_trans": "*** 通关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "[ADMINROOMS] change for STAGE 1...",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
