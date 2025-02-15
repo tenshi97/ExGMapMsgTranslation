@@ -5,8 +5,10 @@
     "zh_trans": "- 关卡 正方形 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 25 seconds >>",
@@ -14,8 +16,10 @@
     "zh_trans": "<< 坚持 25 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Current BGM: MAZRDOLL::#V[Sempronius] -AcuticNotes",
@@ -23,8 +27,10 @@
     "zh_trans": "当前 BGM: MAZRDOLL::#V[Sempronius] -AcuticNotes",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 30 seconds >>",
@@ -32,8 +38,10 @@
     "zh_trans": "<< 坚持 30 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 15 seconds >>",
@@ -41,8 +49,10 @@
     "zh_trans": "<< 坚持 15 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Shooting the square to recharge the power of the lift >>",
@@ -50,8 +60,10 @@
     "zh_trans": "<< 向方块射击，为电梯重新充电 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< The lift will RE-recharge if the power is more than 100 >>",
@@ -59,8 +71,10 @@
     "zh_trans": "<< 如果能量超过 100 ，电梯将重新充电 >> ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< TIPS: red square will get 10 power >>",
@@ -68,8 +82,10 @@
     "zh_trans": "<< 提示：红色方块将获得 10 点能量 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< TIPS: green square will get 20 power >>",
@@ -77,8 +93,10 @@
     "zh_trans": "<< 提示：绿色方块将获得 20 点能量 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< TIPS: blue square will get 30 power >>",
@@ -86,8 +104,10 @@
     "zh_trans": "<< 提示：蓝色方块将获得 30 点能量 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< TIPS: white square will refresh other square >>",
@@ -95,8 +115,10 @@
     "zh_trans": "<< 提示：白色方块将刷新其他方块 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 30*",
@@ -104,8 +126,10 @@
     "zh_trans": "*当前能量：30*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 60*",
@@ -113,8 +137,10 @@
     "zh_trans": "*当前能量：60*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 80*",
@@ -122,8 +148,10 @@
     "zh_trans": "*当前能量：80*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "OVERLOAD!!!",
@@ -131,8 +159,10 @@
     "zh_trans": "超载!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 0*",
@@ -140,8 +170,10 @@
     "zh_trans": "*当前能量：0*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 20*",
@@ -149,8 +181,10 @@
     "zh_trans": "*当前能量：20*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 50*",
@@ -158,8 +192,10 @@
     "zh_trans": "*当前能量：50*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 90*",
@@ -167,8 +203,10 @@
     "zh_trans": "*当前能量：90*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 100*",
@@ -176,8 +214,10 @@
     "zh_trans": "*当前能量：100*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "COMPLETE!!!",
@@ -185,8 +225,10 @@
     "zh_trans": "完成!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Platform will move in 8 seconds >>",
@@ -194,8 +236,10 @@
     "zh_trans": "<< 平台将在 8 秒后移动 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 35 seconds >>",
@@ -203,8 +247,10 @@
     "zh_trans": "<< 坚持 35 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 40*",
@@ -212,8 +258,10 @@
     "zh_trans": "*当前能量：40*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Current Power: 70*",
@@ -221,8 +269,10 @@
     "zh_trans": "*当前能量：70*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< STAGE COMPLETE >>",
@@ -230,8 +280,10 @@
     "zh_trans": "<< 关卡完成 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- STAGE CIRCLE -",
@@ -239,8 +291,10 @@
     "zh_trans": "- 关卡 圆形 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Current BGM: Abst:Re:Act -AcuticNotes",
@@ -248,8 +302,10 @@
     "zh_trans": "当前 BGM: Abst:Re:Act -AcuticNotes",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 60 seconds >>",
@@ -257,8 +313,10 @@
     "zh_trans": "<< 坚持 60 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "- STAGE TRIANGLE -",
@@ -266,8 +324,10 @@
     "zh_trans": "- 关卡 三角形 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Current BGM: OutVid -AcuticNotes",
@@ -275,7 +335,20 @@
     "zh_trans": "当前 BGM: OutVid -AcuticNotes",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "*Current Power: 10*",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
