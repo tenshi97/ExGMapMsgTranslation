@@ -5,8 +5,10 @@
     "zh_trans": "** [故事] 关卡 1 - 监狱 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **",
@@ -14,8 +16,10 @@
     "zh_trans": "** [故事] 我们在监狱遇到了一个叫面条人的好人 - 他想帮助我们逃离监狱! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] The old prison lies under the big forest of slender world **",
@@ -23,8 +27,10 @@
     "zh_trans": "** [故事] 这座旧监狱坐落在细长世界中的大森林里 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison **",
@@ -32,8 +38,10 @@
     "zh_trans": "** [故事] 我们要跟随面条人留下的黄色灯光来逃离监狱 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! **",
@@ -41,8 +49,10 @@
     "zh_trans": "** [故事] 甩开僵尸并逃离监狱，祝你好运！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Teleporting HUMANS in 5 secs **",
@@ -50,8 +60,10 @@
     "zh_trans": "** 5 秒后人类传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Teleporting ZOMBIES in 5 secs **",
@@ -59,8 +71,10 @@
     "zh_trans": "** 5 秒后僵尸传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** SPIDERZOMBIE INCOMING **",
@@ -68,8 +82,10 @@
     "zh_trans": "** 蜘蛛僵尸来袭 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Cover 20 seconds **",
@@ -77,8 +93,10 @@
     "zh_trans": "** 掩护 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Cover 5 seconds **",
@@ -86,8 +104,10 @@
     "zh_trans": "** 掩护 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Cover 30 seconds **",
@@ -95,8 +115,10 @@
     "zh_trans": "** 掩护 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Prison door will open in 5 seconds **",
@@ -104,8 +126,10 @@
     "zh_trans": "** 监狱门将在 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GO LEFT **",
@@ -113,8 +137,10 @@
     "zh_trans": "** 走左边 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Cover 25 seconds **",
@@ -122,8 +148,10 @@
     "zh_trans": "** 掩护 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** This barricade is a bit stronger, we planted a C4! **",
@@ -131,8 +159,10 @@
     "zh_trans": "** 这个障碍物有点坚硬, 我们安装了C4! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Cover 30 seconds until the gate opens **",
@@ -140,8 +170,10 @@
     "zh_trans": "** 掩护 30 秒直到大门开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Cover 5 more seconds **",
@@ -149,8 +181,10 @@
     "zh_trans": "** 再掩护 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 50 seconds left until final escape!! **",
@@ -158,8 +192,10 @@
     "zh_trans": "** 50 秒后最后逃离!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 40 seconds left until final escape!! **",
@@ -167,8 +203,10 @@
     "zh_trans": "** 40 秒后最后逃离!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 30 seconds left until final escape!! **",
@@ -176,8 +214,10 @@
     "zh_trans": "** 30 秒后最后逃离!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 20 seconds left until final escape!! **",
@@ -185,8 +225,10 @@
     "zh_trans": "** 20 秒后最后逃离!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 10 seconds left until final escape!! **",
@@ -194,8 +236,10 @@
     "zh_trans": "** 10 秒后最后逃离!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 5 seconds left until final escape!! **",
@@ -203,8 +247,10 @@
     "zh_trans": "** 5 秒后最后逃离!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Go UP the ladder!! **",
@@ -212,8 +258,10 @@
     "zh_trans": "** 爬上梯子!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Incoming nuke in 8 seconds!! **",
@@ -221,8 +269,10 @@
     "zh_trans": "** 核爆在 8 秒后来袭!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Congratulations - you won STAGE 1 **",
@@ -230,8 +280,10 @@
     "zh_trans": "** 恭喜 - 你们通过了关卡 1 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** MAP BY SLAYERDRAGON **",
@@ -239,8 +291,10 @@
     "zh_trans": "** 地图作者 SLAYERDRAGON **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] STAGE 2 - SCHOOL **",
@@ -248,8 +302,10 @@
     "zh_trans": "** [故事] 关卡 2 - 学校 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] We have succesful escaped the prison and after a few days we and slenderman have reached the school **",
@@ -257,8 +313,10 @@
     "zh_trans": "** [故事] 我们成功逃离了监狱, 几天后我们和面条人来到了学校 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] We have to collect some items if we want to survive in slender world**",
@@ -266,8 +324,10 @@
     "zh_trans": "** [故事] 我们需要收集一些物品, 以便我们在细长世界中存活 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DOORS WILL OPEN IN 20 SECS **",
@@ -275,8 +335,10 @@
     "zh_trans": "** 门将在 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOORS WILL OPEN IN 5 SECS **",
@@ -284,8 +346,10 @@
     "zh_trans": "** 门将在 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR WILL OPEN IN 15 SECS **",
@@ -293,8 +357,10 @@
     "zh_trans": "** 门将在 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR WILL OPEN IN 5 SECS **",
@@ -302,8 +368,10 @@
     "zh_trans": "** 门将在 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **",
@@ -311,8 +379,10 @@
     "zh_trans": "** 在学校花园坚守 30 秒直到学校大门打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 5 MORE SECONDS **",
@@ -320,8 +390,10 @@
     "zh_trans": "** 还有 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DEFEND 20 SECONDS **",
@@ -329,8 +401,10 @@
     "zh_trans": "** 防守 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] Oh no! It's a trap! Slenderman betrayed us! **",
@@ -338,8 +412,10 @@
     "zh_trans": "** [故事] 哦不! 这是个圈套! 面条人背叛了我们! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DEFEND 15 MORE SECONDS **",
@@ -347,8 +423,10 @@
     "zh_trans": "** 再防守 15 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] He killed a few of our good men! **",
@@ -356,8 +434,10 @@
     "zh_trans": "** [故事] 他杀了我们中的一些人! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SLENDERZOMBIE -FIRE- WOKE UP **",
@@ -365,8 +445,10 @@
     "zh_trans": "** 面条人僵尸 -火场- 已苏醒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** GO BACK TO THE EXIT OF THE SCHOOL ! **",
@@ -374,8 +456,10 @@
     "zh_trans": "** 回到这个学校的出口! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** THE EXIT WILL OPEN IN 40 SECS **",
@@ -383,8 +467,10 @@
     "zh_trans": "** 出口将在 40 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 10 SECONDS LEFT **",
@@ -392,8 +478,10 @@
     "zh_trans": "** 还有 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GET IN THE CHOPPER !! **",
@@ -401,8 +489,10 @@
     "zh_trans": "** 上直升机!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** CHOPPER WILL LEAVE IN 10 SECS !! **",
@@ -410,8 +500,10 @@
     "zh_trans": "** 直升机将在 10 秒后离开!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Congratulations - you won STAGE 2 **",
@@ -419,8 +511,10 @@
     "zh_trans": "** 恭喜 - 你们通过了关卡 2 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] STAGE 3 - FOREST **",
@@ -428,8 +522,10 @@
     "zh_trans": "** [故事] 关卡 3 - 森林 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] After the betrayal of slenderman we were left alone in the big forest with only an old generator **",
@@ -437,8 +533,10 @@
     "zh_trans": "** [故事] 在面条人的背叛之后我们被留在这个森林, 只有一台旧发电机 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] If we want to survive this forest we need to power the main generator **",
@@ -446,8 +544,10 @@
     "zh_trans": "** [故事] 如果我们要在这片森林活下来我们需要主发电机的电力 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] After the generator has started we can continue our mission to find and kill slenderman! **",
@@ -455,8 +555,10 @@
     "zh_trans": "** [故事] 在发电机启动之后我们可以继续执行搜寻并击杀面条人的任务! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **",
@@ -464,8 +566,10 @@
     "zh_trans": "** [故事] 对了我有跟你们说过面条人有3个爱玩火的兄弟吗?! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **",
@@ -473,8 +577,10 @@
     "zh_trans": "** 防守基地, 并派一些人到森林里搜集油桶 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A fuel can has been picked up **",
@@ -482,8 +588,10 @@
     "zh_trans": "** 一个油桶已被拾取 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FUEL 20 % **",
@@ -491,8 +599,10 @@
     "zh_trans": "** 油量 20 % **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** YOU HAVE FAILED - ZOMBIES DESTROYED THE GENERATOR **",
@@ -500,8 +610,10 @@
     "zh_trans": "** 你们失败了 - 僵尸破坏了发电机 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FUEL 40 % **",
@@ -509,8 +621,10 @@
     "zh_trans": "** 油量 40 % **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **",
@@ -518,8 +632,10 @@
     "zh_trans": "** 油量已足以启动第一只防御狗! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FUEL 60 % **",
@@ -527,8 +643,10 @@
     "zh_trans": "** 油量 60 % **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FUEL 80 % **",
@@ -536,8 +654,10 @@
     "zh_trans": "** 油量 80 % **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **",
@@ -545,8 +665,10 @@
     "zh_trans": "** 油量已足以启动第二只防御狗! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FUEL 100 % **",
@@ -554,8 +676,10 @@
     "zh_trans": "** 油量 100 % **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** THE GENERATOR HAS ENOUGH FUEL! **",
@@ -563,8 +687,10 @@
     "zh_trans": "** 发电机已有足够的燃料! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** GET ALL BACK TO THE BASE **",
@@ -572,8 +698,10 @@
     "zh_trans": "** 全部回到基地 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 45 SECONDS **",
@@ -581,8 +709,10 @@
     "zh_trans": "** 45 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 35 SECONDS **",
@@ -590,8 +720,10 @@
     "zh_trans": "** 35 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 25 SECONDS **",
@@ -599,8 +731,10 @@
     "zh_trans": "** 25 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 15 SECONDS **",
@@ -608,8 +742,10 @@
     "zh_trans": "** 15 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 5 SECONDS **",
@@ -617,8 +753,10 @@
     "zh_trans": "** 5 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Congratulations - you won STAGE 3 **",
@@ -626,8 +764,10 @@
     "zh_trans": "** 恭喜 - 你们通过了关卡 3 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] STAGE 4 - MANSION **",
@@ -635,8 +775,10 @@
     "zh_trans": "** [故事] 关卡 4 - 公馆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] After a few days of wandering we finally arrived at slender mansion **",
@@ -644,8 +786,10 @@
     "zh_trans": "** [故事] 在几天的漫步之后我们终于到达了细长公馆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] To ensure we exterminate slenderman we will plants some bombs in the basements **",
@@ -653,8 +797,10 @@
     "zh_trans": "** [故事] 为了确保能完全消灭了面条人，我们会在地下室安装一些炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] When the bombs are planted we will pay slenderman a visit and kill him **",
@@ -662,8 +808,10 @@
     "zh_trans": "** [故事] 安装了炸弹之后我们将会和面条人见面并杀了他 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [STORY] Good luck hunting him down once and for all!! **",
@@ -671,8 +819,10 @@
     "zh_trans": "** [故事] 祝你们好运, 一劳永逸地解决他!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Cover here till we broke the mansions main door **",
@@ -680,8 +830,10 @@
     "zh_trans": "** 掩护这里直到我们破坏了公馆大门 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** KEEP DEFENDING **",
@@ -689,8 +841,10 @@
     "zh_trans": "** 继续防守 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DOOR IS OPEN - GO PLANT THE BOMB IN THE TOILETS **",
@@ -698,8 +852,10 @@
     "zh_trans": "** 门已开启 - 到厕所里安装炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** CLOSE THE VALVES FOR LOWERING THE WATER **",
@@ -707,8 +863,10 @@
     "zh_trans": "** 关闭阀门来降低水位 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **",
@@ -716,8 +874,10 @@
     "zh_trans": "** 我们已经安装了炸弹 - 让僵尸远离炸弹 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** All drains have been closed - Water is lowering **",
@@ -725,8 +885,10 @@
     "zh_trans": "** 所有排水管已关闭 - 水位下降中 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 5 SECONDS LEFT **",
@@ -734,8 +896,10 @@
     "zh_trans": "** 还有 5 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GO BACK TO THE MAIN HALL **",
@@ -743,8 +907,10 @@
     "zh_trans": "** 回到主大厅 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 15 SECONDS TILL WE OPENED FIRST GATE **",
@@ -752,8 +918,10 @@
     "zh_trans": "** 15 秒来打开第一道大门 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 5 MORE SECONDS TILL WE OPENED SECOND GATE **",
@@ -761,8 +929,10 @@
     "zh_trans": "** 还有 5 秒来打开第二道大门 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GO GO GO **",
@@ -770,8 +940,10 @@
     "zh_trans": "** 撤退 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ELEVATOR WILL START IN 30 SECONDS **",
@@ -779,8 +951,10 @@
     "zh_trans": "** 电梯将在 30 秒后启动 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ELEVATOR IS LEAVING IN 20 SECONDS **",
@@ -788,8 +962,10 @@
     "zh_trans": "** 电梯将在 20 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ELEVATOR IS LEAVING IN 10 SECONDS **",
@@ -797,8 +973,10 @@
     "zh_trans": "** 电梯将在 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ELEVATOR IS LEAVING IN 5 SECONDS **",
@@ -806,8 +984,10 @@
     "zh_trans": "** 电梯将在 5 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** WE ARE ALMOST AT SLENDERMAN !! **",
@@ -815,8 +995,10 @@
     "zh_trans": "** 我们马上见到面条人了!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** KEEP COVERING **",
@@ -824,8 +1006,10 @@
     "zh_trans": "** 继续掩护 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 5 MORE SECONDS! **",
@@ -833,8 +1017,10 @@
     "zh_trans": "** 还有 5 秒! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** YOU FINALLY FOUND ME **",
@@ -842,8 +1028,10 @@
     "zh_trans": "** 你终于找到我了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** NOW YOU WILL MEET YOUR DESTINY **",
@@ -851,8 +1039,10 @@
     "zh_trans": "** 现在你将见证你的命运 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** BOSS USES TELEPORTS NOW **",
@@ -860,8 +1050,10 @@
     "zh_trans": "** boss 使用了传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **",
@@ -869,8 +1061,10 @@
     "zh_trans": "** 面条人已击败 - 逃离公馆!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FINAL STAND **",
@@ -878,8 +1072,10 @@
     "zh_trans": "** 最后一战 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** GOGOGO **",
@@ -887,8 +1083,10 @@
     "zh_trans": "** 冲冲冲 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** YOU DID IT **",
@@ -896,8 +1094,10 @@
     "zh_trans": "** 你做到了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** YOU ESCAPED SLENDER!! **",
@@ -905,8 +1105,10 @@
     "zh_trans": "** 你们逃离了瘦长鬼影!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** .. OR NOT ? **",
@@ -914,8 +1116,10 @@
     "zh_trans": "** .. 或者, 并没有? **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [SURVIVAL] ROUND 1 **",
@@ -923,8 +1127,10 @@
     "zh_trans": "** [生存] 回合 1 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [MODE] SLENDERMAN **",
@@ -932,8 +1138,10 @@
     "zh_trans": "** [模式] 面条人 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [MAP] SCHOOL **",
@@ -941,8 +1149,10 @@
     "zh_trans": "** [地图] 学校 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ITEMS] Lantern - Glowstick - Flashlight **",
@@ -950,8 +1160,10 @@
     "zh_trans": "** [神器] 灯笼 - 荧光棒 - 手电筒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ZMITEM] SLENDERZOMBIES **",
@@ -959,8 +1171,10 @@
     "zh_trans": "** [僵尸神器] 面条人僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [INFO] 3 WINS NEEDED FOR FINAL MADNESS MODE **",
@@ -968,8 +1182,10 @@
     "zh_trans": "** [信息] 需要 3 次胜利才能到最终疯狂模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Collect all 8 Pages **",
@@ -977,8 +1193,10 @@
     "zh_trans": "** 收集 8 张纸条 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 1/8 **",
@@ -986,8 +1204,10 @@
     "zh_trans": "** 纸条 1/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 2/8 **",
@@ -995,8 +1215,10 @@
     "zh_trans": "** 纸条 2/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 3/8 **",
@@ -1004,8 +1226,10 @@
     "zh_trans": "** 纸条 3/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 4/8 **",
@@ -1013,8 +1237,10 @@
     "zh_trans": "** 纸条 4/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 5/8 **",
@@ -1022,8 +1248,10 @@
     "zh_trans": "** 纸条 5/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 6/8 **",
@@ -1031,8 +1259,10 @@
     "zh_trans": "** 纸条 6/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 7/8 **",
@@ -1040,8 +1270,10 @@
     "zh_trans": "** 纸条 7/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Pages 8/8 **",
@@ -1049,8 +1281,10 @@
     "zh_trans": "** 纸条 8/8 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** All pages have been collected ... **",
@@ -1058,8 +1292,10 @@
     "zh_trans": "** 全部纸条已集齐... **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ... Slenderman lost his powers ... **",
@@ -1067,8 +1303,10 @@
     "zh_trans": "** ...面条人已失去他的力量... **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Congratulations - you won SURVIVAL 1 **",
@@ -1076,8 +1314,10 @@
     "zh_trans": "** 恭喜 - 你们通过了生存 1 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ... Use his weakness to destroy the zombies!! **",
@@ -1085,8 +1325,10 @@
     "zh_trans": "** ...用他的弱点来击败僵尸!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 30 seconds **",
@@ -1094,8 +1336,10 @@
     "zh_trans": "** 30 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** [SURVIVAL] ROUND 2 **",
@@ -1103,8 +1347,10 @@
     "zh_trans": "** [生存] 回合 2 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [MAP] PRISON **",
@@ -1112,8 +1358,10 @@
     "zh_trans": "** [地图] 监狱 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [INFO] 2 WINS NEEDED FOR FINAL MADNESS MODE **",
@@ -1121,8 +1369,10 @@
     "zh_trans": "** [信息] 需要 2 次胜利才能到最终疯狂模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [MAP] FOREST **",
@@ -1130,8 +1380,10 @@
     "zh_trans": "** [地图] 森林 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Congratulations - you won SURVIVAL 2 **",
@@ -1139,8 +1391,10 @@
     "zh_trans": "** 恭喜 -你们通过了生存 2 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [SURVIVAL] ROUND 3 **",
@@ -1148,8 +1402,10 @@
     "zh_trans": "** [生存] 回合 3 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [INFO] 1 MORE WIN NEEDED FOR FINAL MADNESS MODE **",
@@ -1157,8 +1413,10 @@
     "zh_trans": "** [信息] 还需要1次胜利才能到最终疯狂模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [MODE] MADNESS! **",
@@ -1166,8 +1424,10 @@
     "zh_trans": "** [模式] 疯狂! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ITEMS] Lantern - Glowstick - Monkey BOMB **",
@@ -1175,8 +1435,10 @@
     "zh_trans": "** [神器] 灯笼 - 荧光棒 - 猴子炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ZMITEM] SLENDERFIREZOMBIES! **",
@@ -1184,8 +1446,10 @@
     "zh_trans": "** [僵尸神器] 面条人火焰僵尸! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SURVIVE **",
@@ -1193,8 +1457,10 @@
     "zh_trans": "** 生存 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 30 Seconds left until slenderman RAPE! **",
@@ -1202,8 +1468,10 @@
     "zh_trans": "** 还剩 30 秒面条人进入狂暴! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** You have failed - NO TIME LEFT **",
@@ -1211,8 +1479,10 @@
     "zh_trans": "** 你输了 - 没有时间了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [MODE] BARRELMODE **",
@@ -1220,8 +1490,10 @@
     "zh_trans": "** [模式] 油桶王 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ITEMS] BARRELS ! **",
@@ -1229,8 +1501,10 @@
     "zh_trans": "** [人类神器] 油桶！(免抓)**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ZMITEM] BARRELBOSS **",
@@ -1238,8 +1512,10 @@
     "zh_trans": "** [ZM神器] 油桶王已被拾取(无视击退) **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** BARRELS BARRELS EVERYWHERE! **",
@@ -1247,8 +1523,10 @@
     "zh_trans": "** 到处都是油桶！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 180 seconds **",
@@ -1256,8 +1534,10 @@
     "zh_trans": "** 180 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 150 seconds **",
@@ -1265,8 +1545,10 @@
     "zh_trans": "** 150 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 150,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 120 seconds **",
@@ -1274,8 +1556,10 @@
     "zh_trans": "** 120 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 90 seconds **",
@@ -1283,8 +1567,10 @@
     "zh_trans": "** 90 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NUKE in 60 seconds **",
@@ -1292,8 +1578,10 @@
     "zh_trans": "** 60 秒后核爆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Congratulations - you won SURVIVAL 3 **",
@@ -1301,8 +1589,10 @@
     "zh_trans": "** 恭喜 - 你们通过了生存 3 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [DIFFICULTY] FINAL MADNESS MODE **",
@@ -1310,8 +1600,10 @@
     "zh_trans": "** [难度] 最终疯狂模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** NO SPAWN PROTECTION **",
@@ -1319,8 +1611,10 @@
     "zh_trans": "** 没有出生保护 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FINAL MADNESS MODE TRY 1/3 **",
@@ -1328,8 +1622,10 @@
     "zh_trans": "** 最终疯狂模式第 1/3 次尝试 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FINAL MADNESS MODE TRY 2/3 **",
@@ -1337,8 +1633,10 @@
     "zh_trans": "** 最终疯狂模式第 2/3 次尝试 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** FINAL MADNESS MODE TRY 3/3 **",
@@ -1346,8 +1644,10 @@
     "zh_trans": "** 最终疯狂模式第 3/3 次尝试 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** IF YOU FAIL THIS ROUND > RETURN TO FUN 3 MODE **",
@@ -1355,8 +1655,10 @@
     "zh_trans": "** 如果你们输了这个回合 > 回到第三个娱乐模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 30 SECONDS LEFT BEFORE SLENDERMAN FIND US! **",
@@ -1364,8 +1666,10 @@
     "zh_trans": "** 面条人还有 30 秒找到我们! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** [ADMIN] DIFFICULTY CHANGED TO STAGE 4 **",
@@ -1373,8 +1677,10 @@
     "zh_trans": "** [管理员] 难度更改为 关卡 4 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 3 **",
@@ -1382,8 +1688,10 @@
     "zh_trans": "** [管理员] 难度更改为 生存 3 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** INVADERS MUST DIE !! **",
@@ -1391,8 +1699,10 @@
     "zh_trans": "** 入侵者必须死!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** BARRELBOSS INCOMING **",
@@ -1400,8 +1710,10 @@
     "zh_trans": "** 油桶Boss 即将来袭 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** SLENDERZOMBIE INCOMING **",
@@ -1409,8 +1721,10 @@
     "zh_trans": "** 面条人僵尸 即将袭来 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ADMIN] DIFFICULTY CHANGED TO STAGE 2 **",
@@ -1418,8 +1732,10 @@
     "zh_trans": "** [管理员] 难度更改为 关卡 2 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "因第三关油桶bug跳过到第四关",
@@ -1427,8 +1743,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** [ADMIN] DIFFICULTY CHANGED TO STAGE 1 **",
@@ -1436,7 +1754,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 1 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
