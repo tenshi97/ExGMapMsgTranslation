@@ -453,29 +453,29 @@
   {
     "original": "*** RIGHT VALVE OPENED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 右侧阀门已打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** LEFT VALVE OPENED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 左侧阀门已打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOOR OPENS IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 15 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,18 +486,18 @@
   {
     "original": "***WELL DONE! ALL VALVES PRESSED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***干得好！所有阀门都已按下***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOORS OPENING IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 20 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,7 +508,7 @@
   {
     "original": "***NEXT LEVEL: EXTREME***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***下一关：极限***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,7 +519,7 @@
   {
     "original": "***YOU WON HARD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***你拿下了困难模式！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
