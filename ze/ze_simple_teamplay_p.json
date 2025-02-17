@@ -5,8 +5,8 @@
     "zh_trans": "~# 逃生大门开启 #~",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "~# Prop Removers Activated #~",
@@ -23,8 +23,8 @@
     "zh_trans": "~# 守住这里 #~",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "~# 5 SECONDS! #~",
@@ -50,8 +50,8 @@
     "zh_trans": "~# 走! #~",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "~# Nuke Has Been Launched #~",
@@ -59,8 +59,8 @@
     "zh_trans": "~# 核弹已经启动 #~",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "~# 15 Seconds To Impact #~",
