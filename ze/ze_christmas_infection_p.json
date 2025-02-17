@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** TIP: You can pick up special items from the spinning presents randomly placed in the map. **",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Red and blue presents will contain zombie and human items respectively. **",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** The door opens in 30 seconds ***",
@@ -96,7 +96,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Tree placer has been picked up. Press +USE (E) to place a tree. **",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Ice boomerang has been picked up. Press +USE (E) to throw it. **",
@@ -380,8 +380,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Zombie heal has been picked up. Press +USE (E) to activate.**",
@@ -536,7 +536,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** THE CORE OF THE AIRBOAT IS MISSING! WE HAVE TO FIND IT!!! **",
@@ -547,7 +547,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** TIP: The core must be brought back to the back of the ship to leave. **",
@@ -558,7 +558,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **",
@@ -580,7 +580,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The core has been found! Take it to the boat! **",
@@ -591,7 +591,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Activate both control pannels at once to unlock the door! ***",
@@ -602,7 +602,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The boat has energy again! We will be able to leave now!!! **",
@@ -613,7 +613,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Resist for 15 seconds! **",
@@ -646,7 +646,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** CURRENT LEVEL: TOUGH **",
@@ -657,18 +657,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** RESIST! There are two ways they can come from! **",
     "en_trans": "",
-    "zh_trans": "**防御！它们有两种进攻路线！**",
+    "zh_trans": "**防御！他们有两条进攻路线！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** HOLD! The door is opening in 10 seconds! **",
@@ -690,7 +690,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The core has become unstable! The reactor will explode!!! **",
@@ -701,7 +701,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We need to get into the safety bunker! Resist until the doors open!!! **",
@@ -712,7 +712,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***",
@@ -723,7 +723,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** The door has locked! We need to resist until it keeps moving! ***",
@@ -734,18 +734,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** ALMOST THERE! KEEP DEFENDING!!! ***",
     "en_trans": "",
-    "zh_trans": "*** 就快到了! 继续防守!!! ***",
+    "zh_trans": "*** 就差一点! 继续防守!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **",
@@ -756,12 +756,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** AN ADMIN CHANGED THE LEVEL TO MEDIUM! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员将难度级别改为中等！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,29 +772,29 @@
   {
     "original": "** CURRENT LEVEL: APOCALYPSE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前等级：末日 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The way is locked! Open the doors pressing the buttons at the control area! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 道路被封锁了！在控制区按下按钮来打开门！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Systems activated! Doors opening in 10 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 系统已激活！门将在 10 秒后打开！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -805,7 +805,7 @@
   {
     "original": "** Hold! The doors will open in 15 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持住！门将在 15 秒后打开！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -816,7 +816,7 @@
   {
     "original": "** Resist! The doors will open in 10 seconds!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 抵抗！门将在 10 秒后打开！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -827,7 +827,7 @@
   {
     "original": "** RESIST FOR 20 SECONDS! Help is on the way! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚持 20 秒！救援正在赶来！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,34 +838,34 @@
   {
     "original": "** Fall back! The hot air balloon is here!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 后退！热气球在这里！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SHOOT! Zombies can jump into the balloon!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 开枪！别让僵尸跳上来！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 难以置信！！！你已攻克了这张地图！下一关为 ZM 关以及选关投票！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
