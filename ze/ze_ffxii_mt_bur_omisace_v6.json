@@ -1685,12 +1685,12 @@
   {
     "original": "**[Tonberry] Still havent found all keys? You need to bring me 4 more keys**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]还没找到所有钥匙吗？你得再给我拿 4 把钥匙过来**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
