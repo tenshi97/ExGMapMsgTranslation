@@ -167,18 +167,18 @@
   {
     "original": ">>> BLOOPER IS COMING <<<",
     "en_trans": "",
-    "zh_trans": ">>> 乌贼要来了 <<<",
+    "zh_trans": ">>> 乌贼要来了（注意随时按B购买护甲） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>> BLOOPER USED BREATH <<<",
     "en_trans": "",
-    "zh_trans": ">>> 乌贼使用了吐息 <<<",
+    "zh_trans": ">>> 乌贼使用了吐息（吃到伤害就反向移动躲避特效） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": ">>> BLOOPER USED SPLASH <<<",
     "en_trans": "",
-    "zh_trans": ">>> 乌贼使用了泼溅 <<<",
+    "zh_trans": ">>> 乌贼使用了泼溅（躲避脚底特效） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": ">>> BLOOPER USED INK <<<",
     "en_trans": "",
-    "zh_trans": ">>> 乌贼使用了墨汁 <<<",
+    "zh_trans": ">>> 乌贼使用了墨汁（致盲） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": ">>> BLOOPER USED BEAM <<<",
     "en_trans": "",
-    "zh_trans": ">>> 乌贼使用了光束 <<<",
+    "zh_trans": ">>> 乌贼使用了光束（跳着躲避光束） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": ">>> BLOOPER USED CANNON <<<",
     "en_trans": "",
-    "zh_trans": ">>> 乌贼使用了加农炮 <<<",
+    "zh_trans": ">>> 乌贼使用了加农炮（躲避特效） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
