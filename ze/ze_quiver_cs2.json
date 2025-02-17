@@ -173,7 +173,7 @@
   {
     "original": "||| left Blastdoor will open in 10 seconds |||",
     "en_trans": "",
-    "zh_trans": "||| 左侧防爆门将在 10 秒后开启 |||",
+    "zh_trans": "||| 左侧防爆门（面对僵尸右边）将在 10 秒后开启 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -344,7 +344,7 @@
   {
     "original": "||| right Blastdoor will open in 10 seconds |||",
     "en_trans": "",
-    "zh_trans": "||| 右侧防爆门将在 10 秒后开启 |||",
+    "zh_trans": "||| 右侧防爆门（面对僵尸左边）将在 10 秒后开启 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
