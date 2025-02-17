@@ -864,36 +864,36 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前等级: ZM 关以及选关投票 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Survive for 4 minutes to get to the vote level! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 生存 240 秒以进入投票关卡！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
+    "timer_num": 240,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "** Only humans will be able to vote! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 只有人类才能投票！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -904,29 +904,29 @@
   {
     "original": "** Two minutes left! RESIST! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 120 秒！坚持住！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 120,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "** Just one minute! Keep it up! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 只剩 60 秒了！坚持下去！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "** LAST 30 SECONDS! HOLD THE LAST BIT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 30 秒！撑住！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -937,7 +937,7 @@
   {
     "original": "** 15 SECONDS!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 15 秒！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -948,7 +948,7 @@
   {
     "original": "** RESIST! 5 SECONDS!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 抵抗！ 5 秒！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,18 +959,18 @@
   {
     "original": "** Well done! Vote for the level you want to play! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 干得漂亮！为你想玩的关卡投票！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** If after 30 seconds no level has been selected the nuke will activate! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 如果 30 秒后没有选择关卡，核弹将被激活！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -981,18 +981,18 @@
   {
     "original": "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 投票结果已出！下一关将是 ZM ，并再次投票！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Select one of the endings pressing the buttons! Nuke in 30 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 通过按按钮选择其中一个结局！ 30 秒后核弹爆炸！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
