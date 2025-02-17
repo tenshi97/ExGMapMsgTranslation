@@ -2,13 +2,13 @@
   {
     "original": "** LEVEL: NORMAL **",
     "en_trans": "",
-    "zh_trans": "** 关卡：普通 **",
+    "zh_trans": "** 关卡：普通(NORMAL) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ORIGINAL MAP BY SOLDIERBEST **",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** RESIST 15 SECONDS **",
@@ -96,7 +96,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** PRESS THE CONTROL PANEL **",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** HOLD PTA ROOM FOR 20 SECONDS **",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** PRESS THE BUTTON OF THE GENERATOR **",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** HOLD ROOM FOR 25 SECONDS ***",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SEARCH 2 CORES FOR REBOOT THE POWER***",
@@ -217,12 +217,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WELL DONE! DOORS OPEN IN 15 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 干得好！ 15 秒后门开 **",
+    "zh_trans": "** 干得好！ 15 秒门开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -239,12 +239,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOOR OPENING IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 20 秒后门开 **",
+    "zh_trans": "** 20 秒门开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "** DOORS OPEN IN 25 SECONDS **",
     "en_trans": "",
-    "zh_trans": "** 25 秒后门开 **",
+    "zh_trans": "** 25 秒门开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***HYDRA LEAVE IN 15 SECONDS***",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU WON NORMAL!***",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***NEXT LEVEL HARD***",
@@ -327,18 +327,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** LEVEL: HARD **",
     "en_trans": "",
-    "zh_trans": "** 关卡：困难 **",
+    "zh_trans": "** 关卡：困难(HARD) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** PRESS ALL BUTTONS! **",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ALL BUTTONS PRESSED!***",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOOR OPENS IN 15 SECONDS!***",
@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** BUTTONS PRESSED! ***",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOOR OPEN IN 5 SECONDS **",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***2 HUMANS MUST GO TO ACTIVATE THE VALVE***",
@@ -437,7 +437,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** HARD LEVEL CHOOSEN **",
@@ -453,29 +453,29 @@
   {
     "original": "*** RIGHT VALVE OPENED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 右侧阀门已打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** LEFT VALVE OPENED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 左侧阀门已打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOOR OPENS IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 15 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,18 +486,18 @@
   {
     "original": "***WELL DONE! ALL VALVES PRESSED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***干得好！所有阀门都已按下***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOORS OPENING IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 20 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,40 +508,40 @@
   {
     "original": "***NEXT LEVEL: EXTREME***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***下一关：极限***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU WON HARD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***你拿下了困难模式！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** LEVEL: EXTREME **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 关卡：极限(EXTREME) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***HOLD THE POWER FOR 35 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守 35 秒***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,29 +552,29 @@
   {
     "original": "**GO GO GO**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**GO GO GO**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**DOORS OPEN**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**门开了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOOR OPEN IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门将在 10 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "** RESIST 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 抵御 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,84 +596,84 @@
   {
     "original": "***CORE IS GETTING UNESTABLE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***核心正变得不稳定***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***COMMAND FAILED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***使命失败***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***EVACUATE ALL PERSONAL***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***疏散所有人员***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** TRY TO REBOOT THE POWER! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 尝试重启电源！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** REBOOTING EMERGENCY AUXILIARY ENGINE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 正在重启应急辅助引擎 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** WON'T TAKE LONG***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 不会花太长时间 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***GO TO THE ELEVATOR!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***快上电梯!***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ELEVATOR LEAVE IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电梯 10 秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,18 +684,18 @@
   {
     "original": "***YOU DID IT! YOU WON EXTREME!!!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***你做到了！全图通关！！！！！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***NEXT LEVEL NORMAL***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***下一关：普通***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

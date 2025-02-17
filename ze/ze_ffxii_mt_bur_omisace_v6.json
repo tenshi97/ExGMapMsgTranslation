@@ -24,7 +24,7 @@
   {
     "original": "**Map Ported by Waffel. Thanks to NiceShot with helping.**",
     "en_trans": "",
-    "zh_trans": "**地图移植 Waffel. 感谢 NiceShot 的帮助.**",
+    "zh_trans": "**地图移植 Waffel. 感谢 NiceShot 的帮助.(翻译:星荧铃,翻译有问题请论坛或社区Q群联系我)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] The crystal has been destroyed! It takes 15 seconds to fully activate!**",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] The Guard of the gates. If we want to escape we have to defeat him!**",
@@ -1080,7 +1080,7 @@
   {
     "original": "**Judge Bergan has casted Soul Siphon!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了灵魂虹吸！**",
+    "zh_trans": "**贝甘审判官施展了灵魂虹吸(Soul Siphon)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1091,7 +1091,7 @@
   {
     "original": "**Judge Bergan has casted Dedication Aura!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了献祭光环！**",
+    "zh_trans": "**贝甘审判官施展了献祭光环(Dedication Aura)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1102,7 +1102,7 @@
   {
     "original": "**Judge Bergan has casted Flash of Shattering!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了破碎闪光！**",
+    "zh_trans": "**贝甘审判官施展了破碎闪光(Flash of Shattering)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,7 +1124,7 @@
   {
     "original": "**Judge Bergan has cased Flash of Burning Souls!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了灼魂之焰！**",
+    "zh_trans": "**贝甘审判官施展了灼魂之焰(Flash of Burning Souls)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,7 +1135,7 @@
   {
     "original": "**Judge Bergan has casted 1000 Needles!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了千针刺！**",
+    "zh_trans": "**贝甘审判官施展了千针刺(1000 Needles)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,7 +1157,7 @@
   {
     "original": "**Judge Bergan summons Esper Ultima!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤出了 幻兽 乌尔蒂玛！**",
+    "zh_trans": "**贝甘审判官召唤出了 幻兽 乌尔蒂玛(Ultima)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1168,7 +1168,7 @@
   {
     "original": "**Judge Bergan summons Esper Shemhazai!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤出了 幻兽 谢姆哈扎伊！**",
+    "zh_trans": "**贝甘审判官召唤出了 幻兽 谢姆哈扎伊(Shemhazai)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,7 +1179,7 @@
   {
     "original": "**Judge Bergan has casted Ceremony of the Nether!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了幽冥仪式！**",
+    "zh_trans": "**贝甘审判官施展了幽冥仪式(Ceremony of the Nether)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1190,7 +1190,7 @@
   {
     "original": "**[Bash] Juge Bergan has summoned Venat! Kill him before is too late**",
     "en_trans": "",
-    "zh_trans": "**[巴什]贝甘审判官召唤出了维纳特！快开火**",
+    "zh_trans": "**[巴什]贝甘审判官召唤出了维纳特(Venat)！快开火**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "**Judge Bergan has casted Illusion of Souls!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了灵魂幻觉！**",
+    "zh_trans": "**贝甘审判官施展了灵魂幻觉(Illusion of Souls)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1355,7 +1355,7 @@
   {
     "original": "**Judge Bergan has casted Frost Fury!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了冰霜之怒！**",
+    "zh_trans": "**贝甘审判官施展了冰霜之怒(Frost Fury)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "**Judge Bergan has casted Gift of Plagues!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了疫病恩赐！**",
+    "zh_trans": "**贝甘审判官施展了疫病恩赐(Gift of Plagues)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1377,7 +1377,7 @@
   {
     "original": "**Judge Bergan has casted Aura of Water!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了水之灵气！**",
+    "zh_trans": "**贝甘审判官施展了水之灵气(Aura of Water)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1388,7 +1388,7 @@
   {
     "original": "**Judge Bergan has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了寒冰箭！**",
+    "zh_trans": "**贝甘审判官施展了寒冰箭(Frost Bolt)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "**Judge Bergan has casted Blazing Surge!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了炽热涌动！**",
+    "zh_trans": "**贝甘审判官施展了炽热涌动(Blazing Surge)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1410,7 +1410,7 @@
   {
     "original": "**Judge Bergan summons Esper Famfirt!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤了 幻兽 法姆弗里特！**",
+    "zh_trans": "**贝甘审判官召唤了 幻兽 法姆弗里特(Famfirt)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1487,7 +1487,7 @@
   {
     "original": "**Judge Bergan has casted Rage of Magic!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了魔法狂怒！**",
+    "zh_trans": "**贝甘审判官施展了魔法狂怒(Rage of Magic)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1498,7 +1498,7 @@
   {
     "original": "**Judge Bergan summons Esper Zodiark!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤出了 幻兽 佐迪亚克！**",
+    "zh_trans": "**贝甘审判官召唤出了 幻兽 佐迪亚克(Zodiark)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1509,7 +1509,7 @@
   {
     "original": "**Judge Bergan has casted Moon Blast!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了月辉冲击！**",
+    "zh_trans": "**贝甘审判官施展了月辉冲击(Moon Blast)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1535,9 +1535,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[Bash] Well done! You interrupted the attack and now you may attack Judge Berga**",
@@ -1553,7 +1553,7 @@
   {
     "original": "**Judge Bergan has casted Tranquility Wave!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了宁静之波！**",
+    "zh_trans": "**贝甘审判官施展了宁静之波(Tranquility Wave)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1564,7 +1564,7 @@
   {
     "original": "**Judge Bergan has casted Severance of the Arcane!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了秘法断裁！**",
+    "zh_trans": "**贝甘审判官施展了秘法断裁(Severance of the Arcane)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1575,18 +1575,18 @@
   {
     "original": "**[Bash] Don't stay on sides! Get to the middle now!**",
     "en_trans": "",
-    "zh_trans": "**[巴什]别待在边上！快去中间！**",
+    "zh_trans": "**[巴什]快去中间！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Judge Bergan has casted Wind Salvo!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官施展了风之连击！**",
+    "zh_trans": "**贝甘审判官施展了风之连击(Wind Salvo)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1597,7 +1597,7 @@
   {
     "original": "**Judge Bergan summons Esper Chaos!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判官召唤了 幻兽 卡奥斯！**",
+    "zh_trans": "**贝甘审判官召唤了 幻兽 卡奥斯(Chaos)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1608,7 +1608,7 @@
   {
     "original": "**[Tonberry] Thanks for your help now I can go back to my own**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]感谢你的帮助，现在我可以回去了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1619,7 +1619,7 @@
   {
     "original": "**[Tonberry] Congratulations! There is your reward!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[冬贝利]恭喜！这是给你的奖励！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1630,7 +1630,7 @@
   {
     "original": "**A player has picked up The Devileye**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 玩家拾起了 双手弩 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1641,7 +1641,7 @@
   {
     "original": "**A player has picked up Judge Zargabaath**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家已获得 审判官扎尔加巴斯**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1652,7 +1652,7 @@
   {
     "original": "**Level has been changed on Ultimate Mode**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**关卡被变更为 终极模式**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1663,7 +1663,7 @@
   {
     "original": "**A player has picked up Crystal Shield**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家已获得水晶护盾**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1674,7 +1674,7 @@
   {
     "original": "**A player has picked up Ultimate Blade**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家已获得终极之剑**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

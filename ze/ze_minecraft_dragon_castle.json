@@ -2,7 +2,7 @@
   {
     "original": "Map Creator : Platin",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者 : Platin",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,18 +13,18 @@
   {
     "original": "### LEVEL 1 ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 关卡 1 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "The door will open in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "Last 5 sec.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,18 +46,18 @@
   {
     "original": "Door Open!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门开了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "ZM TP 10 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在 10 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,18 +68,18 @@
   {
     "original": "* HEAL GUN - 50 sec cooldown *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 治疗枪 - 50 秒冷却时间 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 50,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "Last 5 sec!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,18 +90,18 @@
   {
     "original": "Door Open! GO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门开了！走！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The door will open in 30 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "Last 10 sec! GO BACK!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 10 秒！撤退！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,18 +123,18 @@
   {
     "original": "Door OPEN! GO!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门开了！GO！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Press the button above to open the door.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "按下上方的按钮开门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "ZM TP 10 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在 10 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,18 +156,18 @@
   {
     "original": "Door Open ! GO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门开了！走",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The barrier will open in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "屏障将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "zm short way open!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸侧路打开了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,12 +189,12 @@
   {
     "original": "Open GO!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "开了！走！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
