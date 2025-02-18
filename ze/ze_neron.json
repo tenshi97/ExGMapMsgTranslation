@@ -5,8 +5,10 @@
     "zh_trans": "???:快醒醒....",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "????:Do you remember your name?",
@@ -14,8 +16,10 @@
     "zh_trans": "???:你还记得你的名字吗?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "????:Don't remember? It's ok, my name is Kiki",
@@ -23,8 +27,10 @@
     "zh_trans": "???:忘了吗?没关系,我的名字是KiKi",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:I was sent here to be your guide.",
@@ -32,8 +38,10 @@
     "zh_trans": "Kiki:我被派遣作为你的向导",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It's a high-tech facility and we're right at the entrance",
@@ -41,8 +49,10 @@
     "zh_trans": "Kiki:这里是一个高科技设施,我们现在在入口",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:An unknown accident happened here",
@@ -50,8 +60,10 @@
     "zh_trans": "Kiki:这里发生了一起未知的事故",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:That's why no one came out to meet us",
@@ -59,8 +71,10 @@
     "zh_trans": "Kiki:所以没人出来接我们",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:That's why you're here, your mission is to investigate what's going on here",
@@ -68,8 +82,10 @@
     "zh_trans": "Kiki:这就是你来这里的原因,你的任务是调查这里发生了什么",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Have you heard? 108 years ago, a search party found the last plant on a polluted planet",
@@ -77,8 +93,10 @@
     "zh_trans": "kiki:你听说了吗?108年前,一个搜索队在一个被污染的星球上找到了最后一株植物",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "15",
@@ -86,8 +104,10 @@
     "zh_trans": "15秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Kiki:And this facility was built to protect and study that plant",
@@ -95,8 +115,10 @@
     "zh_trans": "Kiki:这个设施是为了保护和研究这种植物而建的",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Although the planet has stabilized now, it is still a very important building",
@@ -104,8 +126,10 @@
     "zh_trans": "Kiki:虽然星球现在已经稳定了,但这里仍然是一个非常重要的建筑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Looks like we have to jump up and touch 8 energy balls to open the door",
@@ -113,8 +137,10 @@
     "zh_trans": "Kiki:看来我们得跳上去,找到8个能量球才能开门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:No, the facility's security system is activated, which means we are considered the enemy",
@@ -122,8 +148,10 @@
     "zh_trans": "Kiki:不好,基地的安全系统启动了,言简意赅我们被认为是敌人",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:There is no way, we have to break the security system",
@@ -131,8 +159,10 @@
     "zh_trans": "Kiki:没办法了,我们必须破坏安全系统",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story1 unlock",
@@ -140,8 +170,10 @@
     "zh_trans": "故事1解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Some people's information is scattered here, who could it be?",
@@ -149,8 +181,10 @@
     "zh_trans": "Kiki:有些人的信息散落在这里,会是谁呢?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "20",
@@ -158,8 +192,10 @@
     "zh_trans": "20秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Entering here is the inside of the facility...",
@@ -167,8 +203,10 @@
     "zh_trans": "Kiki:从这里进入就是设施内部",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:That one is distributed by the company, if you lose it I will be penalized",
@@ -176,8 +214,10 @@
     "zh_trans": "Kiki:那是公司发的,如果你丢了我会被罚的",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Mapper Enidnu",
@@ -185,8 +225,10 @@
     "zh_trans": "地图作者:Enidnu",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen",
@@ -194,8 +236,10 @@
     "zh_trans": "特别感谢:x1a0Fu 健忘症晚期 lopb Koen",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Port by 花澪墨音",
@@ -203,8 +247,10 @@
     "zh_trans": "移植作者:花澪墨音 翻译:Shooting Stars",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:If you take my pistol, you protect me in case of danger",
@@ -212,8 +258,10 @@
     "zh_trans": "Kiki:如果你拿了我的手枪,请你在危险的情况下保护我",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It seems that we have to look for these energy balls",
@@ -221,8 +269,10 @@
     "zh_trans": "Kiki:看来我们得去找这些能量球了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Take these core energy sources with you",
@@ -230,8 +280,10 @@
     "zh_trans": "Kiki:把这些东西带在身边",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "25",
@@ -239,8 +291,10 @@
     "zh_trans": "25秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Throw them into the core reactor to activate",
@@ -248,8 +302,10 @@
     "zh_trans": "Kiki:把它们扔进核心反应堆激活",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:The first location is the factory, it looks like we have to activate three cores to close the waste water gate in the middle",
@@ -257,8 +313,10 @@
     "zh_trans": "Kiki:第一个地点是工厂,看起来我们必须激活三个核心来关闭中间的废水门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:The road here is very difficult to walk, once a group of search teams were wiped out here...",
@@ -266,8 +324,10 @@
     "zh_trans": "Kiki:这里的路很难走,曾经有一群搜救队在这里被歼灭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Hey! You still can't remember your name?",
@@ -275,8 +335,10 @@
     "zh_trans": "Kiki:嘿!你还是不记得自己的名字吗?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It is too hard to call you without a name, so let's call you K for now",
@@ -284,8 +346,10 @@
     "zh_trans": "Kiki:不给你起名字实在是太难受了,所以现在就叫你K吧",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story2 unlock",
@@ -293,8 +357,10 @@
     "zh_trans": "故事2解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It's my K",
@@ -302,8 +368,10 @@
     "zh_trans": "Kiki:是我的K",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:A note...?",
@@ -311,8 +379,10 @@
     "zh_trans": "Kiki:一个笔记...?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:uh,Although I have heard that the road here is particularly complicated, there is no problem with the brain of the person who designed this, right?",
@@ -320,8 +390,10 @@
     "zh_trans": "Kiki:虽然我听说这里的路特别复杂,但设计这条路的人的脑子没有问题,对吧?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Ok, we successfully started the first core",
@@ -329,8 +401,10 @@
     "zh_trans": "Kiki:好的,我们成功地启动了第一个核心",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "10",
@@ -338,8 +412,10 @@
     "zh_trans": "10秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Finally, in front of the second core reactor",
@@ -347,8 +423,10 @@
     "zh_trans": "Kiki:终于到第二个反应堆了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:By the way, you've come this long, do you want a coffee? I just happened to be carrying",
@@ -356,8 +434,10 @@
     "zh_trans": "Kiki:顺便问一下,你来了这么久,要不要来杯咖啡?当然我只是碰巧带着",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story3 unlock",
@@ -365,8 +445,10 @@
     "zh_trans": "故事3解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Look, I found a diary",
@@ -374,8 +456,10 @@
     "zh_trans": "Kiki:看,我找到一本日记",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:one more, my friend",
@@ -383,8 +467,10 @@
     "zh_trans": "Kiki:还有一个,我的朋友",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "30",
@@ -392,8 +478,10 @@
     "zh_trans": "30秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Kiki:I saw an orange pipe on the way, and maybe we can get to the third core reactor from there",
@@ -401,8 +489,10 @@
     "zh_trans": "Kiki:我在路上看到了一根橙色的管子,也许我们可以从那里到达第三个堆芯反应堆",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Quick!we have to start the last core before the countdown ends",
@@ -410,8 +500,10 @@
     "zh_trans": "Kiki:快!我们必须在倒计时结束前启动最后一个核心",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It worked! Now just take the elevator up",
@@ -419,8 +511,10 @@
     "zh_trans": "Kiki:它开始工作了,我们现在只需要坐电梯上去",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Look behind you, this core has a security system, pay attention to dodge",
@@ -428,8 +522,10 @@
     "zh_trans": "Kiki:看你身后,这个核心有安全系统,注意躲开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:quick! Jump into the pipe in the middle and go to the sewers",
@@ -437,8 +533,10 @@
     "zh_trans": "Kiki:快!跳进中间的管道",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:This place is full of smells I don't like, find a way out",
@@ -446,8 +544,10 @@
     "zh_trans": "Kiki:这地方到处都是我不喜欢的味道,想办法出去吧",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:I hate how the designers of this facility like to make the door switches so hard to open",
@@ -455,8 +555,10 @@
     "zh_trans": "Kiki:我讨厌这个设施的设计师把门开关弄得这么难开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:K, do you have any relatives or friends?",
@@ -464,8 +566,10 @@
     "zh_trans": "Kiki:K,你有亲朋好友吗",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Ah, I forgot you can't even remember your own name",
@@ -473,8 +577,10 @@
     "zh_trans": "Kiki:嘿,我忘了你连你名字都忘记了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Honestly, I'm a guide about to be eliminated",
@@ -482,8 +588,10 @@
     "zh_trans": "Kiki:说实话,我是一个将被裁员的向导",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:They say I have more emotions than the average tour guide",
@@ -491,8 +599,10 @@
     "zh_trans": "Kiki:他们说我比一般的导游更有感情",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:If you can take...",
@@ -500,8 +610,10 @@
     "zh_trans": "Kiki:如果..你能..",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Never mind",
@@ -509,8 +621,10 @@
     "zh_trans": "Kiki:没关系",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Maybe we won't be able to meet again after this mission is over.",
@@ -518,8 +632,10 @@
     "zh_trans": "Kiki:也许任务结束后我们就不能再见面了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It??s so dark, did the designer forget to make a lamp?",
@@ -527,8 +643,10 @@
     "zh_trans": "Kiki:这么黑,设计师是不是忘了做一盏灯",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story4 unlock",
@@ -536,8 +654,10 @@
     "zh_trans": "故事4解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:This looks like a warehouse",
@@ -545,8 +665,10 @@
     "zh_trans": "Kiki:这看起来是个仓库",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:familiar handwriting....",
@@ -554,8 +676,10 @@
     "zh_trans": "K:熟悉的笔迹",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Through this underground passage we can reach the terminal processing facility",
@@ -563,8 +687,10 @@
     "zh_trans": "Kiki:通过这条地下通道我们可以到达终端处理设施",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:There is a record of the entire facility, so we can know what happened here",
@@ -572,8 +698,10 @@
     "zh_trans": "Kiki:这里有整个设施的记录,所以我们可以知道这里发生了什么",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:wait, what happened, the whole room is changing",
@@ -581,8 +709,10 @@
     "zh_trans": "Kiki:等等,发生了什么,整个房间都开始变化",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Our way is blocked",
@@ -590,8 +720,10 @@
     "zh_trans": "Kiki:我们的路被堵住了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Damn, it's that security system again, K destroy it quickly",
@@ -599,8 +731,10 @@
     "zh_trans": "Kiki:该死,又是那个安全系统,快摧毁它",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Hey K, look what I found, catch it",
@@ -608,8 +742,10 @@
     "zh_trans": "Kiki:K,看我找到了什么,抓住它",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Hey K, I found another one, praise me",
@@ -617,8 +753,10 @@
     "zh_trans": "Kiki:嘿,K,我又找到了一个,快夸夸我",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "?????:KARL.............................................",
@@ -626,8 +764,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Whose office is this? It's unexpectedly connected to such a mysterious passage.",
@@ -635,8 +775,10 @@
     "zh_trans": "Kiki:这是谁的办公室?它居然和这一段有联系",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story5 unlock",
@@ -644,8 +786,10 @@
     "zh_trans": "故事5解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:The desk is covered with a lot of research materials. It seems that the owner of this office holds a high position.",
@@ -653,8 +797,10 @@
     "zh_trans": "Kiki:桌子上摆满了许多研究资料,看来这间办公室的老板地位很高",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story10 unlock",
@@ -662,8 +808,10 @@
     "zh_trans": "故事10解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:Is this... my handwriting?",
@@ -671,8 +819,10 @@
     "zh_trans": "K:这是……我的笔迹吗?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Hey, that's my pistol...",
@@ -680,8 +830,10 @@
     "zh_trans": "Kiki:嘿,那是我的手枪",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:What is that purple portal on the other side of the door? I've never seen anything like it...",
@@ -689,8 +841,10 @@
     "zh_trans": "Kiki:门那边那个紫色的传送门是什么?我从来没见过这样的东西",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:it's emitting a dangerous aura.",
@@ -698,8 +852,10 @@
     "zh_trans": "Kiki:它散发出一种危险的气息",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Though I hold no expectations, there is still not a single person here.",
@@ -707,8 +863,10 @@
     "zh_trans": "Kiki:虽然我不抱任何期望,但这里仍然没有一个人",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Who blocked the entrance here? It seems we'll have to find another way out.",
@@ -716,8 +874,10 @@
     "zh_trans": "Kiki:谁把这里的入口堵住了?看来我们得另找出路了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:Kiki....",
@@ -725,8 +885,10 @@
     "zh_trans": "K:Kiki....",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:uh.Sorry? Did I talk too much?",
@@ -734,8 +896,10 @@
     "zh_trans": "Kiki:嗯,对不起?我是不是说的太多了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:After all, you are the last investigator I'm collaborating with.",
@@ -743,8 +907,10 @@
     "zh_trans": "Kiki:毕竟,你是我最后一个合作的调查员",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Just thinking about what kind of consequences I might face after this mission is over... I'm uncertain.",
@@ -752,8 +918,10 @@
     "zh_trans": "Kiki:我只是在想任务结束后我可能会面临什么样的后果……我不确定",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:I'm feeling a bit restless.",
@@ -761,8 +929,10 @@
     "zh_trans": "Kiki:我觉得有点不好",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:It's alright, just wanted to remind you to be more cautious. I have a feeling something is off.",
@@ -770,8 +940,10 @@
     "zh_trans": "Kiki:我:没事,只是想提醒你小心点,我有种不对劲的感觉",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:I will, K.",
@@ -779,8 +951,10 @@
     "zh_trans": "Kiki:我会的,K",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:This facility is truly remarkable, having such mysterious underground passages.",
@@ -788,8 +962,10 @@
     "zh_trans": "Kiki:这个设施真的很了不起,有这么神秘的地下通道",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "?????:Karllllllllllllllllllllllllllllllllllllllllllllllll",
@@ -797,8 +973,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:What was that terrifying sound?",
@@ -806,8 +984,10 @@
     "zh_trans": "Kiki:刚刚的声音好恐怖",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:This is what I meant by something being off. Be cautious, we've been discovered.",
@@ -815,8 +995,10 @@
     "zh_trans": "Kiki:我:这就是我说的有什么不对劲的意思,小心点,我们被发现了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story6 unlock",
@@ -824,8 +1006,10 @@
     "zh_trans": "故事6解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It seems that the assistant ended up being here in the end...",
@@ -833,8 +1017,10 @@
     "zh_trans": "Kiki:看来那个助理最后还是来了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story7 unlock",
@@ -842,8 +1028,10 @@
     "zh_trans": "故事7解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Karl... Who is he? I feel like I know him somehow.",
@@ -851,8 +1039,10 @@
     "zh_trans": "Kiki:Karl...是谁?,我好像知道他",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:I remember now, that sound is from the head of this research institute, Brand.",
@@ -860,8 +1050,10 @@
     "zh_trans": "Kiki:我想起来了,那个声音来自这个研究所的负责人Brand",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:How did he end up like this?",
@@ -869,8 +1061,10 @@
     "zh_trans": "Kiki:他怎么会变成这样的?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:Karl, look at me. This is the teleportation project you vehemently denied at first.",
@@ -878,8 +1072,10 @@
     "zh_trans": "Brand:Kral,看着我,这就是你一开始强烈否认的瞬间移动计划",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:I've successfully activated the teleportation portal.",
@@ -887,8 +1083,10 @@
     "zh_trans": "Brand:我已经成功启动了传送门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:Despite having both my legs torn off by the creature inside and losing one hand to its bite.",
@@ -896,8 +1094,10 @@
     "zh_trans": "Brand:尽管我被里面的怪物咬去了我的双腿就与一只手",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:Luckily, I had a backup plan. I uploaded my consciousness to the network here.",
@@ -905,8 +1105,10 @@
     "zh_trans": "Brand:但是幸好,我有一个备用计划,我把我的意识上传到了这里的网络",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:I can still manipulate everything here as a consciousness entity.",
@@ -914,8 +1116,10 @@
     "zh_trans": "Brand:作为一个意识体,我仍然可以操纵这里的一切",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:Now, I will make you experience my power.",
@@ -923,8 +1127,10 @@
     "zh_trans": "Brand:现在,我要让你感受我的力量!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:K!watch out",
@@ -932,8 +1138,10 @@
     "zh_trans": "Kiki:K!小心",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "KIki:He escaped to the upper levels. Let's chase him. We must extract from him what has happened here.",
@@ -941,8 +1149,10 @@
     "zh_trans": "Kiki:他逃到了上层,我们去追他吧,我们必须从他那里打听出这里发生的事情",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:He's trying to escape on an airship. Let's catch up quickly!",
@@ -950,8 +1160,10 @@
     "zh_trans": "Kiki:他正试图乘飞艇逃跑,让我们快点跟上进度",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "story9 unlock",
@@ -959,8 +1171,10 @@
     "zh_trans": "故事9解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It seems that he knows how to salvage this situation.",
@@ -968,8 +1182,10 @@
     "zh_trans": "Kiki:他似乎知道如何挽救这个局面",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hint:There should be no more than two people on the wheel.",
@@ -977,8 +1193,10 @@
     "zh_trans": "[提示]轮子上的人数不可以超过两人",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:here seems to be something on the right-side wheel. Hurry and go check it out.",
@@ -986,8 +1204,10 @@
     "zh_trans": "Kiki:右侧的轮子上似乎有东西,快点去查看一下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:No!!!!!!!!! You can't destroy my research.",
@@ -995,8 +1215,10 @@
     "zh_trans": "Brand:不!!! 你不能毁掉我的研究成果",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Brand escaped.",
@@ -1004,8 +1226,10 @@
     "zh_trans": "Brand他逃走了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Now we go to destroy the portal.",
@@ -1013,8 +1237,10 @@
     "zh_trans": "Kiki:现在我们去摧毁传送门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:We just need to toss this mini-bomb into the portal.",
@@ -1022,8 +1248,10 @@
     "zh_trans": "Kiki:我们只需要把这个迷你炸弹扔进传送门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:The creatures from the other realm have caught up as well.",
@@ -1031,8 +1259,10 @@
     "zh_trans": "Kiki:另一个世界的生物也来了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Quick, get out of the way! The portal is releasing shockwaves. It doesn't want to be destroyed.",
@@ -1040,8 +1270,10 @@
     "zh_trans": "Kiki:快,让开!传送门正在释放冲击波",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Wait, hold on. Brand has caught up again.",
@@ -1049,8 +1281,10 @@
     "zh_trans": "Kiki:等等,等等,Brand又赶上来了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:STOPPPPPPPPPPPPPPPPPPPP",
@@ -1058,8 +1292,10 @@
     "zh_trans": "Brand:快停下来!!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:K!WATCH OUT!",
@@ -1067,8 +1303,10 @@
     "zh_trans": "Kiki:K! 小心",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:Kiki..No...",
@@ -1076,8 +1314,10 @@
     "zh_trans": "K: Kiki..不...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:We're home, Kiki.",
@@ -1085,8 +1325,10 @@
     "zh_trans": "K:我们到家了,Kiki",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:so",
@@ -1094,8 +1336,10 @@
     "zh_trans": "K:所以",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "K:Wake up",
@@ -1103,8 +1347,10 @@
     "zh_trans": "K:醒来吧",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "bad ending:Kiki couldn't dodge Brand's attack while trying to save you.",
@@ -1112,8 +1358,10 @@
     "zh_trans": "坏结局:KiKi在救你的时候没能躲避Brand的攻击",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "All story Unlock",
@@ -1121,8 +1369,10 @@
     "zh_trans": "所有故事都解锁了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "You have found all the stories.",
@@ -1130,8 +1380,10 @@
     "zh_trans": "你找到了所有故事",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Sponsor:千音星璃",
@@ -1139,8 +1391,10 @@
     "zh_trans": "感谢赞助者:千音星璃",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "60 Seconds",
@@ -1148,8 +1402,10 @@
     "zh_trans": "60秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "story8 unlock",
@@ -1157,8 +1413,10 @@
     "zh_trans": "故事8解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:It appears that Brand was ultimately eager to make achievements",
@@ -1166,8 +1424,10 @@
     "zh_trans": "Kiki:看来Brand还是渴望取得成功的",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:K,The medical kit is on the left side's wheel.",
@@ -1175,8 +1435,10 @@
     "zh_trans": "Kiki:医疗包在左边的轮子上",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Karl, we did it.",
@@ -1184,8 +1446,10 @@
     "zh_trans": "Kiki:Karl,我们成功了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Now we set off to destroy the portal.",
@@ -1193,8 +1457,10 @@
     "zh_trans": "Kiki:现在我们出发去摧毁传送门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:Karl....I wrongly blamed you.",
@@ -1202,8 +1468,10 @@
     "zh_trans": "Brand:Karl...我错怪了你",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Brand:Go ahead and destroy the portal. I will assist you.",
@@ -1211,8 +1479,10 @@
     "zh_trans": "Brand:去摧毁传送门吧,我会为你提供帮助",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Great, we've destroyed the portal.",
@@ -1220,8 +1490,10 @@
     "zh_trans": "Kiki:太好了,我们摧毁了传送门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:But there's bad news. The spaceship can't withstand the explosion and is going to crash.",
@@ -1229,8 +1501,10 @@
     "zh_trans": "Kiki:但是有个坏消息,宇宙飞船经不起爆炸,快要坠毁了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Karl:Hold on to me, Kiki!",
@@ -1238,8 +1512,10 @@
     "zh_trans": "Karl:抓住我,KiKi",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:Karl... No, it should be 'Dad, welcome back.'",
@@ -1247,8 +1523,10 @@
     "zh_trans": "Kiki:Karl...不,应该是 父亲,欢迎回家",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Kiki:我骇入飞船了，我只能控制飞船60秒，我们得趁现在赶上飞船",
@@ -1256,8 +1534,10 @@
     "zh_trans": "Kiki:我骇入飞船了，我只能控制飞船60秒，我们得趁现在赶上飞船",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-30-",
@@ -1265,8 +1545,10 @@
     "zh_trans": "30秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Voted to EX Mode***",
@@ -1274,8 +1556,10 @@
     "zh_trans": "***已投票到EX模式***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Voted to Normal Mode***",
@@ -1283,8 +1567,10 @@
     "zh_trans": "***已投票至普通模式***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "EX Mode Clear",
@@ -1292,8 +1578,10 @@
     "zh_trans": "EX模式通关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Admin change to EX Mode",
@@ -1301,8 +1589,10 @@
     "zh_trans": "管理员修改至EX模式",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "****EX Mode****",
@@ -1310,8 +1600,10 @@
     "zh_trans": "****EX模式****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "RestartRound in 15 Seconds",
@@ -1319,8 +1611,10 @@
     "zh_trans": "15秒后重新开始回合",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Admin change to RTV Mode",
@@ -1328,7 +1622,20 @@
     "zh_trans": "管理员选择了RTV模式",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Kiki:好像有什么东西启动了",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
