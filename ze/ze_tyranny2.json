@@ -5,8 +5,10 @@
     "zh_trans": ">>> 第 一 关<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Map by Moray and nano <<<",
@@ -14,8 +16,10 @@
     "zh_trans": ">>> 地图由 Moray 和 nano 制作<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Updates by HOBGOBLIN and djinnz <<<",
@@ -23,8 +27,10 @@
     "zh_trans": ">>> 由 HOBGOBLIN 和 djinnz 更新 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Right Door Opening in 15 Seconds ***",
@@ -32,8 +38,10 @@
     "zh_trans": "*** 右侧门将在 15 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Ammo Unlocked <<<",
@@ -41,8 +49,10 @@
     "zh_trans": ">>>[管理员] 弹药已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Ballista Unlocked <<<",
@@ -50,8 +60,10 @@
     "zh_trans": ">>>[管理员] 弩炮已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Bible Unlocked <<<",
@@ -59,8 +71,10 @@
     "zh_trans": ">>>[管理员] 圣经已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Shade Staff Unlocked <<<",
@@ -68,8 +82,10 @@
     "zh_trans": ">>>[管理员] 暗影法杖已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Stage 5 Activated <<<",
@@ -77,8 +93,10 @@
     "zh_trans": ">>>[管理员] 第五关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Meteor Staff <<<",
@@ -86,8 +104,10 @@
     "zh_trans": ">>> 玩家已捡起陨石法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Sacred Staff Unlocked <<<",
@@ -95,8 +115,10 @@
     "zh_trans": ">>>[管理员] 神圣法杖已解锁 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 20 Seconds <<<",
@@ -104,8 +126,10 @@
     "zh_trans": ">>> 坚守 20 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> AFK Teleport in 10 Seconds <<<",
@@ -113,8 +137,10 @@
     "zh_trans": ">>> 挂机玩家将在 10 秒后传送 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 5 <<<",
@@ -122,8 +148,10 @@
     "zh_trans": ">>> 第 五 关 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Ballista <<<",
@@ -131,8 +159,10 @@
     "zh_trans": ">>> 玩家已拾取弩炮 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Ammo <<<",
@@ -140,8 +170,10 @@
     "zh_trans": ">>> 玩家已拾取弹药 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Bible <<<",
@@ -149,8 +181,10 @@
     "zh_trans": ">>> 玩家已捡起圣经 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 35 Seconds <<<",
@@ -158,8 +192,10 @@
     "zh_trans": ">>> 坚守 35 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Abyss <<<",
@@ -167,8 +203,10 @@
     "zh_trans": ">>> 玩家已拾取深渊 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Explosive Barrel <<<",
@@ -176,8 +214,10 @@
     "zh_trans": ">>> 玩家已拾取炸药桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Necromancy <<<",
@@ -185,8 +225,10 @@
     "zh_trans": ">>> 玩家已拾取死灵法术 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Blood Orb <<<",
@@ -194,8 +236,10 @@
     "zh_trans": ">>> 玩家已拾取血球 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Tornado Staff <<<",
@@ -203,8 +247,10 @@
     "zh_trans": ">>> 玩家已拾取龙卷风法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Heal Staff <<<",
@@ -212,8 +258,10 @@
     "zh_trans": ">>> 玩家已拾取治疗法杖 <<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Shade Staff <<<",
@@ -221,8 +269,10 @@
     "zh_trans": ">>> 玩家已拾取暗影法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 25 Seconds <<<",
@@ -230,8 +280,10 @@
     "zh_trans": ">>> 坚守 25 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 15 Seconds <<<",
@@ -239,8 +291,10 @@
     "zh_trans": ">>> 坚守 15 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Sacred Staff <<<",
@@ -248,8 +302,10 @@
     "zh_trans": ">>> 玩家已拾取神圣法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Venom Staff <<<",
@@ -257,8 +313,10 @@
     "zh_trans": ">>> 玩家已拾取猛毒法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Crystal Staff <<<",
@@ -266,8 +324,10 @@
     "zh_trans": ">>> 玩家已拾取水晶法杖 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 5 Seconds <<<",
@@ -275,8 +335,10 @@
     "zh_trans": ">>> 坚守 5 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> AFK Teleport in 5 Seconds <<<",
@@ -284,8 +346,10 @@
     "zh_trans": ">>> 挂机玩家将在 5 秒后传送 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Diablo is Coming <<<",
@@ -293,8 +357,10 @@
     "zh_trans": ">>> 迪亚波罗来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Diablo has been Defeated <<<",
@@ -302,8 +368,10 @@
     "zh_trans": ">>> 迪亚波罗已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 30 Seconds <<<",
@@ -311,8 +379,10 @@
     "zh_trans": ">>> 坚守 30 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 40 Seconds <<<",
@@ -320,8 +390,10 @@
     "zh_trans": ">>> 坚守 40 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> ZM TP IN 15 SECONDS <<<",
@@ -329,8 +401,10 @@
     "zh_trans": ">>> 僵尸将在 15 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Angra has been Defeated <<<",
@@ -338,8 +412,10 @@
     "zh_trans": ">>> 安格拉已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 5 Completed <<<",
@@ -347,8 +423,10 @@
     "zh_trans": ">>> 第 五 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 10 Seconds <<<",
@@ -356,8 +434,10 @@
     "zh_trans": ">>> 坚守 10 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Spider has been Defeated <<<",
@@ -365,8 +445,10 @@
     "zh_trans": ">>> 蜘蛛已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Bible has been Found <<<",
@@ -374,8 +456,10 @@
     "zh_trans": ">>> 圣经已被找到 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Spider is Coming <<<",
@@ -383,8 +467,10 @@
     "zh_trans": ">>> 蜘蛛来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Door Closing in 15 Seconds <<<",
@@ -392,8 +478,10 @@
     "zh_trans": ">>> 门将在 15 秒后关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage1 Completed <<<",
@@ -401,8 +489,10 @@
     "zh_trans": ">>> 第 一 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> DIABLO DEEMS YOUR SACRIFICE WORTHY <<<",
@@ -410,8 +500,10 @@
     "zh_trans": ">>> 迪亚波罗认为你的贡品是有价值的 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> SECRET EASTER EGG COMPLETED <<<",
@@ -419,8 +511,10 @@
     "zh_trans": ">>> 秘密复活节彩蛋已完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> TRUE ENDING ENABLED <<<",
@@ -428,8 +522,10 @@
     "zh_trans": ">>> 真结局已开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Stage 2 Activated <<<",
@@ -437,8 +533,10 @@
     "zh_trans": ">>>[管理员] 第二关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Ammo box has been Found <<<",
@@ -446,8 +544,10 @@
     "zh_trans": ">>> 弹药箱已被找到 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ze_Tyranny2 <<<",
@@ -455,8 +555,10 @@
     "zh_trans": ">>> ze_Tyranny2 - 暴君2 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "第五关跳刀已增加30秒限时 (by bxzl) loaded",
@@ -464,8 +566,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Ported from CSS v2 version by Tenshi. <<<",
@@ -473,8 +577,10 @@
     "zh_trans": ">>> 由Tenshi.从CS起源v2版本移植而来 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> CS2 Ported Thanks: 礼绮罗Reikira, 壹玖玖柒零壹贰玖, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
@@ -482,8 +588,10 @@
     "zh_trans": ">>> CS2 移植致谢: 礼绮罗Reikira, 壹玖玖柒零壹贰玖, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> CS2 Ported Thanks: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
@@ -491,8 +599,10 @@
     "zh_trans": ">>> CS2 移植致谢: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Player has picked up Guillotine <<<",
@@ -500,8 +610,10 @@
     "zh_trans": ">>> 玩家已拾取断头台 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 2 <<<",
@@ -509,8 +621,10 @@
     "zh_trans": ">>> 第二关 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Left Door Opening in 15 Seconds ***",
@@ -518,8 +632,10 @@
     "zh_trans": "*** 左侧门将在 15 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> AFK Teleport 10 Seconds <<<",
@@ -527,8 +643,10 @@
     "zh_trans": ">>> 挂机玩家将在 10 秒后传送 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Stage 4 Activated <<<",
@@ -536,8 +654,10 @@
     "zh_trans": ">>>[管理员] 第四关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 4 <<<",
@@ -545,8 +665,10 @@
     "zh_trans": ">>> 第四关 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Middle Door Opening in 20 Seconds ***",
@@ -554,8 +676,10 @@
     "zh_trans": "*** 中门将在 20 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Meeting Room Route Opened ***",
@@ -563,8 +687,10 @@
     "zh_trans": "*** 会议室路线已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Gargantua is Coming <<<",
@@ -572,8 +698,10 @@
     "zh_trans": ">>> 巨人伽刚特尔来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Gargantua has been Defeated <<<",
@@ -581,8 +709,10 @@
     "zh_trans": ">>> 巨人伽刚特尔已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 4 Completed <<<",
@@ -590,8 +720,10 @@
     "zh_trans": ">>> 第 四 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Ballista has been Found <<<",
@@ -599,8 +731,10 @@
     "zh_trans": ">>> 已找到弩炮 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Troll is Coming <<<",
@@ -608,8 +742,10 @@
     "zh_trans": ">>> 巨魔来袭 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Troll has been Defeated <<<",
@@ -617,8 +753,10 @@
     "zh_trans": ">>> 巨魔已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Zombie Teleport in 10 Seconds <<<",
@@ -626,8 +764,10 @@
     "zh_trans": ">>> 僵尸将在 10 秒后传送过来 <<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Something lurks in the water... <<<",
@@ -635,8 +775,10 @@
     "zh_trans": ">>> 有什么东西潜伏在水里... <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 2 Completed <<<",
@@ -644,8 +786,10 @@
     "zh_trans": ">>> 第 二 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 3 <<<",
@@ -653,8 +797,10 @@
     "zh_trans": ">>> 第三关 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Left Door Opening in 20 Seconds ***",
@@ -662,8 +808,10 @@
     "zh_trans": "*** 左侧门将在 20 秒后开启 *** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> You feel an ominous presence <<<",
@@ -671,8 +819,10 @@
     "zh_trans": ">>> 你感觉到一种不祥的存在 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Dragon is Coming <<<",
@@ -680,8 +830,10 @@
     "zh_trans": ">>> 远古巨龙来了 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Dragon has been Defeated <<<",
@@ -689,8 +841,10 @@
     "zh_trans": ">>> 远古巨龙已被打败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> 10 Seconds Left <<<",
@@ -698,8 +852,10 @@
     "zh_trans": ">>> 还剩 10 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 5 Seconds Left <<<",
@@ -707,8 +863,10 @@
     "zh_trans": ">>> 还剩 5 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Fall Back <<<",
@@ -716,8 +874,10 @@
     "zh_trans": ">>> 撤退 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Don't Delay <<<",
@@ -725,8 +885,10 @@
     "zh_trans": ">>> 别拖延 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Rakiora is Coming <<<",
@@ -734,8 +896,10 @@
     "zh_trans": ">>> 拉基奥拉来袭 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Zombies Teleport in 10 Seconds <<<",
@@ -743,8 +907,10 @@
     "zh_trans": ">>> 僵尸将在 10 秒后传送 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> The water tremors... <<<",
@@ -752,8 +918,10 @@
     "zh_trans": ">>> 下水道在震动... <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> SHOOT!!! <<<",
@@ -761,8 +929,10 @@
     "zh_trans": ">>> 开枪!!! <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Rakiora has been slain... <<<",
@@ -770,8 +940,10 @@
     "zh_trans": ">>> 拉基奥拉已被杀死... <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Stage 3 Completed <<<",
@@ -779,8 +951,10 @@
     "zh_trans": ">>> 第 三 关 完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Blessed ancient scroll has been Found <<<",
@@ -788,8 +962,10 @@
     "zh_trans": ">>> 已找到受祝福的古老卷轴 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>[Admin] Stage 3 Activated <<<",
@@ -797,8 +973,10 @@
     "zh_trans": ">>>[管理员] 第三关已激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "第五关跳刀已增加40秒限时 (by bxzl) loaded",
@@ -806,7 +984,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> ZM Item <Abyss> has been disable use <<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
