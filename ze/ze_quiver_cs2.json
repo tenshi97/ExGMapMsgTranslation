@@ -14,8 +14,8 @@
     "zh_trans": "||| 屋顶入口打开 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "||| Gate opens in 20 seconds |||",
@@ -173,7 +173,7 @@
   {
     "original": "||| left Blastdoor will open in 10 seconds |||",
     "en_trans": "",
-    "zh_trans": "||| 左侧防爆门将在 10 秒后开启 |||",
+    "zh_trans": "||| 左侧防爆门（面对僵尸右边）将在 10 秒后开启 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -239,8 +239,8 @@
     "zh_trans": "||| 电梯按钮已解锁 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| Elevator leaves in 10 seconds |||",
@@ -266,8 +266,8 @@
     "zh_trans": "||| 在怪物摧毁卡车之前将其击败 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| Zombies incoming |||",
@@ -275,8 +275,8 @@
     "zh_trans": "||| 尸潮来袭 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "||| Ultralisk is dead |||",
@@ -338,13 +338,13 @@
     "zh_trans": "||| 任务失败 <卡车被毁> |||",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "||| right Blastdoor will open in 10 seconds |||",
     "en_trans": "",
-    "zh_trans": "||| 右侧防爆门将在 10 秒后开启 |||",
+    "zh_trans": "||| 右侧防爆门（面对僵尸左边）将在 10 秒后开启 |||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,

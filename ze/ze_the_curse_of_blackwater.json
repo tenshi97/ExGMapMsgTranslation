@@ -959,18 +959,18 @@
   {
     "original": "[STAGE 3 SEWERAGE OF BLACKWATER]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[第三章：黑水镇下水道]",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "We got into last stage and need to finish with this and save the world from blackwater",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们进入了最后阶段，需要完成这个阶段并将世界从黑水的威胁中拯救出来",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -981,7 +981,7 @@
   {
     "original": "Find the key from sewer door",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "从下水道门找到钥匙",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -992,7 +992,7 @@
   {
     "original": "Sewer door will open in 40 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "下水道门将在 40 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "Sewer door will open in 5 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "下水道门将在 5 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,7 +1014,7 @@
   {
     "original": "Water control panel room will open in 25 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "污水控制室将在 25 秒后开放",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1025,7 +1025,7 @@
   {
     "original": "Water control panel room will open in 5 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "污水控制室将在 5 秒后开放",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1036,7 +1036,7 @@
   {
     "original": "Find the pot, we will be needing it for liquid",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "找到罐子，我们需要它来装液体",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,18 +1047,18 @@
   {
     "original": "We need to drown entire blackwater complex, activate all 3 pump levers",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们要淹没整个黑水设施，启动 3 个泵的控制杆",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "Door will open in 25 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 25 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1069,7 +1069,7 @@
   {
     "original": "Door with first lever will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第一个控制杆的门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,7 +1080,7 @@
   {
     "original": "Activate pump lever",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "启动泵的控制杆",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1091,7 +1091,7 @@
   {
     "original": "Door will close in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 15 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1102,7 +1102,7 @@
   {
     "original": "Door with second lever will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第二个控制杆的门会在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1113,7 +1113,7 @@
   {
     "original": "Sewer door will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "下水道门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,7 +1124,7 @@
   {
     "original": "We need a drill for liquid inside the barrels",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们需要一个钻头来获取桶内的液体",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,7 +1135,7 @@
   {
     "original": "Drill the barrel",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "钻这个桶",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1146,7 +1146,7 @@
   {
     "original": "THE DOOR OPEN 20 SECOND",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,7 +1157,7 @@
   {
     "original": "Door with third lever will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第三个控制杆的门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1168,7 +1168,7 @@
   {
     "original": "Water control panel room will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "污水控制室将在 30 秒后开放",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,7 +1179,7 @@
   {
     "original": "Press the button to drown entire complex, we will have enough time to escape before everything blows up",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "按下按钮淹没整个设施，在一切爆炸之前我们将有足够的时间逃生",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1190,7 +1190,7 @@
   {
     "original": "Leave blackwater complex",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "离开黑水镇设施",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "The emergency exit will open in 30 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "紧急出口将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "Oh god its Decayed, we need to kill him to escape",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "哦天哪，它已经腐朽了，我们需要杀死它才能逃脱",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1223,7 +1223,7 @@
   {
     "original": "The emergency exit will open in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "紧急出口将在 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1234,7 +1234,7 @@
   {
     "original": "Elevator will leave in 20 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯将在 20 秒后离开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1245,7 +1245,7 @@
   {
     "original": "Door will open in 10 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 10 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1256,7 +1256,7 @@
   {
     "original": "Door will open in 15 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 15 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1267,7 +1267,7 @@
   {
     "original": "Elevator will leave in 40 sec",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯将在 40 秒后离开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1278,7 +1278,7 @@
   {
     "original": "This is the end, we got out of the blackwater complex",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这就是结局，我们离开了黑水镇设施",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1289,12 +1289,12 @@
   {
     "original": "Stage 3 - Completed",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第三章 - 完成",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
