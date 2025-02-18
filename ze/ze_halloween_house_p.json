@@ -41,7 +41,7 @@
     "zh_trans": "** 窗户碎了！快走！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -68,8 +68,8 @@
     "zh_trans": "** 快走！我们已经有足够的动能！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** THE TOP DOOR IS OPENING 5 SECONDS! **",
@@ -221,8 +221,8 @@
     "zh_trans": "** 跳到吊灯上面！快！咒语可能不会持续太久 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "** There is some screaking sound in the distance - maybe something is lurking in the darkness! **",
@@ -266,8 +266,8 @@
     "zh_trans": "** 我们快到了! 如果我们能把烤箱边上的大南瓜炸掉就安全了 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** We should inspect that giant pumpkin sitting on the stool! **",
@@ -293,8 +293,8 @@
     "zh_trans": "** 守住这里直到c4爆炸! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** MOVE! THE DARN THING IS OUT OF THE WAY! **",
@@ -302,8 +302,8 @@
     "zh_trans": "** 撤退！路在这边！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **",
@@ -311,8 +311,8 @@
     "zh_trans": "** 大老鼠把我们的火车撞翻了！我们完蛋了！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "** We can't get past here with that stove turned on! **",
@@ -347,8 +347,8 @@
     "zh_trans": "** 干得好！燃气很快就会停了 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** The metal is still hot - KEEP RESISTING! **",
@@ -356,8 +356,8 @@
     "zh_trans": "** 灶台还是很热，还不能过去 - 继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** NOW! GET MOVING! **",
@@ -365,8 +365,8 @@
     "zh_trans": "** 就是现在!撤退！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **",
@@ -374,8 +374,8 @@
     "zh_trans": "** 这好像是死胡同! 守住这里直到发生什么事情! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Nothing yet... KEEP IT UP! **",
@@ -383,8 +383,8 @@
     "zh_trans": "** 还不到时候... 继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** We need to resist... Something must open! **",
@@ -392,8 +392,8 @@
     "zh_trans": "** 我们还得继续防守！ 一定会发生什么东西的! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **",
@@ -419,8 +419,8 @@
     "zh_trans": "** 快看! 是友善的幽灵比利! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **",
@@ -428,8 +428,8 @@
     "zh_trans": "** 比利会腐化所有恐怖的东西! 僵尸将会变得很脆弱!（幽灵走过的地方才有强制1血） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "** And thus Billy the friendly ghost removed all spooky things from the world **",
