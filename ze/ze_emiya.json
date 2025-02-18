@@ -46,13 +46,13 @@
   {
     "original": ">>狂化<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>狂化<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>鲜血神殿,持续为范围内的僵尸恢复生命,并提供移速加成,中心区域可以为僵尸抵挡人类子弹,冷却90秒<<",
@@ -101,13 +101,13 @@
   {
     "original": ">>道路已开启<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>道路已开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>闪电魔术,持续发射闪电光束,强制将僵尸速度恢复至0,冷却20秒<<",
@@ -123,13 +123,13 @@
   {
     "original": ">>出现了奇怪的迷雾,它会使得我们的行动变得迟缓!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>出现了奇怪的迷雾,它会使得我们的行动变得迟缓!<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>誓约胜利之剑,蓄力后向前方发起强力的攻击,造成高额伤害和击退,冷却90秒<<",
@@ -211,13 +211,13 @@
   {
     "original": "星坠",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "星坠",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>风场魔术,生成超大范围的微弱push风场,冷却80秒<<",
@@ -255,57 +255,57 @@
   {
     "original": "能量屏障",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "能量屏障",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "引力黑洞",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "引力黑洞",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "磁暴",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "磁暴",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "斩击",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "斩击",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "能量吸收",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "能量吸收",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>需要20秒来清理出山洞入口<<",
@@ -354,13 +354,13 @@
   {
     "original": "致命毒雾",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "致命毒雾",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>20 seconds left<<",
@@ -376,13 +376,13 @@
   {
     "original": ">>道路已打开<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>道路已打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Gate of Babylon<<",
@@ -393,6 +393,6 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
