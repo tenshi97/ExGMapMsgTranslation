@@ -629,45 +629,45 @@
   {
     "original": "** ADMIN chose LEVEL 2 for NEXT ROUND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员为下一回合选择了关卡 2 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "** LEVEL 3 (HARD) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第三关 (困难) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "** FREEZE BOTTLE - 50 sec cooldown **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰 - 50 秒冷却时间 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 50,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "** U WON LEVEL 3 (HARD) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了第三关（困难） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]

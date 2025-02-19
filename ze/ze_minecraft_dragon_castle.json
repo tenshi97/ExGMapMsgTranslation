@@ -193,14 +193,14 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Last 5 sec ! go back!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒！撤退！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "The Final door will open in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后的门将在 20 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -222,18 +222,18 @@
   {
     "original": "FINAL DOOR OPEN! GO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后的门打开了！冲啊！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "FINAL DOOR CLOSING 5 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后的门 5 秒后关闭！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,40 +244,40 @@
   {
     "original": "FINAL DOOR CLOSING",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后的门正在关闭",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "HUMAN WIN !!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类胜利！！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### LEVEL 2 ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 关卡 2 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "The door will open in 25 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 25 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,29 +288,29 @@
   {
     "original": "Door Open !GO",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门开了！走！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "go back !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "撤退 !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Last 5 sec! GO BACK !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒！撤退！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "ZM TP 10 SEC",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在 10 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "The final door will open in 30 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最终的门将在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "ZM TP 5 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在 5 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,18 +354,18 @@
   {
     "original": "FINAL DOOR OPEN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最终的门已打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "FINAL DOOR CLOSING 10 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最终门 10 秒后关闭！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

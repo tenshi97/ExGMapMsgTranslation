@@ -60,7 +60,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++",
@@ -78,15 +79,16 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ 30 SECONDS UNTIL ARRIVAL ++",
     "en_trans": "",
-    "zh_trans": "++ 30 秒后到达 ++",
+    "zh_trans": "++ 85 秒后到达 ++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 30,
+    "timer_num": 85,
     "enable_timer": 1
   },
   {
@@ -105,7 +107,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ NUKE IN 10 SECONDS ++",
