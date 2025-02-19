@@ -35,7 +35,7 @@
   {
     "original": "< Special thanks to Lishang,Koyomaple >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 特别感谢 Lishang,Koyomaple >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,18 +46,18 @@
   {
     "original": "< Normal Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 普通模式 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The path will clear in 30 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 道路将在 30 秒后清理完毕 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "< A player has acquired Thunder Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了雷电魔法 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "< 5 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 5 秒 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "< A player has acquired Cure Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了治疗魔法 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "< Moogling is closed now,kupo~ >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 莫古力表示还没到登场的时候，库啵~ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "< The path will clear in 20 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 道路将在 20 秒后清理完毕 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "<soldier : Sorry,I can't help you>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 士兵：抱歉，我帮不了你 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "< A player has acquired Oil Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了油魔法 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "< A player has acquired Wind Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了风之魔法 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": "< A player has acquired Aqua Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了水之魔法 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,7 +167,7 @@
   {
     "original": "< The gate will open in 30 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 大门将在 30 秒后打开 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "< The Aerodrome metal gate will open in 20 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 空港大门将在 20 秒后打开 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "< Zombie Chocobo has been picked up >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 僵尸陆行鸟已被拾起 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "< The fight with SandMonster will begin in 10 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 与沙怪的战斗将在 10 秒后开始 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,62 +211,62 @@
   {
     "original": "< SandMonster has casted Shock >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪施展了电击 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< SandMonster has casted Heal >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪施展了治疗术 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< SandMonster has casted Gravity >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪施展了重力术 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< SandMonster has casted Wind >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪施展了风之魔法 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< SandMonster has been defeated,get back to Rabanastre >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪已被击败，返回拉巴纳斯塔 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The gate will open in 20 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 大门将在 20 秒后打开 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "< This is the last defend,hold! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 这是最后的守点，坚持住！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,23 +288,23 @@
   {
     "original": "< You have defeated normal mode!Congratulations! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 你已击败普通模式！恭喜！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< SandMonster has casted Sandstorm >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪施展了沙尘暴 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
