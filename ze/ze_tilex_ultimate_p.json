@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Based-map by Xquality",
@@ -14,8 +16,10 @@
     "zh_trans": "本图是以Xquality制作的地图为基础",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map Supported by SHUFEN",
@@ -23,8 +27,10 @@
     "zh_trans": "地图由SHUFEN提供支持",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map Arranged by Airvulpes",
@@ -32,8 +38,10 @@
     "zh_trans": "由Airvulpes编排",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Difficulty : Easy ***",
@@ -41,8 +49,10 @@
     "zh_trans": "*** 难度：简单 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Elevator leaving in 3 seconds!",
@@ -50,8 +60,10 @@
     "zh_trans": "电梯将在 3 秒后离开！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Mini train leaving in 5 seconds!",
@@ -59,8 +71,10 @@
     "zh_trans": "小火车将在 5 秒后出发！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ADMIN : Set stage to Insane. **",
@@ -68,8 +82,10 @@
     "zh_trans": "** 管理员：将关卡难度设置为 疯狂**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Tracks crashed ahead.",
@@ -77,8 +93,10 @@
     "zh_trans": "前方轨道损坏。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ADMIN : Set stage to RTV. **",
@@ -86,8 +104,10 @@
     "zh_trans": "** 管理员：将关卡难度设置为 RTV**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Difficulty : rtv ***",
@@ -95,8 +115,10 @@
     "zh_trans": "*** 难度：RTV ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "remaining 5 seconds!",
@@ -104,8 +126,10 @@
     "zh_trans": "还剩 5 秒！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door opening in 5 seconds!",
@@ -113,8 +137,10 @@
     "zh_trans": "门将在 5 秒后打开！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Difficulty : Insane ***",
@@ -122,8 +148,10 @@
     "zh_trans": "*** 难度：疯狂 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door opening in 15 seconds!",
@@ -131,8 +159,10 @@
     "zh_trans": "门将在 15 秒后开启！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Tram leaving in 10 seconds!",
@@ -140,8 +170,10 @@
     "zh_trans": "电车将在 10 秒后出发！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Security doors closing in 10!",
@@ -149,8 +181,10 @@
     "zh_trans": "安全门将在 10 秒后关闭！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Train leaving in 30 seconds!",
@@ -158,8 +192,10 @@
     "zh_trans": "火车将在 30 秒后出发！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Train leaving in 20 seconds!",
@@ -167,8 +203,10 @@
     "zh_trans": "火车 20 秒后离开！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Train leaving in 10 seconds!",
@@ -176,8 +214,10 @@
     "zh_trans": "火车将在 10 秒后出发！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Train is leaving!",
@@ -185,8 +225,10 @@
     "zh_trans": "火车出发了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Incoming nuke!!!",
@@ -194,7 +236,20 @@
     "zh_trans": "侦测到在途的核打击！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "*** Difficulty : Normal ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
