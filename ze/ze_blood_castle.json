@@ -24,7 +24,7 @@
   {
     "original": ">> Hold 25 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持 25 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": ">> Door Will Open In 15 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 15 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": ">> Hold 5 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持 5 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": ">> Hold 20 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持 20 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": ">> Hold 10 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>坚持 10 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,29 +79,29 @@
   {
     "original": ">> Zombie Escaped <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸胜利 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Escape Success <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 成功逃脱 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Hold 40 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚持 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": ">> Door Will Open In 25 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 门将在 25 秒后打开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": ">> Hold 35 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚持 35 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": ">> Hold 15 Seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚持 15 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

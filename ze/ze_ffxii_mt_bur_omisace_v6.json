@@ -1696,7 +1696,7 @@
   {
     "original": "**Level has been changed on Legend Mode**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**已调关至 传奇模式**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1707,7 +1707,7 @@
   {
     "original": "**The airship will take us to the Sky Fortress Bahamut in 35 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**飞空艇将在 35 秒后抵达苍穹要塞巴哈姆特**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1718,7 +1718,7 @@
   {
     "original": "**[Bash] We must hurry before they destroy the whole temple!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 在他们彻底摧毁神庙前，必须加快脚步！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1729,18 +1729,18 @@
   {
     "original": "**[Balthier] Get on board. If we don't fly immediately they'll shoot us down!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴尔弗雷亚] 快上船！再不马上起飞，他们就要把我们打下来了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] We finally made it! Welcome to the Sky Fortress Bahamut!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 我们终于到了！欢迎来到苍穹要塞巴哈姆特！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1751,7 +1751,7 @@
   {
     "original": "**[Bash] The goal is clear - destroy the airship and defeat Judge Gabranth!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 目标很明确 - 摧毁飞空艇，打倒裁判长迦布拉斯！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1762,7 +1762,7 @@
   {
     "original": "**Antechamber will open in 35 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**前厅将在 35 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1773,7 +1773,7 @@
   {
     "original": "**[Vossler York Azelas] Wait. A word of caution before we set out!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[沃斯勒·约克·阿泽拉斯] 等等！出发前有件事要提醒!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1784,7 +1784,7 @@
   {
     "original": "**[Vossler York Azelas] See that blurred gates**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[沃斯勒·约克·阿泽拉斯] 看到那些模糊的大门了吗？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1795,7 +1795,7 @@
   {
     "original": "**[Vossler York Azelas] It is a mechanism to detect intruders within the ship**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[沃斯勒·约克·阿泽拉斯] 那是舰内检测入侵者的机关**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1806,7 +1806,7 @@
   {
     "original": "**[Vossler York Azelas] The alarm should cease after a time! But it's better to avoid drawing unnecessary attention!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[沃斯勒·约克·阿泽拉斯] 警报过会儿会停！但最好别引起注意！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1817,7 +1817,7 @@
   {
     "original": "**[Vossler York Azelas] Break one of these beams and an alarm will sound summoning the guard**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[沃斯勒·约克·阿泽拉斯] 如果切断这些光束，就会触发警报引来守卫！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1828,7 +1828,7 @@
   {
     "original": "**The gates will open in 25 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大门将在 25 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1839,40 +1839,40 @@
   {
     "original": "**[Bash] To be sure that the Sky Fortress will blow up we have to block the power supply from the three engines**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 确保苍穹要塞爆炸，必须切断三个引擎的能源供应！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] There should be a control panel next to each of them! Turn off the engines and run away as fast as possible!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 每个引擎旁边应该都有控制面板！关掉引擎后立刻全力逃跑！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[SECURITY ALERT] Engine 01 has been stopped manually!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[安全警报] 引擎 01 已手动停止！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Catwalk Gate will open in 20 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**天桥大门将在 20 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1883,34 +1883,34 @@
   {
     "original": "**[Bash] Defeat Gabrath before reinforcements come!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[巴什] 在援军赶来前打倒迦布拉斯！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Gabranth has casted Melt Skulls!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**裁判长迦布拉斯施放了熔颅术(Melt Skulls)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Judge Gabranth summons Esper Mateus!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**裁判长迦布拉斯召唤了 幻兽 马提乌斯(Mateus)！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
