@@ -5,8 +5,10 @@
     "zh_trans": "- 简单难度 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< ZE_PALACE_OF_MINOLILA >>",
@@ -14,8 +16,10 @@
     "zh_trans": "<< ZE_PALACE_OF_MINOLILA >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< The story after ze_ruin_of_black_stone >>",
@@ -23,8 +27,10 @@
     "zh_trans": "<< 这是发生在ze_ruin_of_black_stone（黑石废墟）之后的故事 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Map by Misaka >>",
@@ -32,8 +38,10 @@
     "zh_trans": "<< 地图作者；Misaka >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Map based on ze_sky_fantasy >>",
@@ -41,8 +49,10 @@
     "zh_trans": "<< 地图在 ze_sky_fantasy（天空幻想）的基础上制作 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 10 seconds >>",
@@ -50,8 +60,10 @@
     "zh_trans": "<< 坚守10秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up snow magic >>",
@@ -59,8 +71,10 @@
     "zh_trans": "<< 一位玩家拾取了雪 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up wind magic >>",
@@ -68,8 +82,10 @@
     "zh_trans": "<< 一位玩家拾取了风 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Door will open in 20 seconds >>",
@@ -77,8 +93,10 @@
     "zh_trans": "<< 大门将在20秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up earth magic >>",
@@ -86,8 +104,10 @@
     "zh_trans": "<< 一位玩家拾取了土 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up touching infection >>",
@@ -95,8 +115,10 @@
     "zh_trans": "<< 一名僵尸拾取了接触感染（秒杀） >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up gravity magic >>",
@@ -104,8 +126,10 @@
     "zh_trans": "<< 一名僵尸拾取了黑洞 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up gravity magic >>",
@@ -113,8 +137,10 @@
     "zh_trans": "<< 一位玩家拾取了黑洞 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Teleporter will enable in 15 seconds >>",
@@ -122,8 +148,10 @@
     "zh_trans": "<< 传送将在15秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up ice magic >>",
@@ -131,8 +159,10 @@
     "zh_trans": "<< 一名僵尸拾取了冰 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up heal magic >>",
@@ -140,8 +170,10 @@
     "zh_trans": "<< 一名僵尸拾取了奶 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up electro magic >>",
@@ -149,8 +181,10 @@
     "zh_trans": "<< 一位玩家拾取了电 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Door will open in 25 seconds >>",
@@ -158,8 +192,10 @@
     "zh_trans": "<< 门将在25秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up heal magic >>",
@@ -167,8 +203,10 @@
     "zh_trans": "<< 一位玩家拾取了奶 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 20 seconds >>",
@@ -176,8 +214,10 @@
     "zh_trans": "<< 坚守20秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Door will open in 5 seconds >>",
@@ -185,8 +225,10 @@
     "zh_trans": "<< 门将在5秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Door will Open in 15 seconds >>",
@@ -194,8 +236,10 @@
     "zh_trans": "<< 门将在15秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "### It seems that there is the laboratory of that mayor ###",
@@ -203,8 +247,10 @@
     "zh_trans": "### 看来这是那位市长的实验室 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### I think we'd better destroy this laboratory ###",
@@ -212,8 +258,10 @@
     "zh_trans": "### 我想我们最好摧毁这个实验室 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### I will plant the bomb! Then we should leave there immediately! ###",
@@ -221,8 +269,10 @@
     "zh_trans": "### 我会埋下炸弹!然后我们要马上离开那里! ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Wait for 30 seconds >>",
@@ -230,8 +280,10 @@
     "zh_trans": "<< 等待30秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Defend for 35 seconds, I will open the door >>",
@@ -239,8 +291,10 @@
     "zh_trans": "<< 坚守35秒, 我将会打开这个门 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Door will close in 10 seconds! Do not let zomebies out!!! >>",
@@ -248,8 +302,10 @@
     "zh_trans": "<< 大门将在10秒后关闭! 不要让僵尸进来!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< EASY Mode Complete >>",
@@ -257,8 +313,10 @@
     "zh_trans": "<< 第一关已完成 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Zombie has escaped!!! Try again... >>",
@@ -266,8 +324,10 @@
     "zh_trans": "<< 真的假的，你们连僵尸都守不住？ >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- NORMAL MODE -",
@@ -275,8 +335,10 @@
     "zh_trans": "- 普通难度 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Next door will open in 5 seconds >>",
@@ -284,8 +346,10 @@
     "zh_trans": "<< 下一个门将在5秒后打开 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Elevator will move in 15 seconds >>",
@@ -293,8 +357,10 @@
     "zh_trans": "<< 电梯将在15秒后上升 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "### Whats happening... ###",
@@ -302,8 +368,10 @@
     "zh_trans": "### 发生什么了... ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### It is the energy core!!! Destroy it immediately!!! ###",
@@ -311,8 +379,10 @@
     "zh_trans": "### 这是神殿的能量核心!!! 马上毁掉它!!! ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Be careful! Zombies will be released in 120 seconds >>",
@@ -320,8 +390,10 @@
     "zh_trans": "<< 小心! 僵尸将会在120秒后释放 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Push >>",
@@ -329,8 +401,10 @@
     "zh_trans": "<< 推力 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Pull >>",
@@ -338,8 +412,10 @@
     "zh_trans": "<< 吸力 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Well Done!!! >>",
@@ -347,8 +423,10 @@
     "zh_trans": "<< 干的漂亮!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< It seems that there is collapsing now!!! >>",
@@ -356,8 +434,10 @@
     "zh_trans": "<< 看起来神殿正在崩溃!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Fall back now!!! >>",
@@ -365,8 +445,10 @@
     "zh_trans": "<< 现在撤退!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>",
@@ -374,8 +456,10 @@
     "zh_trans": "<< 没有路了!!! 我会用c4炸开这面墙!!! 继续防守!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< c4 will explode in 20 seconds >>",
@@ -383,8 +467,10 @@
     "zh_trans": "<< c4将在20秒后爆炸 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Door will open in 10 seconds >>",
@@ -392,8 +478,10 @@
     "zh_trans": "<< 门将在10秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Stand in the middle and continue defending >>",
@@ -401,8 +489,10 @@
     "zh_trans": "<< 站在中间继续防守 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< We will teleport back in 30 seconds >>",
@@ -410,8 +500,10 @@
     "zh_trans": "<< 我们将在30秒后传送出去 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< WTF...... Final 10 seconds!!! Hold on!!! >>",
@@ -419,8 +511,10 @@
     "zh_trans": "<< 我勒个豆！ 最后10秒!!! 坚持住!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< NORMAL Mode Complete >>",
@@ -428,8 +522,10 @@
     "zh_trans": "<< 第二关已完成 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- HARD MODE -",
@@ -437,8 +533,10 @@
     "zh_trans": "- 困难难度 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 15 seconds >>",
@@ -446,8 +544,10 @@
     "zh_trans": "<< 坚守15秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for 30 seconds >>",
@@ -455,8 +555,10 @@
     "zh_trans": "<< 坚守30秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "### Who is that...... ###",
@@ -464,8 +566,10 @@
     "zh_trans": "### 谁在那里...... ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### ???: Welcome to my laboratory!!! ###",
@@ -473,8 +577,10 @@
     "zh_trans": "### ???: 欢迎来到我的实验室!!! ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### ???: It's the first time...no, second time to see you ###",
@@ -482,8 +588,10 @@
     "zh_trans": "### ???: 这是我们第一次...不对, 应该是第二次见面了 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### ???: Do you forget me? We have meet at the ruin of black stone~ ###",
@@ -491,8 +599,10 @@
     "zh_trans": "### ???: 你不认识我? 我们不是在黑石废墟见过面了吗？ ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### ???: Thats right, I'm Dr.X, the mayor of the black stone city ###",
@@ -500,8 +610,10 @@
     "zh_trans": "### ???: 好吧, 我是X博士, 是黑石城的市长 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### Dr.X: I never think that you can survive from that ruin ###",
@@ -509,8 +621,10 @@
     "zh_trans": "### X博士: 我从没想过你能从那片废墟里幸存下来 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### Dr.X: I'm more and more interested in you, so try hard to avoid the attack from me!!! ###",
@@ -518,8 +632,10 @@
     "zh_trans": "### X博士: 我对你越来越感兴趣了, 所以来尝试躲避我的攻击吧!!! ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Dr.X will release zombies in 150 seconds!!! >>",
@@ -527,8 +643,10 @@
     "zh_trans": "<< X博士将在150秒后释放僵尸!!! >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 150,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Dr.X is using DATA DELETE >>",
@@ -536,8 +654,10 @@
     "zh_trans": "<< X博士使用了数据删除（远离黄色区域） >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "### Dr.X: We will meet later.... ###",
@@ -545,8 +665,10 @@
     "zh_trans": "###X博士: 我们还会再见面的.... ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Hold for final 20 seconds >>",
@@ -554,8 +676,10 @@
     "zh_trans": "<< 守住最后的20秒 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Admin select OVERDRIVE MODE >>",
@@ -563,8 +687,10 @@
     "zh_trans": "<< 有权男选择了第五关 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- OVERDRIVE MODE -",
@@ -572,8 +698,10 @@
     "zh_trans": "- 梦魇难度 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "### Minolila: I've already prepared the teleporter for you, Good Luck! ###",
@@ -581,8 +709,10 @@
     "zh_trans": "###米诺利拉：我已经为你准备好了传送器，祝你好运###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Teleporter will activate in 20 seconds >>",
@@ -590,7 +720,53 @@
     "zh_trans": "<< 传送将在20秒后开始 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "### Its Dr.X!!! Kill him immediately!!! ###",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "## Dr.X will kill us in 40 seconds!!! ##",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 40,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "### Dr.X: Not too bad.....I hope you can survive before we meet next time ###",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< Hard Mode Complete >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
