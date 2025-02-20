@@ -5,8 +5,10 @@
     "zh_trans": "** 第一道门将在 30 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR WILL OPEN IN 20 SECONDS **",
@@ -14,8 +16,10 @@
     "zh_trans": "** 门将在 20 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOORS OPEN IN 25 SECONDS **",
@@ -23,8 +27,10 @@
     "zh_trans": "** 门将在 25 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** LIFT MOVING IN 15 SECONDS **",
@@ -32,8 +38,10 @@
     "zh_trans": "** 电梯将在 15 秒后移动 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 20 SECONDS **",
@@ -41,8 +49,10 @@
     "zh_trans": "** 门将在 20 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** LIFTS WILL RISE IN 15 SECONDS **",
@@ -50,8 +60,10 @@
     "zh_trans": "** 电梯将在 15 秒后上升 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 15 **",
@@ -59,8 +71,10 @@
     "zh_trans": "** 15 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 10 **",
@@ -68,8 +82,10 @@
     "zh_trans": "** 10 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 5 **",
@@ -77,8 +93,10 @@
     "zh_trans": "** 5 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** You took too long to trigger! Slaying humans... **",
@@ -86,8 +104,10 @@
     "zh_trans": "** 触发太慢了! 处死人类... **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** DOORS OPEN IN 15 SECONDS **",
@@ -95,8 +115,10 @@
     "zh_trans": "** 门将在 15 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR WILL OPEN IN 15 SECONDS **",
@@ -104,8 +126,10 @@
     "zh_trans": "** 门会在 15 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** LIFT MOVING IN 25 SECONDS **",
@@ -113,8 +137,10 @@
     "zh_trans": "** 电梯将在 25 秒后移动 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** LIFT RISE IN 10 SECONDS **",
@@ -122,8 +148,10 @@
     "zh_trans": "** 电梯将在 10 秒后上升 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 15 SECONDS **",
@@ -131,8 +159,10 @@
     "zh_trans": "** 门会在 15 秒后打开 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ZM TELEPORT IN 15 SECONDS **",
@@ -140,8 +170,10 @@
     "zh_trans": "** 僵尸将在 15 秒后传送 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** LIFT MOVING IN 20 SECONDS **",
@@ -149,8 +181,10 @@
     "zh_trans": "** 电梯将在 20 秒后移动 ** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOORS OPEN IN 20 SECONDS **",
@@ -158,7 +192,42 @@
     "zh_trans": "** 门会在 20 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** LIFT MOVING IN 10 SECONDS **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "| HEAL HAS BEEN PICKED UP |",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** 20 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
