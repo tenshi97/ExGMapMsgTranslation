@@ -1905,12 +1905,12 @@
   {
     "original": ">>Current Ark Morn Damage:1500<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>方舟之晨当前伤害:1500<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1500,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
