@@ -112,7 +112,7 @@
   {
     "original": "** AMMO GUN - 40 sec cooldown **",
     "en_trans": "",
-    "zh_trans": "** 弹药-40秒冷却 **",
+    "zh_trans": "** 弹药 - 40秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,13 +453,13 @@
   {
     "original": "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **",
     "en_trans": "",
-    "zh_trans": "** 手雷和特殊物品（神器和头顶的蓝加号）能对它造成更多伤害！ **",
+    "zh_trans": "** 手雷和特殊物品（头顶的蓝加号）能对它造成更多伤害！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_caution",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MUSIC] REAL2REAL - I Like To Move It",
@@ -629,7 +629,7 @@
   {
     "original": "** ADMIN chose LEVEL 2 for NEXT ROUND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 有权男为下局游戏选择了第二关 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,34 +640,34 @@
   {
     "original": "** LEVEL 3 (HARD) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第三关（困难难度） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "** FREEZE BOTTLE - 50 sec cooldown **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 冰冻罐 - 50秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 50,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "** U WON LEVEL 3 (HARD) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了第三关（困难难度） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
