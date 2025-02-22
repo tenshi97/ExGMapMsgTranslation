@@ -2,7 +2,7 @@
   {
     "original": "*** Map by Airvulpes ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图作者 Airvulpes ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,38 +56,42 @@
   {
     "original": "*** EARTHEN SHIELD ***",
     "en_trans": "",
-    "zh_trans": "大地之盾",
+    "zh_trans": "大地之盾（换弹时间）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** QUAKE ***",
     "en_trans": "",
-    "zh_trans": "地震",
+    "zh_trans": "地震（跳起来）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** EARTH STOMP ***",
     "en_trans": "",
-    "zh_trans": "地面震踏",
+    "zh_trans": "地面震踏（抬头躲柱子）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** LAND SUBSIDENCE ***",
     "en_trans": "",
-    "zh_trans": "地面沉降",
+    "zh_trans": "地面沉降（远离下降的地面）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** EARTH SHOCK ***",
@@ -96,7 +100,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** EARTHQUAKE ***",
@@ -105,7 +110,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Doors open in 10 seconds ***",
@@ -137,29 +143,32 @@
   {
     "original": "*** FREEZING COFFIN ***",
     "en_trans": "",
-    "zh_trans": "冰之柩",
+    "zh_trans": "冰之柩（去中间）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** BLIZZARD ***",
     "en_trans": "",
-    "zh_trans": "暴风雪",
+    "zh_trans": "暴风雪（全屏伤害）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** TIDAL WAVE ***",
     "en_trans": "",
-    "zh_trans": "海啸",
+    "zh_trans": "海啸（抵抗推力）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FROZEN WATER ***",
@@ -168,7 +177,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** RISING WATER ***",
@@ -177,25 +187,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DIAMOND DUST ***",
     "en_trans": "",
-    "zh_trans": "钻石星辰",
+    "zh_trans": "钻石星辰（去水下）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ICICLE FALL ***",
     "en_trans": "",
-    "zh_trans": "冰柱陨落",
+    "zh_trans": "冰柱陨落（抬头找空隙）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** AERIAL BLAST ***",
@@ -204,21 +217,23 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** GUST ***",
     "en_trans": "",
-    "zh_trans": "狂风",
+    "zh_trans": "狂风（抵抗推力）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Hold 50 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住50秒",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 50,
@@ -227,47 +242,51 @@
   {
     "original": "*** UPDRAFT ***",
     "en_trans": "",
-    "zh_trans": "上升气流",
+    "zh_trans": "上升气流（别掉进洞里）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DOWNBURST ***",
     "en_trans": "",
-    "zh_trans": "下击暴流",
+    "zh_trans": "下击暴流（特效下降时抵抗推力）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** EYE OF THE STORM ***",
     "en_trans": "",
-    "zh_trans": "风暴之眼",
+    "zh_trans": "风暴之眼（确保自己在风眼中心）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** TORNADO ***",
     "en_trans": "",
-    "zh_trans": "龙卷风",
+    "zh_trans": "龙卷风（躲避脚底特效）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Level 5 set",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至第五关",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "*** Hold 10 seconds ***",
@@ -290,38 +309,42 @@
   {
     "original": "*** MEGA FLARE ***",
     "en_trans": "",
-    "zh_trans": "超级耀斑",
+    "zh_trans": "超级耀斑（远离特效）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SUN STRIKE ***",
     "en_trans": "",
-    "zh_trans": "阳炎冲击",
+    "zh_trans": "阳炎冲击（动起来，躲避脚底特效）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FLAME RADIATION ***",
     "en_trans": "",
-    "zh_trans": "火焰喷发",
+    "zh_trans": "火焰喷发（远离特效）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FIREBALL ***",
     "en_trans": "",
-    "zh_trans": "火球",
+    "zh_trans": "火球（远离火球）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FORGE SPIRITS ***",
@@ -330,34 +353,38 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FLASH OVER ***",
     "en_trans": "",
-    "zh_trans": "闪燃",
+    "zh_trans": "闪燃（贴直墙）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** TERA FLARE ***",
     "en_trans": "",
-    "zh_trans": "万亿耀斑",
+    "zh_trans": "万亿耀斑（全屏伤害）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FLAMBERGE ***",
     "en_trans": "",
-    "zh_trans": "火焰剑",
+    "zh_trans": "火焰剑（抬头躲刀）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** EXA FLARE ***",
@@ -366,25 +393,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CURAGA ***",
     "en_trans": "",
-    "zh_trans": "高级治疗",
+    "zh_trans": "高级治疗（人类无限子弹+免抓，保护火精灵！）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLY ***",
     "en_trans": "",
-    "zh_trans": "神圣",
+    "zh_trans": "神圣（最后24秒）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 24,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** ZOMBIE KILLED PHILIA ***",
@@ -393,7 +423,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** STAGE FAILED ***",
@@ -402,12 +433,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Due to the S2pushbug in lvl4 forcing teleportation to the path, this is only a temporary fix.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "由于第四关中存在推力bug，强制传送到该路径，这只是一个临时的解决办法",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -420,7 +452,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Level 3 set",
@@ -434,11 +467,12 @@
   {
     "original": "*** GIGA FLARE ***",
     "en_trans": "",
-    "zh_trans": "*** 千兆耀斑 ***",
+    "zh_trans": "千兆耀斑（远离特效）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Level 1 set",

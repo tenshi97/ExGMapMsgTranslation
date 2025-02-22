@@ -2,10 +2,10 @@
   {
     "original": "***1***",
     "en_trans": "",
-    "zh_trans": "***第一关（没刀，不要去逃课了）***",
+    "zh_trans": "***200秒后屋顶门开，没刀不要去逃课了***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 200,
     "enable_timer": 1
   },
   {
@@ -32,25 +32,25 @@
     "zh_trans": "***杀死屋内的僵尸***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "***2***",
     "en_trans": "",
-    "zh_trans": "***第二关（屋内四刀）***",
+    "zh_trans": "***200秒后屋顶门开，跳四刀***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 200,
     "enable_timer": 1
   },
   {
     "original": "***3***",
     "en_trans": "",
-    "zh_trans": "***第三关（屋内八刀）***",
+    "zh_trans": "***200秒后屋顶门开，跳八刀***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 200,
     "enable_timer": 1
   },
   {

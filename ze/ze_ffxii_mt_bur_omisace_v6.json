@@ -24,7 +24,7 @@
   {
     "original": "**Map Ported by Waffel. Thanks to NiceShot with helping.**",
     "en_trans": "",
-    "zh_trans": "**地图移植 Waffel. 感谢 NiceShot 的帮助.(翻译:星荧铃,翻译有问题请论坛或社区Q群联系我)**",
+    "zh_trans": "**地图移植 Waffel. 感谢 NiceShot 的帮助.**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2250,8 +2250,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -2296,7 +2296,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Don't let zombies get to the boss fight platform!**",
@@ -2318,7 +2318,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] It's last hold! Be ready to escape!**",
@@ -2340,7 +2340,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Main engines are about to explode! Warning grab something!**",
@@ -2384,7 +2384,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**[Bash] Well done! The Path is clear! RUN!**",
@@ -2400,7 +2400,7 @@
   {
     "original": "**[Gabranth] Ha Defend?! You!?**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**[伽布拉斯] 哈，想打败我?! 就你!?**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2450,7 +2450,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[Bash] Hurry up! Sanctuary Keeper power up his abilities!**",
@@ -2461,7 +2461,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Map Update: 19/02/2025**",
