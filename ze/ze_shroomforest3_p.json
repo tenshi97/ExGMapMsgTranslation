@@ -2048,23 +2048,23 @@
   {
     "original": ">> ZOMBIES IN THE SAFE AREA <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 检测到僵尸 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL FAILED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 关卡失败 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
