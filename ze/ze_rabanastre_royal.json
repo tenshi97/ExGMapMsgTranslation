@@ -46,7 +46,7 @@
   {
     "original": "< Normal Mode >",
     "en_trans": "",
-    "zh_trans": "< 普通模式 >",
+    "zh_trans": "< 普通模式（Normal） >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "< SandMonster has casted Shock >",
     "en_trans": "",
-    "zh_trans": "< 沙怪施展了电击 >",
+    "zh_trans": "< 沙怪施展了电击，躲避特效 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "< SandMonster has casted Gravity >",
     "en_trans": "",
-    "zh_trans": "< 沙怪施展了重力术 >",
+    "zh_trans": "< 沙怪施展了重力术，按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "< SandMonster has casted Wind >",
     "en_trans": "",
-    "zh_trans": "< 沙怪施展了风之魔法 >",
+    "zh_trans": "< 沙怪施展了风之魔法，按w抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -283,7 +283,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< You have defeated normal mode!Congratulations! >",
@@ -299,7 +299,7 @@
   {
     "original": "< SandMonster has casted Sandstorm >",
     "en_trans": "",
-    "zh_trans": "< 沙怪施展了沙尘暴 >",
+    "zh_trans": "< 沙怪施展了沙尘暴，全屏伤害 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,29 +310,29 @@
   {
     "original": "< SandMoster has casted Quicksand >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 沙怪施展了流沙，小心脚底特效 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Hard Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 困难模式（Hard） >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A zombie has acquired Doom Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<僵尸获得了死亡宣告>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "< A zombie has acquired Bleed Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<僵尸获得了流血魔法>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "< A player has acquired Scathe Magick >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了坍缩炮 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "< The Lowtown gate will open in 15 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 下城区大门将在 15 秒后开启 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "< The arena will open in 40 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 竞技场将在 40 秒后开放 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "< The fight with Zeromes will begin in 10 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 与扎罗姆斯的战斗将在 10 秒后开始 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,95 +398,95 @@
   {
     "original": "< Zeromus has casted Gravity >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了黑洞，按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeroms used Reverse to himself >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯使用了反转，停火换弹 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Fire >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了火焰术，躲避脚底特效 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Ice >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了冰冻术，定身 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Thunder >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了雷电术，注意脚下特效 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has been defeated...Let's get out of the arena >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯已被击败...该离开竞技场了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Defend!We almost leave the Lowtown soon! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 守住！我们很快就能离开下城区了！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Welcome to the Moogling,kupo~ >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 欢迎来到莫古力之地，库啵~ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Moogling will teleport humans in 8 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 莫古力将在 8 秒后传送人类 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -497,7 +497,7 @@
   {
     "original": "< ZM Crystall teleport will enable in 5 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 僵尸水晶传送阵将在 5 秒后启用 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,7 +508,7 @@
   {
     "original": "< The Aerodrome last gate will open in 40 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 空港的最后一道门将在 40 秒后打开 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,7 +519,7 @@
   {
     "original": "< The Airship will leave in 10 seconds.Hurry up! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 飞空艇将在 10 秒后离开。快点！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,12 +530,12 @@
   {
     "original": "< You have defeated Hard mode!Congratulations! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 您已击败困难模式！恭喜！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]

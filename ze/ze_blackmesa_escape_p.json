@@ -95,7 +95,7 @@
     "zh_trans": "*** 警告！ 火箭在 120 秒后爆炸 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1
   },
   {
@@ -113,7 +113,7 @@
     "zh_trans": "*** 注意 谷仓门在 60秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1
   },
   {
