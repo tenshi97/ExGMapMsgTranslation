@@ -877,12 +877,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<The Gauss expansion module has been deployed>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<高斯扩展模块已部署>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -893,7 +893,7 @@
   {
     "original": "<<Gauss has replenished three rounds of ammunition>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<高斯枪已补充三发弹药>> ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
