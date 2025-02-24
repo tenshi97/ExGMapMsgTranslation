@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map by Smurf",
@@ -14,8 +16,10 @@
     "zh_trans": "地图制作: Smurf",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<DEFEND 30 SECONDS>",
@@ -23,8 +27,10 @@
     "zh_trans": "<防御30秒>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "rot zakroj",
@@ -32,8 +38,10 @@
     "zh_trans": " 腐败领域",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<BACK BACK BACK>",
@@ -41,8 +49,10 @@
     "zh_trans": "<退! 退! 退!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<ZM TELEPORT 10 SEC>",
@@ -50,8 +60,10 @@
     "zh_trans": "<僵尸传送10秒后启动>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<SECOND GATE OPEN IN 5 SECONDS>",
@@ -59,8 +71,10 @@
     "zh_trans": "<第二道大门在5秒后开启>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<FOUNTAIN TP ENABLED>",
@@ -68,8 +82,10 @@
     "zh_trans": "<喷泉传送已启动>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<ZM TELEPORT IN 15 SECONDS>",
@@ -77,8 +93,10 @@
     "zh_trans": "<僵尸传送将在15秒后启动>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<WALL BREAK IN 20 SECONDS>",
@@ -86,8 +104,10 @@
     "zh_trans": "<墙体将在20秒后碎裂>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<WALL BROKEN>",
@@ -95,8 +115,10 @@
     "zh_trans": "<墙碎了>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<ZM TP AFTER 25 SECONDS>",
@@ -104,8 +126,10 @@
     "zh_trans": "<25秒后僵尸传送>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<DEFEND 40 SECONDS>",
@@ -113,8 +137,10 @@
     "zh_trans": "<防御40秒>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<TEMPLE ENTRANCE BREAK IN 45 SECONDS>",
@@ -122,8 +148,10 @@
     "zh_trans": "<神庙入口在45秒后碎裂>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<BACK INTO TEMPLE ZM TP AFTER 15 SECONDS>",
@@ -131,8 +159,10 @@
     "zh_trans": "<回到神庙的僵尸传送点15后启动>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<DEFEND 50 SECONDS>",
@@ -140,8 +170,10 @@
     "zh_trans": "<防守50秒>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<ZM SHORTCUT OPENED>",
@@ -149,8 +181,10 @@
     "zh_trans": "<僵尸侧路开启>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<ENTRANCE OPENING>",
@@ -158,8 +192,10 @@
     "zh_trans": "<入口打开>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<TP TO BOSS AFTER 20 SECONDS>",
@@ -167,8 +203,10 @@
     "zh_trans": "<20秒后传送进Boss房>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<SHOOT THE BOSS>",
@@ -176,8 +214,10 @@
     "zh_trans": "<攻击Boss>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<BOSS DEFEATED>",
@@ -185,8 +225,10 @@
     "zh_trans": "<Boss被击败了>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<LAST DEFEND 30 SEC>",
@@ -194,8 +236,10 @@
     "zh_trans": "<最后的30秒守点>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<KILL THE LASER BOSS>",
@@ -203,8 +247,10 @@
     "zh_trans": "<击杀跳刀Boss>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<BOSS DEFEATED, INCOMING LASERS FROM THE ZOMBIES>",
@@ -212,8 +258,10 @@
     "zh_trans": "<Boss被击败,僵尸方向还有列车刀袭来>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<CONGRATULATION, YOU BEAT THE MAP>",
@@ -221,8 +269,10 @@
     "zh_trans": "<恭喜，你通过了这张地图>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<RTV THIS SHITMAP!!!!!!!!>",
@@ -230,8 +280,10 @@
     "zh_trans": "<按Y输入RTV!!!!!!!!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<CROUCH>",
@@ -239,8 +291,10 @@
     "zh_trans": "<蹲下>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<GRAVITY>",
@@ -248,7 +302,20 @@
     "zh_trans": "<黑洞>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<PUSH>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]

@@ -5,8 +5,10 @@
     "zh_trans": "<< 第一关 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**This is a map based on the game STALKER**",
@@ -14,8 +16,10 @@
     "zh_trans": "**此地图基于《STALKER》潜行者 制作**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The map isn't eazy. It needs good ZE skills and good teamplay**",
@@ -23,8 +27,10 @@
     "zh_trans": "**这张图并不简单。它需要良好的ZE技术和良好的团队合作**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gate 3 will open in 8 seconds**",
@@ -32,8 +38,10 @@
     "zh_trans": "**3号大门将在8秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Lab door 2 will open in 13 seconds**",
@@ -41,8 +49,10 @@
     "zh_trans": "**二号实验室门将在13秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 13,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Lab door 2 will open for zombies in 18 seconds**",
@@ -50,8 +60,10 @@
     "zh_trans": "**二号实验室门将在18秒后为僵尸打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 18,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The gate 1 will open in 30 seconds**",
@@ -59,8 +71,10 @@
     "zh_trans": "**一号大门将在30秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***The electricity in on. You can push the panels to open the gates***",
@@ -68,8 +82,10 @@
     "zh_trans": "***电力已经疏通，你可以通过面板打开这个门了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this position for 5 seconds**",
@@ -77,8 +93,10 @@
     "zh_trans": "**守住这里5秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<AFK players will teleport to the grass in ten seconds>>",
@@ -86,8 +104,10 @@
     "zh_trans": "<<挂机和走得慢的玩家将在10秒后传送到草地上>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold for 10 seconds before the gates open**",
@@ -95,8 +115,10 @@
     "zh_trans": "**在大门开启之前先防守10秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Let's go. The zombie will be blocked for ten seconds**",
@@ -104,8 +126,10 @@
     "zh_trans": "**走吧，僵尸将被阻拦10秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The blowout will be in 65 seconds. Get to the bunker and defend it**",
@@ -113,8 +137,10 @@
     "zh_trans": "**井喷将在65秒后发生，到地堡里防守**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 65,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The door to the shelter won't open properly. We need to break it down**",
@@ -122,8 +148,10 @@
     "zh_trans": "**避难所的门打不开，我们需要打开它**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Looks like there's a road behind this wall**",
@@ -131,8 +159,10 @@
     "zh_trans": "**看起来这墙后面有条路**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<Break this wall open with a hammer>>",
@@ -140,8 +170,10 @@
     "zh_trans": "<<用锤子砸开这堵墙>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold the place for 25 seconds**",
@@ -149,8 +181,10 @@
     "zh_trans": "**守住这里25秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Break the spheres to escape***",
@@ -158,8 +192,10 @@
     "zh_trans": "***打碎这些圆球我们才能离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gate 2 will open in 8 seconds**",
@@ -167,8 +203,10 @@
     "zh_trans": "**二号大门将在8秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Level 2 >>",
@@ -176,8 +214,10 @@
     "zh_trans": "<< 第二关 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< 第三关 >>",
@@ -185,8 +225,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Level 5 >>",
@@ -194,8 +236,10 @@
     "zh_trans": "<< 第五关 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< 第四关 >>",
@@ -203,8 +247,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<items can now attack the boss>>",
@@ -212,8 +258,10 @@
     "zh_trans": "<<神器现在可以伤害到boss>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up fireball**",
@@ -221,8 +269,10 @@
     "zh_trans": "**一位玩家拾取了火球**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up a piece of flesh**",
@@ -230,8 +280,10 @@
     "zh_trans": "**一位玩家拾取了一块肉（风）**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up spikeball**",
@@ -239,8 +291,10 @@
     "zh_trans": "**一位玩家拾取了奶**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We should get out of here**",
@@ -248,8 +302,10 @@
     "zh_trans": "**我们应该离开这里**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Get out of here. They're coming after us**",
@@ -257,8 +313,10 @@
     "zh_trans": "**离开这里，他们来找我们了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Wait for others for 5 more seconds**",
@@ -266,8 +324,10 @@
     "zh_trans": "**再等别人5秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold 25 seconds**",
@@ -275,8 +335,10 @@
     "zh_trans": "**坚守25秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold them 25 seconds until door closes**",
@@ -284,8 +346,10 @@
     "zh_trans": "**坚守25秒直到门关上**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**This is the last hold point**",
@@ -293,8 +357,10 @@
     "zh_trans": "**这是最后的守点**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Zombie WIN**",
@@ -302,8 +368,10 @@
     "zh_trans": "**僵尸胜利**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Gate 1 will open in 8 seconds**",
@@ -311,8 +379,10 @@
     "zh_trans": "**1 号门将在 8 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Gate 4 will open in 8 seconds**",
@@ -320,8 +390,10 @@
     "zh_trans": "**4 号门将在 8 秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up flash**",
@@ -329,8 +401,10 @@
     "zh_trans": "**一名玩家捡起了闪光**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up meatchunk**",
@@ -338,8 +412,10 @@
     "zh_trans": "**一名玩家捡起了肉块**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Lab door 1 will open in 11 seconds**",
@@ -347,8 +423,10 @@
     "zh_trans": "**实验室 1 号门将在 11 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 11,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Lab door 1 will open for zombies in 18 seconds**",
@@ -356,8 +434,10 @@
     "zh_trans": "**实验室 1 号门将在 18 秒后为僵尸打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 18,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<Got information on half the unknown modules>>",
@@ -365,8 +445,10 @@
     "zh_trans": "<<已获取一半未知模块的信息>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The gates are closing.**",
@@ -374,8 +456,10 @@
     "zh_trans": "**大门正在关闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** LEVEL COMPLETED!! **",
@@ -383,8 +467,10 @@
     "zh_trans": "** 关卡完成!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Get to the bunker and defend it**",
@@ -392,8 +478,10 @@
     "zh_trans": "**前往地堡并守卫它**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The boss battle starts in ten seconds",
@@ -401,8 +489,10 @@
     "zh_trans": "BOSS战将在 10 秒后开始 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The BloodSucker is dead.Run!**",
@@ -410,8 +500,10 @@
     "zh_trans": "**血魔已死。快跑！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**A player picked up nightstar**",
@@ -419,8 +511,10 @@
     "zh_trans": "**一名玩家捡起了夜星**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**OPENING THE GATES (30 SECONDS)**",
@@ -428,8 +522,10 @@
     "zh_trans": "**正在开启大门(30 秒) **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The door wil open in 10 seconds**",
@@ -437,8 +533,10 @@
     "zh_trans": "**门将在 10 秒后打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**We don't have much time. Get the document**",
@@ -446,8 +544,10 @@
     "zh_trans": "**我们的时间不多了。去拿文件**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<Got the Document>>",
@@ -455,8 +555,10 @@
     "zh_trans": "<<已拿到文件>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The door has rusted so much that it can't be opened**",
@@ -464,8 +566,10 @@
     "zh_trans": "**这扇门生锈太严重，已经打不开了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We need to blow this door open**",
@@ -473,8 +577,10 @@
     "zh_trans": "**我们需要炸开这扇门**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The door blew open. Get out of here with the Document**",
@@ -482,8 +588,10 @@
     "zh_trans": "**门被炸开了。带着文件离开这里**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The documents are here!**",
@@ -491,8 +599,10 @@
     "zh_trans": "**文件在这儿！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We are too close!**",
@@ -500,8 +610,10 @@
     "zh_trans": "**我们靠得太近了！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend a bit**",
@@ -509,8 +621,10 @@
     "zh_trans": "**稍微防守一下**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The door will explode in a few seconds!**",
@@ -518,8 +632,10 @@
     "zh_trans": "**这扇门几秒后就会爆炸！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**RUN RUN RUN!!!**",
@@ -527,8 +643,10 @@
     "zh_trans": "**走走走!!!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Prototype N62 was picked up**",
@@ -536,8 +654,10 @@
     "zh_trans": "**N62 原型被拾起**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<Gauss gun is out of ammo>>",
@@ -545,8 +665,10 @@
     "zh_trans": "<<高斯枪 弹药已耗尽>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<BloodSucker has appeared>>",
@@ -554,8 +676,10 @@
     "zh_trans": "<<血魔出现了>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**",
@@ -563,8 +687,10 @@
     "zh_trans": "**管理员已调关至 第五关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<I found something interesting>>",
@@ -572,8 +698,10 @@
     "zh_trans": "<<我发现了一些有趣的东西>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Zombie WIN***",
@@ -581,8 +709,10 @@
     "zh_trans": "***僵尸胜利***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Level 3 >>",
@@ -590,8 +720,10 @@
     "zh_trans": "<< 第三关 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**GO INTO THE TELEPORTER***",
@@ -599,8 +731,10 @@
     "zh_trans": "**快进传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Take a break, find a few things and move on**",
@@ -608,8 +742,10 @@
     "zh_trans": "**休息一下，找些东西然后继续前进**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**NOW WE ARE READY TO GO**",
@@ -617,8 +753,10 @@
     "zh_trans": "**现在准备出发了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**The weather is getting worse and worse**",
@@ -626,8 +764,10 @@
     "zh_trans": "**天气变得越来越糟**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**We'll be out of here in no time**",
@@ -635,8 +775,10 @@
     "zh_trans": "**我们很快就会离开这里**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Wait a minute**",
@@ -644,8 +786,10 @@
     "zh_trans": "**稍等片刻**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Get out of here**",
@@ -653,8 +797,10 @@
     "zh_trans": "**离开这里**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**DON'T LET HIM TO FAIL US!!**",
@@ -662,8 +808,10 @@
     "zh_trans": "**别让他打败我们！！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**PLAY AS YOU CAN**",
@@ -671,8 +819,10 @@
     "zh_trans": "**拼尽全力**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**",
@@ -680,8 +830,10 @@
     "zh_trans": "**你已接近胜利**坚持住**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**THE END TELEPORTER WILL OPEN SOON**",
@@ -689,8 +841,10 @@
     "zh_trans": "*最终传送器很快就会开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< Level 4 >>",
@@ -698,8 +852,10 @@
     "zh_trans": "<< 第四关 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Electromagnetic storm approaching in 50 seconds**",
@@ -707,7 +863,20 @@
     "zh_trans": "**电磁风暴将在 50 秒后逼近** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<<<It's too slow, it's about to explode here>>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
