@@ -160,382 +160,382 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "门被锁住了,我们没有磁卡需要时间破解!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门被锁住了,我们没有磁卡需要时间破解!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "闸门破解完成!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "闸门破解完成!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "这么高的崩坏能浓度是怎么回事!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这么高的崩坏能浓度是怎么回事!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "快启动安全系统降低崩坏能浓度不然我们无法继续前进!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快启动安全系统降低崩坏能浓度不然我们无法继续前进!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "系统启动中.......崩坏能浓度正在下降......",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "系统启动中.......崩坏能浓度正在下降......",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "崩坏能浓度已降低至安全水平!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "崩坏能浓度已降低至安全水平!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "ok!现在我们去把那个该死的崩坏炉关掉否者第二律者会更加强大",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ok!现在我们去把那个该死的崩坏炉关掉否者第二律者会更加强大",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "崩坏炉关闭程序启动中!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "崩坏炉关闭程序启动中!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "守住这里,直到崩坏炉彻底关闭!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住这里,直到崩坏炉彻底关闭!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "崩坏炉已关闭",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "崩坏炉已关闭",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "检测到虚数空间波动大量死士接近中!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "检测到虚数空间波动大量死士接近中!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "已呼叫电梯！等待40秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已呼叫电梯！等待40秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 40,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "去控制中心调查一下是怎么回事!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "去控制中心调查一下是怎么回事!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "守住!等待电梯到来!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住!等待电梯到来!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "里面就是控制中心了坚持到闸门破解完成!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "里面就是控制中心了坚持到闸门破解完成!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "快利用控制台关闭闸门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快利用控制台关闭闸门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "闸门已关闭数据传输中......",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "闸门已关闭数据传输中......",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "该死!她发现我们了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "该死!她发现我们了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "守住,等待数据传输完成",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住,等待数据传输完成",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "数据传输已完成!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "数据传输已完成!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "守住这里!等待电梯到来",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住这里!等待电梯到来",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "快撤!快撤!赶紧进电梯!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快撤!快撤!赶紧进电梯!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "上面被不知名的力量封锁了,正在尝试破解",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "上面被不知名的力量封锁了,正在尝试破解",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "封锁已解除！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "封锁已解除！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "是琪亚娜!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "是琪亚娜!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "她的情况不对劲！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "她的情况不对劲！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "她向我们发动攻击了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "她向我们发动攻击了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "快还击她是第二律者！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快还击她是第二律者！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "我们击败她了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们击败她了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "现在,守住这里!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "现在,守住这里!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "返回请求已应答！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "返回请求已应答！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "赶紧上飞机！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "注意脚下别摔下去了，赶紧从飞机的头部登机！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "我们成功活下来了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们成功活下来了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
