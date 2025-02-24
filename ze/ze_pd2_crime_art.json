@@ -2,7 +2,7 @@
   {
     "original": "** MAP MADE BY DARKOGRE AND PATRAO! **",
     "en_trans": "",
-    "zh_trans": "** 本图由DARKOGRE和PATRAO制作! **",
+    "zh_trans": "** 本图由DARKOGRE和PATRAO制作（某不知名好心人为你们添加了刷分倒计时(・ω< )★） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,11 +119,11 @@
   {
     "original": "** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **",
     "en_trans": "",
-    "zh_trans": "** 守住厨房! 不要让僵尸进来! **",
+    "zh_trans": "** 守住厨房! 不要让僵尸进来!（25秒后开卧室门) **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** DOOR IS OPENING **",
@@ -137,11 +137,11 @@
   {
     "original": "** HOLD THE BEDROOM **",
     "en_trans": "",
-    "zh_trans": "** 守住卧室 **",
+    "zh_trans": "** 守住卧室(25秒后门关) **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 25,
+    "enable_timer": 1
   },
   {
     "original": "** MAKE YOUR WAY TO THE OFFICE **",
