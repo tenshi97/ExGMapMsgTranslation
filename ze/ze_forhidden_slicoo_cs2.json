@@ -596,13 +596,13 @@
   {
     "original": "**攻击岩石的脆弱部分!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**攻击岩石的脆弱部分已开辟道路**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**等待5秒封锁解除**",
@@ -632,10 +632,10 @@
     "zh_trans": "** 20秒后升起石柱 **",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_caution",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**左侧拉杆已拉动**",
@@ -643,10 +643,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_left",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 10秒后僵尸传送 **",
@@ -665,10 +665,10 @@
     "zh_trans": "**5秒后左侧门开放**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_left",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**右侧拉杆已拉动**",
@@ -676,10 +676,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_right",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**大门将在50秒后被摧毁**",
@@ -698,10 +698,10 @@
     "zh_trans": "**5秒后右侧门开放**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_right",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**大门将在10秒后被摧毁**",
@@ -775,10 +775,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert_red",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**5秒后炸毁岩石**",
@@ -830,10 +830,10 @@
     "zh_trans": "**5秒后捷径路开放**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert_red",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**5秒后门打开**",
@@ -981,90 +981,90 @@
   {
     "original": "**龙息**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**龙息---去两边贴墙**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**大暴雪**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**大暴雪---去熊洞躲避**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**飞龙吐息**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**飞龙吐息---前往后面石头上躲避**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_fire",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**寒流**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**寒流---中间深坑蹲下**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_down",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**龙刀**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**龙刀---躲避前方跳刀**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_up",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**幻影龙车**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**幻影龙车---躲避前方幻影**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_key_up",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**星落风暴**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**星落风暴---后场躲避上方弹幕**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_arrow_up",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**尾部扫击**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**尾部扫击---用枪打停BOSS**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_interact",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**僵尸10秒后到来**",
@@ -1787,10 +1787,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert_red",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "还有30秒!",
