@@ -464,23 +464,23 @@
   {
     "original": ">>也许某处的梯子可以让我们上到地表<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>也许某处的梯子可以让我们上到地表<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>破裂的石墙后面有梯子,先爬上去看看吧<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>破裂的石墙后面有梯子,先爬上去看看吧<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {

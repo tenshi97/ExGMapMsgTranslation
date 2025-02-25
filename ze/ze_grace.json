@@ -2,7 +2,7 @@
   {
     "original": "> ZE_GRACE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> ZE_GRACE - 优雅",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -33,7 +33,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> White",
@@ -42,7 +43,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> 30",
@@ -78,15 +80,17 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> TAKE THE PLUNGE !",
     "en_trans": "",
-    "zh_trans": "> 该下定决心了 !",
+    "zh_trans": "> 该下定决心了，快跳下去 !",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
