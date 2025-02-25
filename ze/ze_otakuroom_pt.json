@@ -272,11 +272,11 @@
   {
     "original": "**Sakai**",
     "en_trans": "",
-    "zh_trans": "**无敌护盾**",
+    "zh_trans": "**无敌护盾（换弹）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "**Gasu**",
@@ -284,26 +284,26 @@
     "zh_trans": "**推力或吸力（Boss升起时按S，没升起则按W）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "**Kanameishi**",
     "en_trans": "",
-    "zh_trans": "**要石(前往四周规避)**",
+    "zh_trans": "**要石(内圈规避)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "**Im defeated.Its impossable**",
     "en_trans": "",
-    "zh_trans": "**我被打败了，这不可能！**",
+    "zh_trans": "**我被打败了，这不可能！（撤退记得丢雷）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "**Air leaves in 30 seconds**",
@@ -326,11 +326,11 @@
   {
     "original": "**全人类の绯想天**",
     "en_trans": "",
-    "zh_trans": "**全人类の绯想天（终极）**",
+    "zh_trans": "**全人类の绯想天（前往外圈石头躲避，闪过红光后马上返回平台）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "**[ZM]**",
@@ -389,10 +389,10 @@
   {
     "original": "**[Admin]Stage 3**",
     "en_trans": "",
-    "zh_trans": "**[管理员]第 3 关**",
+    "zh_trans": "**[调关房]第 3 关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {
@@ -428,7 +428,7 @@
     "zh_trans": "**[调关房]第 2 关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 1,
     "enable_timer": 1
   },
   {

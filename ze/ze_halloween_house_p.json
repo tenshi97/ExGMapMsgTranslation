@@ -20,11 +20,11 @@
   {
     "original": "** WE CAN'T SEEM TO PROGRESS AHEAD... **",
     "en_trans": "",
-    "zh_trans": "** 我们好像被困在这了... **",
+    "zh_trans": "** 我们好像被困在这了---（30s)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "** HOLD UNTIL WE FIGURE SOMETHING OUT! **",
@@ -41,8 +41,8 @@
     "zh_trans": "** 窗户碎了！快走！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** We need to make the door move! **",
@@ -68,8 +68,8 @@
     "zh_trans": "** 快走！我们已经有足够的动能！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** THE TOP DOOR IS OPENING 5 SECONDS! **",
@@ -101,11 +101,11 @@
   {
     "original": "** The seance is beginning and the spirits are calling... **",
     "en_trans": "",
-    "zh_trans": "** 降神会开始了，开始召唤鬼魂... **",
+    "zh_trans": "** 降神会开始了，开始召唤鬼魂---(60s) **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 60,
+    "enable_timer": 1
   },
   {
     "original": "** The spirits marked the 'H' leter... **",
@@ -113,8 +113,8 @@
     "zh_trans": "** 鬼魂标记了字母'H'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'A'... **",
@@ -122,8 +122,8 @@
     "zh_trans": "** 'A'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'L'... **",
@@ -131,8 +131,8 @@
     "zh_trans": "** 'L'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'L' again... **",
@@ -140,8 +140,8 @@
     "zh_trans": "** 又是'L' ... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'O'... **",
@@ -149,8 +149,8 @@
     "zh_trans": "** 'O'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'W'... **",
@@ -158,8 +158,8 @@
     "zh_trans": "** 'W'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'E'... **",
@@ -167,8 +167,8 @@
     "zh_trans": "** 'E'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'E' yet again... **",
@@ -176,8 +176,8 @@
     "zh_trans": "** 还是'E' ... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** 'N'... **",
@@ -185,8 +185,8 @@
     "zh_trans": "** 'N'... **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** It spelled 'HALLOWEEN'! **",
@@ -221,8 +221,8 @@
     "zh_trans": "** 跳到吊灯上面！快！咒语可能不会持续太久 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** There is some screaking sound in the distance - maybe something is lurking in the darkness! **",
@@ -239,7 +239,7 @@
     "zh_trans": "** 试着让这个小火车动起来！我们必须离开这里！（拉杆要拉七下，第六下的时候老鼠会被放出来） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -266,8 +266,8 @@
     "zh_trans": "** 我们快到了! 如果我们能把烤箱边上的大南瓜炸掉就安全了 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** We should inspect that giant pumpkin sitting on the stool! **",
@@ -290,10 +290,10 @@
   {
     "original": "** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **",
     "en_trans": "",
-    "zh_trans": "** 守住这里直到c4爆炸! **",
+    "zh_trans": "** 守住这里直到c4爆炸---(25s) **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 25,
     "enable_timer": 1
   },
   {
@@ -302,8 +302,8 @@
     "zh_trans": "** 撤退！路在这边！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **",
@@ -311,8 +311,8 @@
     "zh_trans": "** 大老鼠把我们的火车撞翻了！我们完蛋了！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** We can't get past here with that stove turned on! **",
@@ -347,8 +347,8 @@
     "zh_trans": "** 干得好！燃气很快就会停了 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** The metal is still hot - KEEP RESISTING! **",
@@ -356,8 +356,8 @@
     "zh_trans": "** 灶台还是很热，还不能过去 - 继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** NOW! GET MOVING! **",
@@ -371,10 +371,10 @@
   {
     "original": "** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **",
     "en_trans": "",
-    "zh_trans": "** 这好像是死胡同! 守住这里直到发生什么事情! **",
+    "zh_trans": "** 这好像是死胡同! 守住这里直到发生什么事情---(65s) **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
+    "timer_num": 65,
     "enable_timer": 1
   },
   {
@@ -383,8 +383,8 @@
     "zh_trans": "** 还不到时候... 继续防守! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** We need to resist... Something must open! **",
@@ -392,8 +392,8 @@
     "zh_trans": "** 我们还得继续防守！ 一定会发生什么东西的! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **",
@@ -419,8 +419,8 @@
     "zh_trans": "** 快看! 是友善的幽灵比利! **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **",
@@ -452,7 +452,7 @@
   {
     "original": "** THE END **",
     "en_trans": "",
-    "zh_trans": "** 地图已通关！恭喜！（补充；水木、） **",
+    "zh_trans": "** 地图已通关！恭喜！（翻译；水木，若出现翻译问题请至exg论坛反馈） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
