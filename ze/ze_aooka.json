@@ -272,11 +272,11 @@
   {
     "original": "<Defend until the gate is closed>",
     "en_trans": "",
-    "zh_trans": "防守到大门关上",
+    "zh_trans": "<防守到大门关闭>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "<It's safe for the time being...>",
@@ -501,15 +501,15 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "< Enter the Gold range to avoid damage >",
     "en_trans": "",
-    "zh_trans": "< 站在“金轮”的范围内以规避伤害 >",
+    "zh_trans": "< 站在“金轮”的范围内以规避伤害---10 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
+    "timer_num": 10,
     "enable_timer": 1
   },
   {
@@ -545,7 +545,7 @@
     "zh_trans": "< 星锁 - 停枪，提前去场地中间 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -554,8 +554,8 @@
     "zh_trans": "< 星解 - 去中间规避伤害 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "< Spider - Death Star >",
@@ -572,7 +572,7 @@
     "zh_trans": "< 灵魂汲取 - boss回血，提前蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -581,8 +581,8 @@
     "zh_trans": "< 电球 - 远离电球正面 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "< Spider - Heavenly Sin >",
@@ -590,7 +590,7 @@
     "zh_trans": "< 天罪 - 蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 3,
     "enable_timer": 1
   },
   {
@@ -614,10 +614,10 @@
   {
     "original": "< Soul - Rise Nibble Away Up >",
     "en_trans": "",
-    "zh_trans": "< 加速蚕食 - 再次进入金轮范围规避秒杀 >",
+    "zh_trans": "< 加速蚕食 - 再次进入“金轮”的范围规避秒杀---5s >",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
+    "timer_num": 5,
     "enable_timer": 1
   },
   {
@@ -821,11 +821,11 @@
   {
     "original": "<Zombies are coming in!>",
     "en_trans": "",
-    "zh_trans": "僵尸来了",
+    "zh_trans": "<僵尸进来了，本回合失败>",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": "< Izzo! >",
