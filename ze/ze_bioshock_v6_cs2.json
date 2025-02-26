@@ -167,134 +167,134 @@
   {
     "original": "***Plasmid upgraded: Insect Swarm 2***",
     "en_trans": "",
-    "zh_trans": "***蜂群已提升至等级2***",
+    "zh_trans": "***蜂群已被升级；当前神器等级为二级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Winter Blast 2***",
     "en_trans": "",
-    "zh_trans": "***寒霜已升级至等级2***",
+    "zh_trans": "***寒霜已被升级；当前神器等级为二级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Gravity Well 2***",
     "en_trans": "",
-    "zh_trans": "***重力已升级至等级2***",
+    "zh_trans": "***重力已被升级；当前神器等级为二级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Sonic Boom 2***",
     "en_trans": "",
-    "zh_trans": "***音爆已升级至等级2***",
+    "zh_trans": "***音爆已被升级；当前神器等级为二级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Incinerate 2***",
     "en_trans": "",
-    "zh_trans": "***焚烧已升级至等级2***",
+    "zh_trans": "***焚化已被升级；当前神器等级为二级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Electro Bolt 2***",
     "en_trans": "",
-    "zh_trans": "***电震波已升级至等级2***",
+    "zh_trans": "***闪电已被升级；当前神器等级为二级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Insect Swarm 3***",
     "en_trans": "",
-    "zh_trans": "***蜂群已升级至等级3***",
+    "zh_trans": "***蜂群已被升级；当前神器等级为三级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Winter Blast 3***",
     "en_trans": "",
-    "zh_trans": "***寒霜已升级至等级3***",
+    "zh_trans": "***寒霜已被升级；当前神器等级为三级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Gravity Well 3***",
     "en_trans": "",
-    "zh_trans": "***重力已升级至等级3***",
+    "zh_trans": "***重力已被升级；当前神器等级为三级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Sonic Boom 3***",
     "en_trans": "",
-    "zh_trans": "***音爆已升级至等级3***",
+    "zh_trans": "***音爆已被升级；当前神器等级为三级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Incinerate 3***",
     "en_trans": "",
-    "zh_trans": "***焚烧已升级至等级3***",
+    "zh_trans": "***焚化已被升级；当前神器等级为三级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Plasmid upgraded: Electro Bolt 3***",
     "en_trans": "",
-    "zh_trans": "***电震波已升级至等级3***",
+    "zh_trans": "***闪电已被升级；当前神器等级为三级***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*ADMIN Room: Next round set to Chapter 4*",
@@ -423,10 +423,10 @@
     "zh_trans": ">>激光来袭<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Get back to the elevator<<",
@@ -519,7 +519,7 @@
   {
     "original": "***Plasmid obtained: Electro Bolt***",
     "en_trans": "",
-    "zh_trans": "***一名玩家获得电震波***",
+    "zh_trans": "***一名玩家获得闪电***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "***Plasmid obtained: Incinerate***",
     "en_trans": "",
-    "zh_trans": "***一名玩家获得焚烧***",
+    "zh_trans": "***一名玩家获得焚化***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,24 +1135,24 @@
   {
     "original": ">>1999 is a special mode<<",
     "en_trans": "",
-    "zh_trans": ">>1999模式是一个跨越所有地点的一关制的挑战模式<<",
+    "zh_trans": ">>1999模式是一个跨越所有地点的一关制挑战模式<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Its long and difficult<<",
     "en_trans": "",
-    "zh_trans": ">>这个模式会比前四关难，全流程大约需要14-20分钟<<",
+    "zh_trans": ">>这个模式会比前四关难，全流程大约需要14-19分钟<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Enjoy it<<",
@@ -1163,7 +1163,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Wait for the storage doors to open - 60<<",
@@ -1240,7 +1240,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Kill the Patriot<<",
@@ -1405,7 +1405,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>CONGRATULATIONS!<<<",
