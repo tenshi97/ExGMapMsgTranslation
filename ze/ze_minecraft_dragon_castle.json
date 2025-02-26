@@ -523,69 +523,69 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Bucket 2 pickup*",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "* Bucket 1 pickup*",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "2 houses continue to burn.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "1 houses continue to burn.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "You put out all the houses!",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 拿起 2 号桶 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "* Bucket 1 pickup*",
+    "en_trans": "",
+    "zh_trans": "* 拿起 1 号桶 *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "2 houses continue to burn.",
+    "en_trans": "",
+    "zh_trans": "两栋房屋继续燃烧着。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "1 houses continue to burn.",
+    "en_trans": "",
+    "zh_trans": "一栋房屋还在继续燃烧。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "You put out all the houses!",
+    "en_trans": "",
+    "zh_trans": "你把所有的房子的火都扑灭了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Door Open 5 SEC! go back!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在 5 秒后打开！撤退！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,40 +596,40 @@
   {
     "original": "Door Open ! RUN!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门开了！快跑！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Elevator Leave !!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯离开了！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "go next defend area !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "前往下一个防御区域！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The barrier will open in 25 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "屏障将在 25 秒后打开。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,34 +640,34 @@
   {
     "original": ">>> short way open!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 捷径已开启！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "OH NO, ZOMBIE DETECTED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "哦不，检测到僵尸了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "MISSION FAIL !!!!###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "任务失败 !!!!###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
