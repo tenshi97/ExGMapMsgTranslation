@@ -479,9 +479,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>水旋涡,对范围内僵尸造成持续减速冷却80秒<<",
@@ -497,12 +497,12 @@
   {
     "original": ">>前方区域30秒后可通行<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>前方区域30秒后可通行<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
