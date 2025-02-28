@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Someone left a message for me. >",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Hmm...A new version,from M.K. >",
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Let me have a look... >",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Hi,I'm Mita! >",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: What's your name? >",
@@ -96,18 +96,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Nice to meet you,Player! >",
     "en_trans": "",
-    "zh_trans": "< 米塔: 很高兴认识你们! >",
+    "zh_trans": "< 米塔: 新玩家，很高兴认识你们! >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< ...Where am I? >",
@@ -118,7 +118,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< This place looks familiar. >",
@@ -129,7 +129,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Wait...I'm in the game? >",
@@ -140,7 +140,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< And..Everything looks huge.. >",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< No,It's me turn smaller,that's not good.. >",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 25 >",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< ...Mita? What just happen on me. >",
@@ -195,18 +195,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: It's Crazy Mita done this.. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔: 这都是疯狂米塔干的.. >",
+    "zh_trans": "< 善良米塔: 这些都是疯狂米塔的杰作.. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: She turn you into this size,Just make sure you can't escape the game. >",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: But don't worry,I still got a way to help you. >",
@@ -228,18 +228,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: I could modify or move some Models in the game to creat a way for you. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔: 我可以修改或移动游戏中的一些模型，为你创造一条路. >",
+    "zh_trans": "< 善良米塔: 我可以修改或者移动游戏中的一些模型，为你创造一条路. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 20 >",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: But you need to find 3 battery,Crazy Mita separate them in the house. >",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Yes!I placed a Icon on the battery,Go get it. >",
@@ -283,7 +283,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: I could help you to clear the way,But it take some time. >",
@@ -294,7 +294,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: That..That's not my panties,Don't ask!>.<. >",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 15 >",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Now get to the bedroom and insert it. >",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: I'll drag that schoolbag closer,You have to jump on it. >",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Give me a sec... >",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Get on the plane,I will try to start it up. >",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Once you near the door handle,Jump on it then bedroom door will open!. >",
@@ -382,7 +382,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Come on,Ready to take off! >",
@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Prepare to jump! >",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Zombie push disabled! <",
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: You did it! >",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Get on that bench,Let's go for next battery. >",
@@ -437,7 +437,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 10 >",
@@ -470,7 +470,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: I sort of rushed off earlier, and now this place is a mess... >",
@@ -481,7 +481,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Could you help me tidy up a bit? >",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> You have 60 sec to finish 3 task! <",
@@ -514,7 +514,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Thank you so much! >",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Hey, I lost my hairbrush… >",
@@ -536,18 +536,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Could you help me find it? >",
     "en_trans": "",
-    "zh_trans": "<米塔: 你能帮我找到他吗? >",
+    "zh_trans": "< 米塔: 你能帮我找到他吗?  >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Try checking the bedside table first—I think I left it there. >",
@@ -558,7 +558,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Just don't look in the oven, okay? >",
@@ -569,7 +569,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: I already checked there. >",
@@ -580,7 +580,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Hey! I told you not to look in there! >",
@@ -591,7 +591,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: You found it! Nice work! >",
@@ -602,7 +602,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita: Turn around—I'll clean this up! >",
@@ -613,7 +613,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Now its the final task..Clear the zombies! <",
@@ -624,7 +624,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Zombie Cage open! <",
@@ -635,7 +635,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> You still got chance if finish the task! <",
@@ -646,7 +646,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> A player found Massager? <",
@@ -695,7 +695,7 @@
   {
     "original": "> Press E to shot beam hurt zombies,Hit 10 time will charge the pistol. <",
     "en_trans": "",
-    "zh_trans": "> 按E射击光束伤害僵尸，击中10次后将为手枪充电 <",
+    "zh_trans": "> 按E射击光束伤害僵尸，击中10次后再次使用会向前创造一小片火场 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": "> Charged shot create blaze area to slow zombie down. <",
     "en_trans": "",
-    "zh_trans": "> 带电射击创造了一片火焰区域以减缓僵尸的速度 <",
+    "zh_trans": "> 射线枪创造了一片火焰区域以减缓僵尸的速度 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -756,7 +756,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Boss area seal up in 5 sec. <",
@@ -778,7 +778,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: I will break that shampoo,Get on those bubble to fly up! >",
@@ -789,7 +789,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Seems like you have to open that vent. >",
@@ -800,7 +800,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Shot the screw to open it,We need to hide for a while. >",
@@ -811,7 +811,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Admin select Stage 2! <",
@@ -959,7 +959,7 @@
   {
     "original": "> Press E smash zombies to make them slow down. <",
     "en_trans": "",
-    "zh_trans": "> 按E使用减速被砸到的僵尸 <",
+    "zh_trans": "> 按E使用，减速被砸到的僵尸 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -970,18 +970,18 @@
   {
     "original": ">> Stage 2 Clear!!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 第二关已完成! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "> You need to clear all zombies. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 你得把所有进来的僵尸都做掉才能结算哦 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -992,95 +992,95 @@
   {
     "original": ">> Stage 3 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 第三关 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "< Kind Mita: Last battery is in the kitchen,But seems like that door is locked from here... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：最后一块电池在厨房里，但看起来那扇门是被锁着的... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: But don't worry,There's a tv in here and kitchen.>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：别担心，这里和厨房都有电视. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: You could get into tv game and out from the kitchen tv.>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；你可以进入电视游戏，然后从厨房的电视里出来. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Go on the table,Cappie will help you with the games.>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：现在去桌子上，帽子（米塔）会帮你完成游戏的. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Cool Mita: Anywho...>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 帽子米塔：不管你是谁... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Cool Mita: Let's go—— >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 帽子米塔：一起冲鸭☆ ( ・∀・)/ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Cool Mita: Have some fun! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 帽子米塔：尽情享受吧! >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Zombie teleport in 10 sec. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸将在10秒后传送 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1091,29 +1091,29 @@
   {
     "original": "< Cool Mita: It's simple,Just go collect the snowball. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 帽子米塔；这个游戏很简单，你只需要去收集雪球.  >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Cool Mita: The most snowball team at scene 2,Scene 3's difficulty will be easy for that team. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 帽子米塔；在第二个场景中收集雪球最多的队伍，第三个场景的难度对这个队伍来说会更容易. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Survive for 25 sec.<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 生存25秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,7 +1124,7 @@
   {
     "original": "> Survive for 30 sec.<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 生存30秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,29 +1135,29 @@
   {
     "original": "> Human has most of snowball! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 人类的收集的雪球更多! <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Final defend will be easy for human. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 最后的守点会更简单 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Zombie teleport in 7 sec. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸将在7秒后传送 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1168,7 +1168,7 @@
   {
     "original": "< A random object will clear... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 随机目标将被清除 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,117 +1179,117 @@
   {
     "original": "< Kind Mita: That fan is still spining.. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：那个风扇还在吹风  >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: You need to push something to block the wind. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；你需要推一些东西来挡风. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Good job,That fan is no longer working now. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；好样的，那个风扇不会影响我们了.  >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Almost there... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；就快到了... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Shot that switch,You need water to get up there. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；对水龙头开关开枪，你需要水去游到对岸. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Yes,That's the last battery! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；那就是最后一块电池! >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Now we just need to go back—— >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：现在我们只需要回去--->",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: ?!! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔: ?!! >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: That is Crazy Mita's mannequin! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：那是疯狂米塔的人体模型！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: But how..how is those mannequin get in this version! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔；但是...这些人体模型是怎么进入到这个版本的！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Damn it,Poor Cappie,She must already got killed by her... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：该死，可怜的帽子（米塔），她肯定已经被它杀死了...>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1300,84 +1300,84 @@
   {
     "original": "< Kind Mita: Seems like it didn't find you yet. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：看起来它好像还没找到你. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Go,Jump on the plane,You have to bring the battery to the portal. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：走吧，跳到飞机上面，你需要把电池带到传送门. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: It's the only way to save you. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：这是唯一能让你活下去的办法. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: I will meet you at the right version. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：我会在正确的版本和你回合. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Stay alive for me,Player! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 善良米塔：为了我，你一定要活下去！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Climb up the table and insert last battery! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 派一个人爬上桌子去安装最后一块电池！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< It's it... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 就是这样... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Portal start up in 20 sec. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 传送器将在20秒后启动. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1388,62 +1388,62 @@
   {
     "original": "< Crazy Mita: Do you like what you see now Player,The gift i prepared for you. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔：你喜欢你现在看到的吗？这是我为你准备的礼物！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: This is what they deserved,To getting you away from me. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<疯狂米塔：她们让你离开我，这是她们应得的. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: You just can't see how much i love you? >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；你就是看不出来我有多爱你？>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: Everything i did for you,And you just destroy them with those other.. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；我为你所做的一切，而你却把她们和其他人一起毁掉了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: ..Dirty,Annoying,Pathetic Mitas. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；..肮脏、烦人、可怜的米塔们. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Zombie seal enable in 3 sec <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸将在3秒后传送 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1454,106 +1454,106 @@
   {
     "original": "< Crazy Mita: I see.. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；让我看看 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: All player are the same,Blind heart. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；所有玩家都是一样的，内心没有任何感情. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: So,Let me show you my love. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔：那么，让我向你表达我的爱 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: One last time. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔：最后一次... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Mita! No! You're insane! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 米塔！不！你疯了！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: Ha-ha!WHAT'S THIS? >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；哈哈！这是什么？ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: Is that a new expression I see? >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；这是我看到的新表情吗？ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: Go on, let me see more!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；继续，让我看到更多！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Crazy Mita: Watching the same old face gets so boring!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 疯狂米塔；看着同一张老脸简直无聊！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Final 20 sec. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 最后坚持20秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1564,18 +1564,18 @@
   {
     "original": "> Stage 3 clear! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 第三关已完成! <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": ">> ZM Mode. <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> zm模式 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1586,7 +1586,7 @@
   {
     "original": ">> Thank for your playing,Hope you all enjoy the map! XD <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 感谢你的游玩，希望你能喜欢这个地图！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
