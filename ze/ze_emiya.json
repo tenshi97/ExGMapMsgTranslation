@@ -519,18 +519,18 @@
   {
     "original": ">>僵尸将于30秒后传送<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸将于30秒后传送<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>20<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>20<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,45 +541,45 @@
   {
     "original": ">>传送将于50秒后启用<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>传送将于50秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 50,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>僵尸传送将于15秒后生效<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸传送将于15秒后生效<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>这投射进来的光线或许是我们出去的关键<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>这投射进来的光线或许是我们出去的关键<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>集体传送将于20秒后启用,不要放他们出来!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>集体传送将于20秒后启用,不要放他们出来!<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
