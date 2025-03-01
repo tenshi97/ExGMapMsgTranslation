@@ -5,8 +5,10 @@
     "zh_trans": "**还有 20 秒岩石会被清理** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Debug successful mass healing word**",
@@ -14,8 +16,10 @@
     "zh_trans": "**调试成功 群体治疗咒语**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Debug successful spirit guardians**",
@@ -23,8 +27,10 @@
     "zh_trans": "**调试成功 灵魂守护者**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend for 25 seconds**",
@@ -32,8 +38,10 @@
     "zh_trans": "**防守 25 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Door opens in 25 seconds**",
@@ -41,8 +49,10 @@
     "zh_trans": "**门将在 25 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Debug successful wall of fire**",
@@ -50,8 +60,10 @@
     "zh_trans": "**调试成功 火焰之墙**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**AFK teleport in 5 seconds**",
@@ -59,8 +71,10 @@
     "zh_trans": "**挂机玩家将在 5 秒后传送** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Debug successful arms of hadar**",
@@ -68,8 +82,10 @@
     "zh_trans": "**调试成功 哈达尔之臂**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Debug successful expeditious retreat**",
@@ -77,8 +93,10 @@
     "zh_trans": "**调试成功 脚底抹油**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**40 seconds until rocks are cleared**",
@@ -86,8 +104,10 @@
     "zh_trans": "**还有 40 秒岩石将被清理完毕** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Debug successful fireball**",
@@ -95,8 +115,10 @@
     "zh_trans": "**调试成功 火球术**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Door will open in 25 seconds**",
@@ -104,8 +126,10 @@
     "zh_trans": "**门将会在 25 秒后打开** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**AFK Teleport in 25 seconds**",
@@ -113,8 +137,10 @@
     "zh_trans": "**挂机玩家将在 25 秒后传送** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A lever has been pulled**",
@@ -122,6 +148,7 @@
     "zh_trans": "**一个控制杆已被拉动**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -132,8 +159,10 @@
     "zh_trans": "**防御 40 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The Hydra is approaching**",
@@ -141,6 +170,7 @@
     "zh_trans": "**海德拉正在逼近**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -151,6 +181,7 @@
     "zh_trans": "**现在进入竞技场！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -161,6 +192,7 @@
     "zh_trans": "**海德拉破坏大地**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -171,6 +203,7 @@
     "zh_trans": "**海德拉潜伏在地表之下**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -181,6 +214,7 @@
     "zh_trans": "**海德拉喷出酸液**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -191,6 +225,7 @@
     "zh_trans": "**海德拉呼出酸性烟雾**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -201,6 +236,7 @@
     "zh_trans": "**海德拉发出震耳欲聋的尖叫**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -211,6 +247,7 @@
     "zh_trans": "**海德拉使大地震动**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -221,6 +258,7 @@
     "zh_trans": "**海德拉对你使用酸液冲击**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -231,6 +269,7 @@
     "zh_trans": "**海德拉失去了它右侧的脑袋**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -241,6 +280,7 @@
     "zh_trans": "**海德拉失去了它左侧的脑袋**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -251,6 +291,7 @@
     "zh_trans": "**海德拉处于易伤状态**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -261,6 +302,7 @@
     "zh_trans": "**海德拉已被打败** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -271,6 +313,7 @@
     "zh_trans": "**撤回到表面**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -281,8 +324,10 @@
     "zh_trans": "**还有 15 秒岩石就被清理掉了** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Lift raises in 30 seconds**",
@@ -290,8 +335,10 @@
     "zh_trans": "**升降机将在 30 秒后上升** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Quest successful**",
@@ -299,6 +346,7 @@
     "zh_trans": "**任务完成**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -309,6 +357,7 @@
     "zh_trans": "**全图通关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -319,6 +368,7 @@
     "zh_trans": "**感谢游玩**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -329,8 +379,10 @@
     "zh_trans": "**4 秒后引爆核弹** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**The Hydra rejuvenates**",
@@ -338,6 +390,7 @@
     "zh_trans": "**海德拉恢复了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -348,6 +401,7 @@
     "zh_trans": "**必须尽快打败海德拉，不然我们将葬身于此**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -358,8 +412,42 @@
     "zh_trans": "**海德拉正在让洞穴坍塌**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "<<当前版本号码为004>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<BUG反馈请前往Dc频道>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<discord.gg/eXR7xumCfP>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
