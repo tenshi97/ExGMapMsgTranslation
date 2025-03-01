@@ -146,11 +146,12 @@
   {
     "original": ">>>Lambda-shuttle departing in 15 seconds<<<",
     "en_trans": "",
-    "zh_trans": ">>>Lambda-shuttle飞船15秒后起飞（这玩意10秒后就关上门了，注意时间！）<<<",
+    "zh_trans": ">>>Lambda-shuttle飞船15秒后起飞（这玩意5秒后就开始关门了，注意时间！）<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 10,
-    "enable_timer": 1
+    "timer_num": 15,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>!3!<<<",
@@ -186,7 +187,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>Right-Lock closing in 10 seconds<<<",
