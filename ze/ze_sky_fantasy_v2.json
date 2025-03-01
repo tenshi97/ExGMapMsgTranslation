@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- 终极将在10秒后爆炸 --",
@@ -519,13 +519,13 @@
   {
     "original": "--- Its a SOLO WIN !!! ---",
     "en_trans": "",
-    "zh_trans": "--- 获胜者选择了SOLO WIN!!! ---",
+    "zh_trans": "--- 跳刀大神选择了solo! ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Admin select HARD Mode ---",
@@ -544,10 +544,10 @@
     "zh_trans": "--- 来历不明的风（随机推力） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_alert",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Creation Shield ---",
@@ -555,10 +555,10 @@
     "zh_trans": "--- 创世之盾（停枪） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_no",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Rotating Blade ---",
@@ -566,10 +566,10 @@
     "zh_trans": "--- 旋转刀（抬头躲刀） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_arrow_up",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Pure Fury ---",
@@ -577,10 +577,10 @@
     "zh_trans": "--- 纯粹之怒（尸笼） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_alert",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Zombie ESCAPE!!! >>",
@@ -600,9 +600,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Flash Cannon ---",
@@ -610,10 +610,10 @@
     "zh_trans": "--- 轨道炮（不能钻缝） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_caution",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Sinister Omen ---",
@@ -621,10 +621,10 @@
     "zh_trans": "--- 阴险预兆 (站边缘) ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Aurora Veil ---",
@@ -632,10 +632,10 @@
     "zh_trans": "--- 极光幕（躲四周光幕） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Fallen Star ---",
@@ -643,21 +643,21 @@
     "zh_trans": "--- 星辰陨落（抬头） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_arrow_up",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Earth Power ---",
     "en_trans": "",
-    "zh_trans": "--- 大地之力（去上升平台） ---",
+    "zh_trans": "--- 大地之力（去找上升平台） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Pressure ---",
@@ -665,10 +665,10 @@
     "zh_trans": "--- 压力（蹲蹲蹲蹲蹲） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_key_down",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "--- Purple Core Recover 500 HP ---",
@@ -684,11 +684,11 @@
   {
     "original": "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---",
     "en_trans": "",
-    "zh_trans": "--- boss正在使用大火!!! 使用水或治疗来抵消伤害!!! ---",
+    "zh_trans": "--- boss正在使用大火! 使用水或治疗来抵消伤害!---7s ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
+    "icon_name": "icon_fire",
+    "timer_num": 7,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -706,13 +706,13 @@
   {
     "original": "--- Do not trust the black laser!!! ---",
     "en_trans": "",
-    "zh_trans": "--- 不要相信黑色刀!!（黄刀要躲黑刀要接） ---",
+    "zh_trans": "--- 不要相信黑色刀!（黄刀要躲黑刀要接） ---",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_caution",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< STAGE Fail...... >>",
@@ -728,12 +728,12 @@
   {
     "original": "--- Its a TEAM WIN !!! ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 跳刀大神选择了team win! ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
