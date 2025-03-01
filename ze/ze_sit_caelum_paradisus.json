@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> MAP BY SATOKA<<<",
@@ -14,8 +16,10 @@
     "zh_trans": ">>> 地图由 SATOKA 制作<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> CS2 Ported by Tenshi.<<<",
@@ -23,8 +27,10 @@
     "zh_trans": ">>> 移植 by Tenshi.<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM <<",
@@ -32,8 +38,10 @@
     "zh_trans": ">> 前往大厅中心以进入神器房 << ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TRY TO USE THEM <<",
@@ -41,8 +49,10 @@
     "zh_trans": ">> 尝试使用它们 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ROUTE ONE <<",
@@ -50,8 +60,10 @@
     "zh_trans": ">> 路线一 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TAKE FRONT-LEFT DOOR <<",
@@ -59,8 +71,10 @@
     "zh_trans": ">> 走左前门 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> IGNIS AXE HAS BEEN PICKED UP <<",
@@ -68,8 +82,10 @@
     "zh_trans": ">> 炎之斧 已被拾取 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TERRA AXE HAS BEEN PICKED UP <<",
@@ -77,8 +93,10 @@
     "zh_trans": ">> 大地之斧 已被拾取 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> SANATIO STAFF HAS BEEN PICKED UP <<",
@@ -86,8 +104,10 @@
     "zh_trans": ">> 治愈法杖 已被拾取 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> VENTUS STAFF HAS BEEN PICKED UP <<",
@@ -95,8 +115,10 @@
     "zh_trans": ">> 风之法杖 已被拾取 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A zombie has picked up Ice<<",
@@ -104,8 +126,10 @@
     "zh_trans": ">>僵尸已拾取 冰<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR BREAKING IN 20 SECS<<<",
@@ -113,8 +137,10 @@
     "zh_trans": ">>>门在 20 秒后被破坏<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>HOLD<<<",
@@ -122,8 +148,10 @@
     "zh_trans": ">>>守住<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A zombie has picked up Gravity<<",
@@ -131,8 +159,10 @@
     "zh_trans": ">>僵尸已拾取 黑洞<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR BREAKING IN 25 SECS<<<",
@@ -140,8 +170,10 @@
     "zh_trans": ">>>门在 25 秒后被破坏<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>HHOOLLDD<<<",
@@ -149,8 +181,10 @@
     "zh_trans": ">>>坚持住<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>HOLDDDD<<<",
@@ -158,8 +192,10 @@
     "zh_trans": ">>>坚持！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR BREAKING IN 30 SECS<<<",
@@ -167,8 +203,10 @@
     "zh_trans": ">>>门在 30 秒后被破坏<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR BREAKING IN 15 SECS<<<",
@@ -176,8 +214,10 @@
     "zh_trans": ">>>门在 15 秒后被破坏<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR OPENING 20 SECS<<<",
@@ -185,8 +225,10 @@
     "zh_trans": ">>>门将在 20 秒后打开<<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR OPENING IN 35 SECS<<<",
@@ -194,8 +236,10 @@
     "zh_trans": ">>>门将在 35 秒后开启<<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>LAST HOLD 18 SECS<<<",
@@ -203,8 +247,10 @@
     "zh_trans": ">>>最后再守 18 秒<<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 18,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> WE SECURED ROUTE ONE <<",
@@ -212,8 +258,10 @@
     "zh_trans": ">>我们确保了一号路线的安全<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>LETS GO TO ROUTE TWO<<<",
@@ -221,8 +269,10 @@
     "zh_trans": ">>>让我们出发去二号路线吧<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>A zombie has picked up Fire<<",
@@ -230,8 +280,10 @@
     "zh_trans": ">>僵尸已拾取 火<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>ZOMBIES GET IN<<<",
@@ -239,8 +291,10 @@
     "zh_trans": ">>>僵尸进来了<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>YOU FAILED<<<",
@@ -248,8 +302,10 @@
     "zh_trans": ">>>你输了<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> ROUTE TWO <<",
@@ -257,8 +313,10 @@
     "zh_trans": ">> 线路二 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> TAKE FRONT-RIGHT DOOR <<",
@@ -266,8 +324,10 @@
     "zh_trans": ">> 走右前门 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>DOOR OPENING IN 20 SECS<<<",
@@ -275,8 +335,10 @@
     "zh_trans": ">>>门将在 20 秒后开启<<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<",
@@ -284,8 +346,10 @@
     "zh_trans": ">>>我们必须找到并按下三个隐藏按钮<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>TO HET OUT THIS LIBRARY<<<",
@@ -293,8 +357,10 @@
     "zh_trans": ">>>离开这个图书馆<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>GOOD JOB!<<<",
@@ -302,8 +368,10 @@
     "zh_trans": ">>>干得漂亮!<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>NOW TIME TO HOLD<<<",
@@ -311,7 +379,20 @@
     "zh_trans": ">>>现在是守点时间<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": ">>>DOOR BREAKING IN 45 SECS<<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 45,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
