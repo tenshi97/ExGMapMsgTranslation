@@ -42,7 +42,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**The Heavens Legend**",
@@ -51,7 +52,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**EndRound**",
@@ -60,7 +62,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**The door will close in 10 seconds**",
@@ -87,7 +90,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Waiting 14 seconds**",
@@ -105,61 +109,68 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Visualizer <",
     "en_trans": "",
-    "zh_trans": "> Visualizer <",
+    "zh_trans": "> 监视者(Visualizer) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Hydroponic Garden <",
     "en_trans": "",
-    "zh_trans": "> 水培花园 <",
+    "zh_trans": "> 水培花园(Hydroponic Garden) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Deadcore <",
     "en_trans": "",
-    "zh_trans": "> 死亡核心 <",
+    "zh_trans": "> 死亡核心(Deadcore) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> No Name <",
     "en_trans": "",
-    "zh_trans": "> 无名 <",
+    "zh_trans": "> 无名(No Name) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Mgden <",
     "en_trans": "",
-    "zh_trans": "> Mgden <",
+    "zh_trans": "> 电路世界(Mgden) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Cyberspace <",
     "en_trans": "",
-    "zh_trans": "> 赛博空间 <",
+    "zh_trans": "> 赛博空间(Cyberspace) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**So how many did you pass**",
@@ -168,7 +179,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**But......Pass the final one, good luck!!!**",
@@ -177,16 +189,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> To the Milky Way <",
     "en_trans": "",
-    "zh_trans": "> To the Milky Way <",
+    "zh_trans": "> 银河之路 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: 一笑江湖 - 兰音Reine <",
@@ -249,7 +263,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: 始まりの星 - 出口陽 <",
@@ -290,47 +305,52 @@
   {
     "original": "> Mist <",
     "en_trans": "",
-    "zh_trans": "> Mist <",
+    "zh_trans": "> 雾城龙影(Mist) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Minimal <",
     "en_trans": "",
-    "zh_trans": "> Minimal <",
+    "zh_trans": "> 极病(Minimal) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Realm <",
     "en_trans": "",
-    "zh_trans": "> 领域 <",
+    "zh_trans": "> 意境(Realm) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Arcana Heart <",
     "en_trans": "",
-    "zh_trans": "> 阿卡纳之心 <",
+    "zh_trans": "> 阿卡纳之心(Arcana Heart) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Xenovation <",
     "en_trans": "",
-    "zh_trans": "> Xenovation <",
+    "zh_trans": "> 异界终章(Xenovation) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Flower < Special >",
@@ -339,7 +359,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**You have passed all**",
@@ -348,7 +369,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**You are the initial legend!!!**",
@@ -357,7 +379,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**The Perfect Legend**",
@@ -366,7 +389,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Random 9 from all**",
@@ -375,16 +399,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Offliner <",
     "en_trans": "",
-    "zh_trans": "> Offliner <",
+    "zh_trans": "> 單丶機者(Offliner) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: Listen Up - 3L <",
@@ -392,8 +418,8 @@
     "zh_trans": ">音乐：Listen Up - 3L<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "> Music: Avid - SawanoHiroyuki[nZk] / 瑞葵(mizuki) <",
@@ -411,7 +437,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: ラグトレイン - 稲葉曇 / 歌愛ユキ <",
@@ -479,11 +506,12 @@
   {
     "original": "> Aware <",
     "en_trans": "",
-    "zh_trans": "> Aware <",
+    "zh_trans": "> 无限回廊先知圣地(Aware) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: Hidden Heart - HOYO-MiX / Hanser <",
@@ -506,11 +534,12 @@
   {
     "original": "> Neochrome <",
     "en_trans": "",
-    "zh_trans": "> Neochrome <",
+    "zh_trans": "> 霓铬(Neochrome) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: wavy flow - Aimer <",
@@ -524,11 +553,12 @@
   {
     "original": "> Luciddream <",
     "en_trans": "",
-    "zh_trans": "> 清醒梦 <",
+    "zh_trans": "> 清醒梦(Luciddream) <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Music: 永遠の花が降る - 左右田左 <",
@@ -582,7 +612,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**SuperRun**",
@@ -591,7 +622,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 5 <<",
@@ -681,7 +713,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Waiting 15 seconds**",
