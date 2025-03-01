@@ -5,8 +5,10 @@
     "zh_trans": "-- 第一关 - 简单难度 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- 15 --",
@@ -14,8 +16,10 @@
     "zh_trans": "-- 15 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- ze_sky_fantasy_v2 ---",
@@ -23,8 +27,10 @@
     "zh_trans": "--- ze_sky_fantasy_v2 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Map by Misaka ---",
@@ -32,8 +38,10 @@
     "zh_trans": "--- 地图作者；Misaka ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Rework by K.KID ---",
@@ -41,8 +49,10 @@
     "zh_trans": "--- 由 K.KID 进行重置 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up ice magic >>",
@@ -50,8 +60,10 @@
     "zh_trans": "<< 一名僵尸拾取了冰 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up earth magic >>",
@@ -59,8 +71,10 @@
     "zh_trans": "<< 一位玩家拾取了土 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- 20 --",
@@ -68,8 +82,10 @@
     "zh_trans": "-- 20 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up heal magic >>",
@@ -77,8 +93,10 @@
     "zh_trans": "<< 一位玩家拾取了奶 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up electro magic >>",
@@ -86,8 +104,10 @@
     "zh_trans": "<< 一位玩家拾取了电 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--25 --",
@@ -95,8 +115,10 @@
     "zh_trans": "--25 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-- 25 --",
@@ -104,8 +126,10 @@
     "zh_trans": "-- 25 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-- 10 --",
@@ -113,8 +137,10 @@
     "zh_trans": "-- 10 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-- 85 --",
@@ -122,8 +148,10 @@
     "zh_trans": "-- 85 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 85,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-- 33 --",
@@ -131,8 +159,10 @@
     "zh_trans": "-- 33 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 33,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up fantasy crystal >>",
@@ -140,8 +170,10 @@
     "zh_trans": "<< 一位玩家拾取了幻想水晶（复制） >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up wind magic >>",
@@ -149,8 +181,10 @@
     "zh_trans": "<< 一位玩家拾取了风 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up water magic >>",
@@ -158,8 +192,10 @@
     "zh_trans": "<< 一位玩家拾取了水 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up heal magic >>",
@@ -167,8 +203,10 @@
     "zh_trans": "<<一名僵尸拾取了奶>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< STAGE COMPLETE >>",
@@ -176,8 +214,10 @@
     "zh_trans": "<< 回合已完成 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- STAGE II - NORMAL MODE --",
@@ -185,8 +225,10 @@
     "zh_trans": "-- 第二关 - 普通难度 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- STAGE III - HARD MODE --",
@@ -194,8 +236,10 @@
     "zh_trans": "-- 第三关 - 困难难度 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up gravity magic >>",
@@ -203,8 +247,10 @@
     "zh_trans": "<< 一名僵尸拾取了黑洞 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< TESLA COMING >>",
@@ -212,8 +258,10 @@
     "zh_trans": "<< 一名僵尸成为了特斯拉 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- MISAKA is blocking our way!!! -",
@@ -221,8 +269,10 @@
     "zh_trans": "- 御坂挡住了我们的去路!!! -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A player has picked up holy magic >>",
@@ -230,8 +280,10 @@
     "zh_trans": "<< 一位玩家拾取了终极 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Tesla dead...... ---",
@@ -239,8 +291,10 @@
     "zh_trans": "--- 特斯拉已死亡...... ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- 50 --",
@@ -248,8 +302,10 @@
     "zh_trans": "-- 50 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-- STAGE IV - LUNATIC MODE --",
@@ -257,8 +313,10 @@
     "zh_trans": "-- 第四关 - 疯狂难度 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< A zombie has picked up nuke magic >>",
@@ -266,8 +324,10 @@
     "zh_trans": "<< 一名僵尸拾取了秒杀 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- 90 --",
@@ -275,8 +335,10 @@
     "zh_trans": "-- 90 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "STAGE V - NIGHTMARE MODE",
@@ -284,8 +346,10 @@
     "zh_trans": "第五关 - 梦魇难度",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- 30 --",
@@ -293,8 +357,10 @@
     "zh_trans": "-- 30 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-- 40 --",
@@ -302,8 +368,10 @@
     "zh_trans": "-- 40 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Prepare to face the real FANTASY ---",
@@ -311,8 +379,10 @@
     "zh_trans": "--- 准备面对真正的幻想吧 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- God --",
@@ -320,8 +390,10 @@
     "zh_trans": "-- 终极持有者当前处于免抓状态（但会吃秒） --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- 终极将在10秒后爆炸 --",
@@ -329,8 +401,10 @@
     "zh_trans": "-- 终极将在10秒后爆炸 --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Normal Ending ---",
@@ -338,8 +412,10 @@
     "zh_trans": "--- 普通结局 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Congratulations!!! ---",
@@ -347,8 +423,10 @@
     "zh_trans": "--- 祝贺你!!! ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- You are the King of the FANTASY ---",
@@ -356,8 +434,10 @@
     "zh_trans": "--- 您就是幻想之王 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Map by Misaka, Rework by K.KID ---",
@@ -365,8 +445,10 @@
     "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（补充；水木、） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-- STAGE EX - ZM --",
@@ -374,8 +456,10 @@
     "zh_trans": "-- 第六关 - ZM --",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Survive for 180 seconds ---",
@@ -383,8 +467,10 @@
     "zh_trans": "--- 生存180秒 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "pressed",
@@ -392,8 +478,10 @@
     "zh_trans": "已按下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- 5 seconds ---",
@@ -401,8 +489,10 @@
     "zh_trans": "--- 还有5秒 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- zombie can go in 7 seconds ---",
@@ -410,8 +500,10 @@
     "zh_trans": "--- 僵尸将在7秒后释放 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Round will fail if no one complete in 30 seconds ---",
@@ -419,8 +511,10 @@
     "zh_trans": "--- 如果30秒内没有人通关，回合将会失败 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Its a SOLO WIN !!! ---",
@@ -428,8 +522,10 @@
     "zh_trans": "--- 获胜者选择了SOLO WIN!!! ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Admin select HARD Mode ---",
@@ -437,8 +533,10 @@
     "zh_trans": "--- 管理员选择了第三关 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Ominous Wind ---",
@@ -446,8 +544,10 @@
     "zh_trans": "--- 来历不明的风（随机推力） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Creation Shield ---",
@@ -455,8 +555,10 @@
     "zh_trans": "--- 创世之盾（停枪） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Rotating Blade ---",
@@ -464,8 +566,10 @@
     "zh_trans": "--- 旋转刀（抬头躲刀） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Pure Fury ---",
@@ -473,8 +577,10 @@
     "zh_trans": "--- 纯粹之怒（尸笼） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Zombie ESCAPE!!! >>",
@@ -482,8 +588,10 @@
     "zh_trans": "<< 僵尸跟着跑出来了！！>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Rainbow Cage ---",
@@ -491,8 +599,10 @@
     "zh_trans": "--- 彩虹牢笼（两侧高低刀） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Flash Cannon ---",
@@ -500,8 +610,10 @@
     "zh_trans": "--- 轨道炮（不能钻缝） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Sinister Omen ---",
@@ -509,8 +621,10 @@
     "zh_trans": "--- 阴险预兆 (站边缘) ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Aurora Veil ---",
@@ -518,8 +632,10 @@
     "zh_trans": "--- 极光幕（躲四周光幕） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Fallen Star ---",
@@ -527,8 +643,10 @@
     "zh_trans": "--- 星辰陨落（抬头） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Earth Power ---",
@@ -536,8 +654,10 @@
     "zh_trans": "--- 大地之力（去上升平台） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Pressure ---",
@@ -545,8 +665,10 @@
     "zh_trans": "--- 压力（蹲蹲蹲蹲蹲） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Purple Core Recover 500 HP ---",
@@ -554,8 +676,10 @@
     "zh_trans": "--- 紫球恢复了 500 HP ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---",
@@ -563,8 +687,10 @@
     "zh_trans": "--- boss正在使用大火!!! 使用水或治疗来抵消伤害!!! ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--- Misaka Ending ---",
@@ -572,8 +698,10 @@
     "zh_trans": "--- 御坂结局 ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "--- Do not trust the black laser!!! ---",
@@ -581,8 +709,10 @@
     "zh_trans": "--- 不要相信黑色刀!!（黄刀要躲黑刀要接） ---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< STAGE Fail...... >>",
@@ -590,7 +720,20 @@
     "zh_trans": "<< 回合失败 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "--- Its a TEAM WIN !!! ---",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
