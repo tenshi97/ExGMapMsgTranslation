@@ -35,13 +35,13 @@
         {
           "original": "> 讨伐目标：保镖",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 讨伐目标：保镖",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 一名玩家获得了冰元素",
@@ -145,13 +145,13 @@
         {
           "original": "> 讨伐目标：罗波那",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 讨伐目标：罗波那",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 黑元素已被升级 !",
@@ -259,7 +259,7 @@
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
-          "timer_num": 35,
+          "timer_num": 30,
           "enable_timer": 1,
           "force_hint": 0
         },
@@ -299,46 +299,46 @@
         {
           "original": "> 你能看穿这个体势？！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 你能看穿这个体势？！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 这就是后发制人！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 这就是后发制人！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 攻势如火！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 攻势如火！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 起始于“序”！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 起始于“序”！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 火元素已被升级 !",
@@ -354,57 +354,57 @@
         {
           "original": "> 经流至“破”！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 经流至“破”！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 展翅飞舞！兵魂之蝶！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 展翅飞舞！兵魂之蝶！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 做好觉悟！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 做好觉悟！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 武学真髓！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 武学真髓！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "> 守势如土！",
           "en_trans": "",
-          "zh_trans": "",
+          "zh_trans": "> 守势如土！",
           "jp_trans": "",
           "kr_trans": "",
           "icon_name": "icon_tip",
           "timer_num": 0,
           "enable_timer": 0,
-          "force_hint": 0
+          "force_hint": 1
         },
         {
           "original": "第一个铁门将在127秒后升起",
