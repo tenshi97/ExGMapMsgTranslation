@@ -2,7 +2,7 @@
   {
     "original": ">> ZE_SIT_CAELUM_PARADISUS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> ZE_SIT_CAELUM_PARADISUS - 雕刻天堂 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> TAKE FRONT-LEFT DOOR <<",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> IGNIS AXE HAS BEEN PICKED UP <<",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>A zombie has picked up Gravity<<",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>HOLDDDD<<<",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>DOOR BREAKING IN 30 SECS<<<",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>LETS GO TO ROUTE TWO<<<",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>A zombie has picked up Fire<<",
@@ -294,7 +294,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>YOU FAILED<<<",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ROUTE TWO <<",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> TAKE FRONT-RIGHT DOOR <<",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>DOOR OPENING IN 20 SECS<<<",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>TO HET OUT THIS LIBRARY<<<",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>GOOD JOB!<<<",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>NOW TIME TO HOLD<<<",
@@ -382,12 +382,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>DOOR BREAKING IN 45 SECS<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>门将在 45 秒后被打破<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": ">>>DOOR BREAKING IN 50 SECS<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>门在 50 秒后被打破<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,67 +409,67 @@
   {
     "original": ">>>RUN RUN RUN! <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>跑跑跑！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>GUARDIAN OF THE RUIN AHEAD <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<前方遗迹守护者，准备跳刀（高.中.低刀）>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>EXTRA VENTUS ACTIVATED<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>烈风超载·启动<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>WELL DONE!<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>干得漂亮！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>THE GATE TO THE RUIN WILL OPEN SOON<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>通往遗迹的大门即将打开<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>DEFEND!!<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>守住!!<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
