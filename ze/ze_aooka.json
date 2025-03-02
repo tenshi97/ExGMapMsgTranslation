@@ -5,8 +5,10 @@
     "zh_trans": "龙之殿V3",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map by vueru",
@@ -14,8 +16,10 @@
     "zh_trans": "地图作者:vueru 翻译:Shooting stars",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Port by Hephasfos",
@@ -23,8 +27,10 @@
     "zh_trans": "移植作者:Hephasfos",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Thanks:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator",
@@ -32,8 +38,10 @@
     "zh_trans": "特别致谢:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "---ZE_Aooka---",
@@ -41,8 +49,10 @@
     "zh_trans": "---ZE_Aooka---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Start in 5 seconds>",
@@ -50,8 +60,10 @@
     "zh_trans": "5秒后开始游戏",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Stage I <",
@@ -59,8 +71,10 @@
     "zh_trans": "第一关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Hold here>",
@@ -68,8 +82,10 @@
     "zh_trans": "保持防守",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The gate will open in 35 seconds>",
@@ -77,8 +93,10 @@
     "zh_trans": "大门还有35秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Electric Magick **",
@@ -86,8 +104,10 @@
     "zh_trans": "一位玩家获得了电魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">Gate will open in 30 seconds<",
@@ -95,8 +115,10 @@
     "zh_trans": "大门还有30秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Present Magick **",
@@ -104,8 +126,10 @@
     "zh_trans": "一位玩家获得了净化魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gate will open in 20 seconds>",
@@ -113,8 +137,10 @@
     "zh_trans": "大门还有20秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Water Magick **",
@@ -122,8 +148,10 @@
     "zh_trans": "一位玩家获得了漩涡魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Heal Magick **",
@@ -131,8 +159,10 @@
     "zh_trans": "一个玩家获得了治疗魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Barrier is gone !!>",
@@ -140,8 +170,10 @@
     "zh_trans": "障碍物已被摧毁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The gate will open in 25 seconds>",
@@ -149,8 +181,10 @@
     "zh_trans": "大门还有25秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Gate will open in 30 seconds>",
@@ -158,8 +192,10 @@
     "zh_trans": "大门还有30秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<There seems to be a road under this slate...>",
@@ -167,8 +203,10 @@
     "zh_trans": "貌似有什么东西阻挡住了我们",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<5 seconds>",
@@ -176,8 +214,10 @@
     "zh_trans": "在等5秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Wait for 15 seconds>",
@@ -185,8 +225,10 @@
     "zh_trans": "还需要等待15秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Meat wakes up in 10 seconds>",
@@ -194,8 +236,10 @@
     "zh_trans": "BOOS还有10秒苏醒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Zombie Item is Disable>",
@@ -203,8 +247,10 @@
     "zh_trans": "僵尸神器已被禁用",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Waters >",
@@ -212,8 +258,10 @@
     "zh_trans": "< 涡旋 - 对boss按s >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Fire >",
@@ -221,8 +269,10 @@
     "zh_trans": "< 火焰 - 上两边栏杆 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Sand Dust >",
@@ -230,8 +280,10 @@
     "zh_trans": "< 沙尘 - 蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Space Cocoon >",
@@ -239,8 +291,10 @@
     "zh_trans": "< 空间传送 - 贴近boss但别贴死 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Zombie Item is Enable>",
@@ -248,8 +302,10 @@
     "zh_trans": "僵尸神器取消禁用了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The crystal is broken?>",
@@ -257,8 +313,10 @@
     "zh_trans": "这个水晶貌似碎了?",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The gate will open in 15 seconds>",
@@ -266,8 +324,10 @@
     "zh_trans": "大门还有15秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Defend until the gate is closed>",
@@ -275,8 +335,10 @@
     "zh_trans": "<防守到大门关闭>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<It's safe for the time being...>",
@@ -284,8 +346,10 @@
     "zh_trans": "现在貌似安全了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "ZE_Aooka3 Map by vueru",
@@ -293,8 +357,10 @@
     "zh_trans": "ZE_Aooka3 地图作者；vueru（boss技能补充；水木、）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Stage II <",
@@ -302,8 +368,10 @@
     "zh_trans": "第二关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The gate will open in 30 seconds",
@@ -311,8 +379,10 @@
     "zh_trans": "大门还有30秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Door will broken in 25 seconds>",
@@ -320,8 +390,10 @@
     "zh_trans": "大门还有25秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Wait for the water to rise>",
@@ -329,8 +401,10 @@
     "zh_trans": "在这里等待水面上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The water is rising>",
@@ -338,8 +412,10 @@
     "zh_trans": "水面正在上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Gold Magick **",
@@ -347,8 +423,10 @@
     "zh_trans": "一位玩家获得了金轮魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The door will broken in 10 seconds>",
@@ -356,8 +434,10 @@
     "zh_trans": "大门还有10秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Boot - Mire >",
@@ -365,8 +445,10 @@
     "zh_trans": "< 泥潭 - 上栏杆 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Boot - Poison >",
@@ -374,8 +456,10 @@
     "zh_trans": "< 毒 - 先去中间再去外圈 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Boot - Vortex >",
@@ -383,8 +467,10 @@
     "zh_trans": "< 涡旋 - 抵抗中间吸力（不要站对角线上抵抗） >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Boot - Snow >",
@@ -392,8 +478,10 @@
     "zh_trans": "< 雪环 - 远离特效 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Boot - Starfall >",
@@ -401,8 +489,10 @@
     "zh_trans": "< 星之落 - 先去外圈再去中间 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Activate teleport crystal after 15 seconds>",
@@ -410,8 +500,10 @@
     "zh_trans": "贴近水晶还有15秒传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Stage III <",
@@ -419,8 +511,10 @@
     "zh_trans": "第三关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Fire Magick **",
@@ -428,8 +522,10 @@
     "zh_trans": "一位玩家获得了火魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<The gate will open in 30 seconds>",
@@ -437,8 +533,10 @@
     "zh_trans": "大门还有30秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Wind Magick **",
@@ -446,8 +544,10 @@
     "zh_trans": "一位玩家获得了风魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gate will open in 35 seconds>",
@@ -455,8 +555,10 @@
     "zh_trans": "大门还有35秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Gate will open in 25 seconds>",
@@ -464,8 +566,10 @@
     "zh_trans": "大门还有25秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<The wall will broken in 20 seconds>",
@@ -473,8 +577,10 @@
     "zh_trans": "大门还有20秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Gate will open in 10 seconds>",
@@ -482,8 +588,10 @@
     "zh_trans": "大门还有10秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Soul - Nibble Away Up >",
@@ -491,8 +599,10 @@
     "zh_trans": "BOSS即将苏醒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">* 10 seconds *<",
@@ -500,8 +610,10 @@
     "zh_trans": "10秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Enter the Gold range to avoid damage >",
@@ -509,8 +621,10 @@
     "zh_trans": "< 站在“金轮”的范围内以规避伤害---10 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Dark Light >",
@@ -518,8 +632,10 @@
     "zh_trans": "< 黑暗之光 - 先远离光圈，等周围出现黑色特效之后再进入光圈躲避 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Twins >",
@@ -527,8 +643,10 @@
     "zh_trans": "< 双生 - 前后躲避特效 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Gemini >",
@@ -536,8 +654,10 @@
     "zh_trans": "双星",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Lock Star >",
@@ -545,8 +665,10 @@
     "zh_trans": "< 星锁 - 停枪，提前去场地中间 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Solution Star >",
@@ -554,8 +676,10 @@
     "zh_trans": "< 星解 - 去中间规避伤害 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Death Star >",
@@ -563,8 +687,10 @@
     "zh_trans": "< 死亡之星 - 远离中间 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Ask Spirit >",
@@ -572,8 +698,10 @@
     "zh_trans": "< 灵魂汲取 - boss回血，提前蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Soul - Electric >",
@@ -581,8 +709,10 @@
     "zh_trans": "< 电球 - 远离电球正面 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Heavenly Sin >",
@@ -590,8 +720,10 @@
     "zh_trans": "< 天罪 - 蹲下 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Time Cocoon >",
@@ -599,8 +731,10 @@
     "zh_trans": "< 时间之茧 - 从左上角开始按顺时针依次移动躲避四次伤害 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Spider - Sand Wind >",
@@ -608,8 +742,10 @@
     "zh_trans": "< 沙暴 - 按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Soul - Rise Nibble Away Up >",
@@ -617,8 +753,10 @@
     "zh_trans": "< 加速蚕食 - 再次进入“金轮”的范围规避秒杀---5s >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">* 5 seconds *<",
@@ -626,8 +764,10 @@
     "zh_trans": "5秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Stage IV <",
@@ -635,8 +775,10 @@
     "zh_trans": "第四关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gate will open in 15 seconds>",
@@ -644,8 +786,10 @@
     "zh_trans": "大门还有15秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Door will open in 20 seconds>",
@@ -653,8 +797,10 @@
     "zh_trans": "大门还有20秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Door will broken in 20 seconds>",
@@ -662,8 +808,10 @@
     "zh_trans": "大门还有20秒打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Hole here>",
@@ -671,8 +819,10 @@
     "zh_trans": "保持防守",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Fire of Shield >",
@@ -680,8 +830,10 @@
     "zh_trans": "< 火焰护盾 - 停枪并随机出现半场火场 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Holy >",
@@ -689,8 +841,10 @@
     "zh_trans": "< 神圣-贴紧两边尸笼 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Gravity >",
@@ -698,8 +852,10 @@
     "zh_trans": "< 重力 - 抵抗吸力 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Thunder >",
@@ -707,8 +863,10 @@
     "zh_trans": "< 雷霆 - 去没有电球和特效的区域 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Fire of Cure >",
@@ -716,8 +874,10 @@
     "zh_trans": "< 火焰治疗 - 随机出现半场火场 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Wind >",
@@ -725,8 +885,10 @@
     "zh_trans": "< 飓风 - 对门口按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Port by Hephasfos Support by BiliBili ELaiNa娜娜桑",
@@ -734,8 +896,10 @@
     "zh_trans": "移植作者Hephasfos 感谢 BiliBili ElaiNa娜娜桑赞助",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< A zombie has acquired Shackles Magick >",
@@ -743,8 +907,10 @@
     "zh_trans": "僵尸获得了束缚魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< A zombie has acquired Rise Magick >",
@@ -752,8 +918,10 @@
     "zh_trans": "僵尸获得了加速魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< A zombie has acquired Lure Magick >",
@@ -761,8 +929,10 @@
     "zh_trans": "僵尸获得了黑洞魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< A zombie has acquired Shield Magick >",
@@ -770,8 +940,10 @@
     "zh_trans": "僵尸获得了盾魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< A zombie has acquired End Magick >",
@@ -779,8 +951,10 @@
     "zh_trans": "僵尸获得了终结魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** A player has acquired Ice Magick **",
@@ -788,8 +962,10 @@
     "zh_trans": "一位玩家获得了冰魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< A zombie has acquired IceFire Magick >",
@@ -797,8 +973,10 @@
     "zh_trans": "僵尸获得了冰火魔法",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Ice Blade >",
@@ -806,8 +984,10 @@
     "zh_trans": "< 冰刃 - 躲避特效 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Boot - Repair >",
@@ -815,8 +995,10 @@
     "zh_trans": "< 自我修复 - 停枪 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<Zombies are coming in!>",
@@ -824,8 +1006,10 @@
     "zh_trans": "<僵尸进来了，本回合失败>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Izzo! >",
@@ -833,8 +1017,10 @@
     "zh_trans": "Izzo",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "* Stage II *",
@@ -842,8 +1028,10 @@
     "zh_trans": "第二关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Kohh has been disabled>",
@@ -851,8 +1039,10 @@
     "zh_trans": "<神器“传送门”已被禁用>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "< Meat - Ultima >",
@@ -860,8 +1050,10 @@
     "zh_trans": "< 终极-贴紧内侧门框（注意是内侧） >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<The temple will be destroyed in 120 seconds>",
@@ -869,8 +1061,10 @@
     "zh_trans": "神殿将在120秒后被摧毁。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<You are the map champion!!!>",
@@ -878,8 +1072,10 @@
     "zh_trans": "又给你拿了冠军了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "* Stage I *",
@@ -887,7 +1083,20 @@
     "zh_trans": "* 第一关 *",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "* Stage IV *",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
