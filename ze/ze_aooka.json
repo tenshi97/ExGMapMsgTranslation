@@ -35,7 +35,7 @@
   {
     "original": "Thanks:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator",
     "en_trans": "",
-    "zh_trans": "特别致谢:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator",
+    "zh_trans": "特别致谢:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator（技能补充；水木，有不合理处请反馈至论坛）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -258,10 +258,10 @@
     "zh_trans": "< 涡旋 - 对boss按s >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_key_down",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Fire >",
@@ -269,10 +269,10 @@
     "zh_trans": "< 火焰 - 上两边栏杆 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_fire",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Sand Dust >",
@@ -281,9 +281,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Space Cocoon >",
@@ -292,9 +292,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<Zombie Item is Enable>",
@@ -354,7 +354,7 @@
   {
     "original": "ZE_Aooka3 Map by vueru",
     "en_trans": "",
-    "zh_trans": "ZE_Aooka3 地图作者；vueru（boss技能补充；水木、）",
+    "zh_trans": "ZE_Aooka3 地图作者；vueru",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -445,10 +445,10 @@
     "zh_trans": "< 泥潭 - 上栏杆 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_fire",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Boot - Poison >",
@@ -456,10 +456,10 @@
     "zh_trans": "< 毒 - 先去中间再去外圈 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Boot - Vortex >",
@@ -467,10 +467,10 @@
     "zh_trans": "< 涡旋 - 抵抗中间吸力（不要站对角线上抵抗） >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_key_down",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Boot - Snow >",
@@ -479,9 +479,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Boot - Starfall >",
@@ -489,10 +489,10 @@
     "zh_trans": "< 星之落 - 先去外圈再去中间 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<Activate teleport crystal after 15 seconds>",
@@ -621,7 +621,7 @@
     "zh_trans": "< 站在“金轮”的范围内以规避伤害---10 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_caution",
     "timer_num": 10,
     "enable_timer": 1,
     "force_hint": 0
@@ -632,10 +632,10 @@
     "zh_trans": "< 黑暗之光 - 先远离光圈，等周围出现黑色特效之后再进入光圈躲避 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Twins >",
@@ -643,10 +643,10 @@
     "zh_trans": "< 双生 - 前后躲避特效 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Gemini >",
@@ -665,10 +665,10 @@
     "zh_trans": "< 星锁 - 停枪，提前去场地中间 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_no",
+    "timer_num": 1,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Solution Star >",
@@ -677,9 +677,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Death Star >",
@@ -688,9 +688,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Ask Spirit >",
@@ -699,9 +699,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Soul - Electric >",
@@ -710,9 +710,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Heavenly Sin >",
@@ -721,9 +721,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Time Cocoon >",
@@ -731,10 +731,10 @@
     "zh_trans": "< 时间之茧 - 从左上角开始按顺时针依次移动躲避四次伤害 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Spider - Sand Wind >",
@@ -742,10 +742,10 @@
     "zh_trans": "< 沙暴 - 按s抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_key_down",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Soul - Rise Nibble Away Up >",
@@ -827,13 +827,13 @@
   {
     "original": "< Meat - Fire of Shield >",
     "en_trans": "",
-    "zh_trans": "< 火焰护盾 - 停枪并随机出现半场火场 >",
+    "zh_trans": "< 火焰护盾 - 停枪，随机出现半场火场 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_no",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Holy >",
@@ -841,21 +841,21 @@
     "zh_trans": "< 神圣-贴紧两边尸笼 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Gravity >",
     "en_trans": "",
-    "zh_trans": "< 重力 - 抵抗吸力 >",
+    "zh_trans": "< 重力 - 按s抵抗BOSS方向的吸力 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_key_down",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Thunder >",
@@ -863,32 +863,32 @@
     "zh_trans": "< 雷霆 - 去没有电球和特效的区域 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Fire of Cure >",
     "en_trans": "",
-    "zh_trans": "< 火焰治疗 - 随机出现半场火场 >",
+    "zh_trans": "< 火焰治疗 - BOSS回血，随机出现半场火场 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_fire",
+    "timer_num": 1,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Meat - Wind >",
     "en_trans": "",
-    "zh_trans": "< 飓风 - 对门口按s抵抗 >",
+    "zh_trans": "< 飓风 - 按s抵抗门方向的推力 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_key_down",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Port by Hephasfos Support by BiliBili ELaiNa娜娜桑",
@@ -985,9 +985,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Boot - Repair >",
@@ -995,10 +995,10 @@
     "zh_trans": "< 自我修复 - 停枪 >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_no",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<Zombies are coming in!>",
@@ -1007,9 +1007,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Izzo! >",
@@ -1050,10 +1050,10 @@
     "zh_trans": "< 终极-贴紧内侧门框（注意是内侧） >",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_alert",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<The temple will be destroyed in 120 seconds>",
@@ -1091,7 +1091,7 @@
   {
     "original": "* Stage IV *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* 第四关 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
