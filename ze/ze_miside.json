@@ -178,7 +178,7 @@
   {
     "original": "< Kind Mita: Player,Can you see my message? >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔: 你能看到我的信息吗？ >",
+    "zh_trans": "< 善良米塔: 玩家，你能看到我的信息吗？ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "< Kind Mita: Yes!I placed a Icon on the battery,Go get it. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔: 是的！我在电池上放了一个图标，去拿吧. >",
+    "zh_trans": "< 善良米塔: 是的！我在电池上放置了一个图标，现在去拿吧. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "< Kind Mita: You did it! >",
@@ -1421,7 +1421,7 @@
   {
     "original": "< Crazy Mita: Everything i did for you,And you just destroy them with those other.. >",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔；我为你所做的一切，而你却把她们和其他人一起毁掉了 >",
+    "zh_trans": "< 疯狂米塔；我为你付出了一切，但你却让她们和其他人一起被毁掉了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1465,7 +1465,7 @@
   {
     "original": "< Crazy Mita: All player are the same,Blind heart. >",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔；所有玩家都是一样的，内心没有任何感情. >",
+    "zh_trans": "< 疯狂米塔；你们这些玩家都一样，内心没有任何感情. >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1476,7 +1476,7 @@
   {
     "original": "< Crazy Mita: So,Let me show you my love. >",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔：那么，让我向你表达我的爱 >",
+    "zh_trans": "< 疯狂米塔：那么现在，让我向你表达我的爱 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1509,7 +1509,7 @@
   {
     "original": "< Crazy Mita: Ha-ha!WHAT'S THIS? >",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔；哈哈！这是什么？ >",
+    "zh_trans": "< 疯狂米塔；哈哈！我看到了什么？ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1520,7 +1520,7 @@
   {
     "original": "< Crazy Mita: Is that a new expression I see? >",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔；这是我看到的新表情吗？ >",
+    "zh_trans": "< 疯狂米塔；你脸上又出现了新表情！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1531,7 +1531,7 @@
   {
     "original": "< Crazy Mita: Go on, let me see more!>",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔；继续，让我看到更多！>",
+    "zh_trans": "< 疯狂米塔；来吧，再多来点！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1542,7 +1542,7 @@
   {
     "original": "< Crazy Mita: Watching the same old face gets so boring!>",
     "en_trans": "",
-    "zh_trans": "< 疯狂米塔；看着同一张老脸简直无聊！>",
+    "zh_trans": "< 疯狂米塔；光是看着实在是太无聊了！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1597,18 +1597,18 @@
   {
     "original": "> Admin select Stage 3! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 有权男选择了第三关! <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "> A player found Chainsaw <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 有僵尸捡到了一把电锯 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1619,7 +1619,7 @@
   {
     "original": "> Press E get speed up and kill human in front of you. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 按E加速并杀死你面前的人类 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
