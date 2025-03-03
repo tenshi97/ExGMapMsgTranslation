@@ -5,8 +5,10 @@
     "zh_trans": "<!> 破坏路障 -- 30秒后清除障碍 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "幽霊少女 :",
@@ -14,8 +16,10 @@
     "zh_trans": "幽灵少女 :",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「いつからここにいるのか分からない...」",
@@ -23,8 +27,10 @@
     "zh_trans": "「我不知道你什么时候在这里的...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「私がなぜ死んでいるのかも分からない...」",
@@ -32,8 +38,10 @@
     "zh_trans": "「我也不知道我为什么会死...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「一つ分かることと言えば...」",
@@ -41,8 +49,10 @@
     "zh_trans": "「要说明白一点的话...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> バリケードを破壊 -- Destroying the barricade 10 sec <!>",
@@ -50,8 +60,10 @@
     "zh_trans": "<!> 破坏路障 -- 10秒后清除障碍 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "「渡木トンネルへ行かなければならないということ...」",
@@ -59,8 +71,10 @@
     "zh_trans": "「我必须去渡木隧道...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「そこに私を知るための何かがあるかもしれないから...」",
@@ -68,8 +82,10 @@
     "zh_trans": "「也许有什么东西能让你了解我...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「この場所は療養所...」",
@@ -77,8 +93,10 @@
     "zh_trans": "「这个地方是疗养院...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「なぜだかここにいると落ち着くような...」",
@@ -86,8 +104,10 @@
     "zh_trans": "「不知道为什么在这里会平静下来...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> バリケードを破壊 -- Destroying the barricade 15 sec <!>",
@@ -95,8 +115,10 @@
     "zh_trans": "<!> 破坏路障 -- 15秒后清除障碍 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!> バリケードを破壊 -- Destroying the barricade 40 sec <!>",
@@ -104,8 +126,10 @@
     "zh_trans": "<!> 破坏路障 -- 40秒后清除障碍 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "「古い防空壕...」",
@@ -113,8 +137,10 @@
     "zh_trans": "「旧防空洞...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「私には辺りが燃えているように感じる...」",
@@ -122,8 +148,10 @@
     "zh_trans": "「我觉得周围着火了...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> ドアを開く -- Open the door 30 sec <!>",
@@ -131,8 +159,10 @@
     "zh_trans": "<!> 正在开门 -- 30秒后开门 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!> ドアを開く -- Open the door 10 sec <!>",
@@ -140,8 +170,10 @@
     "zh_trans": "<!> 正在开门 -- 10秒后开门 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "「ここは何かの儀式場...？」",
@@ -149,8 +181,10 @@
     "zh_trans": "「这里是什么仪式场...？」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "「ここからトンネルへ行けるかもしれない...」",
@@ -158,8 +192,10 @@
     "zh_trans": "「也许从这里可以去隧道...」",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> 最後の防衛だ -- This is the last defense 40 sec <!>",
@@ -167,8 +203,10 @@
     "zh_trans": "<!> 最后的防御 -- 守住最后的守点40秒 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!> 最後の防衛だ -- This is the last defense 10 sec <!>",
@@ -176,8 +214,10 @@
     "zh_trans": "<!> 最后的防御 -- 守住最后的守点10秒 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!> 人間たちは脱出した -- The humans escaped <!>",
@@ -185,8 +225,10 @@
     "zh_trans": "<!> 人間たちは脱出した -- 人类成功逃脱 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> 古びたレコードを再生した <!>",
@@ -194,8 +236,10 @@
     "zh_trans": "<!> 播放了旧唱片 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> Music : Awake <!>",
@@ -203,8 +247,10 @@
     "zh_trans": "<!> 当前地图bgm : Awake <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> Music : Aquarius <!>",
@@ -212,8 +258,10 @@
     "zh_trans": "<!> 当前地图bgm : Aquarius <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> ゾンビが入ってきた！ -- Zombies or entered the elevator! <!>",
@@ -221,8 +269,10 @@
     "zh_trans": "<!> ゾンビが入ってきた！ -- 啥火力啊，这都能把僵尸放进电梯？<!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> 激痛を習得した！ -- ZM skill : sharp pain <!>",
@@ -230,8 +280,10 @@
     "zh_trans": "<!> 激痛を習得した！ -- 僵尸拾取了神器 : 剧痛（减速） <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<!> バリケードを破壊 -- Destroying the barricade 20 sec <!>",
@@ -239,7 +291,20 @@
     "zh_trans": "<!> 正在破坏路障 -- 20 秒后摧毁路障 <!>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<!> Music : Lost_Painting <!>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
