@@ -101,12 +101,13 @@
   {
     "original": ">>>Door is open<<<",
     "en_trans": "",
-    "zh_trans": "",
     "zh_trans": ">>>门开了<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_door",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Boss Fight in 10s **",
@@ -132,8 +133,10 @@
     "zh_trans": ">>>Boss寄了！<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_run",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>The door opens in 20 seconds<<<",
@@ -159,8 +162,10 @@
     "zh_trans": ">>>传送器已启动!<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "icon_name": "icon_run",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>Laser Alien is dead!<<<",
@@ -168,8 +173,10 @@
     "zh_trans": ">>>跳刀房的异形被淦碎了！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "icon_name": "icon_alert",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>The helicopter flies to you! hold on!!!<<<",
@@ -177,8 +184,9 @@
     "zh_trans": ">>>直升机已经很接近你们了！坚持住!<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>Zombies inside helicopter!<<<",
@@ -186,8 +194,10 @@
     "zh_trans": ">>>竟然想让僵尸跟着一起撤退，你们好亚撒西ヾ(･ω･`｡)**<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_skull",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Thank you for playing!",
