@@ -545,58 +545,58 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Extreme Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 极限模式（Extreme） >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Aero >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了风，按w抵抗 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Reverse >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了逆转，神器效果反转 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Posionrain >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了毒雨，跳起来 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Wait...Who is that? >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 等等...那是谁? >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -607,7 +607,7 @@
   {
     "original": "< You have defeated Extreme mode!Congratulations! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 你已击败极限模式！恭喜！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

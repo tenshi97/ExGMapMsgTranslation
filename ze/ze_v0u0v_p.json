@@ -94,9 +94,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> PLAYER HAS PICKED UP POISON TOILET <<<",
@@ -316,12 +316,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> PLAYER HAS PICKED UP WIND TOILET <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 一位玩家拾取了风马桶 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
