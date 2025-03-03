@@ -5,8 +5,10 @@
     "zh_trans": ">>>由CriSsys制作的地图<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Help tips opinions and adjustements by Aeris004<<<",
@@ -14,8 +16,10 @@
     "zh_trans": ">>>由Aeris004提供的帮助提示、意见及调整内容<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>Thanks to FireWavezZ<<<",
@@ -23,8 +27,10 @@
     "zh_trans": ">>>感谢FireWavezZ<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! THIS IS A WARMUP ROUND !!!***",
@@ -32,8 +38,10 @@
     "zh_trans": "***这是热身回合***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! WAITING FOR MORE PLAYERS !!!***",
@@ -41,8 +49,10 @@
     "zh_trans": "***正在等待更多玩家***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***",
@@ -50,8 +60,10 @@
     "zh_trans": "***本回合首次僵尸感染功能已禁用***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! GAME WILL START IN FEW SECOND !!!***",
@@ -59,8 +71,10 @@
     "zh_trans": "***游戏将在几秒后开始***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! CURRENT DIFFICULTY : EASY !!!***",
@@ -68,8 +82,10 @@
     "zh_trans": "***当前难度：简单***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Naruto will open the way ! Follow him !***",
@@ -77,8 +93,10 @@
     "zh_trans": "***鸣人将会开辟道路！跟着他！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HOLD THIS POSTION***",
@@ -86,8 +104,10 @@
     "zh_trans": "***坚守这个位置***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***20 SECONDS LEFT***",
@@ -95,8 +115,10 @@
     "zh_trans": "***还剩20秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Cave way will open in 20s !***",
@@ -104,8 +126,10 @@
     "zh_trans": "***洞穴通道将在20秒后开启！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***10 SECONDS LEFT***",
@@ -113,8 +137,10 @@
     "zh_trans": "***还剩10秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Cave way will open in 10s !***",
@@ -122,8 +148,10 @@
     "zh_trans": "***洞穴通道将在10秒后开启！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***5 SECONDS LEFT***",
@@ -131,8 +159,10 @@
     "zh_trans": "***还剩5秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOORS OPENING NOW***",
@@ -140,8 +170,10 @@
     "zh_trans": "***门正在打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HOLD THIS POSITION***",
@@ -149,8 +181,10 @@
     "zh_trans": "***坚守这个位置***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***CITY AFK TELEPORT IN 10s***",
@@ -158,8 +192,10 @@
     "zh_trans": "***挂机10秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***15 SECOND LEFT***",
@@ -167,8 +203,10 @@
     "zh_trans": "***还剩15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***10 SECOND LEFT***",
@@ -176,8 +214,10 @@
     "zh_trans": "***还剩10秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***5 SECOND LEFT***",
@@ -185,8 +225,10 @@
     "zh_trans": "***还剩5秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FORTRESS AFK TELEPORT IN 10s***",
@@ -194,8 +236,10 @@
     "zh_trans": "***挂机10秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FORTRESS AFK TELEPORT***",
@@ -203,8 +247,10 @@
     "zh_trans": "***挂机传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! NEXT DIFFICULTY : NORMAL !!!***",
@@ -212,8 +258,10 @@
     "zh_trans": "***下一关难度：普通***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! CURRENT DIFFICULTY : NORMAL !!!***",
@@ -221,8 +269,10 @@
     "zh_trans": "***当前难度：普通***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***",
@@ -230,8 +280,10 @@
     "zh_trans": "***发现一辆自行车！有人准备参加第100届“环法自行车赛”了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***25 SECONDS LEFT***",
@@ -239,8 +291,10 @@
     "zh_trans": "***还剩25秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***30 SECONDS LEFT***",
@@ -248,8 +302,10 @@
     "zh_trans": "***还剩30秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOOR WILL OPEN IN 15 SECONDS***",
@@ -257,8 +313,10 @@
     "zh_trans": "***门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOOR WILL OPEN IN 5 SECONDS***",
@@ -266,8 +324,10 @@
     "zh_trans": "***门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECOND DOOR WILL OPEN IN 15 SECONDS***",
@@ -275,8 +335,10 @@
     "zh_trans": "***第二扇门将在15秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***!!! NEXT DIFFICULTY : HARD !!!***",
@@ -284,8 +346,10 @@
     "zh_trans": "***!!! 下一关难度：困难 !!!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! CURRENT DIFFICULTY : HARD !!!***",
@@ -293,8 +357,10 @@
     "zh_trans": "***!!! 当前难度：困难 !!!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***40 SECONDS LEFT***",
@@ -302,8 +368,10 @@
     "zh_trans": "***40秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECOND DOOR WILL OPEN IN 30 SECONDS***",
@@ -311,8 +379,10 @@
     "zh_trans": "***下道门将在30秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SECOND DOOR WILL OPEN IN 5 SECONDS***",
@@ -320,8 +390,10 @@
     "zh_trans": "***下道门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***YOU NEED TO DEFEND THE TOWN 1MIN***",
@@ -329,8 +401,10 @@
     "zh_trans": "***你需要在这里防守60秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DEFEND AGAIN 45s***",
@@ -338,8 +412,10 @@
     "zh_trans": "***继续防守45秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DEFEND AGAIN 30s***",
@@ -347,8 +423,10 @@
     "zh_trans": "***继续防守30秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DEFEND AGAIN 15s***",
@@ -356,8 +434,10 @@
     "zh_trans": "***继续防守15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DEFEND AGAIN 10s***",
@@ -365,8 +445,10 @@
     "zh_trans": "***继续防守10秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DEFEND AGAIN 5s***",
@@ -374,8 +456,10 @@
     "zh_trans": "***继续防守5秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HUMANS SUCCEFULLY DEFEND KONOHA***",
@@ -383,8 +467,10 @@
     "zh_trans": "***人类成功保卫了木叶村***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***KILL ALL ZOMBIE SURVIVOR***",
@@ -392,8 +478,10 @@
     "zh_trans": "***消灭所有僵尸来保护幸存者***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NEXT DIFFICULTY EXTREM***",
@@ -401,8 +489,10 @@
     "zh_trans": "***下一关:EX***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***!!! CURRENT DIFFICULTY EXTREM !!!***",
@@ -410,8 +500,10 @@
     "zh_trans": "***!!! 当前难度:EX !!!*** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Naruto is fighting Sasuke! Go find and help him!***",
@@ -419,8 +511,10 @@
     "zh_trans": "***鸣人正在和佐助战斗！快去找到并帮助他***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***35 SECONDS LEFT***",
@@ -428,8 +522,10 @@
     "zh_trans": "***35秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***45 SECONDS LEFT***",
@@ -437,8 +533,10 @@
     "zh_trans": "***45秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***NARUTO IS FIGHTING AGAINST SASUKE***",
@@ -446,8 +544,10 @@
     "zh_trans": "***鸣人正在和佐助对战。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***",
@@ -455,8 +555,10 @@
     "zh_trans": "***在鸣人发动他的强力攻击之前击败佐助。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***",
@@ -464,8 +566,10 @@
     "zh_trans": "***鸣人很快就要使出他的特殊攻击了。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU DID IT !!! YOU DEFEATED SASUKE***",
@@ -473,8 +577,10 @@
     "zh_trans": "***你做到了！！！你打败了佐助。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU BEAT EXTREME DIFFICULTY***",
@@ -482,8 +588,10 @@
     "zh_trans": "***你战胜了EX的困难。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU CAN CHOOSE THE NEXT DIFFICULTY***",
@@ -491,8 +599,10 @@
     "zh_trans": "***你可以选择下一个难度***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NEXT DIFFICULTY : EXTREM ***",
@@ -500,8 +610,10 @@
     "zh_trans": "***下一关难度：EX***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NARUTO HAS BEEN KILLED BY ZOMBIES***",
@@ -509,8 +621,10 @@
     "zh_trans": "***鸣人被僵尸击败了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HUMANS NOW CAN'T PROTECT THE VILLAGE***",
@@ -518,8 +632,10 @@
     "zh_trans": "***人类现在无法保护村庄了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NEXT DIFFICULTY : HARD ***",
@@ -527,8 +643,10 @@
     "zh_trans": "***下一关难度：困难***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Admin Room Abuse ! Next Difficulty : Extrem ***",
@@ -536,8 +654,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Admin Room Abuse ! Kill all players ***",
@@ -545,8 +665,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NEXT DIFFICULTY : EASY ***",
@@ -554,8 +676,10 @@
     "zh_trans": "***当前难度：简单***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Admin Room Abuse ! Next Difficulty : Hard ***",
@@ -563,7 +687,42 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<当前版本号码为003>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<BUG反馈请前往Dc频道>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<discord.gg/eXR7xumCfP>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
