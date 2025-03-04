@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WE HAVE TO MAKE IT FAST, THEY'RE ABOUT TO NUKE IT TO CONTAIN THE INFECTION ***",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WAIT 15 SECONDS FOR EVACUATION ***",
@@ -38,11 +40,13 @@
   {
     "original": "*** JUMP OFF QUICK OR YOU'LL BE CRUSHED ***",
     "en_trans": "",
-    "zh_trans": "*** 跳下去，要不然成夹心饼干 ***",
+    "zh_trans": "*** 跳下去，要不然成夹心饼干(提前一点按住w键贴着墙走下去) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_alert_red",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** TOLD YOU ***",
@@ -51,7 +55,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***I CAN MOVE THIS TRUCK***",
@@ -60,7 +65,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***GIVE ME 30 SECONDS***",
@@ -113,8 +119,10 @@
     "zh_trans": "***我们可以用这个叉车离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_run",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***WE JUST HAVE TO FIND THE POWER SUPPLY IN THIS ROOM***",
@@ -122,8 +130,10 @@
     "zh_trans": "***我们得找到这个房间的供电系统***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_button",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***GREAT JOB ! IT WILL START IN 20 SECONDS***",
@@ -150,7 +160,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***THIS ONE WILL OPEN IN 20 SECONDS***",
@@ -194,8 +205,10 @@
     "zh_trans": "*** 我们要守住这个地方，直到有人找到前往下一扇窗户的路 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_interact",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***KEEP HOLDING 20 SECONDS***",
@@ -240,7 +253,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***WE MUST REACH THE C4 UP THERE TO BLOW UP THIS BARRICADE***",
@@ -248,8 +262,10 @@
     "zh_trans": "***我们得在这里安上C4，把这个障碍给炸开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_door",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** C4 IS ARMED, IT WILL EXPLODE IN 15 SECONDS***",
@@ -276,7 +292,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD AS LONG AS WE CAN ***",
@@ -284,8 +301,10 @@
     "zh_trans": "*** 尽可能守住 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_caution",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** IT'S A MILITARY OUTPOST ! THERE MUST BE A RADIO SOMEWHERE TO OPEN THIS FENCE ***",
@@ -293,8 +312,10 @@
     "zh_trans": "*** 这是一个军事哨所! 肯定有无线电能联系到军方打开这个栅栏 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_button",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DOOR WILL OPEN IN 20 SECONDS***",
@@ -311,8 +332,10 @@
     "zh_trans": "*** 撤退并防守栅栏 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_run",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***IT'S OPEN, GO GO GO !***",
@@ -320,8 +343,10 @@
     "zh_trans": "***门开了, GO GO GO !***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_run",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ZOMBIES TP IN 5 SECONDS ***",
@@ -347,8 +372,10 @@
     "zh_trans": "*** 快跑 !!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_run",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** KEEP THEM INSIDE, I WILL CLOSE THE DOOR ***",
@@ -357,16 +384,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SOMETHING'S WRONG, STAY DEFEND ***",
     "en_trans": "",
-    "zh_trans": "*** 搞错点东西了，继续守住 ***",
+    "zh_trans": "*** 有些不对劲，继续守住 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** PERFECT, GO TO THE TRUCK ***",
@@ -374,13 +403,15 @@
     "zh_trans": "*** 搞定，上车 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_run",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** TRUCK WILL OPEN IN 5 SECONDS, JUST GET IN ***",
     "en_trans": "",
-    "zh_trans": "*** 卡车 5 秒后开，快上车 ***",
+    "zh_trans": "*** 卡车 5 秒后开门，快上车（卡车是尸笼） ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -392,8 +423,10 @@
     "zh_trans": "*** 淦，这是个陷阱 ! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_alert",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***LET'S USE THIS OTHER TRUCK !***",
@@ -402,7 +435,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***WE MOVE IN 10 SECONDS!***",
@@ -420,7 +454,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THIS IS THE FINAL DEFENSE ! WAIT UNTIL I CLOSE THE TUNNEL***",
@@ -428,8 +463,10 @@
     "zh_trans": "*** 这是最后的守点，守到我关闭隧道***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_caution",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** TUNNEL IS CLOSING !!!***",
@@ -437,8 +474,10 @@
     "zh_trans": "*** 隧道正在关闭 !!!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_door",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WE DID IT ! JUST BEFORE THEY NUKE THIS FREAKING TUNNEL !***",
@@ -447,7 +486,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***OH NO ! WE TOOK TOO LONG, THEY'RE GOING TO NUKE THE TUNNEL !!!!***",
@@ -455,8 +495,10 @@
     "zh_trans": "***哦，不！我们耗时太久，他们要炸毁隧道了！！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_skull",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "因hide原因导致死亡时间过长会闪退所以降低剿匪难度",
@@ -491,7 +533,9 @@
     "zh_trans": "*** 噢，不！军队已经在轰炸这座城市了！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_skull",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

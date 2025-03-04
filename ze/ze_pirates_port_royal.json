@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "|Admin Room| ***Admin has changed difficulty to-LEVEL 3 ***",
@@ -60,7 +60,7 @@
     "zh_trans": ">>> 大门将在 20 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 20,
     "enable_timer": 1,
     "force_hint": 0
@@ -71,10 +71,10 @@
     "zh_trans": ">>> 大门正在打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GATE CLOSES IN 5 SEC <<<",
@@ -82,7 +82,7 @@
     "zh_trans": ">>> 大门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -93,10 +93,10 @@
     "zh_trans": ">>> 大门正在关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** SWORD picked up ***",
@@ -115,7 +115,7 @@
     "zh_trans": ">>> 防守村庄 40 秒！<<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_caution",
     "timer_num": 40,
     "enable_timer": 1,
     "force_hint": 0
@@ -137,7 +137,7 @@
     "zh_trans": ">>> 还剩 10 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_caution",
     "timer_num": 10,
     "enable_timer": 1,
     "force_hint": 0
@@ -148,10 +148,10 @@
     "zh_trans": ">>> 快跑! <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** WALL picked up ***",
@@ -170,7 +170,7 @@
     "zh_trans": ">>> 门将在 25 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
@@ -192,7 +192,7 @@
     "zh_trans": ">>> 门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -214,10 +214,10 @@
     "zh_trans": "*** 启动所有大炮 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_button",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GATE CLOSES IN 18 SEC <<<",
@@ -225,7 +225,7 @@
     "zh_trans": ">>> 大门将在 18 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 18,
     "enable_timer": 1,
     "force_hint": 0
@@ -239,7 +239,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GATE IS CLOSING! <<<",
@@ -247,10 +247,10 @@
     "zh_trans": ">>> 大门正在关闭！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> RUN TO THE PRISON! <<<",
@@ -269,10 +269,10 @@
     "zh_trans": ">>> 快去监狱！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***",
@@ -280,21 +280,21 @@
     "zh_trans": ">>> 防守监狱！！<<< *** 营救杰克·斯派洛船长 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_caution",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> RUN TO THE BLACK PEARL <<<",
     "en_trans": "",
-    "zh_trans": ">>> 快去黑珍珠号 <<<",
+    "zh_trans": ">>> 快上黑珍珠号 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> |LEVEL 2| <<<",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR CLOSES IN 20 SEC <<<",
@@ -346,7 +346,7 @@
     "zh_trans": ">>> 门将在 20 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 20,
     "enable_timer": 1,
     "force_hint": 0
@@ -357,7 +357,7 @@
     "zh_trans": ">>> 门将在 10 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 10,
     "enable_timer": 1,
     "force_hint": 0
@@ -368,7 +368,7 @@
     "zh_trans": ">>> 大门将在 25 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
@@ -379,7 +379,7 @@
     "zh_trans": ">>> 大门将在 5 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -390,10 +390,10 @@
     "zh_trans": "(人类) >>>--朝加农炮开火--<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_alert_red",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<",
@@ -401,10 +401,10 @@
     "zh_trans": "(僵尸) >>>--站在加农炮旁边推动它--<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_skull",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> CANNON HAS BEEN DESTROYED <<<",
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> RUN <<<",
@@ -423,10 +423,10 @@
     "zh_trans": ">>> 快撤 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> THE SHIP DEPARTS IN 25 sec <<<",
@@ -445,7 +445,7 @@
     "zh_trans": ">>> 通往避难所的入口将在 25 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
@@ -456,10 +456,10 @@
     "zh_trans": ">>> 避难所开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<",
@@ -467,7 +467,7 @@
     "zh_trans": ">>> 该岛屿将在 25 秒后被摧毁 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
@@ -478,7 +478,7 @@
     "zh_trans": ">>> 还剩 5 秒 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -489,10 +489,10 @@
     "zh_trans": ">>> 避难所正在关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "!!! KILL ALL ZOMBIES !!!",
@@ -500,10 +500,10 @@
     "zh_trans": "!!! 杀光所有僵尸 !!!",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_caution",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***",
@@ -514,7 +514,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR OPENS IN 5 SEC <<<",
@@ -533,7 +533,7 @@
     "zh_trans": ">>> 门在 5 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -547,7 +547,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR OPENS IN 10 SEC <<<",
@@ -555,7 +555,7 @@
     "zh_trans": ">>> 门在 10 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 10,
     "enable_timer": 1,
     "force_hint": 0
@@ -577,10 +577,10 @@
     "zh_trans": ">>> 站在操纵轮旁边以放下桥梁 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_interact",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> BRIDGE IS DOWN. RUN! <<<",
@@ -588,10 +588,10 @@
     "zh_trans": ">>> 桥梁已放下。快跑！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GET ONTO THE SHIP <<<",
@@ -599,10 +599,10 @@
     "zh_trans": ">>> 快上船 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR OPENS IN 25 sec <<<",
@@ -610,7 +610,7 @@
     "zh_trans": ">>> 门将在 25 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
@@ -621,7 +621,7 @@
     "zh_trans": ">>> 门将在 15 秒后关闭 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 15,
     "enable_timer": 1,
     "force_hint": 0
@@ -632,10 +632,10 @@
     "zh_trans": ">>> 门开了！快跑！！！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<",
@@ -643,10 +643,10 @@
     "zh_trans": ">>> 是海盗！在他动手之前干掉他！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<",
@@ -657,7 +657,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<",
@@ -665,10 +665,10 @@
     "zh_trans": ">>> 他死了。去藏宝室能保命！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD ZOMBIES FOR 20 sec <<<",
@@ -690,7 +690,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> |LEVEL 4| <<<",
@@ -701,7 +701,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "+++ BARBOSSA picked up +++",
@@ -742,7 +742,7 @@
     "zh_trans": ">>> 地窖将在 5 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -756,7 +756,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** HEAL picked up***",
@@ -789,7 +789,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR OPENS IN 30 SEC <<<",
@@ -797,7 +797,7 @@
     "zh_trans": ">>> 门在 30 秒后开启 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 30,
     "enable_timer": 1,
     "force_hint": 0
@@ -808,7 +808,7 @@
     "zh_trans": ">>> 巴博萨将在 5 秒后抵达 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
@@ -819,10 +819,10 @@
     "zh_trans": ">>> 是巴博萨。快杀了他！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HE HAS DISAPPEARED. RUN! <<<",
@@ -830,10 +830,10 @@
     "zh_trans": ">>> 他消失了。快跑！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***",
@@ -844,7 +844,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> |LEVEL 5| <<<",
@@ -855,7 +855,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GATE OPENING <<<",
@@ -863,10 +863,10 @@
     "zh_trans": ">>> 大门正在开启 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD FOR 45 SEC <<<",
@@ -888,7 +888,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<",
@@ -896,10 +896,10 @@
     "zh_trans": ">>> 克拉肯用波浪清理了道路 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD FOR 35 SEC <<<",
@@ -918,10 +918,10 @@
     "zh_trans": ">>> 是克拉肯。杀了它！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<",
@@ -932,7 +932,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "||| KRAKEN HAS SENT A WAVE ON YOU |||",
@@ -940,43 +940,43 @@
     "zh_trans": "||| 克拉肯向你发出了一道波浪。按 W 抵抗推力 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
+    "icon_name": "icon_key_up",
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "||| KRAKEN HAS THROWN BARRELS ON YOU |||",
     "en_trans": "",
-    "zh_trans": "||| 克拉肯向你们投掷了炸药桶 |||",
+    "zh_trans": "||| 克拉肯向你们投掷了炸药桶，躲开它 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_skull",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||",
     "en_trans": "",
-    "zh_trans": "||| 克拉肯派出了一只自爆僵尸 |||",
+    "zh_trans": "||| 克拉肯派出了一只自爆僵尸，躲开他 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_alert_red",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "||| KRAKEN HAS SENT A BUBBLES ON YOU |||",
     "en_trans": "",
-    "zh_trans": "||| 克拉肯向你们发射了泡泡 |||",
+    "zh_trans": "||| 克拉肯向你们发射了泡泡，蹲下 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_alert",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "||| KRAKEN HAS USED VORTEX |||",
@@ -984,8 +984,8 @@
     "zh_trans": "||| 克拉肯使用了漩涡。按 S 抵抗吸力  |||",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
+    "icon_name": "icon_key_down",
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -995,10 +995,10 @@
     "zh_trans": ">>> 克拉肯已死。跳到木筏上 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> RUN TO THE CAVE <<<",
@@ -1006,10 +1006,10 @@
     "zh_trans": ">>> 快进洞穴 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_run",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE! <<<",
@@ -1020,7 +1020,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** LAST MEDALLION picked up ***",
@@ -1028,10 +1028,10 @@
     "zh_trans": "*** 已拾起最后的勋章 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_interact",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<",
@@ -1039,10 +1039,10 @@
     "zh_trans": ">>> 最后的勋章已归还到宝箱内 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_interact",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> BARBOSSA IS DEAD <<<",
@@ -1051,20 +1051,20 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "||| KRAKEN HAS THROWN BARREL ON YOU |||",
     "en_trans": "",
-    "zh_trans": "||| 克拉肯向你们投掷了炸药桶 |||",
+    "zh_trans": "||| 克拉肯向你们投掷了炸药桶，躲开它 |||",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "icon_name": "icon_skull",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> YOU WON THE MAP, BUT YOU DIDN’T KILL THE GOD KRAKEN. <<<",
@@ -1075,7 +1075,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "|Admin Room| ***Admin has changed difficulty to LEVEL 2 ***",
@@ -1108,7 +1108,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR OPENS IN 15 SEC <<<",
@@ -1116,7 +1116,7 @@
     "zh_trans": ">>> 门将在 15 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 15,
     "enable_timer": 1,
     "force_hint": 0
@@ -1127,7 +1127,7 @@
     "zh_trans": ">>> 门将在 20 秒后打开 <<< ",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 20,
     "enable_timer": 1,
     "force_hint": 0
@@ -1149,10 +1149,10 @@
     "zh_trans": ">>> 克拉肯使用了双重波浪来清理道路 <<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_door",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> IT'S GOD KRAKEN. KILL HIM! <<<",
@@ -1160,10 +1160,10 @@
     "zh_trans": ">>> 是克拉肯之神。快杀了他！<<<",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
+    "icon_name": "icon_alert",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***",
@@ -1185,6 +1185,6 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

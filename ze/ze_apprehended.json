@@ -104,8 +104,10 @@
     "zh_trans": "!!! 注意！箱子要炸了！ !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_alert",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "ELEVATOR LEAVES IN 10 SECONDS",
@@ -131,6 +133,7 @@
     "zh_trans": "滚呐！你这个跟踪狂！（秒杀伤害，远离boss）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_alert_red",
     "timer_num": 3,
     "enable_timer": 1
   },
@@ -140,8 +143,10 @@
     "zh_trans": "!!! 僵尸现在可以进攻boss平台上的人类了 !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_skull",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "!!! THE WALLS HOLDING BACK THE ZOMBIES WILL EXPLODE IN 8 SECONDS !!!",
