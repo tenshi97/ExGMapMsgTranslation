@@ -5,8 +5,10 @@
     "zh_trans": "- 简单关卡 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Teleport will be ready in 15 seconds **",
@@ -14,8 +16,10 @@
     "zh_trans": "** 还有 15 秒我们就要准备好传送了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Map by Misaka ***",
@@ -23,8 +27,10 @@
     "zh_trans": "*** 地图作者: Misaka ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Special Thanks to Excarliber & Koyomaple ***",
@@ -32,8 +38,10 @@
     "zh_trans": "*** 特别感谢 Excarliber & Koyomaple ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 25 more seconds **",
@@ -41,8 +49,10 @@
     "zh_trans": "** 再坚持 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 10 more seconds **",
@@ -50,8 +60,10 @@
     "zh_trans": "** 再坚持 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Defend here for 30 seconds **",
@@ -59,8 +71,10 @@
     "zh_trans": "** 在这里防守 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 20 more seconds **",
@@ -68,8 +82,10 @@
     "zh_trans": "** 再坚持 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** BOSS will appear in 85 seconds **",
@@ -77,8 +93,10 @@
     "zh_trans": "** BOSS 会在 85 秒后出现 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 85,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** SHOOT BOSS NOW!!! **",
@@ -86,8 +104,10 @@
     "zh_trans": "** 就是现在! 对BOSS开枪!!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Elevator will leave in 25 seconds **",
@@ -95,8 +115,10 @@
     "zh_trans": "** 电梯会在 25 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "STAGE COMPLETE",
@@ -104,8 +126,10 @@
     "zh_trans": "关卡完成",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- Normal Mode -",
@@ -113,8 +137,10 @@
     "zh_trans": "- 正常关卡 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Elevator will leave in 15 seconds **",
@@ -122,8 +148,10 @@
     "zh_trans": "** 电梯会在 15 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< TIPS: Shooting 8 buttons >>",
@@ -131,8 +159,10 @@
     "zh_trans": "<< 提示: 射击八个按钮 >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Door will open in 20 seconds **",
@@ -140,8 +170,10 @@
     "zh_trans": "** 大门会在 20 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The top door will open in 20 seconds **",
@@ -149,8 +181,10 @@
     "zh_trans": "** 在上方的门会在 20 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 50 more seconds **",
@@ -158,8 +192,10 @@
     "zh_trans": "** 再坚持 50 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "- Hard Mode -",
@@ -167,8 +203,10 @@
     "zh_trans": "- 困难关卡 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Door will open in 15 seconds **",
@@ -176,8 +214,10 @@
     "zh_trans": "** 大门会在 15 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Hold 20 seconds **",
@@ -185,8 +225,10 @@
     "zh_trans": "** 守住 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The first ladder will be ready in 30 seconds **",
@@ -194,8 +236,10 @@
     "zh_trans": "** 第一个梯子区域会在 30 秒后准备好 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The second ladder will be ready in 25 seconds **",
@@ -203,8 +247,10 @@
     "zh_trans": "** 第二个梯子区域会在 25 秒后准备好 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Teleport will be ready in 35 seconds **",
@@ -212,8 +258,10 @@
     "zh_trans": "** 还有 35 秒我们就要准备好传送了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Rotating Blade >>",
@@ -221,8 +269,10 @@
     "zh_trans": "<< 旋转刀片 (躲头顶刀) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Ominous Wind >>",
@@ -230,8 +280,10 @@
     "zh_trans": "<< 不祥之风 (随机方向推力) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Flash Cannon >>",
@@ -239,8 +291,10 @@
     "zh_trans": "<< 闪光轨道炮 (不能钻缝) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Creation Shield >>",
@@ -248,8 +302,10 @@
     "zh_trans": "<< 创世之盾 (反伤停火) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Pure Fury >>",
@@ -257,8 +313,10 @@
     "zh_trans": "<< 纯粹之怒 (尸笼) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Demon Cage >>",
@@ -266,8 +324,10 @@
     "zh_trans": "<< 恶魔牢笼 (左右各三刀)>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE HAS ESCAPED !!!",
@@ -275,8 +335,10 @@
     "zh_trans": "为什么你们把僵尸放跑了 !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** The backway will open in 50 seconds **",
@@ -284,8 +346,10 @@
     "zh_trans": "** 回去的路会在 50 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The elevator will leave in 50 seconds **",
@@ -293,8 +357,10 @@
     "zh_trans": "** 电梯会在 50 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "- Lunatic Mode -",
@@ -302,8 +368,10 @@
     "zh_trans": "- 疯狂关卡 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Teleport will be ready in 25 seconds **",
@@ -311,8 +379,10 @@
     "zh_trans": "** 还有 25 秒我们就要准备好传送了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Defend here for 25 seconds **",
@@ -320,8 +390,10 @@
     "zh_trans": "** 守住这里 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Zombies can tele under the tree now! ***",
@@ -329,8 +401,10 @@
     "zh_trans": "*** 僵尸现在可以前往树下传送了! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Sideway will open in 10 seconds **",
@@ -338,8 +412,10 @@
     "zh_trans": "** 侧边的路会在 10 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Earth Power >>",
@@ -347,8 +423,10 @@
     "zh_trans": "<< 大地之力 (站到上升的平台上) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Pressure >>",
@@ -356,8 +434,10 @@
     "zh_trans": "<< 压力 (蹲下) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Tri Crystal >>",
@@ -365,8 +445,10 @@
     "zh_trans": "<< 三色水晶 (观察打碎的水晶颜色躲避对应技能) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Sinister Omen >>",
@@ -374,8 +456,10 @@
     "zh_trans": "<< 阴险预兆 (往边缘站) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Danger Range >>",
@@ -383,8 +467,10 @@
     "zh_trans": "<< 危险范围 (躲避脚底特效) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<< Aurora Veil >>",
@@ -392,8 +478,10 @@
     "zh_trans": "<< 极光幕 (躲避前方极光) >>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The last door will open in 90 seconds **",
@@ -401,8 +489,10 @@
     "zh_trans": "** 最后的大门会在 90 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The elevator will leave in 10 seconds **",
@@ -410,8 +500,10 @@
     "zh_trans": "** 电梯会在 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "- Nightmare Mode -",
@@ -419,8 +511,10 @@
     "zh_trans": "- 噩梦关卡 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Hold 25 more seconds **",
@@ -428,8 +522,10 @@
     "zh_trans": "** 坚持 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Door will open in 25 seconds **",
@@ -437,8 +533,10 @@
     "zh_trans": "** 大门会在 25 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 60 more seconds **",
@@ -446,8 +544,10 @@
     "zh_trans": "** 再坚持 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** The elevator will leave in 30 seconds **",
@@ -455,8 +555,10 @@
     "zh_trans": "** 电梯会在 30 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** BOSS FIGHT in 45 seconds **",
@@ -464,8 +566,10 @@
     "zh_trans": "** 还有 45 秒就进传送区域和 BOSS 决一死战 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Zombies are coming!!! ***",
@@ -473,8 +577,10 @@
     "zh_trans": "*** 僵尸来了!!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Its not over...... ***",
@@ -482,8 +588,10 @@
     "zh_trans": "*** 还没完...... ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Boss - Fantasy Spirit ***",
@@ -491,8 +599,10 @@
     "zh_trans": "*** Boss - 幻想之灵 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Earth ***",
@@ -500,8 +610,10 @@
     "zh_trans": "*** 幻想 - 大地之力 (被碰到就死) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Fire ***",
@@ -509,8 +621,10 @@
     "zh_trans": "*** 幻想 - 火 (全屏伤害) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Water ***",
@@ -518,8 +632,10 @@
     "zh_trans": "*** 幻想 - 水 (全屏减速) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Heal ***",
@@ -527,8 +643,10 @@
     "zh_trans": "*** 幻想 - 治愈 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Wind ***",
@@ -536,8 +654,10 @@
     "zh_trans": "*** 幻想 - 风 (随机方向推力) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Holy ***",
@@ -545,8 +665,10 @@
     "zh_trans": "*** 幻想 - 终极 (往边缘站) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Holy effects in 4 seconds ***",
@@ -554,8 +676,10 @@
     "zh_trans": "*** 4 秒后产生终极 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Fantasy - Fantasy Star ***",
@@ -563,8 +687,10 @@
     "zh_trans": "*** 幻想 - 奇幻之星 (远离弹幕) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 15 more seconds **",
@@ -572,8 +698,10 @@
     "zh_trans": "** 再坚持 15 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Door will open in 40 seconds **",
@@ -581,8 +709,10 @@
     "zh_trans": "** 大门会在 40 秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Congratulation!!!",
@@ -590,8 +720,10 @@
     "zh_trans": "恭喜!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "You are the king of this map!!!",
@@ -599,8 +731,10 @@
     "zh_trans": "你是这张地图的王者!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "- ZM Mode -",
@@ -608,8 +742,10 @@
     "zh_trans": "- ZM 关卡 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<< zombie can move in 8 seconds >>",
@@ -617,8 +753,10 @@
     "zh_trans": "<<僵尸可以在8秒后移动>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Map by Misaka",
@@ -626,8 +764,10 @@
     "zh_trans": "地图由 Misaka 创作",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "STAGE FAIL",
@@ -635,7 +775,9 @@
     "zh_trans": "关卡失败",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
