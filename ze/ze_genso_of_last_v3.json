@@ -673,7 +673,7 @@
 	{
 		"original": "*** !? ***",
 		"en_trans": "",
-		"zh_trans": "***这是什么!?准备迎接黑刀!（黑刀要接黑刀要接黑刀要接）***",
+		"zh_trans": "***这是什么!?准备迎接黑刀！（僵尸方向会出两刀黑刀，黑刀要接黑刀要接黑刀要接）***",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_caution",
@@ -778,7 +778,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** It going to break ***",
@@ -937,7 +937,7 @@
 	{
 		"original": "*** Double Hand Stomp ***",
 		"en_trans": "",
-		"zh_trans": "*** 双手捶地（看准时机跳） ***",
+		"zh_trans": "*** 双手捶地（全屏伤害） ***",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
