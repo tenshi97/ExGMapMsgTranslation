@@ -5,8 +5,10 @@
     "zh_trans": ">>>地图作者：Airvulpes <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> css port by xen <<<",
@@ -14,8 +16,10 @@
     "zh_trans": ">>> css版本由xen移植 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> csgo backport by koen <<<",
@@ -23,8 +27,10 @@
     "zh_trans": ">>> csgo版本由koen移植 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> cs2 port by Tenshi. <<<",
@@ -32,8 +38,10 @@
     "zh_trans": ">>> cs2版本由Tenshi移植 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Stage - A <",
@@ -41,8 +49,10 @@
     "zh_trans": "> 关卡- A <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Stage - B <",
@@ -50,8 +60,10 @@
     "zh_trans": "> 关卡- B <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 40 seconds <<<",
@@ -59,8 +71,10 @@
     "zh_trans": ">>>坚守40秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 30 seconds left <<<",
@@ -68,8 +82,10 @@
     "zh_trans": ">>>还剩30秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 20 seconds left <<<",
@@ -77,8 +93,10 @@
     "zh_trans": ">>>还剩20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 10 seconds left <<<",
@@ -86,8 +104,10 @@
     "zh_trans": ">>>还剩10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 15 seconds <<<",
@@ -95,8 +115,10 @@
     "zh_trans": ">>>坚守15秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 5 seconds left <<<",
@@ -104,8 +126,10 @@
     "zh_trans": ">>>还剩5秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 30 seconds <<<",
@@ -113,8 +137,10 @@
     "zh_trans": ">>>坚守30秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Stage - C <",
@@ -122,8 +148,10 @@
     "zh_trans": "> 关卡 - C <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> 10 <<<",
@@ -131,8 +159,10 @@
     "zh_trans": ">>> 10 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 9 <<<",
@@ -140,8 +170,10 @@
     "zh_trans": ">>> 9 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 9,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 8 <<<",
@@ -149,8 +181,10 @@
     "zh_trans": ">>> 8 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 7 <<<",
@@ -158,8 +192,10 @@
     "zh_trans": ">>> 7 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 6 <<<",
@@ -167,8 +203,10 @@
     "zh_trans": ">>> 6 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 5 <<<",
@@ -176,8 +214,10 @@
     "zh_trans": ">>> 5 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 4 <<<",
@@ -185,8 +225,10 @@
     "zh_trans": ">>> 4 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 3 <<<",
@@ -194,8 +236,10 @@
     "zh_trans": ">>> 3 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 2 <<<",
@@ -203,8 +247,10 @@
     "zh_trans": ">>> 2 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 1 <<<",
@@ -212,8 +258,10 @@
     "zh_trans": ">>> 1 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 20 seconds <<<",
@@ -221,8 +269,10 @@
     "zh_trans": ">>>坚守20秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 100 <<<",
@@ -230,8 +280,10 @@
     "zh_trans": ">>> 100 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 100,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 90 <<<",
@@ -239,8 +291,10 @@
     "zh_trans": ">>> 90 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 80 <<<",
@@ -248,8 +302,10 @@
     "zh_trans": ">>> 80 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 80,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 70 <<<",
@@ -257,8 +313,10 @@
     "zh_trans": ">>> 70 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 70,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 60 <<<",
@@ -266,8 +324,10 @@
     "zh_trans": ">>> 60 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 50 <<<",
@@ -275,8 +335,10 @@
     "zh_trans": ">>> 50 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 40 <<<",
@@ -284,8 +346,10 @@
     "zh_trans": ">>> 40 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 30 <<<",
@@ -293,8 +357,10 @@
     "zh_trans": ">>> 30 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> 20 <<<",
@@ -302,8 +368,10 @@
     "zh_trans": ">>> 20 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 10 seconds <<<",
@@ -311,8 +379,10 @@
     "zh_trans": ">>>坚守10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> Hold 5 seconds <<<",
@@ -320,8 +390,10 @@
     "zh_trans": ">>>坚守5秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Stage - D <",
@@ -329,8 +401,10 @@
     "zh_trans": "> 关卡 - D <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> D INSANE MODE ENABLED FOR NEXT ROUND <<<",
@@ -338,8 +412,10 @@
     "zh_trans": ">>> 下一回合将启用关卡：INSANE D <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> D INSANE MODE ENABLED <<<",
@@ -347,8 +423,10 @@
     "zh_trans": ">>> 关卡：INSANE D 已启用 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Stage - Insane D <",
@@ -356,8 +434,10 @@
     "zh_trans": "> 关卡 - Insane D <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ZOMBIE GOT INSIDE THE LIFT <<<",
@@ -365,8 +445,10 @@
     "zh_trans": ">>> 僵尸登上了电梯 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> STAGE FAILED <<<",
@@ -374,8 +456,10 @@
     "zh_trans": ">>> 关卡失败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Just kidding <",
@@ -383,8 +467,10 @@
     "zh_trans": "> 神父，换碟！ <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "指挥带灵车！！!",
@@ -392,8 +478,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "指挥带灵车！！！",
@@ -401,8 +489,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> RESTARTING ROUND IN 3 <<<",
@@ -410,8 +500,10 @@
     "zh_trans": ">>> 3 秒后重新开始回合 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>> ADMIN HAS SKIPPED STAGE B <<<",
@@ -419,8 +511,10 @@
     "zh_trans": ">>> 管理员已跳过 关卡 B <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ADMIN HAS SKIPPED STAGE A <<<",
@@ -428,8 +522,10 @@
     "zh_trans": ">>> 管理员已跳过 关卡 A <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ADMIN HAS SKIPPED STAGE C <<<",
@@ -437,8 +533,10 @@
     "zh_trans": ">>> 管理员已跳过 关卡 C <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ADMIN HAS RESET THE MAP <<<",
@@ -446,8 +544,10 @@
     "zh_trans": ">>> 管理员已重置地图 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ADMIN HAS ENABLED D INSANE MODE <<<",
@@ -455,8 +555,10 @@
     "zh_trans": ">>> 管理员已调关至 关卡 D 疯狂模式（D INSANE） <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>> ADMIN HAS DISABLED D INSANE MODE <<<",
@@ -464,7 +566,9 @@
     "zh_trans": ">>> 管理员已关闭 关卡 D 疯狂模式（D INSANE） <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
