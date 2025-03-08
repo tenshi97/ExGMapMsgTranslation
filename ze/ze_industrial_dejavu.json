@@ -2,7 +2,7 @@
   {
     "original": "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** ZE INDUSTRIAL DEJAVU - 工业循环 - 本图初版在一天内完成 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -15,7 +15,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** NO ZOMBIE WEAPONS & REGULAR HEALTH ***",
@@ -24,16 +25,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HELPING PUSHES ACTIVATED ON EASY MODE ***",
     "en_trans": "",
-    "zh_trans": "*** 简单模式下推力激活 ***",
+    "zh_trans": "*** 撤退有推力阻挡僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Door opens in 20 seconds! ***",
@@ -68,8 +71,9 @@
     "zh_trans": "*** 崩！撤！卖！溜！ ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***",
@@ -78,7 +82,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boat leaves in 40 seconds. ***",
@@ -105,7 +110,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CURRENT MODE: NORMAL ***",
@@ -114,7 +120,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ZOMBIE WEAPONS & NORMAL HEALTH ***",
@@ -123,16 +130,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***",
     "en_trans": "",
-    "zh_trans": "*** 普通模式下出口推力已激活 ***",
+    "zh_trans": "*** 撤退有推力阻挡僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Strangely near door opens in 12 seconds. ***",
@@ -150,7 +159,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*It has a 60 seconds cooldown.*",
@@ -159,7 +169,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Zombie heal has been picked up. Press +USE (E) to activate.*",
@@ -168,7 +179,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*It has a 90 seconds cooldown.*",
@@ -177,7 +189,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Helicopter comes in 30 seconds. ***",
@@ -194,8 +207,9 @@
     "zh_trans": "*** 撤退!!! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Well done! Now it will get interesting on the HARD mode! ***",
@@ -204,7 +218,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CURRENT MODE: HARD ***",
@@ -213,7 +228,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ZOMBIE WEAPONS & LARGE HEALTH ***",
@@ -222,16 +238,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HELPING PUSHES DISABLED ***",
     "en_trans": "",
-    "zh_trans": "*** 推力已取消 ***",
+    "zh_trans": "*** 推力已取消，撤退时记得扔雷 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Vortex zombie has been summoned. Press +USE (E) to activate.*",
@@ -240,7 +258,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*It has a 120 seconds cooldown.*",
@@ -249,7 +268,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Bunker door opens in 15 seconds. ***",
@@ -263,7 +283,7 @@
   {
     "original": "*** HOLD! The bunker will seal in 15 seconds! ***",
     "en_trans": "",
-    "zh_trans": "*** 坚持住！地堡将在 15 秒后密封！***",
+    "zh_trans": "*** 坚持住！地堡将在 15 秒后关闭！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -276,7 +296,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CURRENT MODE: EXTREME ***",
@@ -285,7 +306,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ZOMBIE WEAPONS & MASSIVE HEALTH ***",
@@ -294,25 +316,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Flamethrower has been picked up. Press +Use (E) to activate**",
     "en_trans": "",
-    "zh_trans": "* 喷火器 已被捡起。按E键使用。*",
+    "zh_trans": "* 喷火器 已被捡起。按E键开关。*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Fuel lasts about 10 seconds. **",
     "en_trans": "",
-    "zh_trans": "** 燃料大约能支撑 10 秒 **",
+    "zh_trans": "** 燃料大约能支撑 10 秒，燃料耗尽后将无法继续使用，注意使用时机 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Zombie rage has been picked up. Press +USE (E) to activate.*",
@@ -321,7 +346,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***",
@@ -330,7 +356,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The boss has been defeated! ***",
@@ -339,7 +366,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD! The door opens in 15 seconds!!! ***",
@@ -357,7 +385,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Unbelievable! You won EXTREME mode! ***",
@@ -366,7 +395,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***",
@@ -375,7 +405,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Hold the house for 24 seconds! ***",
@@ -393,7 +424,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** GO BACK! IT'S GONNA BLOW! ***",
@@ -402,7 +434,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ZOMBIES DETECTED - INVALID VICTORY ***",
@@ -411,7 +444,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Door closes in 8 seconds! ***",
@@ -429,6 +463,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

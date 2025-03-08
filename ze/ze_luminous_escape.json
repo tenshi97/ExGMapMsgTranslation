@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU LOST!! ***",
@@ -118,18 +118,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> > Level 1 < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 关卡 1 < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** GATE OPENS IN 15 SECONDS ***",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** THEY ARE PLACED RANDOMLY IN THE ROOM ***",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** THE FIRST 4 WILL SPAWN AT THE BOTTOM ***",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** NEXT 4 WILL SPAWN AT THE TOP ***",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** GOOD JOB YOU GOT THEM ALL ***",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** GO TO THE TOP OF THE PILLAR ***",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** TP IN 25 SECONDS ***",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** GOOD JOB !!! ***",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** LASERS STOPPED !!!***",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** GATE CLOSING IN 25 SECONDS ***",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** GATE CLOSING IN 30 SECONDS ***",
@@ -321,40 +321,40 @@
   {
     "original": "> > Level 2 < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 关卡 2 < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** BREAK THE GATE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 打破大门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU'VE BROKEN THE GATE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你已经打破了大门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** DEFEND FOR 30 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 30 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "*** 10 SECONDS LEFT ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还剩 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "*** ZOMBIE TP IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸将在 20 秒后传送过来 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "> > PLAYER PICKED PINK KEY ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家捡起了粉色钥匙 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,18 +398,18 @@
   {
     "original": "*** YOU NEED THE COLORED KEY TO MOVE EACH GUIDE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你需要用彩色钥匙来移动每个引导物 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> > PLAYER PICKED BLUE KEY ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 玩家捡起了蓝色钥匙 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "*** LAB WALLS WILL BREAK IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 实验室的墙壁将在 10 秒后破碎 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,18 +431,18 @@
   {
     "original": "*** BLUE GUIDE IS TIRED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蓝色引导物累了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** HOLD IT FOR 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚持 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,62 +453,62 @@
   {
     "original": "*** PINK GUIDE IS TIRED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 粉色引导物累了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** PINK GUIDE AS REACHED THE END ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 粉色引导物已到达终点 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 1 GUIDE LEFT ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还剩 1 个引导物 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** BLUE GUIDE AS REACHED THE END ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 蓝色引导物已到达终点 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** GOOD JOB, BOTH GUIDES REACHED THE END ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 干得好，两个引导物都到达了终点 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** PLATFORM WILL MOVE IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 平台将在 20 秒后移动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,73 +519,73 @@
   {
     "original": "*** THANK YOU FOR BRINGING ME HERE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 感谢你带我来这里 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** THAT WAS A MISTAKE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 是个错误 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** NOW YOU DIE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在你死定了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** IMMA PULL YOU ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我要拉你 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** IMMA PUSH YOU ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我要推你 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> IT WONT END LIKE THISSSS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 不会就这样结束的 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** PLATFORM WILL RISE IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 平台将在 10 秒后上升 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,7 +596,7 @@
   {
     "original": "> > PLAYER PICKED ZSPEED ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 玩家捡起了僵尸加速 < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -607,7 +607,7 @@
   {
     "original": "> > PLAYER PICKED ZGRAVITY ITEM < <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> > 玩家捡起了僵尸黑洞 < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

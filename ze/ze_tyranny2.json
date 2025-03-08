@@ -1025,12 +1025,12 @@
   {
     "original": ">>> Round Failed <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 回合失败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]

@@ -1740,12 +1740,12 @@
   {
     "original": "Kiki:Brand已经失去了对飞行船大部分的控制我来解除这扇门的门禁，给我10秒钟",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "Kiki:Brand已经失去了对飞行船大部分的控制我来解除这扇门的门禁，给我10秒钟",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
