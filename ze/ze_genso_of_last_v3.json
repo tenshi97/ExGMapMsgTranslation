@@ -204,8 +204,8 @@
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
-		"timer_num": 0,
-		"enable_timer": 0,
+		"timer_num": 25,
+		"enable_timer": 1,
 		"force_hint": 0
 	},
 	{
@@ -673,7 +673,7 @@
 	{
 		"original": "*** !? ***",
 		"en_trans": "",
-		"zh_trans": "***这是什么!?准备迎接黑刀!（黑刀要接黑刀要接黑刀要接）***",
+		"zh_trans": "***这是什么!?准备迎接黑刀！（僵尸方向会出两刀黑刀，黑刀要接黑刀要接黑刀要接）***",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_caution",
@@ -937,7 +937,7 @@
 	{
 		"original": "*** Double Hand Stomp ***",
 		"en_trans": "",
-		"zh_trans": "*** 双手捶地（看准时机跳） ***",
+		"zh_trans": "*** 双手捶地（全屏伤害） ***",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -981,7 +981,7 @@
 	{
 		"original": "< A?nCie?? E??R?? >",
 		"en_trans": "",
-		"zh_trans": "< 远古的土墙 >",
+		"zh_trans": "< A?nCie?? E??R?? >",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
