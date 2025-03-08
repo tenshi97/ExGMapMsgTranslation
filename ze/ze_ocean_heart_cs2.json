@@ -41,8 +41,8 @@
     "zh_trans": "僵尸污染了水帘，回合失败",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 3,
+    "enable_timer": 1
   },
   {
     "original": "Trace ----- 10 -----",
@@ -213,6 +213,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
