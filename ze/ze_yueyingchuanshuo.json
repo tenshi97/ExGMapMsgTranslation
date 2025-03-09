@@ -79,11 +79,11 @@
   {
     "original": "Initiate the zombie side in 4 seconds",
     "en_trans": "",
-    "zh_trans": "4秒钟后开启僵尸侧路",
+    "zh_trans": " 僵尸侧路将在4秒后开启？（其实是14秒）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
+    "timer_num": 14,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Warning: Zombie launches near the road",
@@ -283,7 +283,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Zombie checkerboard teleport",
@@ -591,7 +591,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "idea by nrf,good luck bro.",
@@ -602,7 +602,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "test",
@@ -651,7 +651,7 @@
   {
     "original": "the lotus seems to want to help us",
     "en_trans": "",
-    "zh_trans": "这些莲花似乎想帮助我们",
+    "zh_trans": "这个莲花似乎想帮助我们（那是电梯，别当登高人了）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
