@@ -288,40 +288,40 @@
   {
     "original": "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 有人将下局游戏调整为第三关 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 有人将下局游戏调整为第五关 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 有人将下局游戏调整为第二关 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**GO INTO THE TELEPORTER***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 现在去传送区域 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在你有一些时间去寻找隐藏神器 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 然后撤退，等待空气墙打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有挂机和走的慢的玩家已被传送 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "**Hold here for 25 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守25秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "**And then go to the pool**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 然后去游泳池 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "**NOW WE ARE READY TO GO**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 现在我们已经准备好出发了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "**..We founded something unusial..**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**..我们发现了一些不寻常的.. **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "**.. Is it a new anomaly?!..**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**.. 它是一个新的物种吗？!.. **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** BOSS控制了你的大脑！！这个地方不是真实的！！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "**You have defeated controller!!! Good job**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你打败了BOSS！干得漂亮 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "**Now go away to the coast**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 现在去海岸 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "**The blowout is comming**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 核反应堆开始不稳定 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "**Prepare to FIGHT**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 准备战斗 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,7 +475,7 @@
   {
     "original": "**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 所有神器升级到最高级**在必要时使用 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,7 +486,7 @@
   {
     "original": "**PREPARE TO MOVE IN 10 SECONDS!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 准备在10秒后撤退 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -497,7 +497,7 @@
   {
     "original": "**GO!!**GO!!**GO!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**冲！！**冲！！**冲！！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,7 +508,7 @@
   {
     "original": "**DON'T LET HIM TO FAIL US!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**我们不能失败!!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,7 +519,7 @@
   {
     "original": "**PLAY AS YOU CAN**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 尽你所能活下来！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你很接近胜利**继续防守 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**它想杀死我们！向它开枪！！！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "**HE IS DEAD!!NICE WORK!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 他死了!!干得漂亮！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -563,7 +563,7 @@
   {
     "original": "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了本地图！你才是真正的潜行者！！！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -574,7 +574,7 @@
   {
     "original": "THE LIFT 1 WILL LEAVE IN 4 SECONDS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一号电梯将在4秒后离开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "**You win the round!!You unlock the hard mode.**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了这回合!!你解锁了困难模式 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
