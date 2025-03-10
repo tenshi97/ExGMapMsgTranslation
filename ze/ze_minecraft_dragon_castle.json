@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Last 5 sec!",
@@ -140,7 +140,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "ZM TP 10 SEC !",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Open GO!",
@@ -437,7 +437,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Zombie short way open !",
@@ -530,7 +530,7 @@
   {
     "original": "* Bucket 2 pickup*",
     "en_trans": "",
-    "zh_trans": "* 拿起 2 号桶 *",
+    "zh_trans": "* 已拿起 2 号桶，装上水去把房子的火灭了 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "* Bucket 1 pickup*",
     "en_trans": "",
-    "zh_trans": "* 拿起 1 号桶 *",
+    "zh_trans": "* 已拿起 1 号桶，装上水去把房子的火灭了 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "The barrier will break in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "屏障将在 20 秒后破裂。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,18 +684,18 @@
   {
     "original": "DONT DEFEND GO BACK !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "不要守了，快跑！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The barrier will break in 15 seconds. GO BACK!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "屏障将在 15 秒后破裂。快跑！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,40 +706,40 @@
   {
     "original": "5 houses continue to burn.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "五栋房屋还在继续燃烧着。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "4 houses continue to burn.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "四栋房屋还在继续燃烧着。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "3 houses continue to burn.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "三栋房屋还在继续燃烧着。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE BOSS DOOR WILL OPEN IN 30 SECONDS!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS房 将在 30 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,7 +750,7 @@
   {
     "original": "Last 5 sec ! READY !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒！准备好！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -761,18 +761,18 @@
   {
     "original": "BOSS DOOR OPEN! GO!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS房开了！走！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "BOSS DOOR CLOSING 10 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS房即将关闭，10 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,51 +783,51 @@
   {
     "original": "BOSS DOOR CLOSED!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS房已关闭！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### GHOST BOSS ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 恶魂 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### LASER ACTIVATED ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 跳刀时间 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Fire Activated !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "恶魂火球！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "THE ZOMBIE DOOR WILL OPEN IN 10 SECONDS.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "尸笼将在 10 秒后打开。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,7 +838,7 @@
   {
     "original": "3!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "3!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,7 +849,7 @@
   {
     "original": "2!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "2!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,7 +860,7 @@
   {
     "original": "1!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,40 +871,40 @@
   {
     "original": "ZOMBIE DOOR OPENING !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "尸笼开了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "BOSS OVER !!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS 死了 !!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "FINAL DOOR OPENING!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最终的门正在打开！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "FINAL DOOR CLOSING 10 SEC!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最终的门 10 秒后关闭！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
