@@ -5,8 +5,10 @@
     "zh_trans": "***地图由LUFFAREN制作***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***",
@@ -14,8 +16,10 @@
     "zh_trans": "***不要试图走捷径—否则会被传送回原处***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FOLLOW THE ARROWS TO AVOID DEAD ENDS***",
@@ -23,8 +27,10 @@
     "zh_trans": "***跟着箭头走以避开死胡同***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LEVER GOING UP IN 5 SECONDS***",
@@ -32,8 +38,10 @@
     "zh_trans": "***杠杆将在5秒后升起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOOR OPENING IN 10 SECONDS***",
@@ -41,8 +49,10 @@
     "zh_trans": "***门将在10秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOOR IS OPEN - FALL BACK***",
@@ -50,8 +60,10 @@
     "zh_trans": "***门已打开—后退***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***INCOMING TOAST - LEFT CHAMBER***",
@@ -59,8 +71,10 @@
     "zh_trans": "***左室有烤面包机即将出现***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***A TOASTER HAS BEEN PICKED UP***",
@@ -68,8 +82,10 @@
     "zh_trans": "***一个烤面包机已被拿起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE PEANUT BUTTER HAS BEEN PICKED UP***",
@@ -77,8 +93,10 @@
     "zh_trans": "***花生酱已被拿起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOME SOUR MILK HAS BEEN PICKED UP***",
@@ -86,8 +104,10 @@
     "zh_trans": "***酸牛奶已被拿起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YUUCK***",
@@ -95,8 +115,10 @@
     "zh_trans": "***呀，真恶心***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***INCOMING TOAST - BOTH CHAMBERS***",
@@ -104,8 +126,10 @@
     "zh_trans": "***两个房间都有烤面包机即将出现***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***A METAL ASS HAS BEEN PICKED UP***",
@@ -113,8 +137,10 @@
     "zh_trans": "***一个金属已被拿起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***INCOMING TOAST - RIGHT CHAMBER***",
@@ -122,8 +148,10 @@
     "zh_trans": "***右室有烤面包机即将出现***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***A JALAPENO HAS BEEN PICKED UP***",
@@ -131,8 +159,10 @@
     "zh_trans": "***一个墨西哥辣椒已被拿起***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 25 SECONDS***",
@@ -140,8 +170,10 @@
     "zh_trans": "***电梯将在25秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "已加载修复神器卡人stripper(by bxzl)",
@@ -149,8 +181,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DOOR OPENING IN 5 SECONDS***",
@@ -158,8 +192,10 @@
     "zh_trans": "***门将在5秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOOR IS OPEN***",
@@ -167,8 +203,10 @@
     "zh_trans": "***门已打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LOCATE AND PRESS ALL FIVE BUTTONS***",
@@ -176,8 +214,10 @@
     "zh_trans": "***找到并按下所有五个按钮***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***INITIATE THE TOASTER***",
@@ -185,8 +225,10 @@
     "zh_trans": "***启动烤面包机***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BUTTON PRESSED***",
@@ -194,8 +236,10 @@
     "zh_trans": "***按钮已被按下***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SOMETHING IS BLOCKING THE LEVER***",
@@ -203,8 +247,10 @@
     "zh_trans": "***有东西挡住了杠杆***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***BREAK THE BLOCKING METAL PIECE UNDERNEATH***",
@@ -212,8 +258,10 @@
     "zh_trans": "***打破下面挡住的金属部件***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU DID IT***",
@@ -221,8 +269,10 @@
     "zh_trans": "***你做到了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HOLD THEM OFF UNTIL THE LEVER IS ALL THE WAY DOWN***",
@@ -230,8 +280,10 @@
     "zh_trans": "***在杠杆完全降下之前挡住它们***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER HAS BEEN TURNED ON***",
@@ -239,8 +291,10 @@
     "zh_trans": "***烤面包机已被打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ESCAPE THE TOASTER***",
@@ -248,8 +302,10 @@
     "zh_trans": "***逃离烤面包机***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***",
@@ -257,8 +313,10 @@
     "zh_trans": "***烤面包机将在180秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***GET OUT OF THE TOASTER***",
@@ -266,8 +324,10 @@
     "zh_trans": "***从烤面包机里出来***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THIS PLACE IS FALLING APART***",
@@ -275,8 +335,10 @@
     "zh_trans": "***这个地方正在分崩离析***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU MUST HURRY***",
@@ -284,8 +346,10 @@
     "zh_trans": "***你必须快点***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST!***",
@@ -293,8 +357,10 @@
     "zh_trans": "***烤面包机即将烤面包！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RUN FOR IT***",
@@ -302,8 +368,10 @@
     "zh_trans": "***快跑***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS GOING TO TOAST TOAST IN 2 MINUTES***",
@@ -311,8 +379,10 @@
     "zh_trans": "***烤面包机将在120秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***REMOVING DEBRIS - 5 SECONDS***",
@@ -320,8 +390,10 @@
     "zh_trans": "***5秒后清除杂物***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DEBRIS REMOVED - FALL BACK***",
@@ -329,8 +401,10 @@
     "zh_trans": "***杂物已清除——后退***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***",
@@ -338,8 +412,10 @@
     "zh_trans": "***烤面包机将在60秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS GOING TO TOAST TOAST IN 30 SECONDS***",
@@ -347,8 +423,10 @@
     "zh_trans": "***烤面包机将在30秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE STAIRS ARE BROKEN***",
@@ -356,8 +434,10 @@
     "zh_trans": "***楼梯坏了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GET UP ALL THE WAY TO THE MIDDLE SECTION ON TOP***",
@@ -365,8 +445,10 @@
     "zh_trans": "***一直爬到顶部的中间部分***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HOLD THERE FOR AS LONG AS POSSIBLE BEFORE JUMPING ON THE TOASTER***",
@@ -374,8 +456,10 @@
     "zh_trans": "***在跳到烤面包机上之前，尽可能长时间地待在那里***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***FLY OUT WITH THE TOAST OR DIE***",
@@ -383,8 +467,10 @@
     "zh_trans": "***跟着面包飞出去，否则就死***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS GOING TO TOAST TOAST IN 20 SECONDS***",
@@ -392,8 +478,10 @@
     "zh_trans": "***烤面包机将在20秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST IN 10 SECONDS***",
@@ -401,8 +489,10 @@
     "zh_trans": "***烤面包机即将在10秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***GET OUT OF THERE***",
@@ -410,8 +500,10 @@
     "zh_trans": "***从那里出去***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***",
@@ -419,8 +511,10 @@
     "zh_trans": "***烤面包机即将在5秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***",
@@ -428,8 +522,10 @@
     "zh_trans": "***烤面包机即将在4秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***",
@@ -437,8 +533,10 @@
     "zh_trans": "***烤面包机即将在3秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***",
@@ -446,8 +544,10 @@
     "zh_trans": "***烤面包机即将在2秒后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***",
@@ -455,8 +555,10 @@
     "zh_trans": "***烤面包机即将在1秒钟后烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TOASTER IS TOASTING TOAST***",
@@ -464,8 +566,10 @@
     "zh_trans": "***烤面包机正在烤面包***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GET TOASTED!***",
@@ -473,8 +577,10 @@
     "zh_trans": "***那很舒服了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU MADE IT***",
@@ -482,8 +588,10 @@
     "zh_trans": "***你做到了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***YOU COMPLETED THE MISSION - AND ESCAPED THE TOASTER***",
@@ -491,8 +599,10 @@
     "zh_trans": "***你完成了任务—并且逃离了烤面包机***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***WAIT A SECOND...***",
@@ -500,8 +610,10 @@
     "zh_trans": "***等一下……***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ITS NICOLAS CAGE!***",
@@ -509,8 +621,10 @@
     "zh_trans": "***是尼古拉斯·凯奇！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***UR***",
@@ -518,8 +632,10 @@
     "zh_trans": "***you are***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 10 SECONDS***",
@@ -527,8 +643,10 @@
     "zh_trans": "***电梯将在10秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 5 SECONDS***",
@@ -536,8 +654,10 @@
     "zh_trans": "***电梯将在5秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 4 SECONDS***",
@@ -545,8 +665,10 @@
     "zh_trans": "***电梯将在4秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 3 SECONDS***",
@@ -554,8 +676,10 @@
     "zh_trans": "***电梯将在3秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 2 SECONDS***",
@@ -563,8 +687,10 @@
     "zh_trans": "***电梯将在2秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LAGEVATOR IS LEAVING IN 1 SECOND***",
@@ -572,8 +698,10 @@
     "zh_trans": "***电梯将在1秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING***",
@@ -581,8 +709,10 @@
     "zh_trans": "***电梯正在离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***DOOR OPENING IN 20 SECONDS***",
@@ -590,8 +720,10 @@
     "zh_trans": "***门将在20秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "已加载修复神器卡人new stripper(by bxzl)",
@@ -599,8 +731,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 15 SECONDS***",
@@ -608,8 +742,10 @@
     "zh_trans": "***电梯将在15秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 1 SECOND***",
@@ -617,8 +753,10 @@
     "zh_trans": "***电梯将在1秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** ZOMBIES HAVE ESCAPED THE TOASTER! ***",
@@ -626,7 +764,20 @@
     "zh_trans": "*** 僵尸从烤面包机里逃出来了！*** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "已加载修复BOSS秒人问题stripper(by bxzl)",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
