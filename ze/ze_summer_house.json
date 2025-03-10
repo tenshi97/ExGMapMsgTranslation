@@ -5,8 +5,10 @@
     "zh_trans": "地图:ze_summer_house",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Thanks to Darivan、 Geraral、打酱油的企鹅",
@@ -14,8 +16,10 @@
     "zh_trans": "感谢Darivan、 Geraral、打酱油的企鹅",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Wait here for 35 seconds",
@@ -23,8 +27,10 @@
     "zh_trans": "在这里等待35秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "welcome to the summer house，enjoy yourself！",
@@ -32,6 +38,7 @@
     "zh_trans": "欢迎来到夏日别墅,好好享受吧!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -42,8 +49,10 @@
     "zh_trans": "撤退路会在25秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "soon randomly select a road",
@@ -51,6 +60,7 @@
     "zh_trans": "不久后会随机选择一条路",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -61,6 +71,7 @@
     "zh_trans": "挂机玩家已经被传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -71,8 +82,10 @@
     "zh_trans": "撤退路会在30秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "break these glasses!",
@@ -80,6 +93,7 @@
     "zh_trans": "打碎这些玻璃!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -90,6 +104,7 @@
     "zh_trans": "另一条侧路已经打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -100,8 +115,10 @@
     "zh_trans": "挂机玩家会在5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The road will open in 15 seconds",
@@ -109,8 +126,10 @@
     "zh_trans": "撤退路会在15秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Oh, I forgot to retrieve my storybook. Can you help me retrieve it？",
@@ -118,6 +137,7 @@
     "zh_trans": "哦，我忘了拿我的故事书了。你能帮我找回来吗？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -128,8 +148,10 @@
     "zh_trans": "挂机玩家会在5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Please pass through that glowing door",
@@ -137,6 +159,7 @@
     "zh_trans": "请穿过那扇发光的门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -147,8 +170,10 @@
     "zh_trans": "挂机玩家会在3秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Please here for 30 seconds",
@@ -156,8 +181,10 @@
     "zh_trans": "在此坚守30秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "You have found my book, and now I can tell you stories！",
@@ -165,6 +192,7 @@
     "zh_trans": "你找到了我的书，现在我可以给你讲故事了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -175,8 +203,10 @@
     "zh_trans": "请等待5秒，然后通过前面有光亮的门返回屋内。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Soon, a random road will open",
@@ -184,6 +214,7 @@
     "zh_trans": "很快，一条随机的道路将会开启。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -194,8 +225,10 @@
     "zh_trans": "请在此防守40秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "now,Please listen to the first story...",
@@ -203,6 +236,7 @@
     "zh_trans": "现在，请听第一个故事...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -213,6 +247,7 @@
     "zh_trans": "感谢游玩",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -223,8 +258,10 @@
     "zh_trans": "请防守35秒，直至门关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The road will open in 10 seconds",
@@ -232,8 +269,10 @@
     "zh_trans": "道路将在10秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "AFK players will teleport in 7 seconds",
@@ -241,8 +280,10 @@
     "zh_trans": "挂机玩家会在7秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Please here for 35 seconds",
@@ -250,8 +291,10 @@
     "zh_trans": "请在此防守35秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The wall that blocks the spirit will be lifted in 5 seconds",
@@ -259,8 +302,10 @@
     "zh_trans": "僵尸推力5秒后失效",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Someone has picked up the mysterious Desert Eagle",
@@ -268,8 +313,20 @@
     "zh_trans": "有人拿到沙漠之鹰了快跑啊",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "The wall that blocks the spirit will be lifted in 8 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 8,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
