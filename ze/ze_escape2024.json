@@ -178,13 +178,13 @@
   {
     "original": ">>>快跑，否则要进入二次元了 !<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>快跑，否则要进入二次元了 !<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>tp in 15 seconds left<<<",
@@ -233,24 +233,24 @@
   {
     "original": ">>>无限弹药已启动<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>无限弹药已启动<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>无限弹药结束<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>无限弹药结束<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>door open in 20 seconds<<<",
@@ -277,23 +277,23 @@
   {
     "original": "无限弹药已开启",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "无限弹药已开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "无限弹药已结束",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "无限弹药已结束",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
