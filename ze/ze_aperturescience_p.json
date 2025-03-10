@@ -222,12 +222,12 @@
   {
     "original": "--**HINT: Crouch to clear the orange sphere!**--",
     "en_trans": "",
-    "zh_trans": "--**提示：上了板子请按住蹲，不然你会去世！**--",
+    "zh_trans": "--**提示：蹲下躲避前方橙色快速移动的球，不然你会去世！**--",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "--Congratulations--",
