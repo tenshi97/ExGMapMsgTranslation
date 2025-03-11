@@ -2,7 +2,7 @@
   {
     "original": "**WARMUP ROUND 60 SEC**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身时间---60秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,18 +13,18 @@
   {
     "original": "**Stage 2**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第二关 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "**WARMUP 5 SEC**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身时间---5秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "* *DEFEND DOOR 30 SECOND* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 门将在30秒后打开 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,40 +46,40 @@
   {
     "original": "* *FIRST PRESS 2 BUTTONS IN PUMPS ROOMS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 先去按下泵房里的两个按钮 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* *DON'T TRY TO FIGHT HIM, HIDE IN THE LOCKER* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 别尝试打败他，我的建议是找地方躲起来 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *FIND A BACKUP GENERATOR IN THE BASEMENT* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 现在去地下室找一台备用发电机 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *The bomb will explode in 15 seconds* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 炸弹将在15秒后爆炸 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "* *ZOMBIES BROKE THE BARRICADES! * *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 僵尸已经冲破了障碍! * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "* *DON'T LET THE ZOMBIES GO INSIDE THE BASEMENT* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 别让僵尸进入地下室 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,40 +112,40 @@
   {
     "original": "* *LEFT BUTTON PRESSED* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 左边的按钮已按下 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *RIGHT BUTTON PRESSED* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 右边的按钮已按下 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *MIDDLE BUTTON UNLOCK* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 中间的按钮已解锁 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *DEFEND 15 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 坚守15秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,18 @@
   {
     "original": "* *GO BACK TO SERVER ROOM* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 回到机房 * *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "* *CONGRATULATIONS STAGE 1 COMPLETE* *",
+    "en_trans": "",
+    "zh_trans": "* * 恭喜你们通过了第一关 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -165,20 +176,9 @@
     "force_hint": 0
   },
   {
-    "original": "* *CONGRATULATIONS STAGE 1 COMPLETE* *",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
     "original": "* *ZOMBIE SHORTCUT OPEN* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 僵尸侧路已开启 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "* *DEFEND 30 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 坚守30秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,18 +200,18 @@
   {
     "original": "* *THIS IS A GHOST, RUN FROM HIM!!!* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 这是幽灵, 卧槽快跑 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *1/6 documents found* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 当前已收集1/6份文件* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -222,7 +222,7 @@
   {
     "original": "* *THE ROOM IS DISINFECTED WAIT 10 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 房间正在消毒中，等待10秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "* *DEFEND 10 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 坚守10秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "* *AFK TELEPORT IN 10 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 10秒后传送挂机玩家 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "* *THE REACTOR DOOR WILL OPEN AT 10 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 反应堆的大门将在10秒后打开 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "* *THIS IS CHRIS WALKER KILL HIM FASTER!* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 这是克里斯.沃克，快淦死他！* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,40 +277,40 @@
   {
     "original": "* *CHRIS WALKER DEFEATED NOW GO BACK* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 克里斯.沃克已被击败，现在撤退 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *A PLAYER HAS PICKED UP DICK* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 有一位玩家拿起了diao * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *BILLY IS DEAD, FALL BACK!* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 比利死了，撤退！* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *2/6 documents found* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 当前已收集2/6份文件* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "* *TURN OFF THE VALVE FOR THE LIFE SUPPORT FLUID RESERVOIR* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 关闭生命支持液储液罐的阀门 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "* *DEFEND 20 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 坚守20秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "* *DEFEND 5 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 坚守5秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "* *3/6 documents found* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 当前已收集3/6份文件* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "* *SURVIVE 50 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 生存50秒 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "* *RUN BACK NEW DOORS ARE NOW OPEN!* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 有新的门打开了，该跑路了！* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "* *FIND BILLY IN THE MAIN LABARATORY* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 在主实验室找到比利 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "* *4/6 documents found* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 当前已收集4/6份文件* *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,18 +409,18 @@
   {
     "original": "* *GO BACK TO BILLY* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 回到比利那边 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *DOOR OPEN AT 5 SECONDS* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* * 门将在5秒后打开 * *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
