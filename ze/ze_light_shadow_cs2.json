@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< A human get wing >>>",
@@ -79,13 +79,13 @@
   {
     "original": "<<< Shadow ruled the world a long time ago >>>",
     "en_trans": "",
-    "zh_trans": "<<< 很久以前影子统治着世界 >>>",
+    "zh_trans": "<<< 很久以前暗影统治着世界 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< A zombie get Gravity >>>",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< 18 seconds left >>>",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Core perceives us ,it will use the power of light to defeat us >>>",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< 60 seconds left >>>",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< 10 seconds left >>>",
@@ -211,7 +211,7 @@
   {
     "original": "<<< stage set to [Ring] >>>",
     "en_trans": "",
-    "zh_trans": "<<< 关卡已调至 [环] >>>",
+    "zh_trans": "<<< 关卡已调至 [光环] >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< A zombie get Freeze >>>",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Shadow disguises light >>>",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Press both squares at the same time >>>",
@@ -283,7 +283,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 10 seconds left ***",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< stage set to [Escape] >>>",
@@ -354,7 +354,7 @@
   {
     "original": "<<< Protected by light, you are now immune to zombie attacks, but zombies will still prevent you from escaping >>>",
     "en_trans": "",
-    "zh_trans": "<<< 受到光之守护，现在对僵尸的攻击免疫，但僵尸仍会阻止你逃跑 >>>",
+    "zh_trans": "<<< 受到光之守护，现在人类不会被感染，但僵尸仍会使用神器阻止你逃跑 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Fire! This is final battle!",
@@ -404,18 +404,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< The ring protects core and restarts the time >>>",
     "en_trans": "",
-    "zh_trans": "<<< 环保护着核心并重启了时间 >>>",
+    "zh_trans": "<<< 光环保护着核心并重启了时间 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Now you're facing real shadow >>>",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Zombies are faster than you. You lose >>>",

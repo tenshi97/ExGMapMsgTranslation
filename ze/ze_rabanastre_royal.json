@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 5 seconds >",
@@ -96,7 +96,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Moogling is closed now,kupo~ >",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The path will clear in 20 seconds >",
@@ -129,7 +129,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A player has acquired Oil Magick >",
@@ -140,7 +140,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A player has acquired Wind Magick >",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A player has acquired Aqua Magick >",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The gate will open in 30 seconds >",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The fight with SandMonster will begin in 10 seconds >",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A zombie has acquired Bleed Magick >",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A player has acquired Scathe Magick >",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The Lowtown gate will open in 15 seconds >",
@@ -431,7 +431,7 @@
   {
     "original": "< Zeromus has casted Ice >",
     "en_trans": "",
-    "zh_trans": "< 扎罗姆斯施展了冰冻术，定身 >",
+    "zh_trans": "< 扎罗姆斯施展了冰冻术，场地中间的人会被定身 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -602,7 +602,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< You have defeated Extreme mode!Congratulations! >",
@@ -613,7 +613,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted DarkPower!Go to the sunshine in the middle of the arena >",
@@ -633,36 +633,36 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Zeromus has casted Shock >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 扎罗姆斯施展了电击，远离中间 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Trial Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 天神模式（Trial） >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The Airship will leave in 10 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 飞空艇将在 10 秒后离开 > ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "< The gate will open in 35 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 大门将在 35 秒后开启 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "< A random gate will open in 30 seconds >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 30 秒后随机开启一道门 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,7 +695,7 @@
   {
     "original": "< Boss fight start in 10 seconds... >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<  Boss 战将于 10 秒后开始... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,34 +706,34 @@
   {
     "original": "< Nades can do more damage >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 手雷可以造成更多伤害 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Defend until the final gate open! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 守到最后一道门开！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< You have defeated Trial mode!Congratulations! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 你已击败天神模式！恭喜！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
