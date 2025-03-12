@@ -39,9 +39,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Drain >>",
@@ -50,20 +50,20 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Trials of Sword >>",
     "en_trans": "",
-    "zh_trans": "<< 剑之试炼 (跳蹲刀) >>",
+    "zh_trans": "<< 剑之试炼 (随机跳蹲刀) >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Fallen Sky >>",
@@ -72,9 +72,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Misaka will use holy in 6 seconds >>",
@@ -94,9 +94,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Wind >>",
@@ -105,9 +105,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Congratulation !!! >>",
@@ -464,7 +464,7 @@
   {
     "original": "<< The boss will be unkillable after 25 seconds >>",
     "en_trans": "",
-    "zh_trans": "<< 25 秒后 boss 将会无法被杀死 >>",
+    "zh_trans": "<< 切刀崽种25秒后暴毙 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,7 +475,7 @@
   {
     "original": "<< Stage 3 true end complete>>",
     "en_trans": "",
-    "zh_trans": "<< 第三关真结局完成>>",
+    "zh_trans": "<< 第三关真结局完成 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -600,9 +600,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Absolute Purification >>",
@@ -611,9 +611,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Flame of Revenge >>",
@@ -622,9 +622,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Sign of Death >>",
@@ -633,9 +633,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Hunting Instinct >>",
@@ -644,9 +644,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< hold for 55 seconds >>",
@@ -1095,9 +1095,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Reaping Slash >>",
@@ -1106,9 +1106,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< MEGA PUSH >>",
@@ -1117,9 +1117,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< the platform will rise in 15 seconds >>",
@@ -1414,9 +1414,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< defend for 15 seconds >>",
@@ -1630,68 +1630,68 @@
   {
     "original": "*** Devil Wave - 恶魔冲击 ***",
     "en_trans": "",
-    "zh_trans": "*** Devil Wave - 恶魔冲击 ***",
+    "zh_trans": "*** Devil Wave - 恶魔冲击（三段随机推力） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Deadly Vortex - 致命漩涡 ***",
     "en_trans": "",
-    "zh_trans": "*** Deadly Vortex - 致命漩涡 ***",
+    "zh_trans": "*** Deadly Vortex - 致命漩涡(绞肉机) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Undead Legion - 亡灵军团 ***",
     "en_trans": "",
-    "zh_trans": "*** Undead Legion - 亡灵军团 ***",
+    "zh_trans": "*** Undead Legion - 亡灵军团（尸笼） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Divine penalty - 神罚 ***",
     "en_trans": "",
-    "zh_trans": "*** Divine penalty - 神罚 ***",
+    "zh_trans": "*** Divine penalty - 神罚（抬头） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Embattle - 四面楚歌 ***",
     "en_trans": "",
-    "zh_trans": "*** Embattle - 四面楚歌 ***",
+    "zh_trans": "*** Embattle - 四面楚歌（三面来刀） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Crippling strike - 致残打击 ***",
     "en_trans": "",
-    "zh_trans": "*** Crippling strike - 致残打击 ***",
+    "zh_trans": "*** Crippling strike - 致残打击（前方弹幕） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 10 ***",
