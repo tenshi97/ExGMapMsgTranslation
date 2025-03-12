@@ -134,7 +134,7 @@
 	{
 		"original": "*In the circle*",
 		"en_trans": "",
-		"zh_trans": "**内圈伤害（站边缘线上躲避）**",
+		"zh_trans": "**圆环只内（站边缘线上躲避）**",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -145,7 +145,7 @@
 	{
 		"original": "*Outside the circle*",
 		"en_trans": "",
-		"zh_trans": "**外圈伤害（站单个平台内躲避）**",
+		"zh_trans": "**圆环之外（站单个平台内躲避）**",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -475,7 +475,7 @@
 	{
 		"original": "*Corona*",
 		"en_trans": "",
-		"zh_trans": "*Corona*",
+		"zh_trans": "*日冕（躲避弹幕）*",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -486,7 +486,7 @@
 	{
 		"original": "*Star spin*",
 		"en_trans": "",
-		"zh_trans": "*星辰自转（躲避弹幕）*",
+		"zh_trans": "*星环（躲避中间弹幕）*",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -508,7 +508,7 @@
 	{
 		"original": "Ending | Seal |",
 		"en_trans": "",
-		"zh_trans": "结局 | 印记 |",
+		"zh_trans": "结局 | 封印 |",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
