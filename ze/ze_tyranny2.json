@@ -1032,5 +1032,38 @@
     "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
+  },
+  {
+    "original": "defeat boss within 30 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "defeat boss within 20 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "defeat boss within 10 seconds",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
