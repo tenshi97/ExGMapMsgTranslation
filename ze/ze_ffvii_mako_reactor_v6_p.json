@@ -245,7 +245,7 @@
   {
     "original": "MANUAL OVERRIDE: 5 SECONDS",
     "en_trans": "",
-    "zh_trans": "手动覆写：5 秒钟",
+    "zh_trans": "手动覆写：5 秒钟后门开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -299,7 +299,7 @@
   {
     "original": "MANUAL OVERRIDE: 10 SECONDS",
     "en_trans": "",
-    "zh_trans": "手动覆写：10 秒钟",
+    "zh_trans": "手动覆写：10 秒钟后门开",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -317,47 +317,52 @@
   {
     "original": "< BAHAMUT CASTED ICE >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·寒霜斩 >",
+    "zh_trans": "< 巴哈姆特·寒霜斩 (冰) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED AQUA >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·碧波斩 >",
+    "zh_trans": "< 巴哈姆特·碧波斩 (躲水刀) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT MIMICS AQUA >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·碧波斩 >",
+    "zh_trans": "< 巴哈姆特·复制能力·碧波斩 (躲水刀) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED BARRIER >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·护盾术 >",
+    "zh_trans": "< 巴哈姆特·护盾术 (不要开枪) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED WIND >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·风刃 >",
+    "zh_trans": "< 巴哈姆特·风刃 (按W抵抗推力) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED EARTH >",
@@ -380,11 +385,12 @@
   {
     "original": "< BAHAMUT CASTED BIO >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·毒雾术 >",
+    "zh_trans": "< 巴哈姆特·毒雾术 (躲避中间的毒) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< I'll see you again. >",
@@ -407,7 +413,7 @@
   {
     "original": "< Fly! >",
     "en_trans": "",
-    "zh_trans": "< 飞上去! >",
+    "zh_trans": "< 阁下还能接住几刀呢? >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -461,7 +467,7 @@
   {
     "original": "< Dodge this! >",
     "en_trans": "",
-    "zh_trans": "< 注意闪躲! >",
+    "zh_trans": "< 阁下能接住我的刀么?! >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -479,47 +485,52 @@
   {
     "original": "< BAHAMUT CASTED FIRE >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·烈焰 >",
+    "zh_trans": "< 巴哈姆特·烈焰 (站后面躲巴哈的火) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED ELECTRO >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·雷霆之术 >",
+    "zh_trans": "< 巴哈姆特·雷霆之术 (躲避中间的电) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED GRAVITY >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·万有引力 >",
+    "zh_trans": "< 巴哈姆特·万有引力 (按S抵抗吸力) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT MIMICS GRAVITY >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·万有引力 >",
+    "zh_trans": "< 巴哈姆特·复制能力·万有引力 (按S抵抗吸力) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT CASTED ULTIMA >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·终结 >",
+    "zh_trans": "< 巴哈姆特·终极 >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< I've been... Defeated? >",
@@ -569,11 +580,12 @@
   {
     "original": "< BAHAMUT MIMICS ELECTRO >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·雷霆之术 >",
+    "zh_trans": "< 巴哈姆特·复制能力·雷霆之术 (看脚底下的电)>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT MIMICS ULTIMA >",
@@ -583,6 +595,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "** An administrator has set [EASY] for next round! **",
@@ -596,11 +609,12 @@
   {
     "original": "< BAHAMUT MIMICS ICE >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·寒霜斩 >",
+    "zh_trans": "< 巴哈姆特·复制能力·寒霜斩 (冰) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "1233123",
@@ -632,20 +646,22 @@
   {
     "original": "< BAHAMUT MIMICS WIND >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·风刃 >",
+    "zh_trans": "< 巴哈姆特·复制能力·风刃 (W抵抗推力) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT MIMICS BARRIER >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·护盾术 >",
+    "zh_trans": "< 巴哈姆特·复制能力·护盾术 (停火!) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT MIMICS FIRE >",
@@ -655,6 +671,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   },
   {
     "original": "< BAHAMUT MIMICS EARTH >",
@@ -686,10 +703,11 @@
   {
     "original": "< BAHAMUT MIMICS BIO >",
     "en_trans": "",
-    "zh_trans": "< 巴哈姆特·复制能力·毒雾术 >",
+    "zh_trans": "< 巴哈姆特·复制能力·毒雾术 (注意中间的毒) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
+    "force_hint": 1
   }
 ]
