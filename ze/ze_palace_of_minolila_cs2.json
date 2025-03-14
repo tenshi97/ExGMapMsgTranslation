@@ -398,24 +398,24 @@
   {
     "original": "<< Push >>",
     "en_trans": "",
-    "zh_trans": "<< 推力 >>",
+    "zh_trans": "<< 推力（按w抵抗） >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Pull >>",
     "en_trans": "",
-    "zh_trans": "<< 吸力 >>",
+    "zh_trans": "<< 吸力（按s抵抗） >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< Well Done!!! >>",
@@ -655,9 +655,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "### Dr.X: We will meet later.... ###",
@@ -706,7 +706,7 @@
   {
     "original": "### Minolila: I've already prepared the teleporter for you, Good Luck! ###",
     "en_trans": "",
-    "zh_trans": "###米诺利拉：我已经为你准备好了传送器，祝你好运###",
+    "zh_trans": "### 米诺莉拉：我已经为你准备好了传送器，祝你好运 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "## Dr.X will kill us in 10 seconds!!! ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## X博士会在10秒后杀死我们！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
