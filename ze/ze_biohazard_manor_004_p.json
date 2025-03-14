@@ -30,18 +30,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "We must have missed something... we'll have to open it by force",
     "en_trans": "",
-    "zh_trans": "我们肯定漏掉了什么……得强行打开了",
+    "zh_trans": "我们肯定漏掉了什么……得强行打开了。C4将在60秒后爆炸（离炸弹太近可能会被炸死）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 60,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "传出去，清水明日香是路痴！",

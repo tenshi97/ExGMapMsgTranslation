@@ -42,7 +42,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We need to make the door move! **",
@@ -222,7 +223,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** There is some screaking sound in the distance - maybe something is lurking in the darkness! **",
@@ -303,7 +305,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **",
@@ -312,7 +315,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We can't get past here with that stove turned on! **",
@@ -348,7 +352,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The metal is still hot - KEEP RESISTING! **",
@@ -357,7 +362,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** NOW! GET MOVING! **",
@@ -365,8 +371,9 @@
     "zh_trans": "** 就是现在!撤退！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **",
@@ -428,8 +435,9 @@
     "zh_trans": "** 比利会腐化所有恐怖的东西! 僵尸将会变得很脆弱!（幽灵走过的地方才有强制1血） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** And thus Billy the friendly ghost removed all spooky things from the world **",
