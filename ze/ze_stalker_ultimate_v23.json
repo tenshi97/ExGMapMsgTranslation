@@ -607,7 +607,7 @@
   {
     "original": "**Hold the place for 25 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 坚守此地25秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "***THE BOSS HAS MAXIMUM HP***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** boss的血量已达上限 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,7 +629,7 @@
   {
     "original": "***Break the spheres to escape***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 赶紧打碎中间的玻璃柱然后撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,7 +640,7 @@
   {
     "original": "***OH NO WHO IS IT? WE MUST KILL IT!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 哦，不，是谁？我们必须杀死他! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -651,12 +651,12 @@
   {
     "original": "**You did it!! You have completed stage 2!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你做到了!! 你拿下了第二关!!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
