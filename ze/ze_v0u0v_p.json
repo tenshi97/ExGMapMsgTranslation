@@ -398,7 +398,7 @@
   {
     "original": "<<< HOLD 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 坚守 10 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,29 +409,29 @@
   {
     "original": ">>> SAITAMA IS COMING <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> BOSS来袭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> SAITAMA HAS BEEN DEFEATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> BOSS被打败了 <<< ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD 10 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 坚守 10 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "<<< HOLD 30 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 坚守 30 秒 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,12 +453,12 @@
   {
     "original": ">>> STAGE2 COMPLETED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第二阶段已完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
