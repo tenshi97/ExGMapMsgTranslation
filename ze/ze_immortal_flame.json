@@ -5,8 +5,10 @@
     "zh_trans": "~大门将在15秒后打开~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Door is now open ~",
@@ -14,8 +16,10 @@
     "zh_trans": "~大门正在开启~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "~ Door will open in 25s ~",
@@ -23,8 +27,10 @@
     "zh_trans": "~大门将在25秒后打开~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Afk tele enable in 10s ~",
@@ -32,8 +38,10 @@
     "zh_trans": "~挂机者将会在10秒后传送~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Bottom door open in 25s ~",
@@ -41,8 +49,10 @@
     "zh_trans": "~ 底层大门将会在25秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Bottom door is now open ~",
@@ -50,8 +60,10 @@
     "zh_trans": "~ 底层大门正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "~ Upper door open in 30s ~",
@@ -59,8 +71,10 @@
     "zh_trans": "~ 上层大门将会在30秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Upper door open in 25s ~",
@@ -68,8 +82,10 @@
     "zh_trans": "~ 上层大门将会在25秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Upper door is now open ~",
@@ -77,8 +93,10 @@
     "zh_trans": "~ 上层大门正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "~ Upper portal open in 20s ~",
@@ -86,8 +104,10 @@
     "zh_trans": "~ 上层入口将会在20秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Bottom portal open in 20s ~",
@@ -95,8 +115,10 @@
     "zh_trans": "~ 底层入口将会在20秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Upper portal is now open ~",
@@ -104,8 +126,10 @@
     "zh_trans": "~ 上层入口正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "~ Last portal open in 15s ~",
@@ -113,8 +137,10 @@
     "zh_trans": "~ 最后的入口将会在15秒后打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Bottom portal is now open ~",
@@ -122,8 +148,10 @@
     "zh_trans": "~ 底层入口正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "~ Last portal is now open ~",
@@ -131,8 +159,10 @@
     "zh_trans": "~ 最后的入口正在打开 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "~ Portal will close in 30s ~",
@@ -140,8 +170,10 @@
     "zh_trans": "~ 入口将会在30秒后关闭 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Last afk tele enable in 5s ~",
@@ -149,8 +181,10 @@
     "zh_trans": "~ 挂机者最后一次传送在5秒后 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Truth be told",
@@ -158,8 +192,10 @@
     "zh_trans": "诉说真相之路（Truth be told）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "It's a lonely road",
@@ -167,8 +203,10 @@
     "zh_trans": "是孤独的（It's a lonely road）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ Portal will close in 10s ~",
@@ -176,8 +214,10 @@
     "zh_trans": "~ 入口将会在10秒后关闭 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Chasing your dreams",
@@ -185,8 +225,10 @@
     "zh_trans": "追逐你的梦想吧（Chasing your dreams）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "And all that we are",
@@ -194,8 +236,10 @@
     "zh_trans": "我们所拥有的一切（And all that we are）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "And could ever be",
@@ -203,8 +247,10 @@
     "zh_trans": "我们能做的一切（And could ever be）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Is within our reach",
@@ -212,8 +258,10 @@
     "zh_trans": "都受限于我们的能力（Is within our reach）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Ignite the fire",
@@ -221,8 +269,10 @@
     "zh_trans": "点燃圣火!（Ignite the fire）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Pure hearts can never expire",
@@ -230,8 +280,10 @@
     "zh_trans": "纯洁之心永垂不朽（Pure hearts can never expire）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "May the bridges that we burn",
@@ -239,8 +291,10 @@
     "zh_trans": "我们点燃的桥梁（May the bridges that we burn）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Light the way",
@@ -248,8 +302,10 @@
     "zh_trans": "照亮了来时的路（Light the way）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "From the ash we rise",
@@ -257,8 +313,10 @@
     "zh_trans": "我们从灰烬之中（From the ash we rise）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Like phoenix taking flights",
@@ -266,8 +324,10 @@
     "zh_trans": "",
     "jp_trans": "如凤凰般涅槃重生（Like phoenix taking flights）",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Blaze an immortal",
@@ -275,8 +335,10 @@
     "zh_trans": "化作一团永恒的火焰（Blaze an immortal）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "F L A M E",
@@ -284,8 +346,10 @@
     "zh_trans": "永恒之火（F L A M E）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Blaze like an immortal flame",
@@ -293,8 +357,10 @@
     "zh_trans": "化作一团永恒之火（Blaze like an immortal flame）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Shine like the sun",
@@ -302,8 +368,10 @@
     "zh_trans": "如烈日般闪耀（Shine like the sun）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Piercing the sky",
@@ -311,8 +379,10 @@
     "zh_trans": "刺穿苍穹（Piercing the sky）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Die",
@@ -320,8 +390,10 @@
     "zh_trans": "纯洁之心永垂不朽（Pure hearts can never die）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Rise from the fire",
@@ -329,8 +401,10 @@
     "zh_trans": "浴火重生（Rise from the fire）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Begin again",
@@ -338,8 +412,10 @@
     "zh_trans": "重头再来（Begin again）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Flame",
@@ -347,8 +423,10 @@
     "zh_trans": "永恒之火",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Blaze an immortal flame",
@@ -356,8 +434,10 @@
     "zh_trans": "化作一团永恒的火焰（Blaze an immortal flame）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "~ 8 ~",
@@ -365,8 +445,10 @@
     "zh_trans": "~ 8 ~",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Waited all our lives",
@@ -374,8 +456,10 @@
     "zh_trans": "冗长的等待（Waited all our lives）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Just to burn this bright",
@@ -383,8 +467,10 @@
     "zh_trans": "只为有朝一日熊熊燃烧（Just to burn this bright）",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Map by Chartapilus",
@@ -392,8 +478,10 @@
     "zh_trans": "地图由Chartapilus制作",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-Map by Chartapilus-",
@@ -401,8 +489,10 @@
     "zh_trans": "-地图作者 Chartapilus-",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "-Port by 花澪墨音 -",
@@ -410,7 +500,31 @@
     "zh_trans": "-由 花澪墨音 移植至CS2 -",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "~ Both portals open in 20s ~",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "~ Both portals are now open ~",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
