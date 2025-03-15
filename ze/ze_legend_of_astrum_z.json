@@ -57,29 +57,29 @@
   {
     "original": "<<Kokkoro's Spear - Heals 50 HP. After that it pushes zombies away with the faeries it spawns>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<可可萝的长枪 - 恢复50点HP.随后召唤精灵将僵尸击退。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 50,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<Kokkoro's Spear - After casting a healing aura will appear for 8 seconds.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<可可萝的长枪 - 施展后，展开持续8秒的治愈光环。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 8,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<Warmup -- 40 seconds>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<热身 -- 40 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,12 +90,12 @@
   {
     "original": "<<Pecorine's Sword - Become a shield which blocks zombies from going through you.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<佩可莉姆的剑 - 化身为团队的盾牌，阻挡僵尸通过自身所在位置。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

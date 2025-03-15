@@ -2,7 +2,7 @@
   {
     "original": ">>Part Function Test<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>部分功能测试<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": ">>Due to the heavy workload, this version only has 1 and 2 level<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>由于工作量繁重，此版本仅有第一关和第二关<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": ">>Boat will leave in 15 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>船将在 15 秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,18 +35,18 @@
   {
     "original": ">>Normal<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>普通(Normal)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A player has picked up <Last Bastion>(Barrier)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<终极堡垒>（屏障）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": ">>Door will open in 10 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 10 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "**A player has picked up <High Thunder Ⅱ>(Thunder)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<高震雷>（电）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "**A player has picked up <Radiant Finale>(Ammo)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<光明神的最终乐章>（弹药）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "**A player has picked up <Gravity Ⅱ>(Gravity)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<中重力>（黑洞）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": ">>Door will open in 30 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 30 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "**A player has picked up <Sacred Soil>(Heal)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<野战治疗阵>（治疗）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,62 +123,62 @@
   {
     "original": ">>Activate 4 Nymian Devices<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>激活4个尼姆装置<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>Nymian Device Ⅰ has activated<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>尼姆装置Ⅰ已激活<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Nymian Device Ⅱ has activated<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>尼姆装置Ⅱ已激活<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Nymian Device Ⅲ has activated<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>尼姆装置Ⅲ已激活<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Nymian Device Ⅳ has activated<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>尼姆装置Ⅳ已激活<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will open in 25 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 25 秒后开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": ">>The Final Door will open in 30 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>最终的门将在 30 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "**A player has picked up <Doton>(Dirt)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<土遁之术>（土）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,18 +211,18 @@
   {
     "original": ">>Looks the Nymian Device is rusty<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>尼姆装置看起来生锈了<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>The Final Door will close in 15 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>最终的门将在 15 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,18 +233,18 @@
   {
     "original": ">>Hard<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>困难(Hard)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will open in 20 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 20 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,29 +255,29 @@
   {
     "original": ">>Looks the road is blocked<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>看起来道路被阻塞了<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Keep defense<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>保持防御<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will close in 10 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 10 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": ">>Door will open in 15 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 15 秒后开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": ">>Door will close in 30 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 30 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
