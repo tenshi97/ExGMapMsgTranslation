@@ -57,13 +57,13 @@
   {
     "original": "> 冰元素已被升级 !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 冰元素已被升级 !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 一名玩家获得了奶元素",
@@ -156,13 +156,13 @@
   {
     "original": "> 黑元素已被升级 !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 黑元素已被升级 !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 这道屏障将于40秒后解除",
@@ -343,13 +343,13 @@
   {
     "original": "> 火元素已被升级 !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 火元素已被升级 !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 经流至“破”！",
@@ -486,13 +486,13 @@
   {
     "original": "> 奶元素已被升级 !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 奶元素已被升级 !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 这道屏障将于20秒后解除",
@@ -508,13 +508,13 @@
   {
     "original": "> 电元素已被升级 !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 电元素已被升级 !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 咆哮吧，我的斗气！",
@@ -618,13 +618,13 @@
   {
     "original": "> 讨伐目标：罗波那 - 極",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 讨伐目标：罗波那 - 極",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 一名玩家学会了沉默魔法",
@@ -640,23 +640,23 @@
   {
     "original": "> 武神之甲！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 武神之甲！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> 【罗波那 - 極】讨伐成功！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 【罗波那 - 極】讨伐成功！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
