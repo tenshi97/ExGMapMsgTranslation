@@ -2,11 +2,12 @@
   {
     "original": "Lv1",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "Lv1",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "20s",
@@ -65,11 +66,12 @@
   {
     "original": "...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Shield cd80s",
@@ -92,11 +94,12 @@
   {
     "original": "Lv2",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "Lv2",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "A new place. Looks like that thing's still following me",
@@ -105,7 +108,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "100s",
@@ -119,11 +123,12 @@
   {
     "original": ". . .",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ". . .",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "45s",
@@ -155,29 +160,32 @@
   {
     "original": "RTV",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "RTV",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "RRRRRRRRTTTTTTTTTVVVVVVVVV",
     "en_trans": "",
-    "zh_trans": "rtv rtv rtv rtv rtv 5",
+    "zh_trans": "rtv rtv rtv rtv rtv",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Lv3",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "Lv3",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "110s",
@@ -191,29 +199,32 @@
   {
     "original": "[. . . ]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[. . . ]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[. . . . .]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[. . . . .]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[. . . . . . .]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[. . . . . . .]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "admin set lv2",
@@ -227,11 +238,12 @@
   {
     "original": "<? ? ?>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<? ? ?>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "admin set Rtv1",
