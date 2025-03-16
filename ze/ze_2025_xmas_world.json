@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "+ Warning! SnowBalls Coming For 5 Seconds... +",
@@ -78,7 +79,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "+ 30 Seconds Defend For Military Vehicle... +",
@@ -105,7 +107,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "+ 40 Seconds Survival For Top Floor, (20 sc zm tp) +",
@@ -123,7 +126,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "+ Last 10 Seconds Final! +",
@@ -141,12 +145,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "+ Everyone RTV! for Frostdrake! +",
     "en_trans": "",
-    "zh_trans": "+ 按Y输入rtv换图! 选冰龙塔! +",
+    "zh_trans": "+ 按Y输入rtv换图! 选冰龙塔!(翻译:星荧铃) +",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
