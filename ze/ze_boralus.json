@@ -46,24 +46,24 @@
   {
     "original": ">>>找到钥匙！<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>找到钥匙！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>钥匙已经找到<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>钥匙已经找到<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>door open in 30 seconds<<<",
@@ -79,24 +79,24 @@
   {
     "original": ">>>干的漂亮，离开这座监狱<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>干的漂亮，离开这座监狱<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>我们的船已经来接我们了，但还要一些准备<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>我们的船已经来接我们了，但还要一些准备<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>在天台最后防守 30 seconds<<<",
@@ -112,24 +112,24 @@
   {
     "original": ">>>所有传送已关闭<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>所有传送已关闭<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>快上船!<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>快上船!<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>nuke in 20 seconds<<<",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>给我点时间搭一座木桥, 10 seconds left<<<",
@@ -200,13 +200,13 @@
   {
     "original": ">>>这儿是伯拉勒斯的汇帆市场<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>这儿是伯拉勒斯的汇帆市场<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>door open in 30 seconds left<<<",
@@ -222,46 +222,46 @@
   {
     "original": ">>>前方是戴姆维克街区<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>前方是戴姆维克街区<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>那里是流浪汉的居所<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>那里是流浪汉的居所<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>我们必须穿过这片街区<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>我们必须穿过这片街区<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>有一面墙壁碎了<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>有一面墙壁碎了<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>20 seconds left<<<",
@@ -277,13 +277,13 @@
   {
     "original": ">>>终于从这恶心的街区出来了<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>终于从这恶心的街区出来了<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>防守到门关, 20 seconds left<<<",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>30 seconds left<<<",
@@ -321,51 +321,51 @@
   {
     "original": "英勇",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "英勇",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "英勇已结束",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "英勇已结束",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>找到钥匙<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>找到钥匙<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>找到地窖的钥匙我们才能继续前进<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>找到地窖的钥匙我们才能继续前进<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>30 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩 30 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": ">>40 seconds left<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>还剩 40 秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,12 +387,12 @@
   {
     "original": ">>>stage 3 complete<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>第三关完成<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
