@@ -134,7 +134,7 @@
 	{
 		"original": "*In the circle*",
 		"en_trans": "",
-		"zh_trans": "**圆环只内（站边缘线上躲避）**",
+		"zh_trans": "**圆环之内（站边缘线上躲避）**",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -156,7 +156,7 @@
 	{
 		"original": "*Thrust*",
 		"en_trans": "",
-		"zh_trans": "**推力波(抵抗推力)**",
+		"zh_trans": "**吸力波(抵抗吸力)**",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -167,7 +167,7 @@
 	{
 		"original": "*Suction*",
 		"en_trans": "",
-		"zh_trans": "**吸力波(抵抗吸力)**",
+		"zh_trans": "**推力波(抵抗推力)**",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -277,13 +277,13 @@
 	{
 		"original": "Congratulations on completing all levels",
 		"en_trans": "",
-		"zh_trans": " 恭喜你们拿下了这张地图！（翻译/补充；水木、）",
+		"zh_trans": " 恭喜你们拿下了这张地图！（翻译/补充：水木、）",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***left***",
@@ -453,7 +453,7 @@
 	{
 		"original": "*Country*",
 		"en_trans": "",
-		"zh_trans": "*Country*",
+		"zh_trans": "* 国度（去场地内圈）*",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -464,7 +464,7 @@
 	{
 		"original": "*Ground explosion*",
 		"en_trans": "",
-		"zh_trans": "* 地面毁灭 *",
+		"zh_trans": "* 地爆（躲脚底特效） *",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -475,7 +475,7 @@
 	{
 		"original": "*Corona*",
 		"en_trans": "",
-		"zh_trans": "*日冕（躲避弹幕）*",
+		"zh_trans": "* 日冕（躲避弹幕）*",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
@@ -486,7 +486,7 @@
 	{
 		"original": "*Star spin*",
 		"en_trans": "",
-		"zh_trans": "*星环（躲避中间弹幕）*",
+		"zh_trans": "* 星环（躲避中间弹幕）*",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
