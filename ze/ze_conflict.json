@@ -2,7 +2,7 @@
   {
     "original": "::: Map By Rio :::",
     "en_trans": "",
-    "zh_trans": "::: 地图由Rio制作 ::: ",
+    "zh_trans": "::: 地图由Rio制作(翻译:星荧铃) ::: ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -213,7 +213,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "::: Portal is OPEN, FALL BACK :::",
@@ -222,7 +223,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "::: Survival 30 seconds left :::",
