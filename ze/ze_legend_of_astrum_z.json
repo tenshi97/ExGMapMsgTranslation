@@ -470,12 +470,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You found all of our weapons! We can push forward. Let's just wait for 20 seconds for the rest to catch up. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你找齐了我们的武器！这下可以继续推进了。先等 20 秒让后面的人跟上吧。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,29 +486,29 @@
   {
     "original": "** You know what. Keep the weapons for now. We will teach you how to use them in Landosol. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 对了，这些武器暂时由你保管。回到兰德索尔后我们会教你使用方法。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Hold on to it until then. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在那之前请好好保管。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 5 seconds. Ready to go? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 倒数 5 秒。准备好了吗？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,150 +519,150 @@
   {
     "original": "** Let us push forward! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 让我们继续前进吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Wait why is there a golem? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等等...为什么会出现石巨人？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Everyone get over here! Its about to throw a boulder! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 全员集合！它要投掷巨石了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Golem>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<石巨人>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You know what. We will teach you how to use our weapons. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 计划变更！现在就传授你武器的使用方法。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Just focus on it and channel your strength through it. It should listen. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 集中精神，将力量灌注其中，武器就会回应你的意志。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** And you will be able to cast it's abilities. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 届时便能解放封印在武器中的技能。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Items have been unlocked!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<道具机能解放！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** From the looks of it the Golem is weak against magic. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 看这魔素流动...石巨人的魔法抗性很弱。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: I guess my weapon specializes against him!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>：看来我的武器正好克制它呢！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The Golem's Dead! Nice one everyone. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 石巨人击破！各位干得漂亮！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Let us go now to Landosol. It's close. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 兰德索尔近在咫尺，全速前进！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<The boulders are now gone>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<道路障碍清除>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Okay. They will close the gates! Everyone get in within 30 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 注意！城门即将关闭！ 30 秒内全员入城！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "** 15 seconds left! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 剩余 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "** 5 seconds left! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,40 +695,40 @@
   {
     "original": "** The gates are closing! Get inside before it's too late! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 城门正在关闭！快抓住最后时机进来！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<You and your guildmates move inside Landosol>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<成功进入兰德索尔>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We got one of the keys to unlock the restaurant! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们拿到了解锁餐厅的钥匙之一！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Door will open in 30 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在 30 秒后开启。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,29 +739,29 @@
   {
     "original": "<<The door can be unlocked>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<这个门能被解锁>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The door is now open. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门开了。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** I guess we can close the door here. Lets wait for 30 seconds for the others. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在这里等待 30 秒，确保所有人员到齐。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,18 +772,18 @@
   {
     "original": "<<Yuuki's Sword has been picked up!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<佑树的剑已被拾起>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 5 seconds left! Everyone inside! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒！全员集合！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -794,67 +794,67 @@
   {
     "original": "** Let us rest here for now... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在此稍作休整... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 2 hours later... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 两小时后... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Why is it very quiet outside? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 外面安静得...未免太异常了？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Lets go out through the back door... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 从后门出去看看... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Wait... SHADOWS! RUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等等...是暗影军团！快跑！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Get too close and you will die.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<太靠近他们的话，你会死的>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
