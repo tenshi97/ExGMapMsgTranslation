@@ -13,13 +13,13 @@
   {
     "original": "<<Map made by Pasas1345>>",
     "en_trans": "",
-    "zh_trans": "<<地图作者 Pasas1345>>",
+    "zh_trans": "<<地图作者 Pasas1345(翻译:星荧铃)>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "<<Inspired by the game: Princess Connect Re:Dive!>>",
@@ -57,29 +57,29 @@
   {
     "original": "<<Kokkoro's Spear - Heals 50 HP. After that it pushes zombies away with the faeries it spawns>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<可可萝的长枪 - 恢复50点HP.随后召唤精灵将僵尸击退。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 50,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<Kokkoro's Spear - After casting a healing aura will appear for 8 seconds.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<可可萝的长枪 - 施展后，展开持续8秒的治愈光环。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 8,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<Warmup -- 40 seconds>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<热身 -- 40 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,62 +90,62 @@
   {
     "original": "<<Pecorine's Sword - Become a shield which blocks zombies from going through you.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<佩可莉姆的剑 - 化身为团队的盾牌，阻挡僵尸通过自身所在位置。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Pecorine's Sword has been picked up>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<佩可莉姆的剑已被捡起>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Kyaru's Grimore has been picked up>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<凯露的魔导书已被捡起>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Kokkoro's Spear has been picked up>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<可可萝的长枪已被捡起>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Pecorine's Sword - After which the sword swings 3 times freezing and pushing back the zombies.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<佩可莉姆的剑 - 发动三次斩击，冻结并击退僵尸.>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<Warmup -- 30 seconds>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<热身 -- 30 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,18 +156,18 @@
   {
     "original": "<<Kyaru's Grimore - Charge magic which then shoots an orb that damages and slows zombies.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<凯露的魔导书 - 凝聚魔力后发射魔法球，对僵尸造成伤害并附加减速.>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Warmup -- 20 seconds>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<热身 -- 20 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,18 +178,18 @@
   {
     "original": "<<Hopefully you'll be able to adventure with everyone.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<希望能与大家共赴冒险之旅。>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Warmup -- 10 seconds>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<热身 -- 10 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,29 +200,29 @@
   {
     "original": "<<Warmup -- Ending>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<热身 -- 结束>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Stage 1 - Forest & Landosol>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<第1章 - 森林与兰德索尔>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The trees are in the way! We'll be able to clear it in 20 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 树木碍事！ 20 秒后清除障碍。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "** Just 10 more seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 10 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "** 5 seconds left. Just one last log. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 剩余 5 秒！就差一点了。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,13 +255,13 @@
   {
     "original": "** Its clear! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 障碍已清除！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<当前版本号码为000>>",
@@ -299,7 +299,7 @@
   {
     "original": "** More trees on the way! Hold on for a bit. It will take around 20 seconds again. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 前方发现新障碍！请稍候，预计需 20 秒清理。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "** 5 more seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,29 +321,29 @@
   {
     "original": "** Now... We may need our weapons. Could you find them in the forest? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 现在...可能需要武器。能否在森林中寻获？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** There should be three paths. I think all paths has a weapon of ours. Thanks in advance. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**有三条路。我觉得所有路上都有我们的武器，提前感谢。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Kyaru: These rocks are in the way! I think I should have enough magic to blow these up. Hold on for 20 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 凯露：这些岩石真碍事！魔力储备充足，20 秒后实施爆破。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,18 +354,18 @@
   {
     "original": "** Kokkoro: I see my spear right there. Unfortunately it's blocked by a tree. I can summon spirits to carry them. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 可可萝：发现长枪位置，但被树木阻碍。正在召唤精灵搬运。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Kokkoro: This will take 15 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 可可萝：预计需要 15 秒。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,18 +376,18 @@
   {
     "original": "** Pecorine: Seems like the rock wall is blocking the path. I guess I can punch through it. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 佩可莉姆：岩壁封路呢~就用这双拳头开个洞吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Pecorine: Give me 20 seconds to warm up and charge the punch. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 佩可莉姆：需要 20 秒做热身运动和蓄力重拳哟~ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "** Kyaru: 5 more... Charging! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 凯露：最后 5 秒...魔力充填！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,73 +409,73 @@
   {
     "original": "** Kokkoro: The way is clear now. We can go on right ahead. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 可可萝：道路畅通，请继续前进。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We have found Kokkoro's Staff! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已发现可可萝的长枪！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Kyaru: The way is clear! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 凯露：通路清空！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We have found Kyaru's Grimore! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已发现凯露的魔导书！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Pecorine: Here we go! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 佩可莉姆：要上咯！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We have found Pecorine's Sword! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已发现佩可莉姆的剑！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You found all of our weapons! We can push forward. Let's just wait for 20 seconds for the rest to catch up. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你找齐了我们的武器！这下可以继续推进了。先等 20 秒让后面的人跟上吧。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,29 +486,29 @@
   {
     "original": "** You know what. Keep the weapons for now. We will teach you how to use them in Landosol. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 对了，这些武器暂时由你保管。回到兰德索尔后我们会教你使用方法。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Hold on to it until then. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在那之前请好好保管。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 5 seconds. Ready to go? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 倒数 5 秒。准备好了吗？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,150 +519,150 @@
   {
     "original": "** Let us push forward! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 让我们继续前进吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Wait why is there a golem? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等等...为什么会出现石巨人？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Everyone get over here! Its about to throw a boulder! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 全员集合！它要投掷巨石了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Golem>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<石巨人>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You know what. We will teach you how to use our weapons. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 计划变更！现在就传授你武器的使用方法。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Just focus on it and channel your strength through it. It should listen. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 集中精神，将力量灌注其中，武器就会回应你的意志。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** And you will be able to cast it's abilities. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 届时便能解放封印在武器中的技能。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Items have been unlocked!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<道具机能解放！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** From the looks of it the Golem is weak against magic. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 看这魔素流动...石巨人的魔法抗性很弱。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: I guess my weapon specializes against him!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>：看来我的武器正好克制它呢！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The Golem's Dead! Nice one everyone. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 石巨人击破！各位干得漂亮！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Let us go now to Landosol. It's close. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 兰德索尔近在咫尺，全速前进！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<The boulders are now gone>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<道路障碍清除>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Okay. They will close the gates! Everyone get in within 30 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 注意！城门即将关闭！ 30 秒内全员入城！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "** 15 seconds left! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 剩余 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "** 5 seconds left! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,40 +695,40 @@
   {
     "original": "** The gates are closing! Get inside before it's too late! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 城门正在关闭！快抓住最后时机进来！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<You and your guildmates move inside Landosol>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<成功进入兰德索尔>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We got one of the keys to unlock the restaurant! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们拿到了解锁餐厅的钥匙之一！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Door will open in 30 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在 30 秒后开启。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,29 +739,29 @@
   {
     "original": "<<The door can be unlocked>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<这个门能被解锁>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The door is now open. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门开了。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** I guess we can close the door here. Lets wait for 30 seconds for the others. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在这里等待 30 秒，确保所有人员到齐。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,18 +772,18 @@
   {
     "original": "<<Yuuki's Sword has been picked up!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<佑树的剑已被拾起>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 5 seconds left! Everyone inside! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒！全员集合！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -794,67 +794,67 @@
   {
     "original": "** Let us rest here for now... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 在此稍作休整... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 2 hours later... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 两小时后... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Why is it very quiet outside? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 外面安静得...未免太异常了？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Lets go out through the back door... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 从后门出去看看... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Wait... SHADOWS! RUN! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等等...是暗影军团！快跑！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Get too close and you will die.>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<太靠近他们的话，你会死的>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

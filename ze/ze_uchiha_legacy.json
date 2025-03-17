@@ -5,8 +5,9 @@
     "zh_trans": "第一关 - 宇智波鼬",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**LEFT DOOR OPENS IN 30 SECONDS**",
@@ -24,7 +25,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**GATE OPENS IN 15 SECONDS**",
@@ -60,7 +62,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**GATE OPENS IN 10 SECONDS**",
@@ -78,7 +81,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ITACHI DOORS OPENS IN 15 SECONDS**",
@@ -96,7 +100,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** GET IN FAST **",
@@ -162,8 +167,9 @@
     "zh_trans": "第二关 - 宇智波佐助",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**RIGHT DOOR OPENS IN 30 SECONDS**",
@@ -190,7 +196,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**TELEPORT IN 10 SECONDS**",
@@ -231,11 +238,12 @@
   {
     "original": "** PLAYER HAS PICKED UP FUTON **",
     "en_trans": "",
-    "zh_trans": "** 玩家习得了 风盾 **",
+    "zh_trans": "** 玩家习得了 风遁 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**DOOR OPENS IN 15 SECONDS**",
@@ -348,8 +356,9 @@
     "zh_trans": "第三关 - 宇智波带土",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** MIDDLE RIGHT DOOR OPENS IN 30 SECONDS**",
@@ -393,8 +402,9 @@
     "zh_trans": "** 万花筒写轮眼 - 瞳术·神威 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** RUN BEHIND KAKASHI **",
@@ -509,8 +519,9 @@
     "zh_trans": "第四关 - 宇智波斑",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** MIDDLE LEFT DOOR OPENS IN 30 SECONDS**",
@@ -659,7 +670,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** PLAYER HAS PICKED UP RASHOMON **",
@@ -668,7 +680,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** SHORTCUT OPEN IN 5 SECONDS **",
@@ -732,8 +745,9 @@
     "zh_trans": "** 轮墓·边狱 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** LIGHT FANG **",
@@ -741,8 +755,9 @@
     "zh_trans": "** 岚遁 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** CLONE **",

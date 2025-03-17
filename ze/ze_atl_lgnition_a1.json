@@ -92,20 +92,20 @@
   {
     "original": ">>boss出现了！我们只有两分钟的时间！！！快击败他！！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>boss出现了！我们只有120秒的时间！！！快击败他！！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 120,
+    "enable_timer": 1
   },
   {
     "original": ">>boss死了！！僵尸出笼！有序撤退！！！！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>boss死了！！僵尸出笼！有序撤退！！！！<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 1,
+    "enable_timer": 1
   },
   {
     "original": ">>火神器冷却完成！<<",
@@ -137,11 +137,12 @@
   {
     "original": "我们在更衣室找到了一张设施员工林燕的工作牌！或许他能带领我们在这个地方畅通无阻！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们在更衣室找到了一张设施员工林燕的工作牌！或许他能带领我们在这个地方畅通无阻！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "成功了！门开始移动了！！林燕不愧是权王！！！",
@@ -149,17 +150,19 @@
     "zh_trans": "成功了！门开始移动了！！林燕不愧是权王！！！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "灭火器已经被拿到！坚持住！我们需要把通风管道的火焰灭掉才能通过！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "灭火器已经被拿到！坚持住！我们需要把通风管道的火焰灭掉才能通过！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "灭火器已经使用！火焰已经熄灭！快撤退！",
@@ -167,8 +170,9 @@
     "zh_trans": "灭火器已经使用！火焰已经熄灭！快撤退！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "坚持住！电梯还有30s才能启动！",
@@ -218,11 +222,12 @@
   {
     "original": "火焰已经被灭火器熄灭！",
     "en_trans": "",
-    "zh_trans": "火焰已经被灭火器熄灭1！",
+    "zh_trans": "火焰已经被灭火器熄灭！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "梯子将在15s后解锁！",
@@ -308,47 +313,52 @@
   {
     "original": "刀",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "刀",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "左边火",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "左边火",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "天坠！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "天坠！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "右边火",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "右边火",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "快看！是林燕号火箭！我们有救了！这是个疯狂的计划！！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "快看！是林燕号火箭！我们有救了！这是个疯狂的计划！！！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "35s",
@@ -371,20 +381,22 @@
   {
     "original": ">>感谢exg社区的各位为测试地图做出的努力！<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>感谢exg社区的各位为测试地图做出的努力！<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>我要玩obj！！！！！！！！<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>我要玩obj！！！！！！！！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "30s 全体传送！",
@@ -438,7 +450,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "5s！！！",
@@ -456,6 +469,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

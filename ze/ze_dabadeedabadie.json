@@ -2,7 +2,7 @@
   {
     "original": "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 由 BLUE BLUE 制作，感谢 MAPEADORES DISCORD 的帮助 (翻译:星荧铃)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -15,7 +15,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Why is everything so... blue ?***",
@@ -24,7 +25,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FALL BACK ! Zombies TP once this door is open ! ***",
@@ -33,7 +35,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DOOR OPENS IN 10 SECONDS ***",
@@ -74,11 +77,12 @@
   {
     "original": "*** Something is coming... ***",
     "en_trans": "",
-    "zh_trans": "*** 大的要来了... ***",
+    "zh_trans": "*** 大的要来了(BOSS的话不可靠噢，别轻易相信)... ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Some of us should go IN the two sides to cover the team ***",
@@ -87,7 +91,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CROUCH or DIE !! ***",
@@ -96,7 +101,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Jump NOW ! ***",
@@ -105,7 +111,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Please come forward <3 ***",
@@ -114,7 +121,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Please stay on the elevator. ***",
@@ -123,7 +131,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** QUICK ! Go away from the elevator ! ***",
@@ -132,7 +141,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** LOOK BEHIND YOU !! ***",
@@ -141,7 +151,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The door is open and the block is gone ! ***",
@@ -150,7 +161,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Zombies TP in 10 seconds ***",
@@ -168,7 +180,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Too late ! You DA BA DEE DA BA FAIL ! ***",
@@ -177,7 +190,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** NOOOOO YOU DA BA DEE DA BA WIN !!! ***",
@@ -186,16 +200,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** This is the last cover, keep holding ! ***",
     "en_trans": "",
-    "zh_trans": "*** 这是最后的掩护，继续防守！ ***",
+    "zh_trans": "*** 这是最后的守点，继续防守！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** 10 more seconds ! ***",
@@ -213,7 +229,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** For a guy collecting blue things, i didn't see a lot of waffle... ***",
@@ -222,7 +239,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Maybe I should search on internet. ***",
@@ -231,6 +249,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

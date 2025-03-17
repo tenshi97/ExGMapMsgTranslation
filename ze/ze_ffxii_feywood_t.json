@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZE_FFXII_FEYWOOD**",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon**",
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MAP HINT MASTER] EVERY ITEM APART FROM BERSERK ON THIS MAP CAN",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MAP HINT MASTER] YOUR START LEVEL IS 1.",
@@ -85,18 +85,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Welcome to Garland airship**",
     "en_trans": "",
-    "zh_trans": "**欢迎来到加德兰飞船**",
+    "zh_trans": "**欢迎来到加兰德飞船**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The airship is flying near Feywood. Search for some of items and get ready to set out**",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The teleporter to Feywood will be active in 30 seconds**",
@@ -129,7 +129,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVEL\\n ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE",
@@ -138,9 +138,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**GET INTO THE TELEPORTER**",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE GATE WILL OPEN IN 20 SECONDS**",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**DEFEND THE GROUND FOR 30 SECONDS**",
@@ -204,9 +204,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN**",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**",
@@ -226,9 +226,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**",
@@ -237,9 +237,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**",
@@ -248,9 +248,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**",
@@ -259,9 +259,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**",
@@ -270,9 +270,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**",
@@ -281,9 +281,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**",
@@ -292,9 +292,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE GATES WILL OPEN IN 20 SECONDS**",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "YOU FOUND THE CACTUS. YOU GOT 100 EXP AND LEVELED UP",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Cactus found. The player who did it got 1 level**",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THIS IS A DRAGON**WE MUST KILL HIM**",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Nades do more damage **",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "10% POWER",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON USED POISON**",
@@ -380,9 +380,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "20% POWER",
@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**",
@@ -402,9 +402,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**",
@@ -413,9 +413,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**CONGRATILATIONS YOU FINISHED CHOCOBO SIDEQUEST**",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CHOCOBO SHOP IS OPENED FOREVER HAVE A GOOD RIDE!**",
@@ -437,7 +437,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**",
@@ -446,9 +446,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**",
@@ -459,7 +459,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "30% POWER",
@@ -470,7 +470,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON USED WIND**",
@@ -479,9 +479,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Human chocobo has been picked up**",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Zombie chocobo has been picked up**",
@@ -503,7 +503,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ADMIN HAS SELECTED NORMAL MODE IN THE ADMIN ROOM **",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE ROCK WILL EXPLODE IN 15 SECONDS**",
@@ -558,7 +558,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOU NEED TO BREAK CRYSTALS IN SIDE ROOMS TO GET ACCESS TO DOORS**",
@@ -569,7 +569,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**WELL DONE! THE GATES WILL OPEN IN 20 SECONDS**",
@@ -596,68 +596,68 @@
   {
     "original": "**OH NO! THIS IS A CHAOS**",
     "en_trans": "",
-    "zh_trans": "**不好，是卡俄斯**",
+    "zh_trans": "**不好，是卡奥斯**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CHAOS HAS CAST DARKAGA**",
     "en_trans": "",
-    "zh_trans": "**卡俄斯释放了黑洞术**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**",
-    "en_trans": "",
-    "zh_trans": "**卡俄斯释放了神圣魔法**快远离他！**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "**CHAOS HAS CAST TORNADO**",
-    "en_trans": "",
-    "zh_trans": "**卡俄斯释放了风暴魔法**",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "**CHAOS HAS CAST THUNDAGA**",
-    "en_trans": "",
-    "zh_trans": "**卡俄斯释放了雷电魔法****",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "**WE HAVE DEFEATED CHAOS**",
-    "en_trans": "",
-    "zh_trans": "**我们击败卡俄斯了!**",
+    "zh_trans": "**卡奥斯释放了黑洞术**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "**CHAOS IS CASTING HOLY**GET OUT OF HIM!!!**",
+    "en_trans": "",
+    "zh_trans": "**卡奥斯释放了神圣魔法**快远离他！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "**CHAOS HAS CAST TORNADO**",
+    "en_trans": "",
+    "zh_trans": "**卡奥斯释放了风暴魔法**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "**CHAOS HAS CAST THUNDAGA**",
+    "en_trans": "",
+    "zh_trans": "**卡奥斯释放了雷电魔法****",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "**WE HAVE DEFEATED CHAOS**",
+    "en_trans": "",
+    "zh_trans": "**我们击败卡奥斯了!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**WE HAVE TO LEAVE THIS TEMPLE AS SOON AS POSSIBLE**",
@@ -668,7 +668,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**WE ARE CLOSE TO LEAVE THE TOMB. THE GATES WILL OPEN IN 20 SECONDS**",
@@ -684,7 +684,7 @@
   {
     "original": "**THE AIR SHIP WILL LEAVE IN 35 SECONDS. DEFEND THE GROUND**",
     "en_trans": "",
-    "zh_trans": "**飞船 25 秒后离开. 坚守阵地**",
+    "zh_trans": "**飞船 35 秒后离开. 坚守阵地**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -712,7 +712,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** GOOD JOB [YOU WON LEVEL 2] **",
@@ -723,7 +723,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "+100 EXP GAINED. YOU HAVE LEVELED UP",
@@ -734,7 +734,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "HARD MODE - Explore the Golmore Jungle and locate the Jungle Tomb. WARNING - Dragon.",
@@ -745,7 +745,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**",
@@ -754,9 +754,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE TELEPORTER WILL BE ACTIVE IN 15 SECONDS**",
@@ -778,7 +778,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOU WILL ENTER IN 5 SECONDS**",
@@ -809,9 +809,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE WAY IS OPENED**",
@@ -822,7 +822,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE WAY WILL OPEN IN 25 SECONDS**KEEP DEFENDING**",
@@ -844,7 +844,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**SHOOT THE DRAGON BEFORE ZOMBIES WILL GET US**",
@@ -855,7 +855,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**WATCH OUT FOR THE STRONG WIND**",
@@ -864,9 +864,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON HAS CAST DARKAGA**",
@@ -875,9 +875,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON HAS CAST POISON**",
@@ -886,9 +886,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**",
@@ -897,9 +897,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**",
@@ -908,9 +908,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON IS FLYING AWAY** GO TO THE TOMB**",
@@ -921,7 +921,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "SHOOT THE GLASS BALL BEFORE IT IS TOO LATE",
@@ -930,9 +930,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**",
@@ -943,7 +943,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE GATES WILL CLOSE IN 25 SECONDS**",
@@ -965,7 +965,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** GOOD JOB [YOU WON LEVEL 3] **",
@@ -976,7 +976,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "EXTREME MODE - Discover the Garamsythe Waterway. WARNING - Esper.",
@@ -987,7 +987,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**",
@@ -996,9 +996,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**",
@@ -1009,7 +1009,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**",
@@ -1020,7 +1020,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ADMIN HAS SELECTED LEGEND MODE IN THE ADMIN ROOM **",
@@ -1042,7 +1042,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE AIRSHIP IS BEING ATTACKED BY GUARDIANS**",
@@ -1053,7 +1053,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**",
@@ -1062,9 +1062,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**CACTUAR BLOCKED THE ROAD**SHOOT HIM!**",
@@ -1075,7 +1075,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**",
@@ -1084,9 +1084,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE TELEPORTER WILL BE ACTIVE IN 20 SECONDS**",
@@ -1130,7 +1130,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**",
@@ -1139,9 +1139,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**",
@@ -1150,9 +1150,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE HENNE MINES ENTRANCE WILL OPEN IN 20 SECONDS**",
@@ -1174,7 +1174,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOU WILL ENTER THE ARENA IN 10 SECONDS****",
@@ -1196,7 +1196,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZODIARK READIES SHIELD(BULLETS AND NADES DON'T DAMAGE HIM)**",
@@ -1205,9 +1205,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "HASTE +1",
@@ -1218,7 +1218,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZODIARK READIES DARK. USE HEAL IF NESSESARY**",
@@ -1227,9 +1227,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ZODIARK READIES FLARE**",
@@ -1238,9 +1238,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***ZODIARK READIES BANISH RAY** GET OUT OF HIM!!!***",
@@ -1249,9 +1249,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "HASTE +2",
@@ -1260,9 +1260,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "HASTE +3",
@@ -1271,9 +1271,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "HASTE +4",
@@ -1282,9 +1282,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE BOSS IS DAMAGED BUT NOW HE'S THE MOST DANGEROUS**",
@@ -1293,9 +1293,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "HASTE +5(MAX POWER)",
@@ -1304,9 +1304,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**KILL HIM FASTER**",
@@ -1317,7 +1317,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZODIARK IS USING ULTIMATE ATTACK**EVERYONE WILL DIE IN 15 SECONDS**",
@@ -1339,7 +1339,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**LAST CHANCE**NADES AND BULLETS DOES 200% DAMAGE ON HIM**",
@@ -1350,7 +1350,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOU HAVE KILLED ZODIARK** NOW GET OUT OF HENNES MINES**",
@@ -1361,7 +1361,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "50 SECONDS LEFT",
@@ -1515,7 +1515,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**",
@@ -1524,9 +1524,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**WE KILLED HIM. GO TO THE END OF THE ROAD***",
@@ -1537,7 +1537,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THIS PLACE WILL COLLAPCE IN 15 SECONDS. STAY HERE!!!**",
@@ -1557,9 +1557,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** CONGRATILATIONS!!! [YOU WON LEVEL 5] **",
@@ -1581,7 +1581,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MAP HINT MASTER] HUMAN ITEMS CAN AFFECT ON BOSSES.",
@@ -1592,7 +1592,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MAP HINT MASTER] HUMAN ITEMS THAT CAN BE LEVELED UP",
@@ -1603,7 +1603,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MAP HINT MASTER] YOU NEED 100 EXP TO GET LEVEL TO HUMAN ITEMS",
@@ -1614,7 +1614,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**MAP START**",
@@ -1625,7 +1625,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON USED FIRE**",
@@ -1636,7 +1636,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "40% POWER",
@@ -1647,7 +1647,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "50% POWER",
@@ -1658,7 +1658,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "60% POWER",
@@ -1669,7 +1669,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE DRAGON IS FLYING AWAY**GOOD WORK**",
@@ -1680,7 +1680,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE ROCK WILL EXPLODE IN 5 SECONDS**",
@@ -1735,18 +1735,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CHAOS HAS CAST BLIZZAGA**",
     "en_trans": "",
-    "zh_trans": "** 卡俄斯释放了 暴雪 **",
+    "zh_trans": "** 卡奥斯释放了 暴雪 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**",
@@ -1755,9 +1755,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**THE GATES WILL OPEN IN 25 SECONDS**",
@@ -1790,7 +1790,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CHUCHULAINN HAS USED MASSIVE POSION ATTACK GET OUT OF HIM TO SURVIVE**",
@@ -1799,9 +1799,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**HE IS DEAD**GO AWAY FROM THE TEMPLE!!**",
@@ -1812,7 +1812,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**",
@@ -1856,7 +1856,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**",
@@ -1865,9 +1865,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ZOMBE CAGE OPEN**YOU HAVE FAILED**",
@@ -1878,7 +1878,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** GOOD JOB [YOU WON LEVEL 4] **",
@@ -1889,7 +1889,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "ZOMBIE ROUND - Survive with zombies.",
@@ -1900,7 +1900,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE MAP IS BEATEN. ZOMBIE ROUNDS**",
@@ -1911,7 +1911,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE TELEPORTER TO RABANASTRA IS OPENED**",
@@ -1922,7 +1922,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**TRY TO SURVIVE WITHOUT ANY ITEMS**",
@@ -1933,7 +1933,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**RELAX AND JUST ENJOY THE MUSIC)**",
@@ -1944,7 +1944,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**",
@@ -1953,9 +1953,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**4 MINUTES LEFT!**",
@@ -1975,9 +1975,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**3 MINUTES LEFT!**",
@@ -1986,7 +1986,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
+    "timer_num": 180,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -1997,7 +1997,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -2008,7 +2008,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -2054,18 +2054,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CHAOS HAS CAST FIRAGA**",
     "en_trans": "",
-    "zh_trans": "** 卡俄斯释放了 火焰 **",
+    "zh_trans": "** 卡奥斯释放了 火焰 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**",
@@ -2074,9 +2074,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**YOU HAVE FAILED**",
@@ -2087,7 +2087,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**",
@@ -2096,9 +2096,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "70% POWER",
@@ -2109,7 +2109,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "80% POWER",
@@ -2120,7 +2120,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "90% POWER",
@@ -2131,7 +2131,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**MAP RESET**",
@@ -2142,7 +2142,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ZOMBIES HAVE ESCAPED**",
@@ -2153,7 +2153,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "(allahu-akbar)",
@@ -2164,7 +2164,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**OH NO... THIS IS CHOCOBO**",
@@ -2175,7 +2175,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE MOST POWERFUL ATTACK IS IN 5 SECONDS**",
@@ -2197,7 +2197,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ADMIN HAS SELECTED HARD MODE IN THE ADMIN ROOM **",

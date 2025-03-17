@@ -2,7 +2,7 @@
   {
     "original": "** ZE_CHRISTMAS_INFECTION **",
     "en_trans": "",
-    "zh_trans": "** ZE_CHRISTMAS_INFECTION - 圣诞夜惊魂 **",
+    "zh_trans": "** ZE_CHRISTMAS_INFECTION - 圣诞夜惊魂(翻译:星荧铃) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1025,12 +1025,12 @@
   {
     "original": "** No level was chosen in time! The next level will be random!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**未及时选择关卡！下一关将随机选择！！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
