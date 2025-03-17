@@ -29,7 +29,7 @@
   {
     "original": "<<Map by maqu>>",
     "en_trans": "",
-    "zh_trans": "<<地图作者 maqu>>",
+    "zh_trans": "<<地图作者 maqu(翻译:星荧铃)>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -186,7 +186,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<zombies>>",
@@ -195,6 +196,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
