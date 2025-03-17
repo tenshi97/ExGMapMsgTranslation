@@ -5,8 +5,10 @@
     "zh_trans": "门将在 40 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "door will open in 5 sec !",
@@ -14,8 +16,10 @@
     "zh_trans": "门将在5秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "This map is inspired by Ori",
@@ -23,8 +27,10 @@
     "zh_trans": "这张地图的灵感来源于《奥日》。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map create by lopb ,thanks script support by 7ychu5,thanks materials support by Tenshi.",
@@ -32,8 +38,10 @@
     "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map requires Unlock Lua and CS2Fix",
@@ -41,8 +49,10 @@
     "zh_trans": "地图需要解锁 Lua 和 CS2Fix",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hope you enjoy",
@@ -50,8 +60,10 @@
     "zh_trans": "希望您玩得愉快",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map create by lopb ,thanks script support by 7ychu5,thanks materials and particle support by Tenshi.",
@@ -59,8 +71,10 @@
     "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "wall will break in 40 sec !",
@@ -68,8 +82,10 @@
     "zh_trans": "墙将在 40 秒后被打破！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "door will open in 30 sec !",
@@ -77,8 +93,10 @@
     "zh_trans": "门将在 30 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you can use finger after 30 sec!",
@@ -86,8 +104,10 @@
     "zh_trans": "30 秒后你就可以射击天上的球进行快速移动了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "door will open in 20 sec !",
@@ -95,8 +115,10 @@
     "zh_trans": "门将在 20 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "raise after 40 sec !",
@@ -104,8 +126,10 @@
     "zh_trans": "40 秒后升起！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Is time to clear tide !",
@@ -113,8 +137,10 @@
     "zh_trans": "是时候清除潮水了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "DarkCreatures are one step ahead of you!",
@@ -122,8 +148,10 @@
     "zh_trans": "黑暗生物比你领先一步！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "be careful !",
@@ -131,8 +159,10 @@
     "zh_trans": "小心！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "door will open in 10 sec !",
@@ -140,8 +170,10 @@
     "zh_trans": "门将在 10 秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Looking for 3 heal elements",
@@ -149,8 +181,10 @@
     "zh_trans": "寻找3个治疗元素",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "WaterElf is in a frenzy, get out of here quickly!",
@@ -158,8 +192,10 @@
     "zh_trans": "水精灵陷入狂乱状态，赶紧离开这里！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Run! Run! Run! Run! Run! Run!",
@@ -167,8 +203,10 @@
     "zh_trans": "跑！跑！跑！跑！跑！跑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The tide is rising! Fly up!",
@@ -176,8 +214,10 @@
     "zh_trans": "潮水正在上涨！飞起来！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "You purified WaterElf!",
@@ -185,8 +225,10 @@
     "zh_trans": "你净化了水精灵！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "kill all zombie !",
@@ -194,8 +236,10 @@
     "zh_trans": "杀死所有僵尸！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "No one survived.WaterElf went berserk!",
@@ -203,8 +247,10 @@
     "zh_trans": "无人生还。水精灵发狂了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "我要玩狮子王",
@@ -212,8 +258,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "wall will break in 5 sec !",
@@ -221,8 +269,10 @@
     "zh_trans": "墙将在 5 秒后破裂！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "you can use finger after 5 sec!",
@@ -230,8 +280,10 @@
     "zh_trans": "5秒后你就可以射击天上的球进行快速移动了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "door will open in 25 sec ! teleport enable in 5 sec !",
@@ -239,8 +291,10 @@
     "zh_trans": "门将在25秒后打开！5秒后传送僵尸！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "door will close in 3 sec !",
@@ -248,8 +302,10 @@
     "zh_trans": "门将在3秒后关闭！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "raise after 45 sec ! teleport enable in 5 sec !",
@@ -257,8 +313,10 @@
     "zh_trans": "45秒后升起！5秒后传送僵尸！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "door will open in 15 sec !",
@@ -266,8 +324,10 @@
     "zh_trans": "门将在15秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie Shift will hurt more[2]",
@@ -275,8 +335,10 @@
     "zh_trans": "僵尸的“shift”技能将会造成更多伤害[2]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie Shift will hurt more[3]",
@@ -284,8 +346,10 @@
     "zh_trans": "僵尸的“shift”技能将会造成更多伤害[3]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< set stage 1 >>>",
@@ -293,8 +357,10 @@
     "zh_trans": "<<< 调关至 关卡1 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<< set stage 2 >>>",
@@ -302,8 +368,10 @@
     "zh_trans": "<<< 调关至 关卡2 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie Shift will hurt more By Time,Don't waste your time !!!",
@@ -311,8 +379,10 @@
     "zh_trans": "僵尸的“shift”技能将会随时间推移造成更多伤害，别浪费时间!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Zombie Shift will hurt more[10],Will be rage after 30sec!!!",
@@ -320,8 +390,10 @@
     "zh_trans": "僵尸的“shift”技能将会造成更多伤害[10]，30秒后将狂暴！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie Rage !!! Your last chance !!!",
@@ -329,8 +401,10 @@
     "zh_trans": "僵尸狂暴了！！！这是你最后的机会！！！ ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "No one successfully escaped !",
@@ -338,8 +412,10 @@
     "zh_trans": "无人生还！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Attacking Red tendrils can deal half of damage",
@@ -347,7 +423,20 @@
     "zh_trans": "攻击红色卷须可以造成一半的伤害",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< Human pick up Wind! >>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
