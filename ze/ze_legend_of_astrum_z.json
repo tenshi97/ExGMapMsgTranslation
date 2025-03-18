@@ -541,7 +541,7 @@
   {
     "original": "** Everyone get over here! Its about to throw a boulder! **",
     "en_trans": "",
-    "zh_trans": "** 全员集合！它要投掷巨石了！**",
+    "zh_trans": "** 全员集合！它要发起攻击了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,7 +596,7 @@
   {
     "original": "<<Items have been unlocked!>>",
     "en_trans": "",
-    "zh_trans": "<<道具机能解放！>>",
+    "zh_trans": "<<武器机能解放！现在你可以使用它们了>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "<Kyaru>: I guess my weapon specializes against him!",
     "en_trans": "",
-    "zh_trans": "<凯露>：看来我的武器正好克制它呢！",
+    "zh_trans": "<凯露>：看来我的武器正好克制它呢！（魔导书能对BOSS造成伤害）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,34 +860,34 @@
   {
     "original": "** There is still monsters inside! Get rid of them! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还有魔物残留！除掉它们！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We have to defeat it here at the bridge. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 把它们消灭在桥上！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Shadows>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<暗影军团>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
