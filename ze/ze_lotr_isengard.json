@@ -475,13 +475,13 @@
   {
     "original": "***Everyone move right***",
     "en_trans": "",
-    "zh_trans": "***全部人往右边走***",
+    "zh_trans": "***所有人往右边走***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Elevator in 30 sec***",
@@ -679,7 +679,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Defend people which destroy dam**",
@@ -712,7 +712,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Stanchion 2/2 was broken***",
@@ -723,7 +723,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Water is coming Run down**",
@@ -816,13 +816,13 @@
   {
     "original": "***Everyone move left***",
     "en_trans": "",
-    "zh_trans": "***全部人往左边走***",
+    "zh_trans": "***所有人往左边走***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Activate the lever***",
@@ -921,7 +921,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Teleporting Humans to the Dam in 5 sec!***",
@@ -1036,13 +1036,13 @@
   {
     "original": "***NEED KEY***",
     "en_trans": "",
-    "zh_trans": "***需要找到钥匙***",
+    "zh_trans": "***需要钥匙***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Find key in the room***",
@@ -1053,7 +1053,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Key is found. Door open in 10 sec***",
@@ -1262,7 +1262,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**HOLD 25 SECONDS**",
@@ -1355,7 +1355,18 @@
   {
     "original": "***Player has picked up Heal***",
     "en_trans": "",
-    "zh_trans": "***玩家捡起了治疗***",
+    "zh_trans": "***一位玩家拾取了奶***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***ADMIN CHOOSES 3 LEVEL***",
+    "en_trans": "",
+    "zh_trans": "***有权男选择了第三关***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1364,25 +1375,14 @@
     "force_hint": 0
   },
   {
-    "original": "***ADMIN CHOOSES 3 LEVEL***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
     "original": "***ADMIN CHOOSES 1 LEVEL***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***有权男选择了第一关***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
