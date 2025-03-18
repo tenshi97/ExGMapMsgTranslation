@@ -2,7 +2,7 @@
   {
     "original": ">>> Stage 1 <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 一 关<<<",
+    "zh_trans": ">>> 第一关 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": ">>> Map by Moray and nano <<<",
     "en_trans": "",
-    "zh_trans": ">>> 地图由 Moray 和 nano 制作<<<",
+    "zh_trans": ">>> 地图由 Moray 和 nano 制作(翻译:星荧铃)<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>[Admin] Sacred Staff Unlocked <<<",
@@ -145,7 +145,7 @@
   {
     "original": ">>> Stage 5 <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 五 关 <<<",
+    "zh_trans": ">>> 第五关 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Ammo <<<",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Bible <<<",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Hold 35 Seconds <<<",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Explosive Barrel <<<",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Necromancy <<<",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Blood Orb <<<",
@@ -239,7 +239,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Tornado Staff <<<",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Heal Staff <<<",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Shade Staff <<<",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Hold 25 Seconds <<<",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Venom Staff <<<",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Player has picked up Crystal Staff <<<",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Hold 5 Seconds <<<",
@@ -420,7 +420,7 @@
   {
     "original": ">>> Stage 5 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 五 关 完成 <<<",
+    "zh_trans": ">>> 第五关完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -459,7 +459,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Spider is Coming <<<",
@@ -486,7 +486,7 @@
   {
     "original": ">>> Stage1 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 一 关 完成 <<<",
+    "zh_trans": ">>> 第一关完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -547,7 +547,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> ze_Tyranny2 <<<",
@@ -613,7 +613,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Stage 2 <<<",
@@ -717,7 +717,7 @@
   {
     "original": ">>> Stage 4 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 四 关 完成 <<<",
+    "zh_trans": ">>> 第四关完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -734,7 +734,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Troll is Coming <<<",
@@ -783,7 +783,7 @@
   {
     "original": ">>> Stage 2 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 二 关 完成 <<<",
+    "zh_trans": ">>> 第二关完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -948,7 +948,7 @@
   {
     "original": ">>> Stage 3 Completed <<<",
     "en_trans": "",
-    "zh_trans": ">>> 第 三 关 完成 <<<",
+    "zh_trans": ">>> 第三关完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -965,7 +965,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>[Admin] Stage 3 Activated <<<",
@@ -1009,7 +1009,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> ZM Item <Abyss> has been enable use <<<",
@@ -1020,7 +1020,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Round Failed <<<",
@@ -1069,12 +1069,12 @@
   {
     "original": "*** Library Route Opened ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 图书馆路线已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
