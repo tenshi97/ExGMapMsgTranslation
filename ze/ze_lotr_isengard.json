@@ -5,8 +5,10 @@
     "zh_trans": "***地图制作 Limon.***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*GAME WILL START in 15 sec! GL HF*",
@@ -14,8 +16,10 @@
     "zh_trans": "*游戏在15秒后开始！祝各位好运，玩得开心！*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SPAWN ZONE***",
@@ -23,8 +27,10 @@
     "zh_trans": "***出生点***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Teleporting zombies to Zombie Room in 7 sec*",
@@ -32,8 +38,10 @@
     "zh_trans": "*7秒后僵尸传送至僵尸房*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Go to middle-earth map to start playing***",
@@ -41,8 +49,10 @@
     "zh_trans": "***进入中土地图开始游戏***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Teleporting Zombies to spawn in 15 sec**",
@@ -50,8 +60,10 @@
     "zh_trans": "**15秒后僵尸传送至出生点**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LVL1 ROAD TO ISENGARD***",
@@ -59,8 +71,10 @@
     "zh_trans": "***第一关：艾辛格之路***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Teleporting AFK's to cave in 30sec**",
@@ -68,8 +82,10 @@
     "zh_trans": "**挂机玩家30秒后传送至洞穴**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LOOK OUT FOR SPIDER TRAPS!!***",
@@ -77,8 +93,10 @@
     "zh_trans": "***注意周围的蜘蛛陷阱！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Random**",
@@ -86,8 +104,10 @@
     "zh_trans": "**随机**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**RESIST 15 SECONDS**",
@@ -95,8 +115,10 @@
     "zh_trans": "**坚持15秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Resist 20s!**",
@@ -104,8 +126,10 @@
     "zh_trans": "**坚持20秒!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GO**",
@@ -113,8 +137,10 @@
     "zh_trans": "**出发**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Resist 30s!**",
@@ -122,8 +148,10 @@
     "zh_trans": "**坚持30秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*If you wont kill spider in 2 min zombies will eat you*",
@@ -131,8 +159,10 @@
     "zh_trans": "*如果120秒内无法击败蜘蛛，那么僵尸直接开饭*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Prepare to fight**",
@@ -140,8 +170,10 @@
     "zh_trans": "**准备战斗**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**KILL the SPIDER NOW***",
@@ -149,8 +181,10 @@
     "zh_trans": "**快杀了那只蜘蛛！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Shoot in the head!**",
@@ -158,8 +192,10 @@
     "zh_trans": "**射击头部！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***SPIDER is dead.***",
@@ -167,8 +203,10 @@
     "zh_trans": "***蜘蛛 再起不能***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** 100 HP restored ***",
@@ -176,8 +214,10 @@
     "zh_trans": "*** 恢复 100点血量 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GO UPSTAIRS***",
@@ -185,8 +225,10 @@
     "zh_trans": "***快上楼***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIE PUSH IS DISABLED***",
@@ -194,8 +236,10 @@
     "zh_trans": "***僵尸推力已关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**HOLD 25 SEC**",
@@ -203,8 +247,10 @@
     "zh_trans": "**坚持25秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GO GO GO**",
@@ -212,8 +258,10 @@
     "zh_trans": "**走走走**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting Zombies and AFK's in 6 sec!!***",
@@ -221,8 +269,10 @@
     "zh_trans": "***僵尸和挂机玩家将在6秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HOLD 20 SEC!!!***",
@@ -230,8 +280,10 @@
     "zh_trans": "***坚持20秒！！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Defend this building for 50 sec**",
@@ -239,8 +291,10 @@
     "zh_trans": "**防御这栋建筑50秒！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Stairs will break in 10 sec***",
@@ -248,8 +302,10 @@
     "zh_trans": "***楼梯将在10秒后被破坏***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Mass teleport zombies in 15 seconds***",
@@ -257,8 +313,10 @@
     "zh_trans": "**15秒后传送大量僵尸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Get to the boats NOW***",
@@ -266,8 +324,10 @@
     "zh_trans": "***快上船！！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***5***",
@@ -275,8 +335,10 @@
     "zh_trans": "***5***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***4***",
@@ -284,8 +346,10 @@
     "zh_trans": "***4***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***3***",
@@ -293,8 +357,10 @@
     "zh_trans": "***3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***2***",
@@ -302,8 +368,10 @@
     "zh_trans": "***2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***1***",
@@ -311,8 +379,10 @@
     "zh_trans": "***1***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***NAZGUL IS DEAD***",
@@ -320,8 +390,10 @@
     "zh_trans": "***戒灵 再起不能***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LVL 1 COMPLETED***",
@@ -329,8 +401,10 @@
     "zh_trans": "***第一关 已完成***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***NUKE IN 2 SEC!!***",
@@ -338,8 +412,10 @@
     "zh_trans": "***2秒后核爆***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***NUKE IN 1 SEC!!***",
@@ -347,8 +423,10 @@
     "zh_trans": "***1秒后核爆***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Map by Limon. Thanks for playing***",
@@ -356,8 +434,10 @@
     "zh_trans": "***制作： Limon. 感谢游玩***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LVL2 ISENGARD***",
@@ -365,8 +445,10 @@
     "zh_trans": "***第二关 艾辛格***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Teleporting AFK's to forest in 30sec**",
@@ -374,8 +456,10 @@
     "zh_trans": "**挂机玩家将在30秒后传送至森林**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***RANDOM SIDE IN 10 SEC***",
@@ -383,8 +467,10 @@
     "zh_trans": "***10秒后随机指出道路方向***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Everyone move right***",
@@ -392,8 +478,10 @@
     "zh_trans": "***全部人往右边走***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Elevator in 30 sec***",
@@ -401,8 +489,10 @@
     "zh_trans": "***电梯30秒后启动***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Zombie push will disable in 5 sec**",
@@ -410,8 +500,10 @@
     "zh_trans": "**僵尸推力在5秒后失效**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting AFK's to wall in 20s***",
@@ -419,8 +511,10 @@
     "zh_trans": "***挂机玩家在20秒后传送至城墙上***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HOLD 20 SEC***",
@@ -428,8 +522,10 @@
     "zh_trans": "***坚持20秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GO UP ON LADDER**",
@@ -437,8 +533,10 @@
     "zh_trans": "**上梯子**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Elevator will go up in 10 sec***",
@@ -446,8 +544,10 @@
     "zh_trans": "***电梯在10秒后启动***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HOLD 15 SEC***",
@@ -455,8 +555,10 @@
     "zh_trans": "***坚持15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***GO***",
@@ -464,8 +566,10 @@
     "zh_trans": "***走***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***HOLD 30 SEC***",
@@ -473,8 +577,10 @@
     "zh_trans": "***坚持30秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting AFK's Portal Enable in 10 sec!!***",
@@ -482,8 +588,10 @@
     "zh_trans": "***10秒后启用挂机玩家的传送门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting Humans to the Dam in 5 sec***",
@@ -491,8 +599,10 @@
     "zh_trans": "***5秒后传送人类到水坝***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting Zombies and AFK's to the Dam in 10 sec***",
@@ -500,8 +610,10 @@
     "zh_trans": "***10秒后僵尸和挂机玩家传送至水坝***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Destroy DAM***",
@@ -509,8 +621,10 @@
     "zh_trans": "***摧毁大坝！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Mass zombie teleport after elevator activation*",
@@ -518,8 +632,10 @@
     "zh_trans": "*电梯触发后大量僵尸会传送*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Elevator will go up in 20 sec***",
@@ -527,8 +643,10 @@
     "zh_trans": "***电梯20秒后启动***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Elevator will go up in 5 sec***",
@@ -536,8 +654,10 @@
     "zh_trans": "***电梯5秒后启动***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GO HUMANS**",
@@ -545,8 +665,10 @@
     "zh_trans": "**人类，走！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**DESTROY All STANCHIONS!**",
@@ -554,8 +676,10 @@
     "zh_trans": "**摧毁全部支柱！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend people which destroy dam**",
@@ -563,8 +687,10 @@
     "zh_trans": "**掩护正在摧毁大坝的队友！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Zombie ladder is enabled**",
@@ -572,8 +698,10 @@
     "zh_trans": "**僵尸侧路已开启**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Stanchion 1/2 was broken***",
@@ -581,8 +709,10 @@
     "zh_trans": "***支柱破坏进度 50%***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Stanchion 2/2 was broken***",
@@ -590,8 +720,10 @@
     "zh_trans": "***支柱破坏进度 100%***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Water is coming Run down**",
@@ -599,8 +731,10 @@
     "zh_trans": "**洪水来了！顺着水流冲下去！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RUN RUN FAST***",
@@ -608,8 +742,10 @@
     "zh_trans": "***快跑！快跑！快跑！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Meanwhile.......**",
@@ -617,8 +753,10 @@
     "zh_trans": "**与此同时.......**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**DEFEND HERE**",
@@ -626,8 +764,10 @@
     "zh_trans": "**守住这里**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**HOLD 90 SEC**",
@@ -635,8 +775,10 @@
     "zh_trans": "**坚持90秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 90,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Wait for water flow**",
@@ -644,8 +786,10 @@
     "zh_trans": "**等待水流**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Jump on the rocks***",
@@ -653,8 +797,10 @@
     "zh_trans": "***跳到石头上***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Mass teleport Zombies and AFK's in 10 sec!!**",
@@ -662,8 +808,10 @@
     "zh_trans": "**挂机玩家和大量僵尸将在10秒后传送**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Everyone move left***",
@@ -671,8 +819,10 @@
     "zh_trans": "***全部人往左边走***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Activate the lever***",
@@ -680,8 +830,10 @@
     "zh_trans": "***激活拉杆***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Elevator is going up***",
@@ -689,8 +841,10 @@
     "zh_trans": "***电梯正在上升***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Teleporting AFK's to wall in 20 sec**",
@@ -698,8 +852,10 @@
     "zh_trans": "**20秒后挂机玩家将传送至城墙上**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***GO GO***",
@@ -707,8 +863,10 @@
     "zh_trans": "***走走走***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting Zombies and AFK's in 5 sec!!***",
@@ -716,8 +874,10 @@
     "zh_trans": "***挂机玩家和僵尸5秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HOLD 15 sec!!!***",
@@ -725,8 +885,10 @@
     "zh_trans": "***坚持15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***GO GO GO***",
@@ -734,8 +896,10 @@
     "zh_trans": "***走走走***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting to boss in 10 sec!!!***",
@@ -743,8 +907,10 @@
     "zh_trans": "***10秒后传送至关卡Boss处***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Humans will die when music ends***",
@@ -752,8 +918,10 @@
     "zh_trans": "***当音乐结束时，人类就要打出GG了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting Humans to the Dam in 5 sec!***",
@@ -761,8 +929,10 @@
     "zh_trans": "***5秒后传送人类至大坝***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***CAPTAIN Uruk-hai is dead.***",
@@ -770,8 +940,10 @@
     "zh_trans": "***乌鲁克队长 再起不能***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LVL 2 COMPLETED***",
@@ -779,8 +951,10 @@
     "zh_trans": "***第二关 完成***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LVL3 SARUMAN TOWER***",
@@ -788,8 +962,10 @@
     "zh_trans": "***第三关 双塔奇兵***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Teleporting AFK's to Saruman tower in 35sec**",
@@ -797,8 +973,10 @@
     "zh_trans": "**35秒后挂机玩家将传送至萨鲁曼塔**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***LEFT DOOR OPEN IN 10 SEC***",
@@ -806,8 +984,10 @@
     "zh_trans": "***左侧门10秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***HOLD***",
@@ -815,8 +995,10 @@
     "zh_trans": "***守住***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***LEFT DOOR OPEN. NEED KEY FOR RIGHT DOOR***",
@@ -824,8 +1006,10 @@
     "zh_trans": "***左侧门已开启，我们需要钥匙来开启右边的门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Key is found. Door open in 5 sec***",
@@ -833,8 +1017,10 @@
     "zh_trans": "***钥匙找到了，门在5秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIES TELEPORT IN 5 SEC!***",
@@ -842,8 +1028,10 @@
     "zh_trans": "***僵尸5秒后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***NEED KEY***",
@@ -851,8 +1039,10 @@
     "zh_trans": "***需要找到钥匙***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Find key in the room***",
@@ -860,8 +1050,10 @@
     "zh_trans": "***在这个房间中寻找钥匙***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Key is found. Door open in 10 sec***",
@@ -869,8 +1061,10 @@
     "zh_trans": "***钥匙找到了。门在10秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**It is Grima!!! KILL HIM!**",
@@ -878,8 +1072,10 @@
     "zh_trans": "**这是格里马！杀了他！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Humans didnt kill grima***",
@@ -887,8 +1083,10 @@
     "zh_trans": "***人类没有杀死葛力马***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GRIMA IS DEAD***",
@@ -896,8 +1094,10 @@
     "zh_trans": "***葛力马 再起不能***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Teleporting AFK's in 10 sec!!***",
@@ -905,8 +1105,10 @@
     "zh_trans": "***10秒后传送挂机玩家***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Get ready for the final battle***",
@@ -914,8 +1116,10 @@
     "zh_trans": "***准备好 最后的战斗***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Exit will close in 15 seconds***",
@@ -923,8 +1127,10 @@
     "zh_trans": "***出口在15秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*Teleporting Zombies and AFK's to Saruman tower in 20s*",
@@ -932,8 +1138,10 @@
     "zh_trans": "*僵尸和挂机玩家在20秒后传送至萨鲁曼塔*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SARUMAN is dead.***",
@@ -941,8 +1149,10 @@
     "zh_trans": "***萨鲁曼 再起不能**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**>>Congratulations<<**",
@@ -950,8 +1160,10 @@
     "zh_trans": "**>>恭喜！<<**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RUN TO THE MAIN GATE***",
@@ -959,8 +1171,10 @@
     "zh_trans": "***快跑到城门那去！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**LEVEL 3 COMPLETED**",
@@ -968,8 +1182,10 @@
     "zh_trans": "**第三关 完成**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**NUKE in 5**",
@@ -977,8 +1193,10 @@
     "zh_trans": "**5秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**NUKE in 4**",
@@ -986,8 +1204,10 @@
     "zh_trans": "**4秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**NUKE in 3**",
@@ -995,8 +1215,10 @@
     "zh_trans": "**3秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**NUKE in 2**",
@@ -1004,8 +1226,10 @@
     "zh_trans": "**2秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**NUKE in 1**",
@@ -1013,8 +1237,10 @@
     "zh_trans": "**1秒后核爆**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***KILL NAZGUL***",
@@ -1022,8 +1248,10 @@
     "zh_trans": "***杀死戒灵***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Everyone move forward***",
@@ -1031,8 +1259,10 @@
     "zh_trans": "***所有人前进***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**HOLD 25 SECONDS**",
@@ -1040,8 +1270,10 @@
     "zh_trans": "** 等待 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**RUN**",
@@ -1049,8 +1281,10 @@
     "zh_trans": "**撤退**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**HOLD 30 SECONDS**",
@@ -1058,8 +1292,10 @@
     "zh_trans": "**等待 30 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GO GO**",
@@ -1067,8 +1303,10 @@
     "zh_trans": "**润！润！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*Zombie clip brush is disabled*",
@@ -1076,8 +1314,10 @@
     "zh_trans": "*僵尸空气墙已被禁用*",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GO UP ON LADDER***",
@@ -1085,8 +1325,10 @@
     "zh_trans": "***爬上梯子***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Zombies on boat. Humans lose.***",
@@ -1094,8 +1336,10 @@
     "zh_trans": "***检测到僵尸上船  人类失败***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***GANDALF IS DEAD***",
@@ -1103,8 +1347,10 @@
     "zh_trans": "***甘道夫倒下了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Player has picked up Heal***",
@@ -1112,8 +1358,10 @@
     "zh_trans": "***玩家捡起了治疗***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***ADMIN CHOOSES 3 LEVEL***",
@@ -1121,7 +1369,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***ADMIN CHOOSES 1 LEVEL***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
