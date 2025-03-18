@@ -2,7 +2,7 @@
   {
     "original": "Map made by Puklica",
     "en_trans": "",
-    "zh_trans": "本图由 Puklica 制作",
+    "zh_trans": "本图由 Puklica 制作(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DEFEND THE VILLAGE FOR 40 SEC! <<<",
@@ -129,7 +129,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> 10 SECONDS REMAINING <<<",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR CLOSES IN 25 SEC <<<",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> DOOR CLOSES IN 5 SEC <<<",
@@ -387,13 +387,13 @@
   {
     "original": "(CT) >>>--SHOOT CANNON--<<<",
     "en_trans": "",
-    "zh_trans": "(人类) >>>--朝加农炮开火--<<<",
+    "zh_trans": "(人类) >>>--向炮口开枪--(如果没有及时摧毁加农炮，人类将直接失败)<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_alert_red",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<",
@@ -662,7 +662,7 @@
   {
     "original": ">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<",
     "en_trans": "",
-    "zh_trans": ">>> 他死了。去藏宝室能保命！<<<",
+    "zh_trans": ">>> 他死了。到藏宝室里就能活下来！<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -712,7 +712,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** MEDALLION picked up ***",
@@ -723,7 +723,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD THE CELLAR FOR 30 SEC <<<",
@@ -767,7 +767,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD FOR 25 SEC <<<",
