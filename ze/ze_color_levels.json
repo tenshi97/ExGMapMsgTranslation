@@ -24,7 +24,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<AFK TP IN 5 SECONDS>",
@@ -110,11 +111,12 @@
   {
     "original": "<GET READY TO DODGE LASERS>",
     "en_trans": "",
-    "zh_trans": "<准备躲避激光>",
+    "zh_trans": "<准备跳刀>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<GG. YOU BEAT THE MAP>",
@@ -123,7 +125,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<STAGE II WILL BE ADDED IN FUTURE>",
@@ -132,12 +135,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<Map by Smurf>",
     "en_trans": "",
-    "zh_trans": "<地图作者： Smurf>",
+    "zh_trans": "<地图作者： Smurf(翻译:星荧铃)>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -150,6 +154,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
