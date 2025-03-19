@@ -24,7 +24,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: La verja se rompera en 45 segundos",
@@ -65,11 +66,11 @@
   {
     "original": "El Son Goku: 5 segundos preparate a correr",
     "en_trans": "",
-    "zh_trans": "孙悟空：还有五秒钟，准备跑吧！",
+    "zh_trans": "孙悟空：还有5秒钟，准备跑吧！",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 5,
+    "enable_timer": 1
   },
   {
     "original": "El Son Goku: La puerta se a abierto corre al siguinte nivel",
@@ -78,16 +79,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: Huye de la serpiente",
     "en_trans": "",
-    "zh_trans": "孙悟空：逃离蛇的追击！不要碰到蛇！！",
+    "zh_trans": "孙悟空：逃离蛇的追击！不要碰到蛇，一碰就死！！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: Barco 2 se va en 10 segs",
@@ -114,7 +117,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: La puerta Final se cierra en 45 segundos",
@@ -150,7 +154,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: La puerta se reabrira en 5 segundos",
@@ -186,16 +191,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: la venida del super dragon fue activado!",
     "en_trans": "",
-    "zh_trans": "孙悟空：超级龙的降临已激活！",
+    "zh_trans": "孙悟空：神龙即将降临！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "El Son Goku: Bomba nuclear en 60 segundos",

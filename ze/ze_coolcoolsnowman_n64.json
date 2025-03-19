@@ -2,7 +2,7 @@
   {
     "original": "MAP BY BLUE BLUE, WITH THE HELP OF MAPEADORES DISCORD",
     "en_trans": "",
-    "zh_trans": "地图作者：BLUE BLUE，在MAPEADORES DISCORD的帮助下完成",
+    "zh_trans": "地图作者：BLUE BLUE，在MAPEADORES DISCORD的帮助下完成(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -33,7 +33,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WAIT 15 SECONDS ***",
@@ -51,7 +52,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SHOOT THE BOX ! ***",
@@ -60,7 +62,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE GIANT SHELL WILL MOVE IN 15 SECONDS ***",
@@ -78,7 +81,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR WILL MOVE IN 15 SECONDS ***",
@@ -114,7 +118,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DEFEND THE SNOWMAN'S HEAD FOR 20 SECONDS ***",
@@ -132,7 +137,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE ELEVATOR WILL BE ACCESSIBLE IN 10 SECONDS ***",
@@ -168,7 +174,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE ICE WALL WILL BREAK IN 20 SECONDS ! ***",
@@ -182,11 +189,12 @@
   {
     "original": "*** LET'S A-GO ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们出发吧！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DEFEND 25 SECONDS 'TILL THE SNOWMAN MELT ***",
@@ -204,7 +212,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DEFEND UNTIL THE CHIMNEY IS REACHABLE ***",
@@ -213,7 +222,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE PLATEFORM WILL MOVE IN 20 SECONDS ***",
@@ -240,7 +250,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FALL BACK ! ***",
@@ -249,7 +260,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DEFEND 15 SECONDS UNTIL THE FLOOR BREAK ***",
@@ -303,7 +315,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WE FOUND THE SECRET STAR ! ***",
@@ -312,7 +325,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DEFEND FOR 20 LAST SECONDS ***",

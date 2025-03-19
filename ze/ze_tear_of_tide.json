@@ -35,7 +35,7 @@
   {
     "original": "Map create by lopb ,thanks script support by 7ychu5,thanks materials support by Tenshi.",
     "en_trans": "",
-    "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.",
+    "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "Map create by lopb ,thanks script support by 7ychu5,thanks materials and particle support by Tenshi.",
     "en_trans": "",
-    "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.",
+    "zh_trans": "地图作者：lopb ,感谢由 7ychu5 提供的脚本支持,感谢 Tenshi 提供的质材支持.(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -140,18 +140,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "DarkCreatures are one step ahead of you!",
     "en_trans": "",
-    "zh_trans": "黑暗生物比你领先一步！",
+    "zh_trans": "黑暗生物领先你一步！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "be careful !",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "door will open in 10 sec !",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "WaterElf is in a frenzy, get out of here quickly!",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Run! Run! Run! Run! Run! Run!",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The tide is rising! Fly up!",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "You purified WaterElf!",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "kill all zombie !",
@@ -239,7 +239,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "No one survived.WaterElf went berserk!",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "我要玩狮子王",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Zombie Shift will hurt more[3]",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< set stage 1 >>>",
@@ -382,7 +382,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Zombie Shift will hurt more[10],Will be rage after 30sec!!!",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "No one successfully escaped !",
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Attacking Red tendrils can deal half of damage",
@@ -426,21 +426,32 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Human pick up Wind! >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<人类捡起了风！>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< Human pick up Freeze! >>>",
+    "en_trans": "",
+    "zh_trans": "<<<人类捡起了冰！>>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<<< Zombie Coming !!!!!! >>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

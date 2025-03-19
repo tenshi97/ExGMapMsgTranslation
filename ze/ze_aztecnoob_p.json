@@ -11,12 +11,12 @@
   {
     "original": "* * * Hold this temple untill Steve does something * * *",
     "en_trans": "",
-    "zh_trans": "* * *在史蒂夫找到方法前守住这座庙宇 * * *",
+    "zh_trans": "* * *在史蒂夫找到方法前守住这座庙宇90秒 * * *",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 90,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BALALABL LALA",
