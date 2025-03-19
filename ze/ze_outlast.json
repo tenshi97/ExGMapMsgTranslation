@@ -167,7 +167,7 @@
   {
     "original": "* *CONGRATULATIONS STAGE 1 COMPLETE* *",
     "en_trans": "",
-    "zh_trans": "** 恭喜你们完成了第一关 **",
+    "zh_trans": "** 恭喜你们拿下了第一关 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,13 +266,13 @@
   {
     "original": "* *THIS IS CHRIS WALKER KILL HIM FASTER!* *",
     "en_trans": "",
-    "zh_trans": "** 这是克里斯.沃克，快淦死他！**",
+    "zh_trans": "** 这是克里斯.沃克，快解决他！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *CHRIS WALKER DEFEATED NOW GO BACK* *",
@@ -492,18 +492,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *A PLAYER HAS PICKED UP BOMB* *",
     "en_trans": "",
-    "zh_trans": "** 一位玩家捡起了炸弹 **",
+    "zh_trans": "** 一位玩家拾起了炸弹 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *The bomb will explode in 30 seconds* *",
@@ -723,7 +723,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "* *BOATS START AT 30 SECONDS* *",
@@ -739,7 +739,7 @@
   {
     "original": "* *CONGRATULATIONS STAGE 2 COMPLETE* *",
     "en_trans": "",
-    "zh_trans": "** 恭喜你们完成了第二关 **",
+    "zh_trans": "** 恭喜你们拿下了第二关 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,7 +750,7 @@
   {
     "original": "* *6/6 documents found* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前已收集6/6份文件 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -761,12 +761,12 @@
   {
     "original": "* *You found all the secrets Good Job* *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你已经找齐了所有隐藏文件，干得漂亮 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
