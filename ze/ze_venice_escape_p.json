@@ -5,8 +5,10 @@
     "zh_trans": "***地图作者：RelaxingWalls***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Map made for SteamGamers Mapping Competition***",
@@ -14,8 +16,10 @@
     "zh_trans": "***为 SteamGamers 地图制作比赛而制作的地图***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Escape Venice through the Grand Canal and to the Escape Island!***",
@@ -34,8 +38,10 @@
     "zh_trans": "***一号船将于 10 秒后出发！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 2 leaving in 5secs!***",
@@ -43,8 +49,10 @@
     "zh_trans": "***二号船将于 5 秒后出发！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat house door open!***",
@@ -52,8 +60,10 @@
     "zh_trans": "***船库的门已经打开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Overpass gate will open in 15secs!***",
@@ -61,8 +71,10 @@
     "zh_trans": "***在立交桥的闸门将于 15 秒后打开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Lift 1 leaving in 10secs!***",
@@ -70,8 +82,10 @@
     "zh_trans": "***一号电梯将于 10 秒后离开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Lift 2 leaving in 5secs!***",
@@ -79,8 +93,10 @@
     "zh_trans": "***二号电梯将于 5 秒后离开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***AFK Teleport in 45 seconds!***",
@@ -88,8 +104,10 @@
     "zh_trans": "***挂机玩家45后传送***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Left bridge charges set for 15secs!***",
@@ -97,8 +115,10 @@
     "zh_trans": "***左侧桥梁定时炸弹设置为15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 5 leaving in 60secs!***",
@@ -106,8 +126,10 @@
     "zh_trans": "***五号船将于 60 秒后离开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Helicopter leaving in 75secs!",
@@ -115,8 +137,10 @@
     "zh_trans": "***直升机将于 75 秒后离开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 75,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Bridge charges set for 15secs!***",
@@ -124,8 +148,10 @@
     "zh_trans": "***桥梁定时炸弹设置为15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Helicopter leaving in 30secs!",
@@ -133,8 +159,10 @@
     "zh_trans": "***直升机将于 30 秒后离开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 5 leaving in 5secs!***",
@@ -142,8 +170,10 @@
     "zh_trans": "***五号船还有 5 秒就要离开了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 3 leaving in 45secs!***",
@@ -151,8 +181,10 @@
     "zh_trans": "***三号船将于 45 秒后离开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Helicopter leaving in 5secs!",
@@ -160,8 +192,10 @@
     "zh_trans": "***直升机还有 5 秒就要离开了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat house bridge charges set for 15secs!***",
@@ -169,8 +203,10 @@
     "zh_trans": "***船坞桥梁定时炸弹设置为15秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 3 leaving in 5secs!***",
@@ -178,8 +214,10 @@
     "zh_trans": "***三号船还有 5 秒就要离开了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 4 leaving in 45secs!***",
@@ -187,8 +225,10 @@
     "zh_trans": "***四号船将于 45 秒后离开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Boat 4 leaving in 5secs!***",
@@ -196,8 +236,10 @@
     "zh_trans": "***四号船还有 5 秒就要离开了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Nukes ready for launch!***",
@@ -205,8 +247,10 @@
     "zh_trans": "***核弹已经准备好发射！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Utility door will open in 15secs!***",
@@ -214,8 +258,10 @@
     "zh_trans": "***公用设施门将于 15 秒后打开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Nuke in 10secs!***",
@@ -223,8 +269,10 @@
     "zh_trans": "***核弹 10 秒后到来***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***3***",
@@ -232,8 +280,10 @@
     "zh_trans": "***3***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***2***",
@@ -241,8 +291,10 @@
     "zh_trans": "***2***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***1***",
@@ -250,8 +302,10 @@
     "zh_trans": "***1***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***I Learned to Stop Worrying and Love the Bomb!***",
@@ -259,8 +313,10 @@
     "zh_trans": "***我如何学会不再忧愁并爱上爆炸！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "test",
@@ -268,8 +324,10 @@
     "zh_trans": "当前为cs2移植测试版本",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "因hide闪退问题暂时开启处死核爆",
@@ -277,8 +335,10 @@
     "zh_trans": "因hide闪退问题暂时开启处死核爆",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "1",
@@ -286,8 +346,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "test 15",
@@ -295,7 +357,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "galil",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
