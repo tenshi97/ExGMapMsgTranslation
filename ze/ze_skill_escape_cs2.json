@@ -1,8 +1,8 @@
 [
   {
-    "original": "***Map by RelaxingWalls***",
+    "original": "<< Welcome to SKILL ESCAPE by acme>>",
     "en_trans": "",
-    "zh_trans": "***地图作者：RelaxingWalls***",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -11,9 +11,9 @@
     "force_hint": 0
   },
   {
-    "original": "***Map made for SteamGamers Mapping Competition***",
+    "original": "<< Ported by proper>>",
     "en_trans": "",
-    "zh_trans": "***为 SteamGamers 地图制作比赛而制作的地图***",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -22,31 +22,42 @@
     "force_hint": 0
   },
   {
-    "original": "***Escape Venice through the Grand Canal and to the Escape Island!***",
+    "original": "<< STAGE 1: JUST A TRIM>>",
     "en_trans": "",
-    "zh_trans": "***人类需要穿过大运河逃离威尼斯并前往逃生岛！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_alert",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
-  },
-  {
-    "original": "***Boat 1 leaving in 10secs!***",
-    "en_trans": "",
-    "zh_trans": "***一号船将于 10 秒后出发！***",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 10,
+    "timer_num": 1,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": "***Boat 2 leaving in 5secs!***",
+    "original": "<< DEFEND YOUR TEAMMATES >>",
     "en_trans": "",
-    "zh_trans": "***二号船将于 5 秒后出发！***",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< DEFEND, DONT EDGE >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< 5 SECONDS >>",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -55,9 +66,9 @@
     "force_hint": 0
   },
   {
-    "original": "***Boat house door open!***",
+    "original": "<< BOOST ENABLED >>",
     "en_trans": "",
-    "zh_trans": "***船库的门已经打开！***",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -66,97 +77,9 @@
     "force_hint": 0
   },
   {
-    "original": "***Overpass gate will open in 15secs!***",
+    "original": "<< DEFEND FOR 30 SEC >>",
     "en_trans": "",
-    "zh_trans": "***在立交桥的闸门将于 15 秒后打开！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Lift 1 leaving in 10secs!***",
-    "en_trans": "",
-    "zh_trans": "***一号电梯将于 10 秒后离开！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Lift 2 leaving in 5secs!***",
-    "en_trans": "",
-    "zh_trans": "***二号电梯将于 5 秒后离开！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***AFK Teleport in 45 seconds!***",
-    "en_trans": "",
-    "zh_trans": "***挂机玩家45后传送***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 45,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Left bridge charges set for 15secs!***",
-    "en_trans": "",
-    "zh_trans": "***左侧桥梁定时炸弹设置为15秒***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Boat 5 leaving in 60secs!***",
-    "en_trans": "",
-    "zh_trans": "***五号船将于 60 秒后离开！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 60,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Helicopter leaving in 75secs!",
-    "en_trans": "",
-    "zh_trans": "***直升机将于 75 秒后离开！",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 75,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Bridge charges set for 15secs!***",
-    "en_trans": "",
-    "zh_trans": "***桥梁定时炸弹设置为15秒***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Helicopter leaving in 30secs!",
-    "en_trans": "",
-    "zh_trans": "***直升机将于 30 秒后离开！",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -165,86 +88,9 @@
     "force_hint": 0
   },
   {
-    "original": "***Boat 5 leaving in 5secs!***",
+    "original": "<< STAY ON THE TOP BOX AND DEFEND >>",
     "en_trans": "",
-    "zh_trans": "***五号船还有 5 秒就要离开了！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Boat 3 leaving in 45secs!***",
-    "en_trans": "",
-    "zh_trans": "***三号船将于 45 秒后离开！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 45,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Helicopter leaving in 5secs!",
-    "en_trans": "",
-    "zh_trans": "***直升机还有 5 秒就要离开了！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Boat house bridge charges set for 15secs!***",
-    "en_trans": "",
-    "zh_trans": "***船坞桥梁定时炸弹设置为15秒***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Boat 3 leaving in 5secs!***",
-    "en_trans": "",
-    "zh_trans": "***三号船还有 5 秒就要离开了！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Boat 4 leaving in 45secs!***",
-    "en_trans": "",
-    "zh_trans": "***四号船将于 45 秒后离开！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 45,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Boat 4 leaving in 5secs!***",
-    "en_trans": "",
-    "zh_trans": "***四号船还有 5 秒就要离开了！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***Nukes ready for launch!***",
-    "en_trans": "",
-    "zh_trans": "***核弹已经准备好发射！***",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -253,9 +99,9 @@
     "force_hint": 0
   },
   {
-    "original": "***Utility door will open in 15secs!***",
+    "original": "<< DEFEND FOR 15 SEC >>",
     "en_trans": "",
-    "zh_trans": "***公用设施门将于 15 秒后打开！***",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -264,9 +110,53 @@
     "force_hint": 0
   },
   {
-    "original": "***Nuke in 10secs!***",
+    "original": "<< DOOR OPENING, JUMP >>",
     "en_trans": "",
-    "zh_trans": "***核弹 10 秒后到来***",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< ZOMBIE TP IN 5 SECONDS >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< CLOSING DOOR IN 25 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< TOUCH RING LIFE IF YOU < 100HP >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< 10 SECONDS >>",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -275,73 +165,7 @@
     "force_hint": 0
   },
   {
-    "original": "***3***",
-    "en_trans": "",
-    "zh_trans": "***3***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***2***",
-    "en_trans": "",
-    "zh_trans": "***2***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***1***",
-    "en_trans": "",
-    "zh_trans": "***1***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***I Learned to Stop Worrying and Love the Bomb!***",
-    "en_trans": "",
-    "zh_trans": "***我如何学会不再忧愁并爱上爆炸！***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "test",
-    "en_trans": "",
-    "zh_trans": "当前为cs2移植测试版本",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "因hide闪退问题暂时开启处死核爆",
-    "en_trans": "",
-    "zh_trans": "因hide闪退问题暂时开启处死核爆",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "1",
+    "original": "<< STAGE 1: COMPLETED >>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -352,7 +176,29 @@
     "force_hint": 0
   },
   {
-    "original": "test 15",
+    "original": "<< STAGE 2: EASY >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< DEFEND YOUR TEAMMATES FOR 40 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 40,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< BREAKING EMERGENCY GLASS IN 15 SEC >>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -363,7 +209,7 @@
     "force_hint": 0
   },
   {
-    "original": "galil",
+    "original": "<< ZOMBIE SHORTCUT OPENED >>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -371,6 +217,204 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< ZOMBIES TAKE THE LADDER >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< PLATFORM LEAVING IN 25 SEC, DEFEND >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< PLATFORM LEAVING IN 10 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< PLATFORM LEAVING IN 5 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< STAGE 2 COMPLETED >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< STAGE 3: MEDIUM >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< JUMP IN THE WATER >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< ZOMBIE TP in 5 SEC! >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< ROTOR STOPPING IN 5 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< DOOR OPENING IN 15 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< DOOR OPENING IN 5 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< DEFEND ON THE TOP FOR 35 SEC >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< DEFEND FOR 15 SEC>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< GLASS BREAKING IN 5 SEC>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< ZOMBIE TP in 5 SEC>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< FOLLOW THE RULES!>>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "<< STAGE 3 COMPLETED >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< STAGE 4: HARD: CLIMB THE MEME TOWER >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 4,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
