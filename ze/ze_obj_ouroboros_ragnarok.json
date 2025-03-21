@@ -2,7 +2,7 @@
   {
     "original": "<这里是AOH指挥部中心，接到管理层通知，前来询问你们在APOLLYON计划的进程。>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<这里是AOH指挥部中心，接到管理层通知，前来询问你们在APOLLYON计划的进程。>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "<“长官，尽管遇到了一些挫折，我们还是圆满完成任务。我们从apollyon设施中带回了最后的钥匙〈天狼星〉”>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<“长官，尽管遇到了一些挫折，我们还是圆满完成任务。我们从apollyon设施中带回了最后的钥匙〈天狼星〉”>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "<干得漂亮，我们永远信任衔尾蛇精英小队的办事能力。现如今，你们已经拿到了三把启动“灯塔”的授权钥匙，分别是“南河三”，“参宿四”与“天狼星”>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<干得漂亮，我们永远信任衔尾蛇精英小队的办事能力。现如今，你们已经拿到了三把启动“灯塔”的授权钥匙，分别是“南河三”，“参宿四”与“天狼星”>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "<现在只剩下最后一把...>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<现在只剩下最后一把...>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "<它被前任灯塔操纵官安置在灯塔ALPHA基地中>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<它被前任灯塔操纵官安置在灯塔ALPHA基地中>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,12 +200,12 @@
   {
     "original": "<给我20秒时间>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<给我20秒时间>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -244,12 +244,12 @@
   {
     "original": "“给我25秒钟，我来破译大门”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我25秒钟，我来破译大门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -288,12 +288,12 @@
   {
     "original": "“给我15秒”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我15秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -310,12 +310,12 @@
   {
     "original": "“给我20秒！坚守这里！”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我20秒！坚守这里！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -431,23 +431,23 @@
   {
     "original": "“升降门将在15秒后开启”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "升降门将在15秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "“给我20秒，坚守这里”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我20秒，坚守这里",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -574,12 +574,12 @@
   {
     "original": "“给我20秒”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我20秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -662,12 +662,12 @@
   {
     "original": "“电梯不久就会启动(20秒)，保住我们的安全！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯不久就会启动(20秒)，保住我们的安全！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -783,12 +783,12 @@
   {
     "original": "“坚守20秒！”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚守20秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -816,12 +816,12 @@
   {
     "original": "“给我15秒破解大门”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我15秒破解大门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -871,12 +871,12 @@
   {
     "original": "“电梯正在重启，不要让他们接近这里！防守20秒”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "电梯正在重启，不要让他们接近这里！防守20秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -937,7 +937,7 @@
   {
     "original": "<success>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<成功了>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1498,34 +1498,34 @@
   {
     "original": "“坚持60秒，这个生物好像很虚弱，注意躲避他的攻击”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚持60秒，这个生物好像很虚弱，注意躲避他的攻击",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "“给我15秒破译大门”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "给我15秒破译大门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "“坚持90秒，这个生物好像很虚弱，注意躲避他的攻击”",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚持90秒，这个生物好像很虚弱，注意躲避他的攻击",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 90,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -1603,7 +1603,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "“彩蛋已解锁”",
@@ -1614,7 +1614,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "!!hide 9999",
@@ -1623,8 +1623,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 9999,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
