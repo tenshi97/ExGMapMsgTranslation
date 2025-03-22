@@ -2,7 +2,7 @@
   {
     "original": "**Map By ArteSurf【STEAM_1:0:142903751】**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**地图作者 ArteSurf【STEAM_1:0:142903751】(翻译:星荧铃)**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,11 +11,12 @@
   {
     "original": "**建议将画质调为最高以获得良好的效果**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**建议将画质调为最高以获得良好的效果**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**STAGE1 Clean**",
@@ -24,7 +25,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**40seconds left**",
@@ -47,11 +49,12 @@
   {
     "original": "**Zombie has escape**",
     "en_trans": "",
-    "zh_trans": "**有僵尸逃脱了**",
+    "zh_trans": "**有僵尸出来了**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**STAGE2 Clean**",
@@ -60,7 +63,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**No human, Stage1 Fail**",
@@ -69,16 +73,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Zombie has escape,Stage1 Fail**",
     "en_trans": "",
-    "zh_trans": "**有僵尸逃脱,关卡1失败**",
+    "zh_trans": "**有僵尸出来了,关卡失败**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Survive 180seconds**",
