@@ -46,13 +46,13 @@
   {
     "original": "**A player has picked up <Last Bastion>(Barrier)**",
     "en_trans": "",
-    "zh_trans": "**一名玩家捡起了<终极堡垒>（屏障）**",
+    "zh_trans": "**一名玩家捡起了<终极堡垒>（墙）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will open in 10 seconds<<",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A player has picked up <Radiant Finale>(Ammo)**",
@@ -85,18 +85,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A player has picked up <Gravity Ⅱ>(Gravity)**",
     "en_trans": "",
-    "zh_trans": "**一名玩家捡起了<中重力>（黑洞）**",
+    "zh_trans": "**一名玩家捡起了<中重力>（重力）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will open in 30 seconds<<",
@@ -118,7 +118,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Activate 4 Nymian Devices<<",
@@ -200,13 +200,13 @@
   {
     "original": "**A player has picked up <Doton>(Dirt)**",
     "en_trans": "",
-    "zh_trans": "**一名玩家捡起了<土遁之术>（土）**",
+    "zh_trans": "**一名玩家捡起了<土遁之术>（减速）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Looks the Nymian Device is rusty<<",
@@ -310,7 +310,7 @@
   {
     "original": ">>ze_FFXIV_Wanderers_Palace_Rebirth<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>ze_FFXIV_Wanderers_Palace_Rebirth - 最终幻想14放浪古神殿:重生<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": ">>Upgrade from ze_FFXIV_Wanderers_Palace_v4 created by Altima<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>由Altima创作的放浪古神殿v4版本升级而来<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": ">>Map ported and remade by Runa & Tenshi.<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>地图移植及重制:Runa & Tenshi.(翻译:星荧铃)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": ">>The Ultimate Level will be released in the furture<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>最终关将于未来推出<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

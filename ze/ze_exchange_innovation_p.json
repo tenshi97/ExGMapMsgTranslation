@@ -15,7 +15,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "NÍVEL DE INFECÇÃO: DESCONHECIDO",
@@ -42,7 +43,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "ATTENTION: WEAPONS DETECTED",
@@ -51,12 +53,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "MAP MADE BY N!kO | NickMaps",
     "en_trans": "",
-    "zh_trans": "地图制作：N!kO | NickMaps",
+    "zh_trans": "地图制作：N!kO | NickMaps(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -168,7 +171,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "BOATS WILL LEAVE IN 30 SECONDS !",
@@ -195,7 +199,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "O MUNDO ESTARÁ PERDIDO",
@@ -209,11 +214,12 @@
   {
     "original": "THE WORLD WILL BE LOST",
     "en_trans": "",
-    "zh_trans": "世界将会失去……",
+    "zh_trans": "世界将会沦陷……",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 30 SEGUNDOS",

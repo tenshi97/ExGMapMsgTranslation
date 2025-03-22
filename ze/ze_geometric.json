@@ -277,13 +277,13 @@
   {
     "original": "<< STAGE COMPLETE >>",
     "en_trans": "",
-    "zh_trans": "<< 关卡完成 >>",
+    "zh_trans": "<< 关卡完成(翻译:星荧铃) >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "- STAGE CIRCLE -",
@@ -365,18 +365,18 @@
   {
     "original": "- THE FINAL -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 最终关 -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hold for 35 seconds>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<坚守 35 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "<< Hold for 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<坚守 20 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

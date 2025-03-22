@@ -13,68 +13,68 @@
   {
     "original": "地下沙坑的入口被打开了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地下沙坑的入口被打开了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "关上门才能终止本回合。",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "关上门才能终止本回合。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "打开门，开始下一回合！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "打开门，开始下一回合！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "回合开始！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "回合开始！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "分别打开四个房间的门，并进入开启里面的控制器！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "分别打开四个房间的门，并进入开启里面的控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "请冲进房间并开启控制器！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "请冲进房间并开启控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "控制器在30秒后启动！！",
@@ -90,12 +90,12 @@
   {
     "original": "僵尸猖狂起来了！请坚持1分钟！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸猖狂起来了！请坚持60秒！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]

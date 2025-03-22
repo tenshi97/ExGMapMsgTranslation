@@ -97,7 +97,7 @@
   {
     "original": "*** CROUCH or DIE !! ***",
     "en_trans": "",
-    "zh_trans": "*** 蹲下，否则就死!! ***",
+    "zh_trans": "*** 蹲下，否则就死!!(跳起来) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -107,7 +107,7 @@
   {
     "original": "*** Jump NOW ! ***",
     "en_trans": "",
-    "zh_trans": "*** 现在跳 ! ***",
+    "zh_trans": "*** 现在跳 !(蹲下) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -117,7 +117,7 @@
   {
     "original": "*** Please come forward <3 ***",
     "en_trans": "",
-    "zh_trans": "*** 请到前面 <3 ***",
+    "zh_trans": "*** 请到前面 <3 (去后面)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -127,7 +127,7 @@
   {
     "original": "*** Please stay on the elevator. ***",
     "en_trans": "",
-    "zh_trans": "*** 请待在电梯上。 ***",
+    "zh_trans": "*** 请待在电梯上。(远离电梯) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -137,7 +137,7 @@
   {
     "original": "*** QUICK ! Go away from the elevator ! ***",
     "en_trans": "",
-    "zh_trans": "*** 快！远离电梯! ***",
+    "zh_trans": "*** 快！远离电梯! (待在电梯上)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -147,7 +147,7 @@
   {
     "original": "*** LOOK BEHIND YOU !! ***",
     "en_trans": "",
-    "zh_trans": "*** 看你身后!! ***",
+    "zh_trans": "*** 看你身后!! (前方来刀)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -176,7 +176,7 @@
   {
     "original": "*** Please go backward <3 ***",
     "en_trans": "",
-    "zh_trans": "*** 请到后面来 <3 ***",
+    "zh_trans": "*** 请到后面来 <3 (去前面)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

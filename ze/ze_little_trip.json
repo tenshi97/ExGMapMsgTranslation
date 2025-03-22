@@ -140,8 +140,9 @@
     "zh_trans": "*** Boss使用了 吸力 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Press S! ***",
@@ -149,17 +150,19 @@
     "zh_trans": "*** 按 S键 ! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boss used hurt ***",
     "en_trans": "",
-    "zh_trans": "*** Boss使用了 伤害 ***",
+    "zh_trans": "*** Boss使用了 全屏伤害 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Crouch! ***",
@@ -167,8 +170,9 @@
     "zh_trans": "*** 蹲下! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boss used danger field! ***",
@@ -176,8 +180,9 @@
     "zh_trans": "*** Boss使用了 危险领域! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Stand on the green floor! ***",
@@ -185,8 +190,9 @@
     "zh_trans": "*** 站在绿色地板上! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boss used push ***",
@@ -194,8 +200,9 @@
     "zh_trans": "*** Boss使用了 推力 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Press W! ***",
@@ -203,8 +210,9 @@
     "zh_trans": "*** 按 W键 ! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Shoot it before it touches you! ***",
@@ -212,8 +220,9 @@
     "zh_trans": "*** 在它碰到你之前射击它! ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boss used moving wall ***",
@@ -221,8 +230,9 @@
     "zh_trans": "*** Boss使用了 移动墙***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boss used rotating wall ***",
@@ -230,8 +240,9 @@
     "zh_trans": "*** Boss使用了 旋转墙 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Zombies teleport in 10 seconds ***",
@@ -263,10 +274,11 @@
   {
     "original": "*** CONGRATS!!! ***",
     "en_trans": "",
-    "zh_trans": "*** 恭喜通关!!! ***",
+    "zh_trans": "*** 恭喜通关!!!(翻译:星荧铃) ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

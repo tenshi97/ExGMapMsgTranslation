@@ -8,12 +8,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** MAP BY Limon. [Russian] **",
     "en_trans": "",
-    "zh_trans": "** 地图作者 Limon. [俄语] **",
+    "zh_trans": "** 地图作者 Limon. [俄](翻译:星荧铃) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gate will open in 35 seconds**",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The Gate will open in 5 seconds!**",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**You must reach the palace on a next tier**",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gates opening in 30 seconds!**",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**We'll get the gate open soon! Gate will be destroyed in 30 seconds!**",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The GATE OPEN in 5s!**",
@@ -244,7 +244,7 @@
   {
     "original": "***MAP BY Limon. [Russian]***",
     "en_trans": "",
-    "zh_trans": "***地图作者 Limon. [俄语]***",
+    "zh_trans": "***地图作者 Limon. [俄语](翻译:星荧铃)***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,13 +321,13 @@
   {
     "original": "**!EXPLOSION!**",
     "en_trans": "",
-    "zh_trans": "**!爆炸!**",
+    "zh_trans": "**!BOOM!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gate is now open!**",
@@ -371,12 +371,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Map by Limon.**",
     "en_trans": "",
-    "zh_trans": "**地图作者 Limon.**",
+    "zh_trans": "**地图作者 Limon.(翻译:星荧铃)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

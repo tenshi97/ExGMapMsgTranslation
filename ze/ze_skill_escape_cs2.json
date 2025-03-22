@@ -2,18 +2,18 @@
   {
     "original": "<< Welcome to SKILL ESCAPE by acme>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 欢迎来到由 acme 制作的身法逃亡 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Ported by proper>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 由 proper 移植(翻译:星荧铃) >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,40 +24,40 @@
   {
     "original": "<< STAGE 1: JUST A TRIM>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第一关: 简单优化>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< DEFEND YOUR TEAMMATES >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 保护你的队友 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< DEFEND, DONT EDGE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 防守，不要冒险 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< 5 SECONDS >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 5 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,18 +68,18 @@
   {
     "original": "<< BOOST ENABLED >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 加速已启用 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< DEFEND FOR 30 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 防守 30 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,18 +90,18 @@
   {
     "original": "<< STAY ON THE TOP BOX AND DEFEND >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 待在顶部的箱子上并防守 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< DEFEND FOR 15 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 防守 15 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,18 +112,18 @@
   {
     "original": "<< DOOR OPENING, JUMP >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门开了，跳 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< ZOMBIE TP IN 5 SECONDS >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸将在 5 秒后传送 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "<< CLOSING DOOR IN 25 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 25 秒后关门 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,18 +145,18 @@
   {
     "original": "<< TOUCH RING LIFE IF YOU < 100HP >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 若你生命值低于 100 ，去触摸生命之环 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< 10 SECONDS >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 10 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,29 +167,29 @@
   {
     "original": "<< STAGE 1: COMPLETED >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第一关: 已完成>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< STAGE 2: EASY >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第二关：简单 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< DEFEND YOUR TEAMMATES FOR 40 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 为你的队友防守 40 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "<< BREAKING EMERGENCY GLASS IN 15 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 15 秒后打破应急玻璃 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,29 +211,29 @@
   {
     "original": "<< ZOMBIE SHORTCUT OPENED >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸捷径已打开 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< ZOMBIES TAKE THE LADDER >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸爬上梯子了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< PLATFORM LEAVING IN 25 SEC, DEFEND >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 平台将在 25 秒后离开，守住 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "<< PLATFORM LEAVING IN 10 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 平台将在 10 秒后离开 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "<< PLATFORM LEAVING IN 5 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 平台将在 5 秒后离开 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,40 +266,40 @@
   {
     "original": "<< STAGE 2 COMPLETED >>",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "<< STAGE 3: MEDIUM >>",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "<< JUMP IN THE WATER >>",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第二关: 已完成>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "<< STAGE 3: MEDIUM >>",
+    "en_trans": "",
+    "zh_trans": "<< 第三关：中等 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<< JUMP IN THE WATER >>",
+    "en_trans": "",
+    "zh_trans": "<< 跳入水中 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< ZOMBIE TP in 5 SEC! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸将在 5 秒后传送！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "<< ROTOR STOPPING IN 5 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 旋翼将在 5 秒后停止 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "<< DOOR OPENING IN 15 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门将在 15 秒后打开 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "<< DOOR OPENING IN 5 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 5 秒后开门 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "<< DEFEND ON THE TOP FOR 35 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 在顶部防守 35 秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "<< DEFEND FOR 15 SEC>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 防守 15 秒>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "<< GLASS BREAKING IN 5 SEC>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 5 秒后玻璃破碎>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "<< ZOMBIE TP in 5 SEC>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸将在 5 秒后传送>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,34 +387,34 @@
   {
     "original": "<< FOLLOW THE RULES!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 遵循规则！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< STAGE 3 COMPLETED >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第三关: 已完成>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< STAGE 4: HARD: CLIMB THE MEME TOWER >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第四关：困难：登上那座全是梗的塔 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
