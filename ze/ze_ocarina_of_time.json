@@ -206,61 +206,61 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 6 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第六关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "OBJECTIVE -> DEATH MOUNTAIN CRATER",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "目标 -> 死亡之山口",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** COLLECT 5 KEYS TO PROCEED ***",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "*** KEY COLLECTED ***",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 收集 5 把钥匙后才能继续前进 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "*** KEY COLLECTED ***",
+    "en_trans": "",
+    "zh_trans": "*** 已收集到一把钥匙 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ALL 5 KEYS HAVE BEEN COLLECTED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 钥匙已集齐 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
