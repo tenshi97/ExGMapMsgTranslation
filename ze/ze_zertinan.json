@@ -5,8 +5,10 @@
     "zh_trans": "**热身回**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Map By Runa **",
@@ -14,8 +16,10 @@
     "zh_trans": "**地图制作 Runa && 翻译 Auska Langley**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** CS2 Port By @Seth **",
@@ -23,8 +27,10 @@
     "zh_trans": "** CS2 移植 @Seth**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**60 seconds remaining**",
@@ -32,8 +38,10 @@
     "zh_trans": "** 还剩 60 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**30 seconds remaining**",
@@ -41,8 +49,10 @@
     "zh_trans": "** 还剩 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**20 seconds remaining**",
@@ -50,8 +60,10 @@
     "zh_trans": "** 还剩 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Warm End...**",
@@ -59,8 +71,10 @@
     "zh_trans": "** 热身结束 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**10 seconds remaining**",
@@ -68,8 +82,10 @@
     "zh_trans": "** 还剩 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **",
@@ -77,8 +93,10 @@
     "zh_trans": "**   帝国裁判长bergan【贝干】入侵神山【神都布尔奥米赛斯】之后，我们决定前往【卓克罗尔研究所】破坏剩下的破魔石 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Gate open in 15 sec. **",
@@ -86,8 +104,10 @@
     "zh_trans": "** 大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Airship is ready,wait for takeoff. **",
@@ -95,8 +115,10 @@
     "zh_trans": "** 飞船已准备就绪，等待起飞 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend 15s**",
@@ -104,8 +126,10 @@
     "zh_trans": "** 防守 15 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hard**",
@@ -113,8 +137,10 @@
     "zh_trans": "** 困难模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Easy**",
@@ -122,8 +148,10 @@
     "zh_trans": "** 简单模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Normal**",
@@ -131,8 +159,10 @@
     "zh_trans": "** 普通模式 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> Even astray has pride,I shall humour you any time.",
@@ -140,8 +170,10 @@
     "zh_trans": "<加布朗斯> 即使迷途亦存傲气，吾愿随时为汝效劳",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> Behold, the power of a judge hate me with all your heart.",
@@ -149,8 +181,10 @@
     "zh_trans": "<加布朗斯> 瞻仰吧，审判之威，尽情地怨恨我!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> There is no cause for concern.",
@@ -158,8 +192,10 @@
     "zh_trans": "<加布朗斯> 毋需忧虑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> You should not have massed judged me.",
@@ -167,8 +203,10 @@
     "zh_trans": "<加布朗斯> 汝不宜草率评断我",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> This is the result of your pride,Be mind of who you challenge next.",
@@ -176,8 +214,10 @@
     "zh_trans": "<加布朗斯> 此乃尔之傲慢所致，慎选尔后之挑战者",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> You only your self to blame.",
@@ -185,8 +225,10 @@
     "zh_trans": "<加布朗斯> 唯有汝自己可责",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> Eternal pain...Destruction！",
@@ -194,8 +236,10 @@
     "zh_trans": "<加布朗斯> 永恒的痛苦...结束了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<Gabranth> You will be judged,By my sword!",
@@ -203,8 +247,10 @@
     "zh_trans": "<加布朗斯> 以吾之剑，判尔之命途！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Nethicite must be on Cidolfus... **",
@@ -212,8 +258,10 @@
     "zh_trans": "**破魔石一定在【习德】身上...**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** We need to go the top ascent of the Draklor Laboratory and find him. **",
@@ -221,8 +269,10 @@
     "zh_trans": "** 我们必须爬上卓克罗尔研究所的顶层，然后找到他! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** We need to pull down two switches to start the elevator**",
@@ -230,8 +280,10 @@
     "zh_trans": "** 我们需要拉下两个拉杆来开启电梯 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Round failed! Zombies have reached the objective! **",
@@ -239,8 +291,10 @@
     "zh_trans": "** 失败! 僵尸碰到开关 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Both switches have been pulled down **",
@@ -248,8 +302,10 @@
     "zh_trans": "** 两侧开关均已开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** The elevator is warming up **",
@@ -257,8 +313,10 @@
     "zh_trans": "** 电梯正在预热 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** The elevator still has 5s to rise **",
@@ -266,8 +324,10 @@
     "zh_trans": "** 电梯 5 秒后上升 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **",
@@ -275,8 +335,10 @@
     "zh_trans": "** 看! 索亨地下宫殿就在那儿! 穿过它我们就要到达阿凯迪斯帝国了! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend 25s**",
@@ -284,8 +346,10 @@
     "zh_trans": "** 防守 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Defend 30s**",
@@ -293,8 +357,10 @@
     "zh_trans": "** 防守 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> The Esper Adrammelech fight in 10 seconds <",
@@ -302,8 +368,10 @@
     "zh_trans": "> 10 秒后【摩羯座】召唤【亚德拉梅利克】将苏醒 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Quicksandl**",
@@ -311,8 +379,10 @@
     "zh_trans": "** 流沙 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Adramelech is summoning the Sandmoster**",
@@ -320,8 +390,10 @@
     "zh_trans": "** 【亚德拉梅利克】正在召唤Sandmoster【沙漠亡灵】 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Flash Arc**",
@@ -329,8 +401,10 @@
     "zh_trans": "** 闪光炮 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Thundara**",
@@ -338,8 +412,10 @@
     "zh_trans": "** 雷鸣 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Judgment Bolt**",
@@ -347,8 +423,10 @@
     "zh_trans": "** 制裁之雷 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Heal**",
@@ -356,8 +434,10 @@
     "zh_trans": "** 治愈 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Defend 20s**",
@@ -365,8 +445,10 @@
     "zh_trans": "** 防守 20 秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> The Esper Shemhazai fight in 10 seconds <",
@@ -374,8 +456,10 @@
     "zh_trans": "> 10 秒后进入与告密者谢米哈扎的战斗 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Clouds **",
@@ -383,8 +467,10 @@
     "zh_trans": "** 乌云 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Devour Soul**",
@@ -392,8 +478,10 @@
     "zh_trans": "** 填充击 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Soul Purge**",
@@ -401,8 +489,10 @@
     "zh_trans": "** 灵魂散射<贴墙> **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Gravity **",
@@ -410,8 +500,10 @@
     "zh_trans": "** 黑洞 <被吸到场地中间附加死亡buff> **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** too late **",
@@ -419,8 +511,10 @@
     "zh_trans": "** 打得太慢了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Defend 10s**",
@@ -428,8 +522,10 @@
     "zh_trans": "** 防守 10 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Judge drace? Why she is here.. **",
@@ -437,8 +533,10 @@
     "zh_trans": "** 审判官朵蕾丝？？她为何在此？**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Ice **",
@@ -446,8 +544,10 @@
     "zh_trans": "** 冰<看脚底> **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Flash Freeze **",
@@ -455,8 +555,10 @@
     "zh_trans": "** 速冻<贴墙> **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Reflexive **",
@@ -464,8 +566,10 @@
     "zh_trans": "** 反射（不要开枪） **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Cidolfus is gone, we have to find a way to get out from here first. **",
@@ -473,8 +577,10 @@
     "zh_trans": "** 习德博士 跑了，我们要找到离开这里的路 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **",
@@ -482,8 +588,10 @@
     "zh_trans": "** 按照习德博士所言，古代城市【基鲁维冈】将是我们的下一站。**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 240s **",
@@ -491,8 +599,10 @@
     "zh_trans": "** 240 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 240,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Double Damage **",
@@ -500,8 +610,10 @@
     "zh_trans": "双倍伤害",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Please... take care of Larsa... **",
@@ -509,8 +621,10 @@
     "zh_trans": "请....照顾好拉萨殿下....",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** The power is on, and the door will open soon **",
@@ -518,8 +632,10 @@
     "zh_trans": "电力恢复了，门很快就会打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ADMIN HAS SWITCH ENDING 1 AT THIS ROUND.**",
@@ -527,8 +643,10 @@
     "zh_trans": "** 管理员为本回合选择了结局 1**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** KILL REMAINING ZOMBIES **",
@@ -536,7 +654,64 @@
     "zh_trans": "** 消灭剩余的僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** behold the manufacted nethicite.... the",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** see what the stone of man is capable of! witness its power with your own eyes! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** famfrit! to me! **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** wind **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** fire **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
