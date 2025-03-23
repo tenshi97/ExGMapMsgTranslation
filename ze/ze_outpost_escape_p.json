@@ -2,7 +2,7 @@
   {
     "original": "*** MAP BY MK!NG & KING BUZZO ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图作者 MK!NG & KING BUZZO(翻译:星荧铃) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -38,11 +38,12 @@
   {
     "original": "*** OR FIND ANOTHER WAY TO OPEN IT FASTER! ***",
     "en_trans": "",
-    "zh_trans": "*** 或者找到另一种更快打开它的方法！***",
+    "zh_trans": "*** 或许有另一种更快打开它的方法！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR LEAVES IN 15 SECONDS ***",
@@ -60,7 +61,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CHARGES ARE SET, EXPLODING IN 20 SECONDS ***",
@@ -96,7 +98,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WAIT FOR 60 SECONDS UNTIL IT'S DONE ***",
@@ -123,7 +126,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** releasing death gas on first floor in 30 seconds ***",
