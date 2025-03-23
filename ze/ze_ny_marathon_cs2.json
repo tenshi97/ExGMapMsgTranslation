@@ -2,16 +2,17 @@
   {
     "original": "*** NY MARATHON: GET READY TO RUN! ***",
     "en_trans": "",
-    "zh_trans": "***纽约马拉松：准备开跑！***",
+    "zh_trans": "***纽约马拉松：准备开赛！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> marathon <<",
     "en_trans": "",
-    "zh_trans": ">> 马拉松 <<",
+    "zh_trans": ">> 马拉松(翻译:星荧铃) <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -20,92 +21,102 @@
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Arzachel - Leg ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: M.O.D. - Surfin' USA ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: The Gun - Race With The Devil ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Buffalo - Shylock ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Steppenwolf - Born To Be Wild ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Ram Jam - Black Betty ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Motorhead - Ace of Spades ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Arthur Brown - I've Got Money ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Granicus - Cleveland Ohio ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 我们需要坚守住!公园的大门将在20秒后打开! **",
@@ -146,20 +157,22 @@
   {
     "original": "** 到达检查点，站在白圈上来解锁大门 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 到达检查点，站在白圈上来解锁大门 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 检查点已启用! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 检查点已启用! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Afk和乌龟将在20秒内传送到检查点 **",
@@ -173,56 +186,62 @@
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Deep Purple - Highway Star ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Warpig - Rock Star ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Girlschool - C'mon Let's Go! ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "* [[ 纽约摇滚电台 FM 81.2 :: The Doors - Roadhouse Blues ]] *",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 坚持住，需要15秒来开门 !!! **",
@@ -326,47 +345,52 @@
   {
     "original": "** 点按E启动阀门!我们需要把有毒废物排出去!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 点按E启动阀门!我们需要把有毒废物排出去!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 这能消灭那些该死的僵尸! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这能消灭那些该死的僵尸! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 左阀门已完全打开! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 左阀门已完全打开! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 右阀门已完全打开! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 右阀门已完全打开! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 两个阀门都已解锁!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 两个阀门都已解锁!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 防守15秒!!! **",
@@ -429,7 +453,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 1
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 坚守住!车站门将在25秒后打开!! **",
@@ -461,16 +486,17 @@
   {
     "original": "*** 快启动直升机引擎！ ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快启动直升机引擎！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The helicopter is leaving in 30 seconds. RESIST! **",
     "en_trans": "",
-    "zh_trans": "**直升机将在 30 秒后起飞。抵抗！**",
+    "zh_trans": "**直升机将在 30 秒后起飞。守住！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -506,11 +532,12 @@
   {
     "original": "** 跳过火车!我们得去另一边!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 跳过火车!我们得去另一边!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 我们必须在这里抵抗，直到门打开!(25s) **",
@@ -542,11 +569,12 @@
   {
     "original": "** 走吧! 我们得守住公园，直到找到出路! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 走吧! 我们得守住公园，直到找到出路! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We could call a Penis-UFO and split the fare... **",
@@ -555,25 +583,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 快了！ Penis-UFO is coming! 坚持住 !!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 快了！ UFO在路上了! 坚持住 !!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** GO! The penis UFO 的门开了，快进来!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 走!  UFO 的门开了，快进来!!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** 坚守20秒!!! **",
