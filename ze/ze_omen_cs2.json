@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| 10 SECONDS |",
@@ -51,7 +52,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| PASSAGE 3 |",
@@ -60,24 +62,26 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| +500 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| BOSS血量+500 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| PASSAGE 3 SELECTED |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 调关至第三章 |",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   }
 ]
