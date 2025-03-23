@@ -6,25 +6,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| Loading simulation.. |",
     "en_trans": "",
-    "zh_trans": "| 正在加载模拟... |",
+    "zh_trans": "| 正在加载模拟数据... |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| Cyan |",
     "en_trans": "",
-    "zh_trans": "| 青色 |",
+    "zh_trans": "| 青 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| 30 |",
@@ -83,28 +86,31 @@
   {
     "original": "| Green |",
     "en_trans": "",
-    "zh_trans": "| 绿色 |",
+    "zh_trans": "| 绿 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| Purple |",
     "en_trans": "",
-    "zh_trans": "| 紫色 |",
+    "zh_trans": "| 紫 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "| Blue |",
     "en_trans": "",
-    "zh_trans": "| 蓝色 |",
+    "zh_trans": "| 蓝 |",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
