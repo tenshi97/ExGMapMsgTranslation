@@ -39,7 +39,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 35,
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "防守30s",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<地图原形:Crystar>>>",
@@ -96,7 +96,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>飞剑已被拾起<<<",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<等待20s>>>",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<防守30s>>>",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>恢复已被拾起<<<",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<守护者—赫拉克利特>>>",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<僵尸15s后传送>>>",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<防守10s>>>",
@@ -305,7 +305,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<恢复已就绪>>>",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<恢复2/3>>>",
@@ -327,7 +327,6 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0,
     "force_hint": 1
   },
   {
@@ -339,16 +338,16 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "喵哈哈~~~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "喵哈哈~~~",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
