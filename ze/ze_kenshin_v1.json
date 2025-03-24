@@ -5,8 +5,10 @@
     "zh_trans": "僵尸5s后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "等待20s",
@@ -14,8 +16,10 @@
     "zh_trans": "等待20s",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "防守25s",
@@ -23,8 +27,10 @@
     "zh_trans": "防守25s",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "僵尸3s后传送",
@@ -32,8 +38,10 @@
     "zh_trans": "僵尸3s后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "防守5s，注意撤退",
@@ -41,8 +49,10 @@
     "zh_trans": "防守5s，注意撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Laser!!!",
@@ -50,8 +60,10 @@
     "zh_trans": "来刀了!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "防守30s",
@@ -59,8 +71,10 @@
     "zh_trans": "防守30s",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "击碎它",
@@ -68,8 +82,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<地图原形:Crystar>>>",
@@ -77,8 +93,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>飞剑已被拾起<<<",
@@ -86,8 +104,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<等待20s>>>",
@@ -95,8 +115,10 @@
     "zh_trans": "<<<等待20s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<僵尸10s后传送>>",
@@ -104,8 +126,10 @@
     "zh_trans": "<<<僵尸10s后传送>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<防守15s>>>",
@@ -113,8 +137,10 @@
     "zh_trans": "<<<防守15s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<防守25s>>>",
@@ -122,8 +148,10 @@
     "zh_trans": "<<<防守25s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<僵尸3s后传送>>",
@@ -131,8 +159,10 @@
     "zh_trans": "<<<僵尸3s后传送>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>推力已被拾起<<<",
@@ -140,8 +170,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<防守30s>>>",
@@ -149,8 +181,10 @@
     "zh_trans": "<<<防守30s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>剑核心就绪<<<",
@@ -158,8 +192,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>>恢复已被拾起<<<",
@@ -167,8 +203,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<守护者—赫拉克利特>>>",
@@ -176,8 +214,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<僵尸15s后传送>>>",
@@ -185,8 +225,10 @@
     "zh_trans": "<<<僵尸15s后传送>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<防守5s，注意撤退>>>",
@@ -194,8 +236,10 @@
     "zh_trans": "<<<防守5s，注意撤退>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<撤退！！！>>",
@@ -203,8 +247,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<防守10s>>>",
@@ -212,8 +258,10 @@
     "zh_trans": "<<<防守10s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<等待30s>>>",
@@ -221,8 +269,10 @@
     "zh_trans": "<<<等待30s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<防守20s>>>",
@@ -230,8 +280,10 @@
     "zh_trans": "<<<防守20s>>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<僵尸5s后传送>>",
@@ -239,8 +291,10 @@
     "zh_trans": "<<<僵尸5s后传送>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<恢复1/3>>>",
@@ -248,8 +302,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<恢复已就绪>>>",
@@ -257,8 +313,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<恢复2/3>>>",
@@ -266,8 +324,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<恢复3/3>>>",
@@ -275,7 +335,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "喵哈哈~~~",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
