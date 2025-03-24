@@ -431,18 +431,18 @@
   {
     "original": "**A player has picked up <Chromatic Fantasy>(Ultima)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<炫彩狂想>（终极）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Wait for 45 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待 45 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,56 +453,56 @@
   {
     "original": ">>EX Flare<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>百万核爆<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Heavens Fall<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>苍穹陨落（看头上）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Earth Shaker<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大地摇动（躲避场外石柱）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ADS Attack!!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>ADS攻击!!!<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Shoot ADS and zombies<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>向两边的ADS和背后的僵尸开枪<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
