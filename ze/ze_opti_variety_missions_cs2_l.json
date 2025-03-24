@@ -14,8 +14,9 @@
     "zh_trans": "*虚拟现实任务 1 开始*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*Break crystals*",
@@ -24,7 +25,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* VR-Mission 1 Complete*",
@@ -33,7 +35,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*VR-Mission 2 START*",
@@ -42,7 +45,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*OBJECTIVE - Destroy green floor",
@@ -51,7 +55,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* VR-Mission 2 Complete*",
@@ -59,8 +64,9 @@
     "zh_trans": "*虚拟现实任务 2 完成*",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*Don't delay! Hurry up with the objectives and get out of there!*",
@@ -69,7 +75,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*VR-Mission 3 START*",
@@ -78,7 +85,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*OBJECTIVE - Break crystals*",
@@ -87,7 +95,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* VR-Training complete*",
@@ -96,7 +105,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*25 SECONDS TO NUKE*",
@@ -110,7 +120,7 @@
   {
     "original": "*Map by Mr.Neko*",
     "en_trans": "",
-    "zh_trans": "*地图作者： Mr.Neko*",
+    "zh_trans": "*地图作者： Mr.Neko(翻译:星荧铃)*",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

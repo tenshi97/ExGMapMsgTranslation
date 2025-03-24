@@ -960,7 +960,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Fast Ending Triggered",
@@ -969,7 +970,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Turn the valves to destabilize the core!",
@@ -1022,8 +1024,9 @@
     "zh_trans": "剩余人数:＞37",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 37,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Normal Ending Triggered",
@@ -1032,7 +1035,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "The Core Self Destruct sequence will begin in few minutes.",

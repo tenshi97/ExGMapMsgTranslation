@@ -39,7 +39,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 35,
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "防守30s",
@@ -79,35 +79,35 @@
   {
     "original": "击碎它",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "击碎它",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<地图原形:Crystar>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<地图原形:恸哭之星(Crystar)>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>飞剑已被拾起<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>飞剑已被拾起<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<等待20s>>>",
@@ -167,13 +167,13 @@
   {
     "original": ">>>推力已被拾起<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>推力已被拾起<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<防守30s>>>",
@@ -189,35 +189,35 @@
   {
     "original": ">>>剑核心就绪<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>剑核心就绪<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>恢复已被拾起<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>恢复已被拾起<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<守护者—赫拉克利特>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<守护者—赫拉克利特>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<僵尸15s后传送>>>",
@@ -244,13 +244,13 @@
   {
     "original": "<<<撤退！！！>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<撤退！！！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<防守10s>>>",
@@ -299,56 +299,55 @@
   {
     "original": "<<<恢复1/3>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<恢复1/3>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<恢复已就绪>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<恢复已就绪>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<恢复2/3>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<恢复2/3>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<<恢复3/3>>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<<恢复3/3>>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "喵哈哈~~~",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "喵哈哈~~~",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

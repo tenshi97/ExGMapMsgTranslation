@@ -13,7 +13,7 @@
   {
     "original": "*** Edited for ZE by Soft Serve ***",
     "en_trans": "",
-    "zh_trans": "*** 由Soft Serve为ZE模式编辑(翻译:星荧铃) ***",
+    "zh_trans": "*** 由Soft Serve为ZE模式改编(翻译:星荧铃) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "OBJECTIVE -> GREAT DEKU TREE'S MEADOW",
     "en_trans": "",
-    "zh_trans": "目标 -> 德库树长老的森林空地",
+    "zh_trans": "目标 -> 德库树长老的圣域",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,40 +145,40 @@
   {
     "original": "*** 4 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第四关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "OBJECTIVE -> ZORA'S FOUNTAIN",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "目标 -> 卓拉之泉",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** SURVIVE ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 生存 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 90 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 90 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,100 +189,100 @@
   {
     "original": "*** 5 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第五关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "OBJECTIVE -> SACRED FOREST MEADOW",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "目标 -> 神圣森林圣域",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 6 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第六关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "OBJECTIVE -> DEATH MOUNTAIN CRATER",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "目标 -> 死亡之山口",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** COLLECT 5 KEYS TO PROCEED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 收集 5 把钥匙后才能继续前进 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** KEY COLLECTED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已收集到一把钥匙 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** ALL 5 KEYS HAVE BEEN COLLECTED ***",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "*** 7 ***",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 7,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "OBJECTIVE -> LAKE HYLIA",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 所有钥匙已集齐 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "*** 7 ***",
+    "en_trans": "",
+    "zh_trans": "*** 第七关 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "OBJECTIVE -> LAKE HYLIA",
+    "en_trans": "",
+    "zh_trans": "目标 -> 海利亚湖",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

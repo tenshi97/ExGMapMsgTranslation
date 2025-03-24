@@ -2,37 +2,41 @@
   {
     "original": "STAGE FAILED",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "关卡失败",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** rtv ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** rtv ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** LEVEL3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第三关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** LEVEL1 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第一关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
