@@ -354,51 +354,51 @@
   {
     "original": ">> Normal <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 普通(Normal) <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Hard <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 困难(Hard) <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Extreme <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 极限(Extreme) <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A zombie has picked up <Holmgang>**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名僵尸捡起了<死斗>**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will open in 35 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 35 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,18 +409,18 @@
   {
     "original": ">>Catch up with ADS!!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>跟上自动防御系统(ADS)!!!<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Wait for 25 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待 25 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
