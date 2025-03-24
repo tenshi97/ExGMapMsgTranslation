@@ -547,28 +547,28 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> PRIEST CASTED GRAVITY <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 神父使用了黑洞 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> PRIEST HAS BEEN DEFEATED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 神父已被击败 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
