@@ -2,7 +2,7 @@
   {
     "original": "This is my first map,thanks for playing",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这是我的第一张地图，感谢游玩。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -33,7 +33,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "ZMtp enabled",
@@ -42,6 +43,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
