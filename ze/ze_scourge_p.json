@@ -2,7 +2,7 @@
   {
     "original": "*** Map by m4dara ***",
     "en_trans": "",
-    "zh_trans": "*** 地图作者 m4dara ***",
+    "zh_trans": "*** 地图作者 m4dara(翻译:星荧铃) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -33,7 +33,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***PLAYER PICKED UP SHOTGUN ***",
@@ -42,7 +43,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** PLAYER PICKED UP BARREL***",
@@ -51,7 +53,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**DOORS OPENS IN 20 SECONDS**",
@@ -69,7 +72,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***PLAYER PICKED UP EXPLOSIVE BOW ***",
@@ -78,7 +82,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***PLAYER PICKED UP HEAL POTION***",
@@ -87,7 +92,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***PLAYER PICKED UP FLAMETHROWER***",
@@ -96,7 +102,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**ELEVATOR MOVING..**",
@@ -152,7 +159,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR MOVING IN 30 SECONDS ***",
