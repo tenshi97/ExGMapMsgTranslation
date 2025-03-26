@@ -2,7 +2,7 @@
   {
     "original": "** MAP BY Hannibal [SPA] (Rafuron) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图作者 汉尼拔 Hannibal [西班牙] (Rafuron) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "** Thanks to Kaemon **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 感谢 Kaemon **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,62 +24,62 @@
   {
     "original": "** This is the first round. Wait for more players to restart round or suicide. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是第一回合。等待更多玩家加入来重新开始这一轮或选择放弃。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WARMUP ROUND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身回合**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Tip 1 : press +use on pickable objects to build barricades **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 1：可拾取的物体按“E”键来建造路障，如果不知道怎么用请不要乱用 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 2 : reach and win the end of a stage to level up **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 2：到达终点并通关的人会自动提升一级 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 3 : take items at zombie and human shops in spawn **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 3：等级可用于在出生点的僵尸商店和人类商店获取神器或皮肤**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身回合** ** 60 秒后重新开始回合**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,89 +90,89 @@
   {
     "original": "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 4：当前等级通常会在回合开始时显示，也可通过按TAB分数面板，将自己的“得分”除以100，即为当前等级。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Tip 5 : barricades health depends on the size and material **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 5：路障的生命值取决于其大小和种类 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 6 : hold spots tend to be long * hold as much as possible at previous positions **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 6：防守时间往往是较久的 * 尽可能不要贴门防守 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 7 : guards work as stoppers * but you can shoot throught them **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 7：守卫能阻挡僵尸 * 且不会挡子弹 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 7,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 8：梯子和TNT是很强的僵尸神器 * 必须随时注意他们的动向！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 8,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 9：你可以将路障放置在守卫的后面，以获得最大的功效 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 9,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 10：骑兵和重甲的护盾未被破坏时，可以推动僵尸**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 11：炎魔的咆哮可以治疗附近的僵尸，并暂时提高他们的移动速度**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 11,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
