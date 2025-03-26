@@ -145,7 +145,7 @@
   {
     "original": "<< TOUCH RING LIFE IF YOU < 100HP >>",
     "en_trans": "",
-    "zh_trans": "<< 若你生命值低于 100 ，去触摸生命之环 >>",
+    "zh_trans": "<< 若你生命值低于 100 ，去触摸生命之环（地上的蓝色方块 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "<< STAGE 3: MEDIUM >>",
     "en_trans": "",
-    "zh_trans": "<< 第三关：中等 >>",
+    "zh_trans": "<< 第三关：中等难度 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "<< ROTOR STOPPING IN 5 SEC >>",
     "en_trans": "",
-    "zh_trans": "<< 旋翼将在 5 秒后停止 >>",
+    "zh_trans": "<< 旋转的棍子将在 5 秒后停止 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "<< FOLLOW THE RULES!>>",
     "en_trans": "",
-    "zh_trans": "<< 遵循规则！>>",
+    "zh_trans": "<< 抬头看，沿着上面的路线走！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -437,6 +437,6 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   }
 ]
