@@ -129,12 +129,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>1ST FLOOR LOST : CLOSING IN 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一楼失守 : 5 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
