@@ -431,18 +431,18 @@
   {
     "original": "**A player has picked up <Chromatic Fantasy>(Ultima)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**一名玩家捡起了<赋彩幻想>（终极）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Wait for 45 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待 45 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,84 +453,84 @@
   {
     "original": ">>EX Flare<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>百万核爆（全屏伤害）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Heavens Fall<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>苍穹陨落（看头上对中间按W抵抗）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Earth Shaker<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>大地摇动（躲避场外石柱）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ADS Attack!!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>ADS攻击!!!<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Shoot ADS and zombies<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>向两边的ADS和背后的僵尸开枪<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Flame<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>火焰吐息（去左前方或右前方）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Tempest Wing<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>风暴之翼（按住S键一直跳）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>The elevator will leave in 15 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>电梯将在 15 秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,12 +541,12 @@
   {
     "original": ">>ZM item has been disabled<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>僵尸神器已被禁用<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

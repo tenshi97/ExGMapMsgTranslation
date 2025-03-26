@@ -2,18 +2,18 @@
   {
     "original": ">>ROAD SELECTION : House<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>路线：房屋（左边）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>>MAP BY LeGrem<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>地图作者 LeGrem(翻译:星荧铃)<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,18 +24,18 @@
   {
     "original": ">>ROAD SELECTION : Gas Station<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>路线：加油站（右边）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 3,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>DOOR CLOSING IN 15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 15 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": ">>DEFEND THE GAS STATION 50s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守卫加油站 50 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": ">>5s LEFT<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>还剩 5 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,29 +68,29 @@
   {
     "original": ">>>RUN<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>撤退<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ACTIVATE THE GENERATOR IN THE BARN !<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>启动谷仓里的发电机！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>DOORS CLOSING IN 15s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 15 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": ">>DEFEND THE BARN 45s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>死守谷仓 45 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": ">>DEFEND 30s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>防守 30 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,18 +123,18 @@
   {
     "original": ">>BLOW UP THE BARRAGE WITH THE COMPUTER<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>去控制室激活爆破程序<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>1ST FLOOR LOST : CLOSING IN 5s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>一楼失守 : 5 秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": ">>DEFEND THE HOUSE 50s<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>守住房屋 50 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

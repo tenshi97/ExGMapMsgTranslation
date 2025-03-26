@@ -145,7 +145,7 @@
   {
     "original": "<< TOUCH RING LIFE IF YOU < 100HP >>",
     "en_trans": "",
-    "zh_trans": "<< 若你生命值低于 100 ，去触摸生命之环 >>",
+    "zh_trans": "<< 若你生命值低于 100 ，去触摸生命之环（地上的蓝色方块 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "<< STAGE 3: MEDIUM >>",
     "en_trans": "",
-    "zh_trans": "<< 第三关：中等 >>",
+    "zh_trans": "<< 第三关：中等难度 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "<< ROTOR STOPPING IN 5 SEC >>",
     "en_trans": "",
-    "zh_trans": "<< 旋翼将在 5 秒后停止 >>",
+    "zh_trans": "<< 旋转的柱子将在 5 秒后停止 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "<< FOLLOW THE RULES!>>",
     "en_trans": "",
-    "zh_trans": "<< 遵循规则！>>",
+    "zh_trans": "<< 抬头看，沿着上面的路线走！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "<< ROTORS STOPPING IN 15 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 旋转的柱子将在 15 秒后停止 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "<< DOOR BREAKING IN 15 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门将在 15 秒后被打破 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "<< DOOR BREAKING IN 5 SEC >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门将在 5 秒后被打破 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,18 +475,18 @@
   {
     "original": "<< MEME'S TOWER REACHED >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 有人登上了塔的顶端>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< 30 SEC LEFT TO REACH THE TOP >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 还剩最后 30 秒时间来登塔 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -497,45 +497,45 @@
   {
     "original": "<< STAY ON THE GREY PLATFORMS >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 待在灰色平台上 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< OR YOU WILL GET DAMAGE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 否则你会受到伤害 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< CONGRATULATIONS....>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 恭喜.... >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< PLEASE MEME.... >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 还有什么梗吗.... >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

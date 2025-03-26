@@ -2,16 +2,17 @@
   {
     "original": ">>Map By Linyan<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>本图由林燕大神倾情巨献<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> 5 <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 5秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -20,16 +21,17 @@
   {
     "original": ">>>door open<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>门开了<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> 30 <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 30秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -38,7 +40,7 @@
   {
     "original": "> 20 <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 20秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -47,7 +49,7 @@
   {
     "original": "> 10 <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 10秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -56,10 +58,11 @@
   {
     "original": ">>>Human Win<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>恭喜通关<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
