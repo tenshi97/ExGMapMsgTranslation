@@ -2,11 +2,12 @@
   {
     "original": "[Grab a gun from the armory! We need to move.]",
     "en_trans": "",
-    "zh_trans": "[快从军械库拿枪！我们有必要采取行动。]",
+    "zh_trans": "[快从军械库拿枪！我们需要离开这里！]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Remember! No man gets left behind.]",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Don't let them through! Get into the freezer ASAP.]",
@@ -24,7 +26,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[And make sure you close it!]",
@@ -33,16 +36,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Somebody get through that hole and let the rest of us through.]",
     "en_trans": "",
-    "zh_trans": "[谁从那个洞出去，让我们其他人过去。]",
+    "zh_trans": "[来个人从那个洞穿过去，让我们其他人过去！]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Open them crazy cells and get us out of here!]",
@@ -51,7 +56,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Spare rifles on that wall for anybody unarmed.]",
@@ -60,16 +66,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Keep them back while I open this door.]",
     "en_trans": "",
-    "zh_trans": "[在我打开这扇门的时候让他们退后。]",
+    "zh_trans": "[在我打开这扇门的时候让他们撤退！]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Don't touch those lasers!]",
@@ -78,16 +86,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[There's fumes going through the vents! Get out of there!]",
     "en_trans": "",
-    "zh_trans": "[有烟从通风口冒出来！快出去！]",
+    "zh_trans": "[有烟从通风口冒出来了！快出去！]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Shit! This is going to take some time. Hold them off!]",
@@ -96,7 +106,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Somebody turn right and get us an airstrike!]",
@@ -105,7 +116,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Airstrike Inbound: ETA 1 minute.]",
@@ -123,16 +135,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Grab some 'nades and blow the limbs off 'em.]",
     "en_trans": "",
-    "zh_trans": "[拿起手雷，然后把他们的四肢炸断.]",
+    "zh_trans": "[拿起手雷，然后把他们的四肢炸断!]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]",
@@ -141,7 +155,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Get in that hole behind the boxes!]",
@@ -150,7 +165,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**[5]**",

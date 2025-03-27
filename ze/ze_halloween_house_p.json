@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Luckily bugs tend to dislike bright lights! **",
@@ -15,16 +16,19 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** WE CAN'T SEEM TO PROGRESS AHEAD... **",
     "en_trans": "",
-    "zh_trans": "** 我们好像被困在这了---（30s)**",
+    "zh_trans": "** 我们好像被困在这了---30s**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+    
   },
   {
     "original": "** HOLD UNTIL WE FIGURE SOMETHING OUT! **",
@@ -52,7 +56,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** It looks as if it would probably open if we get the wheel moving... **",
@@ -60,8 +65,9 @@
     "zh_trans": "** 如果我们转动仓鼠轮上面的门就可能会打开（在轮子里对着门口按s或背对着按w） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **",
@@ -70,7 +76,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THE TOP DOOR IS OPENING 5 SECONDS! **",
@@ -88,7 +95,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We need to reach the top! **",
@@ -97,7 +105,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The seance is beginning and the spirits are calling... **",
@@ -233,7 +242,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Try to get that old toy going! We must get out of here! **",
@@ -241,17 +251,19 @@
     "zh_trans": "** 试着让这个小火车动起来！我们必须离开这里！（拉杆要拉七下，第六下的时候老鼠会被放出来） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **",
     "en_trans": "",
-    "zh_trans": "** OOOAAAAAAAAAAAAH! 这玩意差点把我们压成肉饼! **",
+    "zh_trans": "** 我的妈呀，这弔玩意终于挂了! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Being up here the reasonable way to solve the situation would be to go for a swim... If you know what I mean! **",
@@ -260,7 +272,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **",
@@ -269,7 +282,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We should inspect that giant pumpkin sitting on the stool! **",
@@ -278,7 +292,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THAT'S IT! WE'RE GONNA BLOW IT UP! **",
@@ -287,21 +302,22 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **",
     "en_trans": "",
-    "zh_trans": "** 守住这里直到c4爆炸---(25s) **",
+    "zh_trans": "** 守住这里直至c4爆炸---22s **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 25,
+    "timer_num": 22,
     "enable_timer": 1
   },
   {
     "original": "** MOVE! THE DARN THING IS OUT OF THE WAY! **",
     "en_trans": "",
-    "zh_trans": "** 撤退！路在这边！**",
+    "zh_trans": "** 南瓜炸了！撤退！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -325,7 +341,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** What can we do? **",
@@ -334,7 +351,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The gas counter! If we mess it up the gas might stop flowing - perhaps? **",
@@ -342,8 +360,9 @@
     "zh_trans": "** 打计数器! 如果我们能把它打爆应该就可以通过燃气灶了（对红点中间的位置开枪） **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **",
@@ -368,7 +387,7 @@
   {
     "original": "** NOW! GET MOVING! **",
     "en_trans": "",
-    "zh_trans": "** 就是现在!撤退！ **",
+    "zh_trans": "** 现在可以了!撤退！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -378,7 +397,7 @@
   {
     "original": "** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **",
     "en_trans": "",
-    "zh_trans": "** 这好像是死胡同! 守住这里直到发生什么事情---(65s) **",
+    "zh_trans": "** 这好像是死胡同! 守住这里直到发生什么事情---65s **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 65,
@@ -391,7 +410,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** We need to resist... Something must open! **",
@@ -400,7 +420,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **",
@@ -409,7 +430,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** It looks like this Halloween will be the end... of it all... **",
@@ -418,7 +440,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Hey look! It's Billy the friendly ghost! **",
@@ -427,7 +450,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **",
@@ -446,7 +470,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** and conveniently led our diminute human friends to the end of their little story! **",
@@ -455,15 +480,17 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THE END **",
     "en_trans": "",
-    "zh_trans": "** 地图已通关！恭喜！（翻译；水木，若出现翻译问题请至exg论坛反馈） **",
+    "zh_trans": "** 地图已通关！恭喜！（汉化；水木、） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

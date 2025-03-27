@@ -130,12 +130,13 @@
   {
     "original": "GET OUT OF HERE, STALKER",
     "en_trans": "",
-    "zh_trans": "滚呐！你这个跟踪狂！（秒杀伤害，远离boss）",
+    "zh_trans": "滚呐！你个跟踪狂！（秒杀伤害，远离boss）",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_alert_red",
-    "timer_num": 3,
-    "enable_timer": 1
+    "icon_name": "icon_alert",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "!!! ZOMBIES CAN NOW JUMP TO THE BOSS PLATFORM !!!",

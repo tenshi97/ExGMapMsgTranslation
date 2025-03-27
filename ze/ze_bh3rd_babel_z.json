@@ -167,7 +167,7 @@
   {
     "original": "门被锁住了,我们没有磁卡需要时间破解!",
     "en_trans": "",
-    "zh_trans": "门被锁住了,我们没有磁卡需要时间破解!",
+    "zh_trans": "门被锁住了,我们没有磁卡需要时间破解! --- 20s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,13 +211,13 @@
   {
     "original": "系统启动中.......崩坏能浓度正在下降......",
     "en_trans": "",
-    "zh_trans": "系统启动中.......崩坏能浓度正在下降......",
+    "zh_trans": "系统启动中.......崩坏能浓度正在下降 --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "崩坏能浓度已降低至安全水平!",
@@ -255,13 +255,13 @@
   {
     "original": "守住这里,直到崩坏炉彻底关闭!",
     "en_trans": "",
-    "zh_trans": "守住这里,直到崩坏炉彻底关闭!",
+    "zh_trans": "守住这里,直到崩坏炉彻底关闭 --- 25s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "崩坏炉已关闭",
@@ -310,24 +310,24 @@
   {
     "original": "守住!等待电梯到来!",
     "en_trans": "",
-    "zh_trans": "守住!等待电梯到来!",
+    "zh_trans": "守住!等待电梯到来 --- 40s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 40,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "里面就是控制中心了坚持到闸门破解完成!",
     "en_trans": "",
-    "zh_trans": "里面就是控制中心了坚持到闸门破解完成!",
+    "zh_trans": "里面就是控制中心了坚持到闸门破解完成 --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "快利用控制台关闭闸门",
@@ -365,13 +365,13 @@
   {
     "original": "守住,等待数据传输完成",
     "en_trans": "",
-    "zh_trans": "守住,等待数据传输完成",
+    "zh_trans": "守住,等待数据传输完成 --- 50s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 50,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "数据传输已完成!",
@@ -387,13 +387,13 @@
   {
     "original": "守住这里!等待电梯到来",
     "en_trans": "",
-    "zh_trans": "守住这里!等待电梯到来",
+    "zh_trans": "守住这里!等待电梯到来 --- 40s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 40,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "快撤!快撤!赶紧进电梯!",
@@ -409,13 +409,13 @@
   {
     "original": "上面被不知名的力量封锁了,正在尝试破解",
     "en_trans": "",
-    "zh_trans": "上面被不知名的力量封锁了,正在尝试破解",
+    "zh_trans": "上面被不知名的力量封锁了,正在尝试破解 --- 45s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 45,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "封锁已解除！",
@@ -486,13 +486,13 @@
   {
     "original": "现在,守住这里!",
     "en_trans": "",
-    "zh_trans": "现在,守住这里!",
+    "zh_trans": "现在,守住这里! --- 34s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 34,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "返回请求已应答！",
@@ -508,13 +508,13 @@
   {
     "original": "赶紧上飞机！",
     "en_trans": "",
-    "zh_trans": "注意脚下别摔下去了，赶紧从飞机的头部登机！",
+    "zh_trans": "注意脚下别摔下去了，赶紧从飞机的头部登机！--- 10s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "我们成功活下来了",
@@ -530,7 +530,7 @@
   {
     "original": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事",
     "en_trans": "",
-    "zh_trans": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事",
+    "zh_trans": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事 (倒计时添加；水木、，若出现问题请联系删除)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
