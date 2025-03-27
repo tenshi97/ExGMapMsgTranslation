@@ -2,7 +2,7 @@
   {
     "original": "- EASY MODE -",
     "en_trans": "",
-    "zh_trans": "- 简单难度 -",
+    "zh_trans": "- 第一关 - 简单难度 -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Map by Misaka >>",
@@ -327,12 +327,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "- NORMAL MODE -",
     "en_trans": "",
-    "zh_trans": "- 普通难度 -",
+    "zh_trans": "- 第二关 - 普通难度 -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "### Whats happening... ###",
     "en_trans": "",
-    "zh_trans": "### 发生什么了... ###",
+    "zh_trans": "### 我嘞个去发生什么了... ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< It seems that there is collapsing now!!! >>",
@@ -437,7 +437,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Fall back now!!! >>",
@@ -448,7 +448,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>",
@@ -459,7 +459,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< c4 will explode in 20 seconds >>",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< We will teleport back in 30 seconds >>",
@@ -508,7 +508,7 @@
   {
     "original": "<< WTF...... Final 10 seconds!!! Hold on!!! >>",
     "en_trans": "",
-    "zh_trans": "<< 我勒个豆！ 最后10秒!!! 坚持住!!! >>",
+    "zh_trans": "<< 我日！ 最后10秒!!! 坚持住!!! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "- HARD MODE -",
     "en_trans": "",
-    "zh_trans": "- 困难难度 -",
+    "zh_trans": "- 第三关 - 困难难度 -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -668,7 +668,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hold for final 20 seconds >>",
@@ -695,7 +695,7 @@
   {
     "original": "- OVERDRIVE MODE -",
     "en_trans": "",
-    "zh_trans": "- 梦魇难度 -",
+    "zh_trans": "- 第五关 - 梦魇难度 -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -734,7 +734,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Dr.X will kill us in 40 seconds!!! ##",
@@ -756,7 +756,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hard Mode Complete >>",
@@ -783,7 +783,7 @@
   {
     "original": "- LUNATIC MODE -",
     "en_trans": "",
-    "zh_trans": "- 疯狂难度 -",
+    "zh_trans": "- 第四关 - 疯狂难度 -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -800,7 +800,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### ...... ###",
@@ -811,7 +811,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### It seems that I am in wrong set...... ###",
@@ -822,7 +822,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### I'm sorry and I will get out of there >_< ###",
@@ -833,7 +833,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< A player has picked up Frostmourn >>",
@@ -970,7 +970,7 @@
   {
     "original": "### Minolila: Try to defeat me, and I will lead you to arrest him if you win this test!!! ###",
     "en_trans": "",
-    "zh_trans": "### 米诺莉拉：现在试着打败我吧，如果你赢了这次测试，我会帮你逮捕他 ###",
+    "zh_trans": "### 米诺莉拉：现在试着打败我吧，如果你赢了这次测试，我就会帮你逮捕他 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1053,7 +1053,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Minolila: Fall back now, and I will lead you to the place where you should go ###",

@@ -11,7 +11,7 @@
   {
     "original": "*** GIVE ME 20 SECONDS TO EXTINGUISH THE FIRE ***",
     "en_trans": "",
-    "zh_trans": "*** 给我20秒来灭火(不要靠近火焰，有伤害) ***",
+    "zh_trans": "*** 给我20秒来灭火 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -24,8 +24,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** ZM WILL TP IN 10 SECONDS ***",
@@ -39,7 +38,7 @@
   {
     "original": "*** NEXT WALKWAY IS TOO HIGH ! ***",
     "en_trans": "",
-    "zh_trans": "*** 后面的路太高了跳不上去！ ***",
+    "zh_trans": "*** 下一个人行通道太高了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -63,13 +62,12 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** THIS CHEEP CHEEP IS BLOCKING THE PATH ! KILL IT ! ***",
     "en_trans": "",
-    "zh_trans": "*** 这只叽叽喳喳叫的家伙挡住了路!杀了它(偷跑会去世哦) ***",
+    "zh_trans": "*** 这只叽叽喳喳叫的家伙挡住了路!杀了它 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -98,7 +96,7 @@
   {
     "original": "*** 5 SECONDS LEFT ***",
     "en_trans": "",
-    "zh_trans": "*** 还剩5秒 ***",
+    "zh_trans": "*** 5秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -135,7 +133,7 @@
   {
     "original": "*** CLIMB YOUR WAY TO THE FIRST PLACE ! ***",
     "en_trans": "",
-    "zh_trans": "*** 快到领奖台第一名的位置去（这些木头柱子的藤蔓是梯子，可以攀爬） ***",
+    "zh_trans": "*** 从两边爬梯子去领奖台第一名的位置！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -145,7 +143,7 @@
   {
     "original": "*** EVERYBODY BELOW THE FIRST PLACE WILL DIE IN 20 SECOND ! ***",
     "en_trans": "",
-    "zh_trans": "*** 所有不在第一名位置的人都将在20秒后死亡 ***",
+    "zh_trans": "*** 所有排在第一名之后的人都将在20秒内死亡 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -158,8 +156,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** THE DOORS ARE OPENING... ***",
@@ -168,13 +165,12 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** HOLD THE DOORS ***",
     "en_trans": "",
-    "zh_trans": "*** 守住门 ***",
+    "zh_trans": "*** 守住大门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -214,7 +210,7 @@
   {
     "original": "*** NICE ! NOW LOOK UP AND FIND A HOLE IN THE CEILING ! ***",
     "en_trans": "",
-    "zh_trans": "*** 很好!现在抬头看,站在铁网有洞位置的下方,别被夹死了 ***",
+    "zh_trans": "*** 很好!现在抬头看看,在天花板上找一个洞 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -233,7 +229,7 @@
   {
     "original": "*** DEFEND UNTIL I FIND AN UNLOCKED DOOR ***",
     "en_trans": "",
-    "zh_trans": "*** 坚守防御,直到我找到一扇没锁的门 ***",
+    "zh_trans": "*** 守住这里直到我找到一扇没锁的门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -273,7 +269,7 @@
   {
     "original": "*** KEEP THE ZOMBIES OUTSIDE ***",
     "en_trans": "",
-    "zh_trans": "*** 把僵尸挡在外面 ***",
+    "zh_trans": "*** 别让僵尸进来 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -283,7 +279,7 @@
   {
     "original": "*** KILL THE BOSS BEFORE THE ZOMBIES ARE RELEASED ***",
     "en_trans": "",
-    "zh_trans": "*** 在僵尸被释放出来之前干掉那个BOSS ***",
+    "zh_trans": "*** 在僵尸被释放出来之前干掉那个BOOS ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -303,7 +299,7 @@
   {
     "original": "*** GIVE ME 15 SECONDS TO UNLOCK THE DOOR, I'M KIND OF RETARDED ***",
     "en_trans": "",
-    "zh_trans": "*** 给我 15 秒开门，我在这方面有点不擅长 ***",
+    "zh_trans": "*** 给我 15 秒开门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -316,8 +312,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** HOLD 20 SECONDS ***",
@@ -335,18 +330,16 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** THE STAR IS UP THERE ! BUT BE CAREFUL ***",
     "en_trans": "",
-    "zh_trans": "*** 星星在那上面！但要小心 ***",
+    "zh_trans": "*** 星星就在那儿！但要小心 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** WE FOUND THE STAR ! LET'S ESCAPE THROUGH THE BASEMENT ! ***",
@@ -447,8 +440,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "fix stripper(by bxzl) loaded",
@@ -542,8 +534,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** WE CAN ESCAPE THROUGH THE WELL ! GO UP ! ***",
@@ -552,8 +543,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** THE MYSTERIOUS CRYPT IS OPEN ! ***",
@@ -600,8 +590,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "*** SOMETHING HAPPENS IN 10 SECONDS ***",
@@ -648,7 +637,6 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   }
 ]

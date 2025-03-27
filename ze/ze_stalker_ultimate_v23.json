@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The map isn't eazy. It needs good ZE skills and good teamplay**",
@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E",
@@ -62,7 +62,7 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 18,
-    "enable_timer": 1,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
@@ -140,7 +140,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The gate 1 will open in 30 seconds",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Hold this position for 10 seconds!!",
@@ -255,7 +255,7 @@
   {
     "original": "**There are zombies in bunker. The level is failed.**",
     "en_trans": "",
-    "zh_trans": "** 僵尸成功入侵安全区，回合失败 **",
+    "zh_trans": "** 僵尸已经入侵安全区，回合失败 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -282,7 +282,7 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 18,
-    "enable_timer": 1,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
@@ -327,18 +327,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***",
     "en_trans": "",
-    "zh_trans": "*** 现在你有一些时间去寻找隐藏神器 ***",
+    "zh_trans": "*** 你有一些时间去寻找隐藏神器 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Hold here for 25 seconds**",
@@ -382,7 +382,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**NOW WE ARE READY TO GO**",
@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**..We founded something unusial..**",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**.. Is it a new anomaly?!..**",
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**You have defeated controller!!! Good job**",
@@ -437,7 +437,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Now go away to the coast**",
@@ -448,7 +448,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The blowout is comming**",
@@ -459,7 +459,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Prepare to FIGHT**",
@@ -470,18 +470,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**",
     "en_trans": "",
-    "zh_trans": "** 所有神器升级到最高级**在必要时使用 **",
+    "zh_trans": "** 所有神器已升级至最高级**在必要时使用 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**PREPARE TO MOVE IN 10 SECONDS!**",
@@ -503,7 +503,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**DON'T LET HIM TO FAIL US!!**",
@@ -514,7 +514,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**PLAY AS YOU CAN**",
@@ -536,7 +536,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**",
@@ -547,7 +547,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**HE IS DEAD!!NICE WORK!!**",
@@ -558,7 +558,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**",
@@ -629,13 +629,13 @@
   {
     "original": "***Break the spheres to escape***",
     "en_trans": "",
-    "zh_trans": "*** 赶紧打碎中间的玻璃柱然后撤退 ***",
+    "zh_trans": "*** 赶紧打碎中间的玻璃柱然后跑路 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***OH NO WHO IS IT? WE MUST KILL IT!***",
@@ -646,7 +646,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**You did it!! You have completed stage 2!!**",
@@ -662,7 +662,7 @@
   {
     "original": "**AUTO-SLAYER ENABLED**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**AUTO-SLAYER ENABLED**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

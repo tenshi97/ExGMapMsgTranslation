@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "DOOR OPENING IN 30 SEC",
@@ -94,9 +94,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "BOSS USE WIND !!!",
@@ -105,9 +105,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "LOOK DOWN !!!!",
@@ -116,9 +116,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<< YOU MUST KILL ALL ZOMBIES ! >>>",
@@ -127,9 +127,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "因地图特殊 暂时关闭hide功能 模型缩小",
@@ -149,9 +149,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "BOSS USE LASERS !!!",
@@ -160,8 +160,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

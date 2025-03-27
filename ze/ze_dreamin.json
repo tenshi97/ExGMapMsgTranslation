@@ -2,7 +2,7 @@
   {
     "original": "***Map by Reflelia***",
     "en_trans": "",
-    "zh_trans": "***地图作者；Reflelia（翻译；水木、）***",
+    "zh_trans": "***地图作者；Reflelia（汉化：水木、）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -132,7 +132,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Teleport activates in 45 seconds***",
@@ -149,8 +150,9 @@
     "zh_trans": "***boss使用了黑洞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Wind Casted***",
@@ -158,8 +160,9 @@
     "zh_trans": "***boss使用了风***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Ice Casted***",
@@ -167,8 +170,9 @@
     "zh_trans": "***boss使用了冰***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Snow picked up***",
@@ -185,8 +189,9 @@
     "zh_trans": "***boss使用了击飞***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Go Back to teleport place***",
@@ -240,7 +245,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Zombie picked up Ice***",
@@ -285,7 +291,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** NO HIT DETECT,BOSS WILL SELF KILL IN 5 SEC **",
@@ -294,7 +301,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 0
   },
   {
     "original": "***CURRENT LEVEL - 2 -***",
@@ -383,8 +390,9 @@
     "zh_trans": "***疯狂弹幕（先回头躲外圈再躲内圈）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Laser***",
@@ -392,8 +400,9 @@
     "zh_trans": "***跳刀（四周随机来刀）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***For Upper***",
@@ -401,8 +410,9 @@
     "zh_trans": "***自由落体（保证落在平台上）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Danger Field***",
@@ -410,8 +420,9 @@
     "zh_trans": "***煎蛋（远离红色区域）***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***CURRENT LEVEL - 3 -***",
@@ -456,7 +467,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Hold 20 seconds***",
@@ -474,7 +486,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "***Reflection will cast in 1s*",
@@ -483,7 +496,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "***Reflection Casted***",
@@ -501,7 +515,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***DIFFICULTY SET TO -3-***",
