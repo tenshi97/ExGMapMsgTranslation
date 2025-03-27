@@ -52,12 +52,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "we need hold 40s",
     "en_trans": "",
-    "zh_trans": "我们守住40秒",
+    "zh_trans": "我们需要守住40秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "Initiate the zombie side in 4 seconds",
     "en_trans": "",
-    "zh_trans": " 僵尸侧路将在4秒后开启？（其实是14秒）",
+    "zh_trans": " 僵尸侧路将在4秒后开启（骗你的，其实是14秒）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "Zombie transmission also has 13S",
     "en_trans": "",
-    "zh_trans": "13秒后僵尸也将传送",
+    "zh_trans": "走得慢的僵尸将在13秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "hold 20s",
     "en_trans": "",
-    "zh_trans": "守住 20秒",
+    "zh_trans": "你需要守住20秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Something seems to have disappeared",
@@ -206,7 +206,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "There seems to be no road above",
@@ -217,34 +217,34 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "I am optimistic about the road under your feet. How come back? Do you understand?",
     "en_trans": "",
-    "zh_trans": "我是个乐观主义者，路大概就在脚下。怎么回去？你知道吗？",
+    "zh_trans": "我是个乐观主义者，路大概就在脚下。该怎么回去你明白了吗？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "zombie coming watch you back",
     "en_trans": "",
-    "zh_trans": "僵尸来临,当心！",
+    "zh_trans": "僵尸来了,小心身后！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Warning: trap is activated",
     "en_trans": "",
-    "zh_trans": "警告：陷阱激活",
+    "zh_trans": "警告：陷阱已激活",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -261,23 +261,23 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Zombies approaching the road",
     "en_trans": "",
-    "zh_trans": "僵尸接近",
+    "zh_trans": "侧路梯子已开放",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "tip:You can't pass on the chessboard You must pass on the chess piece",
     "en_trans": "",
-    "zh_trans": "提示：你不能跳上这个棋盘，你应该跳上棋子通过这里",
+    "zh_trans": "提示：你不能跳上这个棋盘，你需要跳上棋子通过这里",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "No, the mountain is shaking",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Be prepared as if something is rising",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "I saw the hilt. I found a chance to get ready for the sword",
@@ -382,7 +382,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Please hold here for 18 seconds",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait a minute, I seem to have seen this sword before",
@@ -470,7 +470,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The second door on the right will open in 20 seconds",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "you need hold 60s",
@@ -563,7 +563,7 @@
   {
     "original": "welcome to ze_obj_moonshadows",
     "en_trans": "",
-    "zh_trans": "欢迎游玩 obj；月影传说",
+    "zh_trans": "欢迎游玩 obj：月影传说",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -701,7 +701,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "we must to recast it",
@@ -712,7 +712,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "stp update v19_25.03.12",

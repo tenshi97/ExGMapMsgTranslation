@@ -200,7 +200,7 @@
   {
     "original": "<< A zombie has picked up heal magic >>",
     "en_trans": "",
-    "zh_trans": "<<一名僵尸拾取了奶>>",
+    "zh_trans": "<< 一名僵尸拾取了奶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,13 +255,13 @@
   {
     "original": "<< TESLA COMING >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸成为了特斯拉 >>",
+    "zh_trans": "<< 一名僵尸成为了特斯拉（s+a+d+右键使用毒球，d+a+w+s+左键使用诅咒） >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "- MISAKA is blocking our way!!! -",
@@ -288,7 +288,7 @@
   {
     "original": "--- Tesla dead...... ---",
     "en_trans": "",
-    "zh_trans": "--- 特斯拉已死亡...... ---",
+    "zh_trans": "--- 特斯拉已死亡 ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,11 +387,11 @@
   {
     "original": "-- God --",
     "en_trans": "",
-    "zh_trans": "-- 终极持有者当前处于免抓状态（但会吃秒） --",
+    "zh_trans": "-- 终极持有者当前处于免抓状态--- 20s --",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
+    "timer_num": 20,
     "enable_timer": 0,
     "force_hint": 1
   },
@@ -402,7 +402,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
+    "timer_num": 10,
     "enable_timer": 0,
     "force_hint": 0
   },
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Congratulations!!! ---",
@@ -431,7 +431,7 @@
   {
     "original": "--- You are the King of the FANTASY ---",
     "en_trans": "",
-    "zh_trans": "--- 您就是幻想之王 ---",
+    "zh_trans": "--- 您就是幻想之王! ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "--- Map by Misaka, Rework by K.KID ---",
     "en_trans": "",
-    "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（补充；水木、） ---",
+    "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（汉化；水木、） ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,7 +519,7 @@
   {
     "original": "--- Its a SOLO WIN !!! ---",
     "en_trans": "",
-    "zh_trans": "--- 跳刀大神选择了solo! ---",
+    "zh_trans": "--- 我趣，是跳刀guer！我们没救了!（祝贺他solo次数喜+1） ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "--- Ominous Wind ---",
     "en_trans": "",
-    "zh_trans": "--- 来历不明的风（随机推力） ---",
+    "zh_trans": "--- 妖风（随机推力） ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_alert",
@@ -591,7 +591,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Rainbow Cage ---",
@@ -684,7 +684,7 @@
   {
     "original": "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---",
     "en_trans": "",
-    "zh_trans": "--- boss正在使用大火! 使用水或治疗来抵消伤害!---7s ---",
+    "zh_trans": "--- boss正在使用大火! 使用水或治疗来抵消伤害!--- 7s ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_fire",
@@ -701,7 +701,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Do not trust the black laser!!! ---",
@@ -728,7 +728,7 @@
   {
     "original": "--- Its a TEAM WIN !!! ---",
     "en_trans": "",
-    "zh_trans": "--- 跳刀大神选择了team win! ---",
+    "zh_trans": "--- 跳刀大神选择了teamwin! 拜师！ ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,18 +739,18 @@
   {
     "original": "--- Zombie ESCAPE!!! ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 僵尸跟着跑路啦 ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Fail...... ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 回合失败 ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

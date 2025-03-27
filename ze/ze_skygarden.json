@@ -378,35 +378,39 @@
     "zh_trans": "** 精力超载 - 守住僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Spirit diffusion, avoid injury **",
     "en_trans": "",
-    "zh_trans": "** 精神扩散, 规避伤害 **",
+    "zh_trans": "** 精神扩散, 远离天谴 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Poison fog, take shelter in the pool **",
     "en_trans": "",
-    "zh_trans": "** 毒气蔓延 - 进入圣池中的庇护所 **",
+    "zh_trans": "** 毒气蔓延 - 进入水池规避伤害 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Spirits out, pay attention to the spirit ball **",
     "en_trans": "",
-    "zh_trans": "** 精神污染 - 注意能量球 **",
+    "zh_trans": "** 精神污染 - 躲避左侧的能量球 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Hurt poison, stay away from the entrance **",
@@ -414,8 +418,9 @@
     "zh_trans": "** 剧毒雾气 - 远离出口 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** It finally died **",
@@ -433,8 +438,9 @@
     "zh_trans": "** 现在将核心抛进圣池 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The core will emit energy, protect it from being polluted by the undead **",
@@ -449,7 +455,7 @@
   {
     "original": "** Hold on, The core is releasing energy **",
     "en_trans": "",
-    "zh_trans": "** 坚持住，核心正在释放能量 **",
+    "zh_trans": "** 坚持住，核心正在释放能量 (你们还需要核心的回血，记得拿出来) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

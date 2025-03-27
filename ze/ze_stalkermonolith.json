@@ -51,12 +51,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A player picked up firegun**",
     "en_trans": "",
-    "zh_trans": "**一位玩家拾起了 喷火器**",
+    "zh_trans": "**一位玩家拾取了喷火器**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +66,7 @@
   {
     "original": "**A player picked up spikeball**",
     "en_trans": "",
-    "zh_trans": "**一位玩家拾起了刺球**",
+    "zh_trans": "**一位玩家拾取了奶**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -74,7 +75,7 @@
   {
     "original": "**A player picked up freez**",
     "en_trans": "",
-    "zh_trans": "**一位玩家拾起了 冰冻枪**",
+    "zh_trans": "**一位玩家拾取了冰冻陷阱（只有三次）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -105,7 +106,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**hold the train for 30 sec**",
@@ -123,7 +125,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Zm Teleport 6sec**",
@@ -177,7 +180,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**kill the controller**",
@@ -186,25 +190,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**he uses an energy shield. Destroy 4 generators**",
     "en_trans": "",
-    "zh_trans": "**他使用了能量护盾！破坏4个能量生成器！**",
+    "zh_trans": "**他使用了能量护盾！破坏头顶的四个能量生成器！**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Destroy them first**",
     "en_trans": "",
-    "zh_trans": "**必须先破坏它们**",
+    "zh_trans": "**必须先破坏它们才能伤害boss！**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CONTROLLER Uses electric field WARNING ***",
@@ -221,8 +228,9 @@
     "zh_trans": "**2号发电机已被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**3 generator was destroyed**",
@@ -230,8 +238,9 @@
     "zh_trans": "**3号发电机已被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**4 generator was destroyed**",
@@ -239,8 +248,9 @@
     "zh_trans": "**4号发电机已被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**1 generator was destroyed**",
@@ -248,8 +258,9 @@
     "zh_trans": "**1号发电机已被摧毁**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**controller ran away**",
@@ -267,7 +278,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "*** Defend 20 sec ***",
@@ -294,7 +306,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**the helicopter is destroyed. run*",
@@ -303,7 +316,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**BTR will leave in 20sec**",
@@ -330,7 +344,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "*** LEVEL 1 WIN ***",
@@ -420,7 +435,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "** Grenades do more damage. **",
@@ -429,7 +445,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**WTF NEW MUTANT. KILL HIM**",
@@ -438,7 +455,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**psevdogigant IS DEAD**",
@@ -447,7 +465,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Door will Close in 15 sec**",
@@ -465,7 +484,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Door will Close 55 sec**",
@@ -528,7 +548,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**The door will open in 20 seconds**",
@@ -546,7 +567,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**2 buttons were pressed**",
@@ -555,7 +577,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Elevator activated**",
@@ -564,7 +587,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Elevator 10 second**",
@@ -609,7 +633,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "*** LEVEL 3 WIN ***",
@@ -672,7 +697,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**defend 25 sec**",
@@ -686,11 +712,12 @@
   {
     "original": "**Laser Monolit**",
     "en_trans": "",
-    "zh_trans": "**跳刀！**",
+    "zh_trans": "**躲避跳刀（先低后高固定顺序刀）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Defend 15 second**",
@@ -708,7 +735,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": "**Defend 20 second**",
