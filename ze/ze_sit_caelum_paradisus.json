@@ -13,7 +13,7 @@
   {
     "original": ">>> MAP BY SATOKA<<<",
     "en_trans": "",
-    "zh_trans": ">>> 地图由 SATOKA 制作<<<",
+    "zh_trans": ">>> 地图由 SATOKA 制作(翻译:星荧铃)<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> TRY TO USE THEM <<",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ROUTE ONE <<",
