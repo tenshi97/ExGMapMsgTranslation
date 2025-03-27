@@ -87,7 +87,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Defend For 25 Seconds***",
@@ -123,7 +124,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Activating Bridge In 5 Seconds***",
@@ -168,7 +170,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***HEALTH: 100000***",
@@ -177,16 +180,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Cookie Paper Monster Are Using Wind***",
     "en_trans": "",
-    "zh_trans": "***纸点心怪兽使用了 风***",
+    "zh_trans": "***纸点心怪兽使用了 风，按W抵抗推力***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Cookie Paper Monster Are Using Shield***",
@@ -195,16 +200,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Cookie Paper Monster Are Using Magic On Zombie Cage***",
     "en_trans": "",
-    "zh_trans": "***纸点心怪兽对尸笼使用了魔法***",
+    "zh_trans": "***纸点心怪兽对尸笼使用了魔法，召唤僵尸***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Door Open in 5 Seconds***",
@@ -222,7 +229,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***COOKIE PAPER HAVE DIED***",
@@ -231,16 +239,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!***",
     "en_trans": "",
-    "zh_trans": "***提示：如果平台上还有僵尸。把他们打下去！*** ",
+    "zh_trans": "***提示：如果平台上还有僵尸。把他们打下去，不然会同时传送！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Teleport in 10 Seconds***",
@@ -258,7 +268,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Door Open in 30 Seconds***",
@@ -303,12 +314,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***MAP BY: RASTAFARIAN (DK)***",
     "en_trans": "",
-    "zh_trans": "***地图作者: RASTAFARIAN (DK)***",
+    "zh_trans": "***地图作者: RASTAFARIAN (DK)(翻译:星荧铃)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
