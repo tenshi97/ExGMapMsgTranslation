@@ -15,7 +15,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">- Keep ZOMBIES away for 60 second -<",
@@ -29,11 +30,12 @@
   {
     "original": ">- 1 Player needs to get into furnace -<",
     "en_trans": "",
-    "zh_trans": ">- 需要一名玩家进入熔炉中-<",
+    "zh_trans": ">- 需要一名玩家进入熔炉中才能触发（进去后对阀门按E可以出来）-<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">- keep zombies away for 45 seconds -<",
@@ -78,7 +80,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">-Elevator coming in 30 sec-<",
@@ -105,7 +108,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">-Door opening in 30 sec-<",
@@ -132,7 +136,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">- nailbombs exploding in 40 seconds -<",
@@ -146,11 +151,12 @@
   {
     "original": ">- keep zombies inside -<",
     "en_trans": "",
-    "zh_trans": ">- 别将僵尸出来 -<",
+    "zh_trans": ">- 别让僵尸出来 -<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">- keep zombies away for 30 seconds -<",
@@ -195,7 +201,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">- shelter door closing!! -<",
@@ -204,7 +211,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "指挥卖人狗，你再这样，电锯之神，该把你踢出游戏了！！！0,0",

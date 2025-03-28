@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Knuckles: We have to survive for 3 minutes until Sonic gets here!",
@@ -20,11 +21,12 @@
   {
     "original": "Knuckles: We gotta find the chaos emerald shards!",
     "en_trans": "",
-    "zh_trans": "纳克鲁斯：我们得找到混沌翡翠碎片！",
+    "zh_trans": "纳克鲁斯：我们得找到混沌翡翠碎片！（如果在碎片附近可以听到声音）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Knuckles: We only have 30 seconds until the zombie's nukes blow, hurry!",
@@ -42,6 +44,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

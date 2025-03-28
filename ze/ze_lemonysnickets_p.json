@@ -2,7 +2,7 @@
   {
     "original": "*Map created by Snake*",
     "en_trans": "",
-    "zh_trans": "*地图作者 Snake*",
+    "zh_trans": "*地图作者 Snake(翻译:星荧铃)*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "*Defend Inside for 45s!*",
     "en_trans": "",
-    "zh_trans": "*在里面防守 45 秒！*",
+    "zh_trans": "*防守 45 秒！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "*Hold here for 30s!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*在这里坚守 30 秒！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "*10 seconds left!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*还剩 10 秒！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "*Defend here for 30 Seconds*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*在此处防守 30 秒*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "*Hold for another 10s!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*再坚持 10 秒！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "*5s left! Get ready to run!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*还剩 5 秒！准备跑了！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,18 +90,18 @@
   {
     "original": "*Someone has to get inside to open the doors*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*必须有人进去开门*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Castle Doors open in 15s!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*城堡门将在 15 秒后打开！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,18 +112,18 @@
   {
     "original": "*Castle Doors Open!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*城堡门打开了！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Hold here for 65 s*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*在这里坚守 65 秒*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,51 +134,51 @@
   {
     "original": "*Portal is Charging*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*传送正在充能*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Portal 25 percent charged*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*已充能 25%*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 25,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*Portal 50 percent charged!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*已充能 50%!*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 50,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*Portal 75 percent charged!!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*已充能 75%!!*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 75,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*5 Seconds left*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*还剩 5 秒*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,40 +189,40 @@
   {
     "original": "*Portal 100 percent charged!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*充能完成!*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 100,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*Jump into the middle of the portal!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*快跳进传送点!*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Zombies have crawled through the window!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*僵尸已经从窗户爬进来了！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Gate will open in 55 seconds!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*大门将在 55 秒后打开！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,18 +233,18 @@
   {
     "original": "*Zombie boat door broken!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*僵尸船的门被打破了！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Zombie boat leaving in 10s*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*僵尸船将在 10 秒后出发*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "*Gate will open in 20 seconds!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*门将在 20 秒后打开！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,51 +266,51 @@
   {
     "original": "*Zombie boat is leaving!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*僵尸船正在离开！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Rocket Launched!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*火箭发射！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Gates are open!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*大门已开！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Back Gate Open*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*后门打开*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*5 seconds until gate opens!!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*还有 5 秒门就开了！！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "*Survive another 30 seconds!*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*再存活 30 秒！*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

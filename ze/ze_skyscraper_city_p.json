@@ -15,12 +15,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>metal gate open in 15 sec<<",
     "en_trans": "",
-    "zh_trans": ">>金属大门将在15秒内打开<<",
+    "zh_trans": ">>金属门将在15秒内打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -42,7 +43,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>Train will leave in 35 sec<<",
@@ -60,7 +62,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>Stair door opens in 15 sec<<",
@@ -78,6 +81,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

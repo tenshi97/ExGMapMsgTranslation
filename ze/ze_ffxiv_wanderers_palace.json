@@ -387,7 +387,7 @@
   {
     "original": "**A zombie has picked up <Holmgang>**",
     "en_trans": "",
-    "zh_trans": "**一名僵尸捡起了<死斗>**",
+    "zh_trans": "**一名僵尸捡起了<死斗>(发射锁链禁锢触碰的人类，自身减速并免疫终极和人类伤害)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,56 +552,56 @@
   {
     "original": ">> Ultimate <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 终极(Ultimate) <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Looks the tonberrys blocked the way forward<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>看起来冬贝利挡住了前进的路<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>A mysterious voice: Brave Warrior of Light, looks like there's something wrong with the space here. I will open the way for you, please restore it<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>神秘的声音：勇敢的光之战士，这里的空间似乎出现了异常。我会为你开辟道路，请稍等<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>The way has been linked<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>传送门已开启<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Lalafel: Please take me on the adventure together!!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>拉拉肥: 请带我一起去冒险吧！！！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

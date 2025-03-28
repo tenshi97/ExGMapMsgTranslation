@@ -2,7 +2,7 @@
   {
     "original": ">>>Map Created By: Bill Smauz<<<",
     "en_trans": "",
-    "zh_trans": "地图作者：Bill Smauz",
+    "zh_trans": "地图作者：Bill Smauz(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -29,16 +29,17 @@
   {
     "original": "***Lift Returning Across Canyon***",
     "en_trans": "",
-    "zh_trans": "***电梯正在从峡谷对面返回***",
+    "zh_trans": "***缆车正在从峡谷对面返回***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Lift Departing in 5 Seconds***",
     "en_trans": "",
-    "zh_trans": "***电梯将在 5 秒后出发***",
+    "zh_trans": "***缆车将在 5 秒后出发***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -60,7 +61,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***APC Starting in 5 Seconds***",
@@ -78,7 +80,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***12 Seconds to Enter the Outpost***",
@@ -123,7 +126,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Dropship Arrival in 10 Seconds***",
@@ -141,7 +145,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Dropship Departing in 15 Seconds***",
@@ -159,7 +164,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Cave Wall Will Collapse in 18 Seconds***",
@@ -177,6 +183,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

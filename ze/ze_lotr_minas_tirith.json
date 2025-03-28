@@ -178,29 +178,29 @@
   {
     "original": "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 12：第四关的厕所位于第二座塔的顶部（在木斜坡后右转）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 提示 13：甘道夫大招的操作是 DAWDS，高达大招的操作是 AADDSWSW**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 13,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身回合 ** 回合将在 10 秒后重新开始 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "** WARMUP ROUND IS OVER! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 热身结束! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
