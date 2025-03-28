@@ -1058,7 +1058,7 @@
   {
     "original": "### Minolila: Fall back now, and I will lead you to the place where you should go ###",
     "en_trans": "",
-    "zh_trans": "### 米诺莉拉: 现在撤退，我会带你去你该去的地方 ###",
+    "zh_trans": "### 米诺莉拉: 现在往回走吧，我会带你去你该去的地方 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,29 +1080,29 @@
   {
     "original": "### Minolila: I still can not believe you ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 米诺莉拉: 我还是不能相信你... ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Minolila: Sorry for testing you again, and I will lead you to the true core of this palace ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 米诺莉拉: 很抱歉我又测试了你，这次我会带你去真正的地方 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Lunatic Mode Complete >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第四关已完成 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
