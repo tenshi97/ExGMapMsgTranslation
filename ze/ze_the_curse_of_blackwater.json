@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "We have collected a battery, it can increase the number of times the lantern can be used.",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "Door to maternity ward will open in 40 sec",
@@ -134,7 +134,7 @@
   {
     "original": "Who owns this casket?",
     "en_trans": "",
-    "zh_trans": "这个棺材是谁的？",
+    "zh_trans": "这是谁的八音盒？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
