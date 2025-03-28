@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< - Steyliff Grove - >",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< ver. Preview >",
@@ -24,25 +26,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "AraneaHighwind > Night falls,",
     "en_trans": "",
-    "zh_trans": "阿拉尼娅·海温德 > 夜幕降临",
+    "zh_trans": "艾拉妮亚·海温德 > 夜幕降临",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "AraneaHighwind > Wait quietly for the maze gate to open.",
     "en_trans": "",
-    "zh_trans": "“阿拉尼娅·海温德 > 安静地等待迷宫大门打开。 ",
+    "zh_trans": "艾拉妮亚·海温德 > 安静地等待迷宫大门打开。 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A player has learned [ Cure ] magic, <",
@@ -69,7 +74,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Defend until the gates open. <",
@@ -78,7 +84,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The door will open in 15 seconds. <",
@@ -123,7 +130,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> New task: Defeat ??? Magna <",
@@ -132,7 +140,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A player has learned [ Water ] magic, <",
@@ -159,7 +168,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The eerie magic disappeared... <",
@@ -168,7 +178,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Zombie Item Unlock",
@@ -177,7 +188,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The door will open in 35 seconds. <",
@@ -222,7 +234,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> New task: Defeat Quetzalcoatl <",
@@ -231,7 +244,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The battle will begin in 15 seconds. <",
@@ -249,16 +263,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Map+ Eugen & Joucho >",
     "en_trans": "",
-    "zh_trans": "< 地图+ Eugen & Joucho >",
+    "zh_trans": "< 地图+ Eugen & Joucho(翻译:星荧铃) >",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The door will open in 20 seconds. <",
@@ -294,7 +310,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A zombie has learned [ Siphon ] magic, <",
@@ -317,29 +334,32 @@
   {
     "original": "与若是不感受到⌈痛楚⌋,",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "与若是不感受到⌈痛楚⌋,",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "就不能理解⌈痛楚⌋的你,",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "就不能理解⌈痛楚⌋的你,",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "定是[永远]无法相互理解的啊-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "定是[永远]无法相互理解的啊-",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The platform rises after 15 seconds. <",
@@ -357,7 +377,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The door will open in 10 seconds. <",
@@ -402,7 +423,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A player has learned [ DarkSword ] magic, <",
@@ -420,7 +442,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Switch 3 has been triggered, <",
@@ -429,7 +452,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Switch 2 has been triggered, <",
@@ -438,7 +462,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Switch 1 has been triggered, <",
@@ -447,16 +472,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "天平总是倾斜于某一端,",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "天平总是倾斜于某一端,",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> The platform rises after 10 seconds. <",
@@ -488,11 +515,12 @@
   {
     "original": "❀>?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "❀>?",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A zombie has learned [ Foul ] magic, <",
@@ -546,7 +574,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Water in Malefic *",
@@ -555,7 +584,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Cure in Malefic *",
@@ -564,7 +594,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* DarkSword in Malefic *",
@@ -573,7 +604,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A zombie has learned [ Ward ] magic, <",
@@ -591,16 +623,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "❀>1",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "❀>1",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* HolySword in Malefic *",
@@ -609,7 +643,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Despair Devoured *",
@@ -618,7 +653,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> A zombie has learned [ Gravity ] magic, <",
@@ -636,7 +672,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Thunder in Malefic *",
@@ -645,25 +682,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "❀>2",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "❀>2",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "❀>3",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "❀>3",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Blizzard in Malefic *",
@@ -672,24 +712,27 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "❀>4",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "❀>4",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "さよなら,ハルメギド",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "再见，末日战场",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
