@@ -22,7 +22,7 @@
     "force_hint": 0
   },
   {
-    "original": "--地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--",
+    "original": "--地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--（补充：水木、，已为ex难度添加提示，路人局首通后删除，欢迎各位前去挑战！）",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -561,7 +561,7 @@
     "force_hint": 0
   },
   {
-    "original": "*** 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈（补充：水木、） ***",
+    "original": "*** 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈 ***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -1597,7 +1597,7 @@
   {
     "original": "我接受挑战，来吧，稍后我会追逐你!",
     "en_trans": "",
-    "zh_trans": "我接受挑战，来吧，稍后我会追逐你!",
+    "zh_trans": "我接受挑战，来吧，稍后我会追逐你!（四周飞剑）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1608,7 +1608,7 @@
   {
     "original": "我不擅长捉弄人,但这次,祝你好运!",
     "en_trans": "",
-    "zh_trans": "我不擅长捉弄人,但这次,祝你好运!",
+    "zh_trans": "我不擅长捉弄人,但这次,祝你好运!（远离光球，躲避上方弹幕）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1619,7 +1619,7 @@
   {
     "original": "开始突袭!",
     "en_trans": "",
-    "zh_trans": "开始突袭!",
+    "zh_trans": "开始突袭!（头顶天坠）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1630,7 +1630,7 @@
   {
     "original": "魔王会迎难而上，我亦是如此!",
     "en_trans": "",
-    "zh_trans": "魔王会迎难而上，我亦是如此!",
+    "zh_trans": "魔王会迎难而上，我亦是如此!（打碎天上掉下来的水晶）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1641,7 +1641,7 @@
   {
     "original": "臣服于我!",
     "en_trans": "",
-    "zh_trans": "臣服于我!",
+    "zh_trans": "臣服于我!（从此刻起每隔七秒脚底随机生成三块火场）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1751,7 +1751,7 @@
   {
     "original": "见证历史吧!",
     "en_trans": "",
-    "zh_trans": "见证历史吧!",
+    "zh_trans": "见证历史吧!（头顶天坠）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
