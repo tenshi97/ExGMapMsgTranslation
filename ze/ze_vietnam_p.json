@@ -5,8 +5,10 @@
     "zh_trans": ">30秒后开门<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">Wing will break in 30 sec<",
@@ -14,8 +16,10 @@
     "zh_trans": ">机翼30秒后破坏<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">Wing will break in 10 sec<",
@@ -23,8 +27,10 @@
     "zh_trans": ">机翼10秒后破坏<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">Bars will break in 30 sec<",
@@ -32,8 +38,10 @@
     "zh_trans": ">栅栏30秒后打开<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">Boat leaving in 60 sec<",
@@ -41,8 +49,10 @@
     "zh_trans": ">船将在60秒后离开<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">Get in the boat!!!<",
@@ -50,8 +60,10 @@
     "zh_trans": "> 快上船！！！<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Use the console to launch nuke <",
@@ -59,8 +71,10 @@
     "zh_trans": ">使用终端发射核弹<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> NUKE exploding in 50 sec<",
@@ -68,8 +82,10 @@
     "zh_trans": ">核打击将在50秒后抵达<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> NUKE exploding in 10 sec<",
@@ -77,7 +93,20 @@
     "zh_trans": ">核打击将在10秒后抵达<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "11",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 11,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
