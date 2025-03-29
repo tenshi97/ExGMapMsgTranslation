@@ -5,8 +5,10 @@
     "zh_trans": "*** 防守20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Prefinal Hold 50secs***",
@@ -14,8 +16,10 @@
     "zh_trans": "*** 最后防守保持50秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Zombies teleporting in 15 secs. Get ready.***",
@@ -23,8 +27,10 @@
     "zh_trans": "*** 僵尸将在15秒后传送。做好准备。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Zombies teleporting in 10 secs!***",
@@ -32,8 +38,10 @@
     "zh_trans": "*** 僵尸在10秒后传送！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Zombies teleporting in 5 secs!!!***",
@@ -41,8 +49,10 @@
     "zh_trans": "*** 僵尸还有5秒后传送! ! ! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***",
@@ -50,8 +60,10 @@
     "zh_trans": "*** 僵尸传送过来了！三面防守！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RUUUUUUUUUN!!!***",
@@ -59,8 +71,10 @@
     "zh_trans": "*** 跑！！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***RUN INTO THE HOLE!***",
@@ -68,8 +82,10 @@
     "zh_trans": "*** 快往洞里跑！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Wait some more secs***",
@@ -77,8 +93,10 @@
     "zh_trans": "*** 再等几秒钟 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***Btw. Unlimited ammo time :3***",
@@ -86,7 +104,20 @@
     "zh_trans": "*** 顺便说一句：现在是无限弹药时间:3 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "!!yed",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]

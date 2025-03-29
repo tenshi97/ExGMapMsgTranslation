@@ -5,8 +5,10 @@
     "zh_trans": "> 后室：死眠 < ver 1.3",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> Map by @Seth <",
@@ -14,8 +16,10 @@
     "zh_trans": "> 地图制作 @Seth <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> Warning <<",
@@ -23,6 +27,7 @@
     "zh_trans": ">> 警告 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -33,8 +38,10 @@
     "zh_trans": "> 平台将在5秒后启动 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> This map contain Jumpscare Sence!(When die) <<",
@@ -42,6 +49,7 @@
     "zh_trans": ">> 警告:本地图包含跳吓元素(死亡时) <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -52,6 +60,7 @@
     "zh_trans": ">> 警告:本地图包含跳吓元素(死亡时) <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -62,6 +71,7 @@
     "zh_trans": "|对讲机|: 传送门已就绪",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -72,6 +82,7 @@
     "zh_trans": "|对讲机|: 带上你需要的设备",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -82,6 +93,7 @@
     "zh_trans": ">战术手电筒< 按E使用，可以阻挡笑魇的行动",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -92,6 +104,7 @@
     "zh_trans": "|对讲机|: 并在进入前检查该层级的信息",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -102,8 +115,10 @@
     "zh_trans": "|对讲机|: 行动将在10秒后开始",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "|Speaker|: Stay safe.",
@@ -111,6 +126,7 @@
     "zh_trans": "|对讲机|: 注意安全",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -121,6 +137,7 @@
     "zh_trans": ">手电筒没电了，必须充满电才能再次使用<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -131,8 +148,10 @@
     "zh_trans": "< 15 > 秒后障碍物清除",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZM TP < 10 >",
@@ -140,8 +159,10 @@
     "zh_trans": "僵尸在 < 10 > 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Left Side < 25 >",
@@ -149,8 +170,10 @@
     "zh_trans": "左边将在 < 25 > 秒开放",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Right Side < 15 >",
@@ -158,8 +181,10 @@
     "zh_trans": "右边将在 < 15 > 秒开放",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">A barrier has shattered.<",
@@ -167,6 +192,7 @@
     "zh_trans": ">一道障碍已打破<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -177,6 +203,7 @@
     "zh_trans": "> 一些邪恶的实体正向你袭来... <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -187,6 +214,7 @@
     "zh_trans": "> 不想死的话就紧盯着它！ <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -197,8 +225,10 @@
     "zh_trans": "右边将在 < 20 > 秒开放",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< Wait for your Left Side team... >",
@@ -206,6 +236,7 @@
     "zh_trans": "< 等待你左侧的队友... >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -216,6 +247,7 @@
     "zh_trans": "< 等待你右侧的队友... >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -226,8 +258,10 @@
     "zh_trans": "< 两队均已抵达，坚持20秒 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZM TP < 15 >",
@@ -235,8 +269,10 @@
     "zh_trans": "僵尸在 < 15 > 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 25 >",
@@ -244,8 +280,10 @@
     "zh_trans": "< 25 > 秒后障碍物清除",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZM TP < 5 >",
@@ -253,8 +291,10 @@
     "zh_trans": "僵尸在 < 5 > 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[What was that on the wall?]",
@@ -262,6 +302,7 @@
     "zh_trans": "[墙上那是什么？]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -272,6 +313,7 @@
     "zh_trans": "[那是……血？……]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -282,6 +324,7 @@
     "zh_trans": "[我有一种不好的预感，小心点]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -292,8 +335,10 @@
     "zh_trans": "防守 < 10 > 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[...Don't move.]",
@@ -301,6 +346,7 @@
     "zh_trans": "[...别动]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -311,6 +357,7 @@
     "zh_trans": "[..呆在这...]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -321,6 +368,7 @@
     "zh_trans": "[我草, 有东西在我们后边!]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -331,6 +379,7 @@
     "zh_trans": "[跑！跟着他妈的光源走！我们现在无处可藏！]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -341,6 +390,7 @@
     "zh_trans": "[这玩意跑得太快了！快用枪射它！]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -351,6 +401,7 @@
     "zh_trans": "[枪不能杀死它，但能延缓它的行动]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -361,6 +412,7 @@
     "zh_trans": "[躲起来，别让它发现你……]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -371,8 +423,10 @@
     "zh_trans": "< 20 > 秒后障碍物清除",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 10 >",
@@ -380,8 +434,10 @@
     "zh_trans": "< 10 > 秒后障碍物清除",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[Listen to the sound,And pick the right one.]",
@@ -389,6 +445,7 @@
     "zh_trans": "[认真听洞口的声音，并选择正确的一个]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -399,6 +456,7 @@
     "zh_trans": "[这是唯一的办法]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -409,6 +467,7 @@
     "zh_trans": "[这些房子……都是假的，都是模型……]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -419,6 +478,7 @@
     "zh_trans": "[这里有一个真正的房屋，去找到它]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -429,8 +489,10 @@
     "zh_trans": "< 30 > 秒后障碍物清除",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[We found the real house.]",
@@ -438,6 +500,7 @@
     "zh_trans": "[我们找到真正的房屋了]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -448,6 +511,7 @@
     "zh_trans": "[需要点时间来打开它]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -458,6 +522,7 @@
     "zh_trans": "|剥皮者的声音？|: 但你必须听我说，陌生人！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -468,6 +533,7 @@
     "zh_trans": "|剥皮者的声音？|: 快跑，逃命去吧！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -478,6 +544,7 @@
     "zh_trans": "|对讲机|: 欢迎回来",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -488,6 +555,7 @@
     "zh_trans": "|对讲机|: 很高兴你还活着",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -498,6 +566,7 @@
     "zh_trans": "启用 \"噩梦模式！\"。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -508,6 +577,7 @@
     "zh_trans": "恭喜你，您通关了测试版本。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -518,6 +588,7 @@
     "zh_trans": "我会奖励你们玩 2 次 LEVEL!小游戏。B)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -528,6 +599,7 @@
     "zh_trans": "之后将启动噩梦模式。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -538,6 +610,7 @@
     "zh_trans": "|剥皮者？|: 这是一份礼物",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -548,6 +621,7 @@
     "zh_trans": "|剥皮者？|: 给我们友好的客人.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -558,6 +632,7 @@
     "zh_trans": "|剥皮者？|: 放轻松，让我们一起见证...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -568,6 +643,7 @@
     "zh_trans": "|剥皮者？|: 你的新生.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -578,6 +654,7 @@
     "zh_trans": "|剥皮者的声音？|: 我知道我现在不能通过这个......",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -588,6 +665,7 @@
     "zh_trans": "管理员已关闭 噩梦模式",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -598,6 +676,7 @@
     "zh_trans": "全部消灭...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -608,6 +687,7 @@
     "zh_trans": "管理员已开启 噩梦模式",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -618,8 +698,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "> Jumpscare been turnoff in this round. <",
@@ -627,6 +709,7 @@
     "zh_trans": "> 在这一轮中，跳吓元素已被关闭。 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -637,6 +720,7 @@
     "zh_trans": "> lol B). <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -647,8 +731,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "> If the music too loud,Type snd_musicvolume 0 ~ 1 in Console to adjust. <",
@@ -656,6 +742,7 @@
     "zh_trans": "> 如果音乐太大,请在控制台中输入 snd_musicvolume 0 ~ 1 进行调整。<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -666,6 +753,7 @@
     "zh_trans": ">> 您已通关此地图，感谢游玩！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -676,6 +764,7 @@
     "zh_trans": ">> 闪烁红光代表笑魇就在附近,警惕! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -686,8 +775,31 @@
     "zh_trans": ">> 闪烁红光代表笑魇就在附近,警惕! <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "有人抛弃了我",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "你猜是谁？",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
