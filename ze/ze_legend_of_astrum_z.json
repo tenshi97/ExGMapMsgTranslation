@@ -24,7 +24,7 @@
   {
     "original": "<<Inspired by the game: Princess Connect Re:Dive!>>",
     "en_trans": "",
-    "zh_trans": "<<灵感源自游戏：公主连结 Re:Dive！>>",
+    "zh_trans": "<<灵感源自游戏：公主连结！Re:Dive>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2004,7 +2004,7 @@
   {
     "original": "<<Inspired by the game Prinecss Connect Re:Dive!>>",
     "en_trans": "",
-    "zh_trans": "<<灵感源自游戏：公主连结 Re:Dive！>>",
+    "zh_trans": "<<灵感源自游戏：公主连结！Re:Dive>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2021,17 +2021,17 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Re:Dive -- The Legend of Astrum>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<公主连结！Re:Dive -- 阿斯特朗传奇>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
