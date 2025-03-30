@@ -39,9 +39,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "人类弹药已获取",
@@ -57,79 +57,79 @@
   {
     "original": "1/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "2/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "2/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "3/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "3/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "4/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "4/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "5/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "5/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "6/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "6/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "7/7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "7/7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Devices are all collected!!!",
@@ -140,7 +140,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "C4 is going to explode!!!",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "人类风已获取",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸黑洞已获取",
@@ -233,13 +233,13 @@
   {
     "original": "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look",
     "en_trans": "",
-    "zh_trans": "根据我们的直升机坠毁前的雷达显示，附近似乎有一座巨大的建筑物，我们需要去看一看。",
+    "zh_trans": "根据我们的直升机坠毁前的雷达显示，附近似乎有一座巨大的建筑物，我们需要去看一看",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The gate is opening",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "fence is ready to open",
@@ -261,29 +261,29 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "It looks like a church, we need to get in",
     "en_trans": "",
-    "zh_trans": "这看起来这是一座教堂，进去看看。",
+    "zh_trans": "这看起来这是一座教堂，进去看看",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the church gate to open",
     "en_trans": "",
-    "zh_trans": "等待教堂大门打开。",
+    "zh_trans": "等待教堂大门打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "人类火焰已获取",
@@ -332,35 +332,35 @@
   {
     "original": "try to give life to crystals to activate it",
     "en_trans": "",
-    "zh_trans": "尝试赋予水晶生命力以激活它。",
+    "zh_trans": "尝试赋予水晶生命力以激活它",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Crystal has been activated, wait for it to function",
     "en_trans": "",
-    "zh_trans": "水晶已被激活，等它生效。",
+    "zh_trans": "水晶已被激活，等它生效",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Portal is now open",
     "en_trans": "",
-    "zh_trans": "传送门现在已打开。",
+    "zh_trans": "传送门现在已打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "defend until entrance opens",
@@ -371,12 +371,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the crystal to fall",
     "en_trans": "",
-    "zh_trans": "等待水晶掉落。",
+    "zh_trans": "等待水晶掉落",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,24 +387,24 @@
   {
     "original": "Wait for the iron fence to open",
     "en_trans": "",
-    "zh_trans": "等待铁栅栏打开。",
+    "zh_trans": "等待铁栅栏打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "trigger the crystal to activate portal",
     "en_trans": "",
-    "zh_trans": "触发水晶以激活传送门。",
+    "zh_trans": "触发水晶以激活传送门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Left Side",
@@ -413,9 +413,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Gate is opening",
@@ -431,13 +431,13 @@
   {
     "original": "Teleport is activated",
     "en_trans": "",
-    "zh_trans": "传送已激活。",
+    "zh_trans": "传送已激活",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Portal is open",
@@ -536,7 +536,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "power overwilling !!!",
@@ -651,13 +651,13 @@
   {
     "original": "Wait for the path to open",
     "en_trans": "",
-    "zh_trans": "等待道路打开。",
+    "zh_trans": "等待道路打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Zombie_Heal is picked!",
@@ -717,7 +717,7 @@
   {
     "original": "Zombie_Dark is picked!",
     "en_trans": "",
-    "zh_trans": "僵尸黑已获取",
+    "zh_trans": "僵尸黑洞已获取",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,13 +728,13 @@
   {
     "original": "Wait for the path to extend",
     "en_trans": "",
-    "zh_trans": "等待道路延伸。",
+    "zh_trans": "等待道路延伸",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Arbitration has arrived!",
@@ -761,24 +761,24 @@
   {
     "original": "Wait for the slate to move",
     "en_trans": "",
-    "zh_trans": "等待石板移动。",
+    "zh_trans": "等待石板移动",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the slate to rise",
     "en_trans": "",
-    "zh_trans": "等待石板升起。",
+    "zh_trans": "等待石板升起",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*stage set to 2*",
@@ -794,13 +794,13 @@
   {
     "original": "Find the mechanism to open the slate below",
     "en_trans": "",
-    "zh_trans": "找到打开下面石板的机关。",
+    "zh_trans": "找到并打开下面石板的机关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The slate is opening",
@@ -811,7 +811,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Get in now! The slate is going to close!",
@@ -822,7 +822,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "C4 is going to explode [5 sec] !!!",
@@ -877,7 +877,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "We fall into an underground cave?",
@@ -888,7 +888,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "need time to open this gate [35 sec]",
@@ -926,24 +926,24 @@
   {
     "original": "What's this place? Weird magic teleport us to here",
     "en_trans": "",
-    "zh_trans": "这是什么地方？奇怪的魔法把我们传送到了这里。",
+    "zh_trans": "这是什么地方？奇怪的魔法把我们传送到了这里",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "It seems to need a key,Maybe we should look around",
     "en_trans": "",
-    "zh_trans": "似乎需要一把钥匙，也许我们应该四处找找。",
+    "zh_trans": "似乎需要一把钥匙，也许我们应该四处找找",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "need time to open this gate [20 sec]",
@@ -965,7 +965,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "We need to spend some time to dismantle this iron gate [15 sec]",
@@ -981,24 +981,24 @@
   {
     "original": "This corpse has a C4,Use it to destroy the stone below",
     "en_trans": "",
-    "zh_trans": "这具尸体上有C4，用它来炸毁下面的石头。",
+    "zh_trans": "这具尸体上有C4，用它来炸毁下面的石头",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "set C4 to destroy the rock",
     "en_trans": "",
-    "zh_trans": "用C4炸毁岩石。",
+    "zh_trans": "用C4炸毁岩石",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "need time to open this gate [24 sec]",
@@ -1029,9 +1029,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "It needs some time [18 sec]",
@@ -1047,13 +1047,13 @@
   {
     "original": "Path is clear, time to move",
     "en_trans": "",
-    "zh_trans": "道路畅通，是时候前进了。",
+    "zh_trans": "道路畅通，是时候前进了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "a locked gate, destroy it !",
@@ -1064,18 +1064,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "It seems like a altar,need something to active it",
     "en_trans": "",
-    "zh_trans": "这看起来像一个祭坛，需要一些东西来激活它。",
+    "zh_trans": "这看起来像一个祭坛，需要一些东西来激活它",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "We don't have enough items to active this altar! [40 sec]",
@@ -1128,20 +1128,20 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "the middle way is blocked,destroy the iron fence",
     "en_trans": "",
-    "zh_trans": "中间的路被堵住了，摧毁铁栅栏。",
+    "zh_trans": "中间的路被堵住了，摧毁旁边的铁门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the gate to open [23 sec]",
@@ -1262,7 +1262,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Crystal has been activated, wait for it to function [16 sec]",
@@ -1304,9 +1304,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Wait for the iron fence to open [30 sec]",
@@ -1350,7 +1350,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "wait for the path to clear [22 sec]",
@@ -1372,7 +1372,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the gate to fall [30 sec]",
@@ -1388,13 +1388,13 @@
   {
     "original": "Find crystal to remove the barrier of the gate",
     "en_trans": "",
-    "zh_trans": "寻找水晶来清除障碍（左边两个，右边两个）",
+    "zh_trans": "寻找水晶来清除障碍（左右两边各两个）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Wait for the barrier to disappear [30 sec]",
@@ -1448,8 +1448,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "She disappeared, we need to leave this place now [37 sec]!!!",
