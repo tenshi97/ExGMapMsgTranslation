@@ -24,7 +24,7 @@
   {
     "original": "<<Inspired by the game: Princess Connect Re:Dive!>>",
     "en_trans": "",
-    "zh_trans": "<<灵感源自游戏：公主连结 Re:Dive！>>",
+    "zh_trans": "<<灵感源自游戏：公主连结！Re:Dive>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -941,25 +941,25 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<Stage 2 - The False Princess>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<第2章 - 伪装的公主>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Crates are blocking the way! Hold 20 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 木箱挡住了去路！坚守 20 秒。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -970,7 +970,7 @@
   {
     "original": "** 5 seconds left. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 剩余 5 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -981,18 +981,18 @@
   {
     "original": "** Its broken. Let us proceed. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 障碍已清除，继续前进！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We gotta break these planks! Give us 30 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这些木板必须破坏！需要 30 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "** 15 more seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,95 +1014,95 @@
   {
     "original": "** It is broken! Let's keep going. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 好了！继续前进吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Wait. There is no way out! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等等。没有退路了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** We are also surrounded! We have to hold on! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们被包围了！必须死守防线！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** There are too many! Is this going to be the end? **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 数量太多了！难道要到此为止了吗？**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: Seems like you need some help over there.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 看来需要帮忙呢",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: Im opening a portal over there. Hold on a little bit longer!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 正在开启传送门，再坚持一下！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: It's open! Get out of there!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 打开了！快撤！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** That was way too close. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 千钧一发...**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Let us rest for 10 seconds. There were way too many monsters inside. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 原地休整 10 秒。刚才的魔物潮太密集了。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1113,40 +1113,40 @@
   {
     "original": "<Pecorine>: Wait. Where is Kyaru?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>：等等，凯露去哪了？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: We got to find her!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>：必须找到她！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: Enough resting! We have got to find her!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 没时间休息了！快去找人！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The door is stuck. Hold on for 30 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门卡住了，坚守 30 秒。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,7 +1157,7 @@
   {
     "original": "** 15 more seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 15 秒。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1168,7 +1168,7 @@
   {
     "original": "** 5 more seconds. Get ready to push forward. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒！准备突入！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,18 +1179,18 @@
   {
     "original": "** It's open! Let's move forward! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门开了！继续前进！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Door will unlock in 20 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门将在 20 秒后解锁！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "** 10 seconds left. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 剩余 10 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "** Let us wait for the others. We will close the door in 25 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 等待队友， 25 秒后关门。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1223,7 +1223,7 @@
   {
     "original": "** The door is closing in 20 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 20 秒后关闭。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1234,7 +1234,7 @@
   {
     "original": "** The door is closing in 10 seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 10 秒后关闭。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1245,7 +1245,7 @@
   {
     "original": "** 5 more seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 5 秒。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1256,106 +1256,106 @@
   {
     "original": "** The door is closing! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 正在关门！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: Wait. It's Kyaru over there at the cage!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 看！凯露被关在牢笼里了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: Damn it. We can't just go over there. We have to go a different route.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 可恶...这样根本过不去啊！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: But all of the ways over there are blocked!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 可是所有路都被封死了！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: I think I can help with that. But I think this is the last of the portals I can make.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 我或许能帮忙，但这是最后一次开启传送门了。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: Wait the doors being forced open by monsters!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 魔物在强行突破大门！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: Whoever is helping us we need the portal open!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 不管是谁在帮忙，快开传送门！（贴着窗户才能传送）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: It's open!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 传送门打开了！快进来！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kokkoro>: They have managed to follow us over the portal! Keep them from advancing!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 魔物跟过来了！阻止它们前进！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The door will open in 25 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门 25 秒后开启！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "** 15 more seconds! Keep them at bay for a little longer! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 15 秒！坚持住！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1377,18 +1377,18 @@
   {
     "original": "** It's open! Lets keep going towards her! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门开了！继续向凯露所在的方向前进！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 10 more seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 10 秒！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,18 +1399,18 @@
   {
     "original": "** It's open! It's a straight path to Kyaru! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 道路畅通！能直接到凯露那边了！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: I'm breaking her out! Give me 30 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 我来破坏牢笼！需要 30 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,7 +1421,7 @@
   {
     "original": "** 20 more seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 还剩 20 秒。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1432,7 +1432,7 @@
   {
     "original": "** 10 more seconds. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后 10 秒。 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1443,150 +1443,150 @@
   {
     "original": "<???>: Seems like you have fallen for my trap.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 看来你们中计了呢。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: You really do care about Kyaru you guys do you...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 这么在意凯露...真是感人的羁绊啊。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<???>: She really does like being in your little guild.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<???>: 她似乎很享受在你们公会的生活？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: Kaiser Insight... The one that stole my title.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 覇瞳皇帝...篡夺我称号之人。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Ah. The Princess that has been forgotten by all.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 呵...被所有人遗忘的公主殿下。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: How was the experience? Was it painful?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 失去一切的滋味如何？很痛苦吧？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: No matter. It is time for you and your guildmates to perish.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 不过无所谓了，你们都将死在这里。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Don't worry about Kyaru. She will be watching you all die.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 不必担心凯露，她会亲眼看着你们死去。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: This is her punishment after all for not following me.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 这就是违抗我的惩罚。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Time to die.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 受死吧。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SURVIVE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 活下来！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Pecorine>: We can't give up now! We have to survive!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 现在放弃还太早了！活下去！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kokkoro>: We got seperated! We have to find each other!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 我们被冲散了！要尽快汇合！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: Hey. I think I can help from here. Although you have to survive for 50 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 听得到吗？我这边能提供支援...但你们要撑过 50 秒。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1597,62 +1597,62 @@
   {
     "original": "<Pecorine>: Kyaru! Where are you?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<佩可莉姆>: 凯露！你在哪？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: Just survive. I'm in Kaiser's space and with my connection I can open a path.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 专心防守！我在霸瞳的领域里，正在构筑通道。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: I'm still gathering the power to open it.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 等我积蓄够力量就能打开通路。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: After I open the path. It's up to the new guildmembers. I have chosen a new path with you guys.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 通道开启后...就交给大家吧...我已选择与你们同行。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: Defeat Kaiser. For me. For Pecorine.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 击败霸瞳...为了我，也为了佩可。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: 30 more seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 还剩 30 秒。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1663,7 +1663,7 @@
   {
     "original": "<Kyaru>: 20 more seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 还剩 20 秒。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1674,7 +1674,7 @@
   {
     "original": "<Kyaru>: 10 more seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 最后 10 秒。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1685,7 +1685,7 @@
   {
     "original": "<Kyaru>: 5.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 5",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1696,7 +1696,7 @@
   {
     "original": "<Kyaru>: 4.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 4",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1707,7 +1707,7 @@
   {
     "original": "<Kyaru>: 3.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 3",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1718,7 +1718,7 @@
   {
     "original": "<Kyaru>: 2.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 2",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1729,7 +1729,7 @@
   {
     "original": "<Kyaru>: 1.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 1",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1740,62 +1740,62 @@
   {
     "original": "<Kyaru>: It's open. The path to Kaiser has been open. Defeat Kaiser. So that I am free.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 道路已打开，击溃霸瞳我就自由了。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Seems like you made it with the help of Kyaru.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 居然借助凯露的力量来到这里。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: After I'm done with you all. She will get a very hefty punishment.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 解决你们之后...我会好好“奖励”她的背叛。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Now.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 来吧。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Mana Senri - The Omniscient Kaiser>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<千里真那 - 霸瞳皇帝>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<You have 75 seconds to weaken Kaiser before they casts their Union Burst and kill everyone!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<在 75 秒内削弱霸瞳，阻止她释放连结爆发，否则她会杀掉所有人！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1806,106 +1806,106 @@
   {
     "original": "<Kaiser>: Time to get a little bit more serious...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 是时候认真一点了...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Rise monsters! Kill these filth.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 苏醒吧眷属们！碾碎这些蝼蚁！（守尸笼）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: Kaiser is weak enough.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 霸瞳弱化了。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: I'm charging an attack. Survive until I can release this attack.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 正在蓄力攻击，坚持到我释放的那一刻。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: Take that!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 接招！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kokkoro>: I will start sealing her right away!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 立即展开封印术式！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: Wait something isn't right yet.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 等等...能量流动不对劲！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kaiser>: Help me monsters! Kill THEM!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 眷属们！给我撕碎他们！（守尸笼）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kyaru>: It's not yet over! Hold them back!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<凯露>: 还没结束！挡住它们！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kokkoro>: 35 more seconds till Kaiser is sealed!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 35 秒后完成封印！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1916,7 +1916,7 @@
   {
     "original": "<Kokkoro>: 25 more seconds till Kaiser is sealed!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 还剩 25 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1927,18 +1927,18 @@
   {
     "original": "<Kaiser>: You monsters are useless! DIE DIE!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 没用的废物！都去死吧！（BOSS方向来高低伤害刀，注意回复血量）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Kokkoro>: 15 more seconds till Kaiser is sealed!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 最后 15 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1949,7 +1949,7 @@
   {
     "original": "<Kokkoro>: 5 more seconds till Kaiser is sealed!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<可可萝>: 5 秒后封印霸瞳！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1960,40 +1960,40 @@
   {
     "original": "<Kaiser>: NOOOOOOOOOOO!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<霸瞳>: 不——————！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Stage 2 Won!>>",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "<<Legend of Astrum>>",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<第2章 攻略完成！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "<<Legend of Astrum>>",
+    "en_trans": "",
+    "zh_trans": "<<阿斯特朗传奇>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<By Pasas1345>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<地图作者 Pasas1345(翻译:星荧铃)>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2004,34 +2004,34 @@
   {
     "original": "<<Inspired by the game Prinecss Connect Re:Dive!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<灵感源自游戏：公主连结！Re:Dive>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Ameth>: Initializing Re:Dive Mode. This is your final challenge...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<爱梅斯>: 正在启动Re:Dive(连关)模式...这是最后的试炼...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<Re:Dive -- The Legend of Astrum>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<公主连结！Re:Dive -- 阿斯特朗传奇>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

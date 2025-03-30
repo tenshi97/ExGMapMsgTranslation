@@ -217,45 +217,45 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** STARTING AT FIRST LEVEL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 从第一关开始！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CURRENT STAGE >> PART 1 >> OSGILIATH **",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前关卡 >> 第一关 >> 奥斯吉力亚斯 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **",
+    "en_trans": "",
+    "zh_trans": "** 回合即将开始 ** 检查您的等级并前往商店获得神器 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 回合已开始 ** 选择一个传送门 ** 20 秒后进行传送 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,18 +266,18 @@
   {
     "original": "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 船来了 ** 做好准备 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** RESIST 25 SECONDS! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 抵抗 25 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,29 +288,29 @@
   {
     "original": "** RETREAT !! RIVER ZONE IS LOST **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退！！河流区域失守了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WATCH OUT! WE ARE UNDER SIEGE **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小心！我们正被围攻 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 保卫奥斯吉力亚斯！我们绝不会不战而退！(30 秒)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,67 +321,67 @@
   {
     "original": "** OSGILIATH IS LOST ** RETREAT ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 奥斯吉力亚斯失守 ** 撤退！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** TAKE THE HORSES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 骑上那些马 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOOR IS OPENING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门正在打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸来了！把门关上！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DOOR IS CLOSED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 门已关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** KILL THE REMAINING ZOMBIES! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 杀死剩余的僵尸！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
