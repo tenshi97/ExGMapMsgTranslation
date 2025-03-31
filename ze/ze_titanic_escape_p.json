@@ -2,11 +2,11 @@
   {
     "original": "**The ship is sinking! You have 5 minutes to get to the surface!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**泰坦尼克号正在下沉! 你只有五分钟的时间逃离！--- 300s **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
+    "timer_num": 300,
     "enable_timer": 1,
     "force_hint": 0
   }
