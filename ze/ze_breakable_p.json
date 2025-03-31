@@ -2,11 +2,12 @@
   {
     "original": ">>>BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE<<<",
     "en_trans": "",
-    "zh_trans": ">>>打破板条箱，爬上板条箱逃离僵尸的魔爪<<<",
+    "zh_trans": ">>>打碎周围的板条箱，爬上板条箱逃离僵尸的魔爪<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>MAP BY LeGrem<<<",
@@ -24,7 +25,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>COVER 30s<<<",
@@ -42,7 +44,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>COVER 35s<<<<",
@@ -60,25 +63,28 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>FIND GREEN LIGHT DOOR<<<<",
     "en_trans": "",
-    "zh_trans": ">>>找到绿灯的门<<<<",
+    "zh_trans": ">>>找到亮着绿灯的门<<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>ZOMBIES PROTECTION ACTIVATED ! HURRY UP<<<",
     "en_trans": "",
-    "zh_trans": ">>>僵尸防御激活！快点<<<",
+    "zh_trans": ">>>僵尸防护系统已启动！快点<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>BREAK THE CORRECT WALLS<<<",
@@ -87,12 +93,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE<<<",
     "en_trans": "",
-    "zh_trans": ">>>打破堵塞柱子或者防守60秒<<<",
+    "zh_trans": ">>>打破挡路的柱子或者防守60秒<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 60,
@@ -105,16 +112,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>SHOOT THE BRIDGE<<<",
     "en_trans": "",
-    "zh_trans": ">>>快射击桥梁<<<",
+    "zh_trans": ">>>快打桥<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>OR COVER 1 MINUTE<<<",
@@ -150,7 +159,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<",
@@ -159,7 +169,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> BRIDGES BROKEN BEFORE THE COUNTDOWN <<",
@@ -168,7 +179,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> ENDING NOW <<",
@@ -177,7 +189,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>TOO MUCH CRATES ARE BROKEN<<<",
@@ -186,7 +199,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>ESCAPE BY THE WATER<<<",
@@ -195,7 +209,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> CT FOLLOW THE ARROW - GO UNDER WATER<<<",
@@ -204,6 +219,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
