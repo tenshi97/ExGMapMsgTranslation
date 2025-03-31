@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> Zombies will teleport in 10 seconds <<<",
@@ -321,7 +321,7 @@
   {
     "original": ">>> YELLOW <<<",
     "en_trans": "",
-    "zh_trans": ">>> 黄（远离中心及四个角落） <<<",
+    "zh_trans": ">>> 黄，X形（去四条边的中间） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": ">>> BLUE <<<",
     "en_trans": "",
-    "zh_trans": ">>> 蓝（去四个角落） <<<",
+    "zh_trans": ">>> 蓝，十字（去四个角落） <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": ">>> Map made by Ripsaw <<<",
     "en_trans": "",
-    "zh_trans": ">>> 地图由 Ripsaw 制作 <<<",
+    "zh_trans": ">>> 地图由 Ripsaw 制作(翻译:星荧铃) <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
