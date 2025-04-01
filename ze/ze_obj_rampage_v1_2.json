@@ -5,8 +5,10 @@
     "zh_trans": "本次行动代号：Rampage",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Good Luck !",
@@ -14,8 +16,10 @@
     "zh_trans": "战士们，武运昌隆！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Special thanks to Zombieden for testing and people who guiding me on anything",
@@ -23,8 +27,10 @@
     "zh_trans": "特别感谢僵尸乐园提供的测试服以及指导我制作这张图的所有人!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Some of the zombie cage has placed portals to teleport between each zombie cage",
@@ -32,8 +38,10 @@
     "zh_trans": "一些尸笼放置了传送点，以便僵尸可以在尸笼间快速切换。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "zombies, take advantage of it!",
@@ -41,8 +49,10 @@
     "zh_trans": "僵尸们，利用传送点冲破人类！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The door opening in 15s",
@@ -50,8 +60,10 @@
     "zh_trans": "大门15秒后打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Objective Rampage",
@@ -59,8 +71,10 @@
     "zh_trans": "代号：Rampage",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Power will be cut off in a few moments",
@@ -68,8 +82,10 @@
     "zh_trans": "电源会在一段时间后被切断",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Power is OFF",
@@ -77,8 +93,10 @@
     "zh_trans": "电源已被切断",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Find a way to turn off the gas",
@@ -86,8 +104,10 @@
     "zh_trans": "想办法关掉蒸汽",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Put the valve on and turn it",
@@ -95,8 +115,10 @@
     "zh_trans": "将阀门放在缺失开关的管道上，并转动阀门。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Gas was turned off..",
@@ -104,8 +126,10 @@
     "zh_trans": "蒸汽已经关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 30 >>>",
@@ -113,8 +137,10 @@
     "zh_trans": "防爆门将在 <<< 30 >>> 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 25 >>>",
@@ -122,8 +148,10 @@
     "zh_trans": "防爆门将在 <<< 25 >>> 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 20 >>>",
@@ -131,8 +159,10 @@
     "zh_trans": "防爆门将在 <<< 20 >>> 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 15 >>>",
@@ -140,8 +170,10 @@
     "zh_trans": "防爆门将在 <<< 15 >>> 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 10 >>>",
@@ -149,8 +181,10 @@
     "zh_trans": "防爆门将在 <<< 10 >>> 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 05 >>>",
@@ -158,8 +192,10 @@
     "zh_trans": "防爆门将在 <<< 05 >>> 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BLAST DOORS <<< 00 >>>",
@@ -167,8 +203,10 @@
     "zh_trans": "防爆门已经打开，撤退！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The doors opening in 30s",
@@ -176,8 +214,10 @@
     "zh_trans": "大门将在25秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Prepare..",
@@ -185,8 +225,10 @@
     "zh_trans": "准备……",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Door is opening",
@@ -194,8 +236,10 @@
     "zh_trans": "大门已经打开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "RUN!!!",
@@ -203,8 +247,10 @@
     "zh_trans": "快撤退！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Get in and keep holding until the door is closed!",
@@ -212,8 +258,10 @@
     "zh_trans": "进去！守到门关！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We need to hack the computer and upload the virus!",
@@ -221,8 +269,10 @@
     "zh_trans": "我们需要黑进电脑并上传病毒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Loading virus ...",
@@ -230,8 +280,10 @@
     "zh_trans": "木马程序 CMAZ.exe 加载中……",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The virus is uploaded ! Defend until complete system corruption",
@@ -239,8 +291,10 @@
     "zh_trans": "病毒已经上传！防守到电脑系统完全损坏！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Defend until virus get uploaded",
@@ -248,8 +302,10 @@
     "zh_trans": "防守到病毒完全上传！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "OMG everything is now fucked up, the laser was enabled !",
@@ -257,8 +313,10 @@
     "zh_trans": "淦，全部东西都他妈的乱了！激光现在开启了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "STAY AWAY FROM THE BEAM !!!",
@@ -266,8 +324,10 @@
     "zh_trans": "远离激光！远离激光！远离激光！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "RUN",
@@ -275,8 +335,10 @@
     "zh_trans": "撤退！撤退！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 30 >>>",
@@ -284,8 +346,10 @@
     "zh_trans": "大门将在 <<< 30 >>> 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 25 >>>",
@@ -293,8 +357,10 @@
     "zh_trans": "大门将在 <<< 25 >>> 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 20 >>>",
@@ -302,8 +368,10 @@
     "zh_trans": "大门将在 <<< 20 >>> 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 15 >>>",
@@ -311,8 +379,10 @@
     "zh_trans": "大门将在 <<< 15 >>> 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 10 >>>",
@@ -320,8 +390,10 @@
     "zh_trans": "大门将在 <<< 10 >>> 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 05 >>>",
@@ -329,8 +401,10 @@
     "zh_trans": "大门将在 <<< 05 >>> 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN <<< 00 >>>",
@@ -338,8 +412,10 @@
     "zh_trans": "门开了！进门！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "GET ON THE ELEVATOR",
@@ -347,8 +423,10 @@
     "zh_trans": "快上电梯！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Find a way to get into the room!",
@@ -356,8 +434,10 @@
     "zh_trans": "想办法进入房间！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We need to turn on the light power..",
@@ -365,8 +445,10 @@
     "zh_trans": "我们需要打开灯光电源……",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Stay inside the room until the zombies outside get teleport!",
@@ -374,8 +456,10 @@
     "zh_trans": "呆在里面，防守到外面的僵尸传送！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Climb up the boxes after activated the detonator !",
@@ -383,8 +467,10 @@
     "zh_trans": "激活雷管后爬上箱子防守",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Keep holding until zombies get teleport!",
@@ -392,8 +478,10 @@
     "zh_trans": "坚持住各位！守到僵尸传送！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Break the laser power switch!",
@@ -401,8 +489,10 @@
     "zh_trans": "快破坏激光的开关！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Watch out!",
@@ -410,8 +500,10 @@
     "zh_trans": "小心！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Get inside !",
@@ -419,8 +511,10 @@
     "zh_trans": "快进去！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Place the c4 to break the wall!",
@@ -428,8 +522,10 @@
     "zh_trans": "在墙上安装炸弹！用炸弹把这墙给炸开！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "C4 has been planted",
@@ -437,8 +533,10 @@
     "zh_trans": "炸弹已经安放。92秒后爆炸",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 92,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Rampage Level",
@@ -446,8 +544,10 @@
     "zh_trans": "冲突等级升级!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "DEFEND 70 SECONDS",
@@ -455,8 +555,10 @@
     "zh_trans": "防守 70 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 70,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DEFEND 40 SECONDS",
@@ -464,8 +566,10 @@
     "zh_trans": "防守 40 秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I cannot stop this sickness taking over",
@@ -473,8 +577,10 @@
     "zh_trans": "我无法阻止疾病肆虐 [I cannot stop this sickness taking over] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "It takes control and drags me into nowhere",
@@ -482,8 +588,10 @@
     "zh_trans": "它支配了我并将我沉入荒无人烟之地 [It takes control and drags me into nowhere] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I need your help, I can't fight this forever",
@@ -491,8 +599,10 @@
     "zh_trans": "我需要你伸出援手 我永远无法孤军奋战 [I need your help, I can't fight this forever] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I know you're watching",
@@ -500,8 +610,10 @@
     "zh_trans": "我知道你在注视着我 [I know you're watching] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I can feel you out there",
@@ -509,8 +621,10 @@
     "zh_trans": "我能感觉到你就在附近 [I can feel you out there] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Take me high and I'll sing",
@@ -518,8 +632,10 @@
     "zh_trans": "带我高飞 我将引吭高歌 [Take me high and I'll sing] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Prepare for your LAST FIGHT",
@@ -527,8 +643,10 @@
     "zh_trans": "准备……背水一战！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Oh you make everything okay (okay, okay)",
@@ -536,8 +654,10 @@
     "zh_trans": "你会让一切安然无恙 [Oh you make everything okay (okay, okay)] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Trigger the BOMB and wait for helipoter to bring us out of this island !",
@@ -545,8 +665,10 @@
     "zh_trans": "启动炸弹，并坚守到直升机将我们带离这座小岛！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We are one in the same",
@@ -554,8 +676,10 @@
     "zh_trans": "我们本就是同样的人 [We are one in the same] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Oh you take all of the pain away (away, away)",
@@ -563,8 +687,10 @@
     "zh_trans": "你抹去我的所有苦痛 [Oh you take all of the pain away (away, away)] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Save me if I become",
@@ -572,8 +698,10 @@
     "zh_trans": "请拯救我，若我沦为……[Save me if I become] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "My demons",
@@ -581,8 +709,10 @@
     "zh_trans": " 我的恶魔 [My demons] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Oh you make everything okay",
@@ -590,8 +720,10 @@
     "zh_trans": "你会让一切安然无恙 [Oh you make everything okay] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Oh you take all of the pain away",
@@ -599,8 +731,10 @@
     "zh_trans": "你抹去我的所有苦痛 [Oh you take all of the pain away] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "GET ON THE HELICOPTER",
@@ -608,8 +742,10 @@
     "zh_trans": "快上直升机！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map by Trazix",
@@ -617,8 +753,10 @@
     "zh_trans": "地图制作：Trazix",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Take me over the walls below",
@@ -626,8 +764,10 @@
     "zh_trans": "带我飞过脚下的所有阻碍吧 [Take me over the walls below] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Ported by TuPu",
@@ -635,8 +775,10 @@
     "zh_trans": "移植：TuPu",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Fly forever",
@@ -644,8 +786,10 @@
     "zh_trans": "永远翱翔于天际 [Fly forever] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Don't let me go",
@@ -653,8 +797,10 @@
     "zh_trans": "不要让我离你而去 [Don't let me go] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "I need a savior to heal my pain",
@@ -662,8 +808,10 @@
     "zh_trans": "我需要救世主来抚慰我的痛楚 [I need a savior to heal my pain] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "When I become my worst enemy",
@@ -671,8 +819,10 @@
     "zh_trans": "当我成为自己最危险的敌人时 [When I become my worst enemy] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The enemy",
@@ -680,8 +830,10 @@
     "zh_trans": "危险的敌人 [The enemy] ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "To be continute...",
@@ -689,8 +841,10 @@
     "zh_trans": "未完待续。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "地图禁止恶意使用地图bug 次元斩\"，违者视情况惩",
@@ -698,8 +852,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "地图禁止恶意使用地图bug 次元斩违者视情况惩罚",
@@ -707,7 +863,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "《卖入了吗？难以置信。》",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
