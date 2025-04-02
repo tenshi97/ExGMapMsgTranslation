@@ -35,7 +35,7 @@
   {
     "original": "[S2ZE] 20 Seconds Defend!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[S2ZE] 守 20 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,34 +46,34 @@
   {
     "original": "[S2ZE] To climb up, you can go through ladder or rocks.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[S2ZE] 你可以通过梯子或岩石爬上去。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[S2ZE] Fall Back!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[S2ZE] 撤退！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[S2ZE] Once the door opens, watch out for the chasm.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[S2ZE] 门开后，要小心那个坑。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
