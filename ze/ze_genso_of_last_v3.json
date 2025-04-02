@@ -886,7 +886,7 @@
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
-		"timer_num": 0,
+		"timer_num": 190,
 		"enable_timer": 0,
 		"force_hint": 0
 	},
@@ -919,9 +919,9 @@
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
-		"timer_num": 5,
-		"enable_timer": 1,
-		"force_hint": 0
+		"timer_num": 0,
+		"enable_timer": 0,
+		"force_hint": 1
 	},
 	{
 		"original": "*** Wind ***",
@@ -930,9 +930,9 @@
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",
-		"timer_num": 5,
-		"enable_timer": 1,
-		"force_hint": 0
+		"timer_num": 0,
+		"enable_timer": 0,
+		"force_hint": 1
 	},
 	{
 		"original": "*** Double Hand Stomp ***",
