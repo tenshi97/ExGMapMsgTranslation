@@ -2,7 +2,7 @@
   {
     "original": "++ Ze Temple Escape ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ Ze Temple Escape - 神庙逃亡 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "++ Map by Matias-TM ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 地图作者 Matias-TM(翻译:星荧铃) ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "++ Ported to CS:GO by Matias-TM ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 由 Matias-TM 移植至 CS:GO ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "++ Torch prefab by Fibbs ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 火炬模型由 Fibbs 制作 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "++ Modified textures by Matias-TM ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 由 Matias-TM 改进材质 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "++ Crates breaks in 30 seconds ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 箱子将在 30 秒后破碎 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "++ 5 seconds left! ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 还剩 5 秒！ ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,18 +79,18 @@
   {
     "original": "++ Fall back! ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 撤退！++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "++ Wall breaks in 60 seconds ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 墙壁将在 60 秒后破裂 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "++ C4 explodes in 30 seconds ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ C4 将在 30 秒后爆炸 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "++ Tram leaves in 60 seconds ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 缆车将在 60 秒后离开（爆炸） ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,18 +123,18 @@
   {
     "original": "++ The tram is broken! ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 缆车炸了! ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "++ Wall breaks in 5 seconds! ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 墙壁 5 秒后破裂！++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "++ Floors breaks in 30 seconds ++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++ 地板将在 30 秒后破裂 ++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

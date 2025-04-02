@@ -2,29 +2,29 @@
   {
     "original": "Move upstairs to avoid the flames!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "上楼避开火焰！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Activate the emergency power controller!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "启动应急电源控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Please hold on for 30 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "请坚持 30 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "Please hold on for 20 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "请坚持 20 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "Please hold on for 10 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "请坚持 10 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,6 +57,28 @@
   {
     "original": "The elevator is working again!",
     "en_trans": "",
+    "zh_trans": "电梯又能运行了！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "Warning!Zombie reinforcements have arrived!",
+    "en_trans": "",
+    "zh_trans": "警告！僵尸增援部队已经到达！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "Activate the firewall controller!",
+    "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
@@ -66,7 +88,73 @@
     "force_hint": 0
   },
   {
-    "original": "Warning!Zombie reinforcements have arrived!",
+    "original": "Wait until the firewall is open!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "The firewall will open in 5 seconds...",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "The firewall will open in 4 seconds...",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 4,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "The firewall will open in 3 seconds...",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "The firewall will open in 2 seconds...",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "The firewall will open in 1 seconds...",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "The gate to the next area has opened!",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
