@@ -74,34 +74,34 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Activate the firewall controller!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "激活防火墙控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait until the firewall is open!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "等到防火墙打开！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The firewall will open in 5 seconds...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防火墙将在 5 秒后打开...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "The firewall will open in 4 seconds...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防火墙将在 4 秒后打开...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "The firewall will open in 3 seconds...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防火墙将在 3 秒后打开...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "The firewall will open in 2 seconds...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防火墙将在 2 秒后打开...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "The firewall will open in 1 seconds...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "防火墙将在 1 秒后打开...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,12 +156,12 @@
   {
     "original": "The gate to the next area has opened!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "通往下一个区域的大门已经打开！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
