@@ -2,7 +2,7 @@
   {
     "original": "*** Lift 3 is leaving in 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 三号电梯将在 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "***Appartment lift is opening in 20 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***公寓电梯将在 20 秒后开启！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,18 +24,18 @@
   {
     "original": "***Keep Zombies outside!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***把僵尸挡在外面！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Appartment lift is opening in 10 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***公寓电梯将在 10 秒后开启！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "***Appartment lift is opening in 5 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***公寓电梯将在 5 秒后开启！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,18 +57,18 @@
   {
     "original": "***Appartment lift is open! Press the button to activate it!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***公寓电梯已开启！按下按钮启动！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Lift is leaving in 5 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***电梯将在 5 秒后离开！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,18 +79,18 @@
   {
     "original": "***Goto the cargo door***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***前往货舱门***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Cargo door is opening in 15 seconds. HOLD!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***货舱门将在 15 秒后开启。坚持住！！！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,62 +101,62 @@
   {
     "original": "***GO! The door is opening!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***快走！舱门正在开启！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Make your way to the cockpit and start the engines!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***快去驾驶舱启动飞机！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Defend the top floor!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***死守甲板！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Keep Zombies in the cargo!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***别让僵尸突破货舱！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Start the engine by pressing the button!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***按下按钮启动引擎！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Hold the cockpit for 30s!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守驾驶舱 30 秒！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,18 +167,18 @@
   {
     "original": "***Keep defending the top floor !***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***继续守住这里！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Cockpit door closing in 15s***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***驾驶舱门将在 15 秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "***Cockpit & Cargo door closing in 5s***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***驾驶舱与货舱门将在 5 秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "***Hold the cave for 30 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***死守洞穴 30 秒！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,18 +211,18 @@
   {
     "original": "***Don't let the zombies come inside or we're doomed!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***别让僵尸进来，否则我们就完蛋了！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Hold the cave for 15 seconds!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***坚守洞穴 15 秒！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "***...4...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***...4...***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "***...3...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***...3...***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "***...2...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***...2...***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "***...1...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***...1...***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,95 +277,95 @@
   {
     "original": "***Ruuuuun!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***跑啊啊啊！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Keep zombies on a distance! Shoot between the bars!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**与僵尸保持距离！透过栏杆射击！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Arc door 4 opening!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**四号方舟门开启！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Only a few persons can pass to break what is jamming the gears!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**只有少数人能通过去破坏卡住齿轮的障碍物！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Stay fucking defending untill the gears are broken!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**继续守到齿轮修复！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Don't let zombies break the bars!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***别让僵尸摧毁栏杆！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Cross the metal ropes!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***穿过钢索！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Stay fucking defending untill you are told to run in !***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**继续守！直到我们收到撤退指令！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**You got 60 Damn seconds to close the arkdoor!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**你们只剩 60 秒关闭方舟门！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,34 +376,34 @@
   {
     "original": "***RUN into the ark! Hurry!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***上方舟！快！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Go close the ark! Hurry!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***关闭方舟门！快！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[Ark door is closing!]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[方舟门正在关闭！]",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

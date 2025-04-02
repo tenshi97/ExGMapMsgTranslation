@@ -2,7 +2,7 @@
   {
     "original": "MAP BY FRENCHY",
     "en_trans": "",
-    "zh_trans": "地图作者 FRENCHY",
+    "zh_trans": "地图作者 FRENCHY(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -17,9 +17,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Blackwater main gates will open in 60 sec",
@@ -402,9 +402,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[STAGE 2 LABORATORY OF BLACKWATER]",
@@ -413,9 +413,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Finally we got into the lab, now we need to power it up",
@@ -952,9 +952,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[STAGE 3 SEWERAGE OF BLACKWATER]",

@@ -2,18 +2,18 @@
   {
     "original": "**The ship is sinking! You have 5 minutes to get to the surface!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 泰坦尼克号正在下沉! 你只有五分钟的时间撤离！--- 300s **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
+    "timer_num": 300,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "**Map created by DoomsKnight and Mousey. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**地图作者：DoomsKnight&Mousey. **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,73 +24,73 @@
   {
     "original": "**Security gate closing in 5 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 安全门将在5秒后关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Elevator 2 is leaving in 5 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 二号电梯将在5秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Main elevator is leaving in 15 seconds!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 主电梯将在15秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Elevator 1 is leaving in 5 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 一号电梯将在5秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Main elevator is leaving in 5 seconds!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 主电梯将在5秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Lasers will be de-activated in 20 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这些激光将在20秒后停用 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Final Door will open in 60 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后的大门将在60秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,18 +101,18 @@
   {
     "original": "**Main elevator's second doors now unlocked**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 主电梯的第二道门现已解锁 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Final Door will open in 30 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后的大门将在30秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "**Final Door will open unlock in 5 seconds**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后的大门将在5秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,40 +134,40 @@
   {
     "original": "**The boats will leave in 2 minutes!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小船还有120秒后离开! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "**Zombies have reached the glass doors!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸已经接近玻璃门了！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The boats will leave in 1 minute!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小船还有60秒后离开! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "**The boats will leave in 30 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小船还有30秒后离开! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "**The boats will leave in 10 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小船还有10秒后离开! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "**The boats have left!!!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小船已离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "**Tested by FlamedSoul. Oszy. Xblade. Sonic. RmX. BHK. Born2Die and Scarface.**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 本图由FlamedSoul. Oszy. Xblade. Sonic. RmX. BHK. Born2Die. Scarface参与测试 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

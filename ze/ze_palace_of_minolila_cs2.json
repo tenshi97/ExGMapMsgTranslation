@@ -35,7 +35,7 @@
   {
     "original": "<< Map by Misaka >>",
     "en_trans": "",
-    "zh_trans": "<< 地图作者；Misaka >>",
+    "zh_trans": "<< 地图作者；Misaka >>（汉化：水木、） ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "### Dr.X: I never think that you can survive from that ruin ###",
     "en_trans": "",
-    "zh_trans": "### X博士: 我从没想过你能从那片废墟里幸存下来 ###",
+    "zh_trans": "### X博士: 我从没想过你们能从那片废墟里幸存下来 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": "### Minolila: I've already prepared the teleporter for you, Good Luck! ###",
     "en_trans": "",
-    "zh_trans": "### 米诺莉拉：我已经为你准备好了传送器，祝你好运！ ###",
+    "zh_trans": "### 米诺莉拉：我已经为你们准备好了传送器，祝你好运！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,7 +871,7 @@
   {
     "original": "### ???: You must be the team who survived from the ruin of black stone ###",
     "en_trans": "",
-    "zh_trans": "### ???: 你一定是从黑石废墟里幸存下来的人吧 ###",
+    "zh_trans": "### ???: 你们一定是从黑石废墟里幸存下来的人吧 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -893,7 +893,7 @@
   {
     "original": "### ???: My name is MINOLILA. the mayor that you want to arrest is my father ###",
     "en_trans": "",
-    "zh_trans": "### ???: 我的名字是米诺莉拉。你们要逮捕的市长是我父亲 ###",
+    "zh_trans": "### ???: 我的名字是米诺莉拉，你们要逮捕的市长是我父亲 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,7 +959,7 @@
   {
     "original": "### Minolila: However, I do not know how many power you have ###",
     "en_trans": "",
-    "zh_trans": "### 米诺莉拉: 但我不知道你有没有能力做好这件事 ###",
+    "zh_trans": "### 米诺莉拉: 但我不知道你们有没有能力做好这件事 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,7 +1047,7 @@
   {
     "original": "### Minolila: You are stronger than I thought ###",
     "en_trans": "",
-    "zh_trans": "### 米诺莉拉: 你比我想象的更强 ###",
+    "zh_trans": "### 米诺莉拉: 你们比我想象的更强 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,7 +1080,7 @@
   {
     "original": "### Minolila: I still can not believe you ###",
     "en_trans": "",
-    "zh_trans": "### 米诺莉拉: 我还是不能相信你... ###",
+    "zh_trans": "### 米诺莉拉: 我还是不能相信你们... ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1113,62 +1113,62 @@
   {
     "original": "<< 按钮似乎已经坏了 >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 这个按钮似乎已经坏了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< 当心！不要再继续按了,尝试寻找另一个按钮吧！！>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 当心！不要再按这个按钮了,尝试去寻找另一个按钮吧！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< It seems that this button is broken...... >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 这个按钮似乎已经坏了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Be careful!!! Do not press it again!!! Try to find another button!!!>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 当心！不要再按这个按钮了,尝试去寻找另一个按钮吧！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<现在可以在水下行走了>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 现在可以在水下行走了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hold for 25 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守25秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,7 +1179,7 @@
   {
     "original": "<< Teleporter will activate in 15 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 传送器将在15秒后激活 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1190,29 +1190,29 @@
   {
     "original": "### Dr.X: I didn't expect you to find it here ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士：我从没想过你们能找到这里 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Dr.X: You really want to arrest me? ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士：想逮捕我的怨念已经这么深了吗？ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Dr.X: Fuhahaha, do you think that I am standing here without any protect? ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士：哈哈哈哈，你不会真的以为我就这么站着等着你抓我吧？ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1223,95 +1223,95 @@
   {
     "original": "### Dr.X: Come Out, my MASTERPIECE!!! ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士：出来吧，我的杰作！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Dr.X: I've reformed Tesla for a long time, and now its time to test it ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士：这个特斯拉我已经改造很久了，是时候测试一下他的威力了！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Dr.X: Try more hard, and I hope we can meet again~ ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士：加油吧，希望你们能活着出来！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Boss is activating a crystal >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< boss激活了中间的水晶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Tesla activate a yellow crystal >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 特斯拉召唤了一个黄水晶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Boss is using Aurora Veil >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< boss使用了极光幕 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Boss is using Gravity!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< boss使用了黑洞 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Lava is Rising!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 岩浆正在上升! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Tesla activate a pink crystal >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 特斯拉召唤了一个粉水晶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1322,34 +1322,34 @@
   {
     "original": "<< Be Careful! Zombies are coming! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 小心!僵尸来了！ >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< The temperature is rising!!! Find a way to lower the temperature before we die!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 温度正在上升！在我们扛不住之前想办法让温度降下来! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Tesla activate a blue crystal >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 特斯拉召唤了一个蓝水晶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
