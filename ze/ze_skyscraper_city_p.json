@@ -5,8 +5,10 @@
     "zh_trans": ">>20秒后开门<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Go!<<",
@@ -14,6 +16,7 @@
     "zh_trans": ">>走!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,8 +27,10 @@
     "zh_trans": ">>金属门将在15秒内打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Tram departs in 20 sec<<",
@@ -33,8 +38,10 @@
     "zh_trans": ">>有轨电车将在20秒内启程<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Door open. Run!<<",
@@ -42,6 +49,7 @@
     "zh_trans": ">>门开了。快跑!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -52,8 +60,10 @@
     "zh_trans": ">>火车将在35秒内离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Go open the door!!<<",
@@ -61,6 +71,7 @@
     "zh_trans": ">>去打开门！！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -71,8 +82,10 @@
     "zh_trans": ">>楼梯门将在15秒内打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Door open by zombies<<",
@@ -80,8 +93,20 @@
     "zh_trans": ">> 门被僵尸打开了 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": ">>Door will open in 20 sec or zombies trigger at once<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
