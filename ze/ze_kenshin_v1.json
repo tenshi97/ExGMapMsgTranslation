@@ -7,8 +7,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "等待20s",
@@ -40,8 +40,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "防守5s，注意撤退",
@@ -128,8 +128,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<<防守15s>>>",
@@ -161,8 +161,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>推力已被拾起<<<",
@@ -227,8 +227,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<<防守5s，注意撤退>>>",
@@ -293,8 +293,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<<恢复1/3>>>",
