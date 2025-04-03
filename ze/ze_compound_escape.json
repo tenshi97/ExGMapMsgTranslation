@@ -33,7 +33,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> SHOOT THE GATE <<<",
@@ -42,7 +43,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> SECOND GATE BREAKS IN 20 SECONDS <<<",
@@ -213,7 +215,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "ONE PERSON HAS TO TRIGGER IN THE VENT",
@@ -222,7 +225,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "!!! ZOMBIES TELEPORT IN 30 SECONDS !!!",
