@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Believe it or not this map was once a tutorial and twice a duck! **",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Level: Lemon **",
@@ -24,7 +26,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** This level looks like good old Louisiana: lines and squares all along the little lonely land **",
@@ -33,7 +36,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** GET GOING! Tension has been built in the spawn area! **",
@@ -42,7 +46,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** RESIST! We're pathetically close to the spawn still! **",
@@ -51,7 +56,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** One tiny bit more! We're almost there! **",
@@ -60,7 +66,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Hold right here! There are 4 entrances - take care of them! **",
@@ -68,8 +75,9 @@
     "zh_trans": "** 守住这里！这里有4个入口，守好他们！ **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Keep it up! 10 seconds left! **",
@@ -83,11 +91,12 @@
   {
     "original": "** RESIST! We need to wait for a bit until we fly-fly-fly! **",
     "en_trans": "",
-    "zh_trans": "** 守住！守到我们飘起来！ **",
+    "zh_trans": "** 守住！守到我们飞起来！ **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Hold it a bit more! The magical energy is energy-ny-zing! **",
@@ -96,7 +105,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Last few seconds! HOLD IT! **",
@@ -105,7 +115,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Split hold! Both sides must survive! RESIST! **",
@@ -114,7 +125,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Hold it! Last 10 seconds! **",
@@ -132,7 +144,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Narrow hold! Narrower time! RESIST A LITTLE OR DIE! **",
@@ -141,7 +154,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Get moving! We lost time! MAP IS LONG ENOUGH NOW TO BE DECENT! **",
@@ -150,7 +164,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** One more hold and then the woody poody finale! **",
@@ -159,7 +174,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** I'm quite sure you're wishing you had done something with your life now... **",
@@ -168,7 +184,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THIS IS OUR LAST STAND! RESIST! **",
@@ -177,7 +194,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** GO! The absurdly stupid ending awaits with more absurd holding than ever! **",
@@ -186,7 +204,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THE BRIDGE WILL GO SOON! KEEP IT UP!!! **",
@@ -195,7 +214,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** GET READY! THE LAST WAVE IS INCOMING! **",
@@ -204,7 +224,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** HOLD IT! WE MUST SURVIVE FOR THE LAST BIT! **",
@@ -213,7 +234,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Amazing! You did it!! Let's see how you do on Grape mode! ***",
@@ -222,7 +244,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Level: Grape 2 **",
@@ -231,16 +254,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Type mat_colorcorrection 0 to disable the redness... Oh! - nevermind **",
     "en_trans": "",
-    "zh_trans": "** 输入 mat_colorcorrection 0 关闭光污染... 啊，没事的 **",
+    "zh_trans": "** 无线电菜单(默认按键为Z)里有选项可以关闭瞎眼滤镜 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Level: Grape **",
@@ -249,7 +274,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Shake-shaka-shake-shaka-boom! Grape is a fruit with calcium! **",
@@ -258,7 +284,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Incredible! You managed to clear Grape mode! How about another go? ***",
@@ -267,7 +294,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Bet you didn't expect to see this message! Congratulations for beating Grape 2 mode! Do you dare to keep playing? ***",
@@ -275,8 +303,9 @@
     "zh_trans": "*** 我打赌你一定没想到会看到这条信息！恭喜您成功闯过葡萄 2 模式！你还敢继续玩吗？***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "test",
