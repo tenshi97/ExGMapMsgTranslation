@@ -167,45 +167,45 @@
   {
     "original": "Pass through the hall and move towards the elevator!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "穿过大厅并朝电梯方向前进！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Activate one controller in Area A!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "激活 A 区的一个控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Activate two controllers in Area B!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "激活 B 区的两个控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Activate three controllers in Area C!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "激活 C 区的三个控制器！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
