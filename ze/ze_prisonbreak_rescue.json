@@ -206,28 +206,28 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Find and rescue First Lieutenant Sas!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "找到并营救萨斯中尉！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "First Lieutenant Sas dead...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "萨斯中尉阵亡...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
