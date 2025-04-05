@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***二楼的阀门已触发***",
@@ -63,12 +63,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-25s-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-25s-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "-50s-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-50s-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "...ready to move...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "...准备好行动...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
