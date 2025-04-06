@@ -5,6 +5,7 @@
     "zh_trans": "关卡失败",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": "*** rtv ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": "*** 第三关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,8 +38,20 @@
     "zh_trans": "*** 第一关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "*** LEVEL2 ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
