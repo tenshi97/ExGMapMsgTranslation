@@ -228,67 +228,67 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Escort First Lieutenant Sas!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "护送萨斯中尉！不要让僵尸靠近他！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Move to the helipad now!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "现在前往停机坪！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Call a support helicopter from the rooftop radio facility...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "找到屋顶的无线电设备并呼叫直升机救援...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Hold on until the rescue helicopter arrives!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "坚持住，救援直升机马上就到！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The rescue helicopter has arrived!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "直升机已抵达！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The heilcopter will withdraw in 30 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "直升机将在 30 秒后撤离！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": "The heilcopter will withdraw in 20 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "直升机将在 20 秒后撤离！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "The heilcopter will withdraw in 10 seconds!!MOVE NOW!!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "直升机将在 10 秒后撤离！！要出发了！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,12 +321,12 @@
   {
     "original": "Escape successful!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "逃脱成功！(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
