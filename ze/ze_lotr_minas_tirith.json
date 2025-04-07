@@ -46,7 +46,7 @@
   {
     "original": "** Tip 1 : press +use on pickable objects to build barricades **",
     "en_trans": "",
-    "zh_trans": "** 提示 1：可拾取的物体按“E”键来建造路障，如果不知道怎么用请不要乱用 **",
+    "zh_trans": "** 提示 1：可拾取的物体按“E”键来建造障碍物，如果不知道怎么用请不要乱用 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "** Tip 5 : barricades health depends on the size and material **",
     "en_trans": "",
-    "zh_trans": "** 提示 5：路障的生命值取决于其大小和种类 **",
+    "zh_trans": "** 提示 5：障碍物的生命值取决于其大小和种类 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **",
     "en_trans": "",
-    "zh_trans": "** 提示 9：你可以将路障放置在守卫的后面，以获得最大的功效 **",
+    "zh_trans": "** 提示 9：你可以将障碍物放置在守卫的后面，以获得最大的功效 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -380,102 +380,102 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** STAGE COMPLETED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 关卡完成 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CURRENT STAGE >> PART 2 >> MAIN GATES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前关卡 >> 第二关 >> 米那斯提力斯主城门 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** THIS IS OUT OF CONTROL! RETREAT NOW ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 战况已失控！快撤退！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 兽人已经冲破了我们的防线 ** 撤退 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WATCH OUT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 小心！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 兽人已架设攻城塔 ** 我们失去了城墙的控制权 ** 撤退 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** RETREAT! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 背水一战 ** 战斗至号角信号出现！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 使用障碍物封住大门或坚守 60 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,34 +486,34 @@
   {
     "original": "** DOOR 2 LOCKED **",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "** DOOR 1 LOCKED **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "** DOORS LOCKED **",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 2 号门已关闭 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "** DOOR 1 LOCKED **",
+    "en_trans": "",
+    "zh_trans": "** 1 号门已关闭 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "** DOORS LOCKED **",
+    "en_trans": "",
+    "zh_trans": "** 门都关上了 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]
