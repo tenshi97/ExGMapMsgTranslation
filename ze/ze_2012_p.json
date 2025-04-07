@@ -90,7 +90,7 @@
   {
     "original": "***Cargo door is opening in 15 seconds. HOLD!!!***",
     "en_trans": "",
-    "zh_trans": "***货舱门将在 15 秒后开启。坚持住！！！***",
+    "zh_trans": "***货舱门将在 15 秒后开启，不要站在舱门下方。坚持住！！！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "***Defend the top floor!***",
     "en_trans": "",
-    "zh_trans": "***死守甲板！***",
+    "zh_trans": "***死守飞机！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "**You got 60 Damn seconds to close the arkdoor!",
     "en_trans": "",
-    "zh_trans": "**你们只剩 60 秒关闭方舟门！",
+    "zh_trans": "**海啸正在逼近，你们只剩 60 秒关闭方舟门！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "[Ark door is closing!]",
     "en_trans": "",
-    "zh_trans": "[方舟门正在关闭！]",
+    "zh_trans": "[全图通关！方舟正在关闭，不要靠近大门！(翻译:星荧铃)]",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,56 +409,56 @@
   {
     "original": "*** Lift 2 is leaving in 25 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 二号电梯将在 25 秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Clear whatever is jamming the gears first!]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[先清掉卡住齿轮的东西！]",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Lift 5 is leaving in 20 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 五号电梯将在 20 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Lift 1 is leaving in 20 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 一号电梯将在 20 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Lift 4 is leaving in 25 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 四号电梯将在 25 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
