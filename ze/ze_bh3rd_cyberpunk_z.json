@@ -2,7 +2,7 @@
   {
     "original": "神城医药的最新研究成果已经到手,赶紧撤离!",
     "en_trans": "",
-    "zh_trans": "神城医药的最新研究成果已经到手,赶紧撤离!",
+    "zh_trans": "神城医药的最新研究成果已经到手,赶紧撤离!（倒计时：水木、）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "这波死士清理完毕,赶紧下去!",
     "en_trans": "",
-    "zh_trans": "这波死士清理完毕,赶紧下去 --- tp in 12s",
+    "zh_trans": "这波死士清理完毕,赶紧下去--- tp in 12s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "正在增加电机的输出功率!",
     "en_trans": "",
-    "zh_trans": "正在增加电机的输出功率 --- 14s",
+    "zh_trans": "正在增加电机的输出功率--- 14s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,13 +508,13 @@
   {
     "original": "这波死士清理完毕,小心,又有一波死士从房子里面出来了!",
     "en_trans": "",
-    "zh_trans": "这波死士清理完毕,小心,又有一波死士从房子里面出来了!",
+    "zh_trans": "这波死士清理完毕,小心,又有一波死士从房子里面出来了--- 27秒后僵尸开始最后的自助餐",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 27,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "第三份文件到手!",
