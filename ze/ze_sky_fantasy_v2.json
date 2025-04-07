@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Map by Misaka ---",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Rework by K.KID ---",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< A zombie has picked up ice magic >>",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- STAGE II - NORMAL MODE --",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< A player has picked up holy magic >>",
@@ -294,7 +294,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- 50 --",
@@ -382,7 +382,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- God --",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 10,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Normal Ending ---",
@@ -426,7 +426,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- You are the King of the FANTASY ---",
@@ -437,18 +437,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Map by Misaka, Rework by K.KID ---",
     "en_trans": "",
-    "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（汉化；水木、） ---",
+    "zh_trans": "--- 地图作者；Misaka, 由 K.KID 进行重置（汉化&倒计时:水木、） ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- STAGE EX - ZM --",
@@ -679,7 +679,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- Boss is using ULTIMATE FIRE!!! Use Water or Heal to reduce the damage!!! ---",

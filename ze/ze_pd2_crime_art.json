@@ -2,7 +2,7 @@
   {
     "original": "** MAP MADE BY DARKOGRE AND PATRAO! **",
     "en_trans": "",
-    "zh_trans": "** 本图由DARKOGRE和PATRAO制作（某不知名好心人为你们添加了刷分倒计时(・ω< )★） **",
+    "zh_trans": "** 本图由DARKOGRE和PATRAO制作（汉化&倒计时：水木、） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -15,7 +15,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** DOOR OPENS IN 20 SECONDS **",
@@ -33,7 +33,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** GO TO THE BATHROOM **",
@@ -42,7 +42,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** BATHROOM DOOR OPENS IN 15 SECONDS **",
@@ -60,7 +60,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** Truck leaving in 15 seconds! **",
@@ -78,7 +78,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** Shoot them! **",
@@ -87,7 +87,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** The Elevator will leave in 10 seconds. Don't miss it! **",
@@ -137,7 +137,7 @@
   {
     "original": "** HOLD THE BEDROOM **",
     "en_trans": "",
-    "zh_trans": "** 卧室的门25秒后关闭（你最好保证有人在里面正常触发） **",
+    "zh_trans": "** 卧室的门25秒后关闭（僵尸若发现没人触发请!ztele从主路破点） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -150,7 +150,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **",
@@ -159,7 +159,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **",
@@ -168,7 +168,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   },
   {
     "original": "** 30 SECONDS TO UNLOCK THE DOOR **",
@@ -182,10 +182,10 @@
   {
     "original": "** GET IN THE CHOPPA! **",
     "en_trans": "",
-    "zh_trans": "** 快上直升机! **",
+    "zh_trans": "** 直升机不等人，动作快点! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   }
 ]

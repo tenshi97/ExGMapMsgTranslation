@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< The story after ze_ruin_of_black_stone >>",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Map based on ze_sky_fantasy >>",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hold for 10 seconds >>",
@@ -453,7 +453,7 @@
   {
     "original": "<< There is no way!!! I will use the c4 to break the wall!!! Continue defending!!! >>",
     "en_trans": "",
-    "zh_trans": "<< 没有路了!!! 我会用c4炸开这面墙!!! 继续防守!!! >>",
+    "zh_trans": "<< 没有路了! 我会用c4炸开这面墙! 继续防守! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1317,7 +1317,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Be Careful! Zombies are coming! >>",
@@ -1355,40 +1355,40 @@
   {
     "original": "<< Tesla activate a green crystal >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 特斯拉召唤了一个绿水晶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< It is really a tough guy >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 真是个硬家伙 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Dr.X can not run too far!!! Hurry up, it is the time to arrest him!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< X博士他跑不了太远！快点！是时候逮捕他了！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< The door will open in 20s>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 门将在20秒后打开 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "<< The final door will open in 45 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 最终的大门将在45秒后开启 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1410,7 +1410,7 @@
   {
     "original": "<< 10 seconds left >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 最后10秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,111 +1421,111 @@
   {
     "original": "### Its Dr.X Again!!! Keep Shooting!!! ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士在那！向他开枪！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Dr.X has died!!! ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### X博士死了！干得漂亮！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Do not be a coward!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 别当怯战蜥蜴! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Minolila??? ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 米诺莉拉??? ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### I do not know why Minolila want to kill us ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 我不知道为什么米诺利拉会攻击我们 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Anyway, it should be safe here...... ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 不管怎样，这里应该是安全的 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< No one expected that we would met the nightmare here at that time >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 在那个时候还没有人预料到我们会遇到的幻想噩梦 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< But that is another story >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 但那就是另一个故事了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Congratulation!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 恭喜!!! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< You have beaten OverDrive Mode!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 你们拿下了第五关! >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
