@@ -35,7 +35,7 @@
   {
     "original": ">>Normal<<",
     "en_trans": "",
-    "zh_trans": ">>普通(Normal)<<",
+    "zh_trans": ">> 普通(Normal) - 任务：找到拉拉菲尔（仅需完成一次，无需通关） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": ">>Hard<<",
     "en_trans": "",
-    "zh_trans": ">>困难(Hard)<<",
+    "zh_trans": ">> 困难(Hard) - 任务：找到并打掉水池中的黑色羽毛（仅需完成一次，无需通关） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": ">> Normal <<",
     "en_trans": "",
-    "zh_trans": ">> 普通(Normal) <<",
+    "zh_trans": ">> 普通(Normal) - 任务：找到拉拉菲尔（仅需完成一次，无需通关） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": ">> Hard <<",
     "en_trans": "",
-    "zh_trans": ">> 困难(Hard) <<",
+    "zh_trans": ">> 困难(Hard) - 任务：找到并打掉水池中的黑色羽毛（仅需完成一次，无需通关） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": ">> Extreme <<",
     "en_trans": "",
-    "zh_trans": ">> 极限(Extreme) <<",
+    "zh_trans": ">> 极限(Extreme) - 任务：找到迷你ADS（仅需完成一次，无需通关） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": ">>Heavens Fall<<",
     "en_trans": "",
-    "zh_trans": ">>苍穹陨落（看头上对中间按W抵抗）<<",
+    "zh_trans": ">>星辰坠落（躲开头顶天坠，石柱下落时，对“场地中心”按 W 抵抗推力）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": ">> Ultimate <<",
     "en_trans": "",
-    "zh_trans": ">> 终极(Ultimate) <<",
+    "zh_trans": ">> 至尊(Ultimate) <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,29 +629,29 @@
   {
     "original": ">>Seems the feathers have disappeared<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>羽毛似乎消失了<< ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Savage <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 零式(Savage) - 任务：找到广场中央的阿尔法并通关 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>You found Alpha!!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>你找到阿尔法了!!!<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -662,7 +662,7 @@
   {
     "original": ">>Wait for 20 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>等待 20 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": ">>Defense for 45 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>防守 45 秒<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,29 +684,29 @@
   {
     "original": ">>ADS Attack : Dash<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>ADS攻击:冲撞(躲开ADS的行进路线)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ADS Attack : Static Storm<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>ADS攻击:静电风暴(蹲下)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Bahamut will appear in 5 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>至尊巴哈姆特将于 5 秒后现身，快使用<终极堡垒>（墙）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -717,7 +717,7 @@
   {
     "original": ">>Bahamut will appear in 4 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>至尊巴哈姆特将于 4 秒后现身，快使用<终极堡垒>（墙）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": ">>Bahamut will appear in 3 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>至尊巴哈姆特将于 3 秒后现身，快使用<终极堡垒>（墙）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": ">>Bahamut will appear in 2 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>至尊巴哈姆特将于 2 秒后现身，快使用<终极堡垒>（墙）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,7 +750,7 @@
   {
     "original": ">>Bahamut will appear in 1 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>至尊巴哈姆特将于 1 秒后现身，快使用<终极堡垒>（墙）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -761,34 +761,34 @@
   {
     "original": ">>True Tempest Wing<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>真·风暴之翼(前往场地周围的风柱，起飞后看脚底，按“方向键”调整方向，对准风柱下落)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Steam Judge<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>蒸汽裁决(踩一下周围的红色光柱)<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>True Heavens Fall<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>真·星辰坠落（躲开头顶天坠）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
