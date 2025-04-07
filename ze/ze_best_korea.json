@@ -2,7 +2,7 @@
   {
     "original": "***MAP BY LUFFAREN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图作者：LUFFAREN 翻译：水木、（如果有不合适的翻译请联系） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "***This is the test version***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前地图还处于测试阶段 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "***Base on ze_best_korea_css2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 基于ze_best_korea_css2移植 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "***RUNNING STAGE1***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***运行第一关***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,18 +46,18 @@
   {
     "original": "***ADMIN ROOM - STAGE 3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有权男选择了第三关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "***ADMIN ROOM - HEALTH BUFF***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有权男选择了回血buff ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,117 +68,117 @@
   {
     "original": "***WELCOME TO BEST KOREA***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 欢迎来到最美朝鲜 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***WE WILL PROCESS YOUR ENTRY REQUEST***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们正在审批你们的入境请求 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PLEASE HOLD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请稍等 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PLEASE HOLD.***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请稍等. ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PLEASE HOLD..***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请稍等.. ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PLEASE HOLD...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请稍等... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***WELCOME MY YOUNG BOYS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 欢迎你们，年轻人 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE GUARDS IN THE BACK ARE A BIT SLOW***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 后面的守卫稍微有点慢 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***JUST LET THEM THINK FOR A WHILE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 让他们接着想一会吧 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THEY WERE THINKING ABOUT PIZZA***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 或许他们正在思考披萨的事情 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PATH OPENING IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 前面的道路将在30秒后开放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "***PATH OPENING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 前面的道路将在10秒后开放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "***PATH OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 前面的道路将在5秒后开放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,18 +211,18 @@
   {
     "original": "***PATH IS OPEN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 道路已开放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PATH OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 前面的道路将在20秒后开放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,12 +233,12 @@
   {
     "original": "***ADMIN ROOM - STAGE 2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有权男选择了第二关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
@@ -255,29 +255,29 @@
   {
     "original": "***WELCOME...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 欢迎... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***..TO BEST KOREA!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** ..来到最美朝鲜!***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOOR OPENING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在10秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "***DOOR OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在5秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,18 +299,18 @@
   {
     "original": "***A BOY HAS BLOWN YOU AWAY***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 一个男孩把你吹走了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOUBLE DOOBER GATES ARE OPENING IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 栅栏门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "***FATHER GATE IS OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "***DOUBLE DOOBER GATES ARE OPENING IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 栅栏门将在15秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "***BIG BEST GATE OPENING IN 50 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美大门将在50秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "***FATHER GATE IS OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -365,7 +365,7 @@
   {
     "original": "***ALLEYWAY GATE IS OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小巷的门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,29 +376,29 @@
   {
     "original": "***FATHER GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOUBLE DOOBER GATES ARE OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 双扇门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ALLEYWAY GATE IS OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小巷的门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,18 +409,18 @@
   {
     "original": "***ALLEYWAY GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小巷的门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BIG BEST GATE OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美大门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "***APARTMENT DOOR OPENING IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 公寓门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "***BIG BEST GATE OPENING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美大门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "***RAM RANCH WILL WELCOME YOU IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 基情牧场的大门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,18 +464,18 @@
   {
     "original": "***ZOMBIE SURF PROTECTOR IS NOW ACTIVE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸滑翔保护已激活 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DRAWBRIDGE IS OPENING IN 40 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 吊桥将在40秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,7 +486,7 @@
   {
     "original": "***RAM RANCH WILL WELCOME YOU IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 基情牧场的大门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -497,51 +497,51 @@
   {
     "original": "***WELCOME TO RAM RANCH***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 欢迎来到基情牧场 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE PLACE WHERE MAGIC HAPPENS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这里是见证奇迹的地方 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DEFEND FOR SOME TIME***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 再守一会 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE GATES WILL OPEN IN BALANCED ORDER***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门会平稳地打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DRAWBRIDGE IS OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 吊桥将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,73 +552,73 @@
   {
     "original": "***DRAWBRIDGE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 吊桥已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***UPPER GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 上面的大门正在打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***MID GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 中间的大门正在打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***LOWER GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 下面的大门正在打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU NEED TO EAT SOME PRINGLES***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你需要吃一些品客薯片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***HANG ON WHILE THE DOOR OPENS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在大门打开之前守住这里 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***5 SECONDS LEFT***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,40 +629,40 @@
   {
     "original": "***YOU ATE THE PRINGLES***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你把品客薯片都吃了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU SCUM***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你个人渣 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***STEP ON THE TRAM PLEASE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请登上电车 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TRAM IS LEAVING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电车将在10秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -673,7 +673,7 @@
   {
     "original": "***TRAM IS LEAVING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电车将在5秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "***TRAM IS LEAVING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电车将在10秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,7 +695,7 @@
   {
     "original": "***DEFEND FOR 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,29 +706,29 @@
   {
     "original": "***WELCOME TO THE BEST KOREAN BALLOON***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 欢迎来到最美的朝鲜热气球 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SPONSORED BY PRINGLES***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 本气球由品客冠名赞助 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BALLOON DOORS WILL OPEN IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热气球的门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": "***BALLOON DOORS WILL OPEN IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热气球的门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,40 +750,40 @@
   {
     "original": "***BALLOON DOORS ARE OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热气球的门打开了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BALLOON IS LEAVING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热气球已离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ENJOY THE RIDE WHILE MURDERING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 请享受这趟屠杀之旅 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DESTINATION ETA - 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 预计30秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -794,7 +794,7 @@
   {
     "original": "***DESTINATION ETA - 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 预计20秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -805,7 +805,7 @@
   {
     "original": "***DESTINATION ETA - 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 预计10秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -816,7 +816,7 @@
   {
     "original": "***DESTINATION ETA - 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 预计5秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -827,18 +827,18 @@
   {
     "original": "***DESTINATION REACHED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已抵达目的地 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将在30秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,18 +849,18 @@
   {
     "original": "***SOLVE THE BEST KOREAN PUZZLE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 解决这个最美朝鲜的谜题 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ELEVATOR IS COMING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将在10秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,7 +871,7 @@
   {
     "original": "***IF YOU ARE NAUGHTY YOU WILL DIE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 如果你答错了，你就会原地去世 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -882,18 +882,18 @@
   {
     "original": "***HAIL BEST KOREA***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 赞美最美的朝鲜 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ELEVATOR IS COMING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将在5秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -904,29 +904,29 @@
   {
     "original": "***ELEVATOR IS COMING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯已抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU DID IT***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你做到了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BEST KOREA DOOR IS OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美朝鲜的大门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -937,7 +937,7 @@
   {
     "original": "***BEST KOREA DOOR IS CLOSING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美朝鲜的大门将在5秒后关闭 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -948,40 +948,40 @@
   {
     "original": "***BEST KOREA DOOR IS CLOSING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美朝鲜的大门已关闭 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***STAGE 1 WON***",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***BOMB PLANTED***",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第一关已完成 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "***BOMB PLANTED***",
+    "en_trans": "",
+    "zh_trans": "*** 炸弹已安放 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***DEFEND FOR 40 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守40秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -992,7 +992,7 @@
   {
     "original": "***DEFEND FOR 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守30秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "***DEFEND FOR 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守10秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,7 +1014,7 @@
   {
     "original": "***DEFEND FOR 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守5秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1025,18 +1025,18 @@
   {
     "original": "***FALL BACK***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***MAIN GATE IS OPENING IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 主门将在15秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,18 +1047,18 @@
   {
     "original": "***MAIN GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 主门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ALLEY GATE IS OPENING IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小巷的门将在15秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1069,51 +1069,51 @@
   {
     "original": "***ALLEY GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小巷的门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE BABY SUICIDE RATE IS SKYROCKETING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 婴儿自杀率正在快速攀升 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***PEOPLE ARE BUYING BBY-COINS LIKE HOTCAKES***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 人们买婴儿币就像买烧饼一样 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SHOOT THE STINK TO GAIN HP***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 射击那个洗手台以获取额外HP ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BIG BEST GATE OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美大门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,106 +1124,106 @@
   {
     "original": "***BIG BEST GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最美大门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BIG BEST KIM IS PROUD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 金三胖以你为荣 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***HAVE TWO PRINGLES***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 拿着这两个品客薯片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***WAIT...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 等下... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SOMETHING IS ABOUT TO HAPPEN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 似乎要发生什么事情 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***WATCH OUT***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小心！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***IT'S BABY BOY KIM***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 那是小三胖! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***RUN FOR IT***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 死腿快跑啊 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SOLDIERS INCOMING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 士兵正在靠近 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DADDY DOOR IS OPENING IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1234,18 +1234,18 @@
   {
     "original": "***DEFEND HARD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 守住这里 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SHORTCUT GATE IS OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 捷径门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1256,18 +1256,18 @@
   {
     "original": "***SHORTCUT GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 捷径门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DADDY DOOR IS OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1278,106 +1278,106 @@
   {
     "original": "***DADDY DOOR IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DID DADDY HURT YA?***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸伤到你了吗？***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***WHERE DID DADDY DIDDLE YA?***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸哪里有欺骗过你？***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***GET TO THE MIDDLE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快去中间 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU WILL BE SAFE THERE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你在那里会很安全 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***IT IS COMING...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他来了...***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOUNG BABY KIM IS DEAD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 小三胖死了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TAKE SHELTER INSIDE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快去避难所 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***WHAT HAVE YOU DONE...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你看看你都干了什么...***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ZOMBIES RELEASE IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 5秒后释放僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1388,7 +1388,7 @@
   {
     "original": "***ZOMBIES RELEASE IN 4 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 4秒后释放僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "***ZOMBIES RELEASE IN 3 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 3秒后释放僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1410,7 +1410,7 @@
   {
     "original": "***ZOMBIES RELEASE IN 2 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 2秒后释放僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,7 +1421,7 @@
   {
     "original": "***ZOMBIES RELEASE IN 1 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 1秒后释放僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1432,7 +1432,7 @@
   {
     "original": "***ZOMBIES ARE RELEASED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸已释放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1443,29 +1443,29 @@
   {
     "original": "***DOOR IS CLOSING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***门关上了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***STAGE 2 WON***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第二关已完成 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***ADMIN ROOM - KILL ALL***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有权男按了核爆按钮 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1476,117 +1476,117 @@
   {
     "original": "***ADMIN ROOM - STAGE 1***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有权男选择了第一关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   },
   {
     "original": "***HELLO PEASANTS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***贱民们，你们好啊***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***I HAVE A HARD TIME OPENING UP TO YOU BECAUSE FATHER IS HERE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸在这里我不太方便给你们开门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CASTLE PIECE ADDED (1/6)***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 城堡碎片已拾取（1/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***COULD YOU PLEASE HELP ME GET RID OF HIM?***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 能不能帮我甩开他？***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***I'M SURE I'LL BE ABLE TO OPEN UP ONCE HE'S GONE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他一走我保证立马打开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***I GET SO EMBARRASSED WHEN DADDY IS WATCHING...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸看着我的时候我会很尴尬... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DO YOU WANT SOME PRINGLES?***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你想要点品客薯片吗？***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***LET ME ROLL TO YOU***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 让我给你滚一些 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***EAT ME DADDY***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 爸爸，请享用我 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***遇到bug请到创意工坊反馈给我***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 遇到bug请到创意工坊反馈给我 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1597,12 +1597,12 @@
   {
     "original": "***KILL ALL THE ZOMBIES***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 把进来的僵尸做掉！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
