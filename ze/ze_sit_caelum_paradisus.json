@@ -475,23 +475,23 @@
   {
     "original": ">> WE SECURED ROUTE TWO <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 我们确保了二号路线的安全 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>>GO TO ROUTE THREE<<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>>正在前往三号路线<<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
