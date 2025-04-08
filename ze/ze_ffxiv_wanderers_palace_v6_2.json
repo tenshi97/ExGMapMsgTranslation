@@ -64,5 +64,126 @@
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 0
+  },
+  {
+    "original": "[ Admin ] -> Selected Hard Mode for next round.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "[ Admin ] -> Selected Extreme Mode for next round.",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< A Player has acquired Thunder IV >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< A Player has acquired Heal >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< A Player has acquired Blizzard III >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< Defend until the gates open! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< Still Waters will be sealed off in 15 seconds! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "< Still Waters is sealed off! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< Still Waters is no longer sealed! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< The sealed gate opens! >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "< Congratulations! - You won Easy Mode >",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
