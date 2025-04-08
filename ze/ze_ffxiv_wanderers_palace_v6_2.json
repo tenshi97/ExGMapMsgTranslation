@@ -24,7 +24,7 @@
   {
     "original": "< Easy Mode >",
     "en_trans": "",
-    "zh_trans": "< 简单模式 >",
+    "zh_trans": "< 简单模式(Easy) >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "[ Admin ] -> Selected Hard Mode for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[ 管理员 ] -> 为下一回合选择了困难模式。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "[ Admin ] -> Selected Extreme Mode for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[ 管理员 ] -> 为下一回合选择了极限模式。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,29 +90,29 @@
   {
     "original": "< A Player has acquired Thunder IV >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 霹雷 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Heal >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 治疗 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Blizzard III >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 冰封 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,18 +123,18 @@
   {
     "original": "< Defend until the gates open! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 守到门开！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Still Waters will be sealed off in 15 seconds! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 水上庭院将在 15 秒后被封锁！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,40 +145,40 @@
   {
     "original": "< Still Waters is sealed off! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 水上庭院已被封锁！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Still Waters is no longer sealed! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 水上庭院不再处于封锁状态！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The sealed gate opens! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 被封锁的门打开了！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Congratulations! - You won Easy Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 恭喜！ - 您通过了简单模式 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
