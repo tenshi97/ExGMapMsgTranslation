@@ -13,7 +13,7 @@
   {
     "original": "< Map by Dakotec & Lishang >",
     "en_trans": "",
-    "zh_trans": "< 地图作者 Dakotec & Lishang >",
+    "zh_trans": "< 地图作者 Dakotec & Lishang(翻译:星荧铃) >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -184,89 +184,89 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Normal Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 普通模式(Normal) >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Gravity >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 重力 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Nymian Device 1 has been pressed >",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "< Nymian Device 2 has been pressed >",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "< Nymian Device 4 has been pressed >",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "< Nymian Device 3 has been pressed >",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "< All Nymian Devices have been pressed >",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 尼姆无限装置 1 已被按下 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "< Nymian Device 2 has been pressed >",
+    "en_trans": "",
+    "zh_trans": "< 尼姆无限装置 2 已被按下 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "< Nymian Device 4 has been pressed >",
+    "en_trans": "",
+    "zh_trans": "< 尼姆无限装置 4 已被按下 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "< Nymian Device 3 has been pressed >",
+    "en_trans": "",
+    "zh_trans": "< 尼姆无限装置 3 已被按下 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "< All Nymian Devices have been pressed >",
+    "en_trans": "",
+    "zh_trans": "< 所有装置都已按下 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< Congratulations! - You won Normal Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 恭喜！ - 您通过了普通模式 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
