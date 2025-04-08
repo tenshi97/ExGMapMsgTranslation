@@ -20,7 +20,7 @@
   {
     "original": ">>> THE DOOR OPENS IN 20 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": ">>> 门20秒后打开 <<<",
+    "zh_trans": ">>> 门将在20秒后打开 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -29,7 +29,7 @@
   {
     "original": "DOOR CLOSES IN 15 SECONDS",
     "en_trans": "",
-    "zh_trans": "门15秒后关闭",
+    "zh_trans": ">>> 门将在15秒后关闭 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -51,7 +51,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> GATE OPENS in 10 SECONDS <<<",
@@ -78,7 +79,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer":0,
+    "force_hint": 1
   },
   {
     "original": ">>> GATE OPENS IN 20 SECONDS <<<",
@@ -112,7 +114,7 @@
   {
     "original": "ELEVATOR LEAVES IN 10 SECONDS",
     "en_trans": "",
-    "zh_trans": "电梯10秒后离开",
+    "zh_trans": ">>> 电梯将在10秒后离开 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -144,7 +146,7 @@
     "zh_trans": "!!! 僵尸现在可以进攻boss平台上的人类了 !!!",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_skull",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
