@@ -272,56 +272,56 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Hard Mode >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 困难模式(Hard) >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Ricochet >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 弹射 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Ley Lines >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 黑魔纹 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Heart of Light >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家已获得 光之心 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The Final Ease will be sealed off in 15 seconds! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 旅人安息所将在 15 秒后被封锁！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,29 +332,29 @@
   {
     "original": "< The Final Ease is sealed off! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 旅人安息所已被封锁！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "FAKE DOLL",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "假娃娃",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The Final Ease is no longer sealed! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 旅人安息所已解锁！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
