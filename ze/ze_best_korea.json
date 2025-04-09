@@ -2,7 +2,7 @@
   {
     "original": "***MAP BY LUFFAREN***",
     "en_trans": "",
-    "zh_trans": "*** 地图作者：LUFFAREN 翻译：水木、（如果有不合适的翻译请联系） ***",
+    "zh_trans": "*** 地图作者：LUFFAREN 翻译：水木、***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "***Base on ze_best_korea_css2***",
     "en_trans": "",
-    "zh_trans": "*** 基于ze_best_korea_css2移植 ***",
+    "zh_trans": "*** 此版本基于 ze_best_korea_css2 移植 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "***RUN FOR IT***",
     "en_trans": "",
-    "zh_trans": "*** 死腿快跑啊 ***",
+    "zh_trans": "*** 死腿快跑啊！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1630,18 +1630,18 @@
   {
     "original": "surf's up dude",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 开始滑翔喽！冲！冲刺！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***LIBRARY GATE IS OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 图书馆的门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1652,12 +1652,12 @@
   {
     "original": "***LIBRARY GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 图书馆的门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
