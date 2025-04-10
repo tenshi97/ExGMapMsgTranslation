@@ -794,18 +794,18 @@
   {
     "original": ">><Radiant Finale> Disappeared<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> <光明神的最终乐章> 消失了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door will open in 5 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 5 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -816,7 +816,7 @@
   {
     "original": ">>Door will open in 7 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>门将在 7 秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -827,7 +827,7 @@
   {
     "original": ">>Boat will leave in 20 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>船将在 20 秒后出发<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
