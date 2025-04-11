@@ -2,7 +2,7 @@
   {
     "original": "** MAP BY Hannibal [SPA] (Rafuron) **",
     "en_trans": "",
-    "zh_trans": "** 地图作者 汉尼拔 Hannibal [西班牙] (Rafuron) **",
+    "zh_trans": "** 地图作者 汉尼拔 Hannibal [西班牙] (Rafuron)(翻译:星荧铃) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,95 +728,95 @@
   {
     "original": "** CURRENT STAGE >> PART 4 >> THE LAST STAND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 当前关卡 >> 第四关 >> 背水一战 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** (LIBRARY) ** DOORS ARE UNLOCKED NOW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** （图书馆）** 门现在解锁了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** （图书馆）** 在这里坚守！** 等待号角响起！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** （地牢）** 坚持到号角响起 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** (DUNGEONS) ** THE DOOR IS UNLOCKED NOW **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** （地牢）** 门解锁了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** FALL BACK! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 撤退！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们被困住了！为生而战！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 天花板塌了 ** 快从破墙那里爬上去！（推荐从左边上去）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WE ARE NEAR THE TOP OF MINAS TIRITH ** HOLD THIS PLACE FOR 30 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 我们已经接近米那斯提力斯的顶层了 ** 在此坚守 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -827,7 +827,7 @@
   {
     "original": "** LIFT IS LEAVING IN 10 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 升降梯将在 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,29 +838,29 @@
   {
     "original": "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 亡灵大军要来了！做好最后的防御准备！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 守住大门，为米那斯提力斯顶层防御争取更多时间！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 道路已打开 ** 前往米那斯提力斯顶层 ** 生存 90 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,23 +871,23 @@
   {
     "original": "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 这是最后一个守点了 ** 活下来！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** All humans at bottom part will die in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 底部的人类 15 秒后将被处死**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
