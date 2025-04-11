@@ -56,11 +56,11 @@
   {
     "original": "*** WAIT TILL THAT WALL BREAKS ***",
     "en_trans": "",
-    "zh_trans": "*** 等待墙壁破碎 ***",
+    "zh_trans": "*** 等待墙壁破碎 --- 30s ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP GRAVITY <<",
@@ -78,7 +78,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP FIRE <<",
@@ -92,11 +93,11 @@
   {
     "original": "*** WAIT TILL BOMB BREAKS THOSE BOARDS ***",
     "en_trans": "",
-    "zh_trans": "*** 等待炸弹破坏木板 ***",
+    "zh_trans": "*** 等待炸弹破坏木板 --- 30s ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 30,
+    "enable_timer": 1
   },
   {
     "original": "*** BOARDS ARE BROKEN RUUUUUUN!! ***",
@@ -105,7 +106,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Leaf 1 leaving in 7 seconds ***",
@@ -150,7 +152,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** OH NO Its an EVIL BUTTERFLY ***",
@@ -159,7 +162,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SHOOT IT BEFORE ITS TOO LATE!! ***",
@@ -168,7 +172,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** BUTTERFLY IS DEAD RESCUE IS COMING ***",
@@ -177,7 +182,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> BUTTERFLY LEAVING IN 10 seconds <<",
@@ -195,7 +201,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP 6 MINES <<",
@@ -312,7 +319,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR LEAVING IN 20 seconds ***",
@@ -348,7 +356,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<",
@@ -357,7 +366,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***",
@@ -366,7 +376,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> BUTTERFLY LEAVING IN 15 seconds <<",
@@ -420,7 +431,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<",
@@ -438,7 +450,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<",
@@ -447,7 +460,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** PLAYER FOUND A KEY ***",
@@ -456,7 +470,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** OH NO!! ITS SATAN!! ***",
@@ -465,7 +480,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***",
@@ -474,7 +490,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THROW GRENADES TO KILL IT EASIER ***",
@@ -483,7 +500,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***",
@@ -492,7 +510,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> WAIT FOR 10 SECONDS <<",
@@ -542,11 +561,12 @@
   {
     "original": "*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***",
     "en_trans": "",
-    "zh_trans": "*** 同时按下两个按钮以继续 ***",
+    "zh_trans": "*** 你需要同时按下两个按钮来重启电梯 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** GREAT DEFEND FOR 10 MORE SECONDS ***",
@@ -560,11 +580,12 @@
   {
     "original": ">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<",
     "en_trans": "",
-    "zh_trans": ">> 野生的百变兽出现了射它!!!!!!!!!! <<",
+    "zh_trans": ">> 野生的百变兽出现了!!!射它!!!!!!!!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<",
@@ -636,7 +657,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<",
@@ -645,7 +667,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> BUTTERFLY LEAVING IN 30 seconds <<",
@@ -663,7 +686,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SATAN IS PREPARING TO ATTACK ***",
@@ -672,7 +696,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** OH NO!! ITS DRAGON!! ***",
@@ -681,7 +706,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SHOOT IT BEFORE ITS TOO LATE ***",
@@ -690,7 +716,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***",
@@ -699,7 +726,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<",
@@ -717,7 +745,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<",
@@ -744,7 +773,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU CAN CHOOSE LEVEL AND MODE ***",
@@ -753,7 +783,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***",
@@ -780,7 +811,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***",
@@ -834,7 +866,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***",
@@ -843,7 +876,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> IT LOOK LIKE A NEW PLACE ... <<",
@@ -852,7 +886,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> A WILD PIKACHU IS WAITING FOR US !! <<",
@@ -861,7 +896,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> CT GET OUT THE ELEVATOR AND FIGHT !! <<",
@@ -870,7 +906,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***",
@@ -879,7 +916,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THIS PLACE WILL BE OUR NEW VILLAGE ***",
@@ -888,7 +926,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***",
@@ -897,7 +936,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DONT LET ANY ZOMBIE ENTER !! ***",
@@ -906,7 +946,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP A GEAR MECANISM <<",
@@ -915,7 +956,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> GOOD JOB <<",
@@ -924,7 +966,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> THE GRID SHOULD START TO CLOSE <<",
@@ -933,7 +976,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> You have successfully saved our new village <<",
@@ -942,7 +986,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: HELL EXTREME <<",
@@ -969,7 +1014,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** KEEP SHOOTING ***",
@@ -978,7 +1024,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<",
@@ -996,7 +1043,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> You beat the map ! <<",
@@ -1005,7 +1053,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Play ShroomForest2 to continue the adventure <<",
@@ -1014,7 +1063,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Quick ZM Mod <<",
@@ -1086,7 +1136,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<",
@@ -1140,7 +1191,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> NOBODY SURVIVED!! LEVEL FAILED!! <<",
@@ -1149,7 +1201,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 30 SECONDS LEFT <<",
