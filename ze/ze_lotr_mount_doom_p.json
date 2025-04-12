@@ -15,16 +15,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Reach the Mount Doom**",
     "en_trans": "",
-    "zh_trans": "**抵达欧洛都因（末日山）**",
+    "zh_trans": "**抵达欧洛都因（末日火山）**",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Destroy the Ring**",
@@ -33,7 +35,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***AFK Teleport in 15 s***",
@@ -51,7 +54,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***A human MUST pick up the RING while the others defend the entrance.***",
@@ -60,7 +64,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Nazguls coming to Minas Morgul in 15 s***",
@@ -78,7 +83,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** The bearer feels the weight of the Ring ** Protect him! **",
@@ -87,7 +93,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**The ring carrier must go down to open the door.**",
@@ -96,7 +103,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***The door is NOW open! Escape from Cirith Ungol!***",
@@ -105,7 +113,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Nazgul defeated!**",
@@ -114,7 +123,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The Ring bearer has been corrupted! All hope is lost!***",
@@ -123,7 +133,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Earendil light has been picked***",
@@ -132,7 +143,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Nazguls coming to Cirith Ungol tower in 15 s***",
@@ -150,7 +162,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Lever pressed! Door will open in 15s**",
@@ -177,7 +190,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**There are too many CT ** The second way has been opened! **",
@@ -186,16 +200,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***",
     "en_trans": "",
-    "zh_trans": "***魔戒已抵达末日山: 护戒者必须把魔戒扔进火山***",
+    "zh_trans": "***魔戒已抵达末日火山: 护戒者必须把魔戒扔进火山（走到尽头丢掉手枪或者跳下去）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***What are you waiting for?Just let it go!***",
@@ -204,7 +220,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Carrier says: the Ring is mine!***",
@@ -213,12 +230,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***",
     "en_trans": "",
-    "zh_trans": "***护戒者背叛了我们！返回末日山并防守 40 秒***",
+    "zh_trans": "***护戒者背叛了我们！进入末日火山并防守 40 秒***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -236,11 +254,12 @@
   {
     "original": "***Go into the Mount Doom!***",
     "en_trans": "",
-    "zh_trans": "***快进到末日山!***",
+    "zh_trans": "***快进到末日火山!***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Resist 50 s!!***",
@@ -258,7 +277,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***The Ring has been destroyed! Escape from Mordor!***",
@@ -267,6 +287,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
