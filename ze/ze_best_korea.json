@@ -2,7 +2,7 @@
   {
     "original": "***MAP BY LUFFAREN***",
     "en_trans": "",
-    "zh_trans": "*** 地图作者：LUFFAREN 翻译：水木、（如果有不合适的翻译请联系） ***",
+    "zh_trans": "*** 地图作者：LUFFAREN 翻译：水木、 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -19,23 +19,23 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Base on ze_best_korea_css2***",
     "en_trans": "",
-    "zh_trans": "*** 基于ze_best_korea_css2移植 ***",
+    "zh_trans": "*** 此版本地图基于ze_best_korea_css2移植 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***RUNNING STAGE1***",
     "en_trans": "",
-    "zh_trans": "***运行第一关***",
+    "zh_trans": "***开始第一关***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -429,9 +429,9 @@
     "force_hint": 0
   },
   {
-    "original": "***APARTMENT DOOR OPENING IN 30 SECONDS***",
+    "original": "*** DOOR OPENING IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "*** 公寓门将在30秒后打开 ***",
+    "zh_trans": "*** 公寓的门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,7 +475,7 @@
   {
     "original": "***DRAWBRIDGE IS OPENING IN 40 SECONDS***",
     "en_trans": "",
-    "zh_trans": "*** 吊桥将在40秒后打开 ***",
+    "zh_trans": "*** 吊桥将在40秒后放下 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,7 +596,7 @@
   {
     "original": "***YOU NEED TO EAT SOME PRINGLES***",
     "en_trans": "",
-    "zh_trans": "*** 你需要吃一些品客薯片 ***",
+    "zh_trans": "*** 你需要吃一点品客薯片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": "***WELCOME TO THE BEST KOREAN BALLOON***",
     "en_trans": "",
-    "zh_trans": "*** 欢迎来到最美的朝鲜热气球 ***",
+    "zh_trans": "*** 欢迎来到最美朝鲜的热气球 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -877,7 +877,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***HAIL BEST KOREA***",
@@ -1108,7 +1108,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "***BIG BEST GATE OPENING IN 5 SECONDS***",
@@ -1146,7 +1146,7 @@
   {
     "original": "***HAVE TWO PRINGLES***",
     "en_trans": "",
-    "zh_trans": "*** 拿着这两个品客薯片 ***",
+    "zh_trans": "*** 拿着这两品客薯片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "***RUN FOR IT***",
     "en_trans": "",
-    "zh_trans": "*** 死腿快跑啊 ***",
+    "zh_trans": "*** 死腿快跑啊！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "***SOLDIERS INCOMING***",
     "en_trans": "",
-    "zh_trans": "*** 士兵正在靠近 ***",
+    "zh_trans": "*** 士兵正在靠近！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1355,7 +1355,7 @@
   {
     "original": "***TAKE SHELTER INSIDE",
     "en_trans": "",
-    "zh_trans": "*** 快去避难所 ***",
+    "zh_trans": "*** 现在快去避难所里 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1438,12 +1438,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOOR IS CLOSING***",
     "en_trans": "",
-    "zh_trans": "***门关上了 ***",
+    "zh_trans": "*** 门关上了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1509,7 +1509,7 @@
   {
     "original": "***CASTLE PIECE ADDED (1/6)***",
     "en_trans": "",
-    "zh_trans": "*** 城堡碎片已拾取（1/6）***",
+    "zh_trans": "*** 建材已被拾取（1/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1564,7 +1564,7 @@
   {
     "original": "***LET ME ROLL TO YOU***",
     "en_trans": "",
-    "zh_trans": "*** 让我给你滚一些 ***",
+    "zh_trans": "*** 让我给你滚一点 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1630,7 +1630,7 @@
   {
     "original": "surf's up dude",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有滑翔大手子家人们 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1641,7 +1641,7 @@
   {
     "original": "***LIBRARY GATE IS OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 图书馆的门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1652,18 +1652,18 @@
   {
     "original": "***LIBRARY GATE IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 图书馆的门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE INNER RAM DOORS WILL OPEN IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 内部大门会在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1674,7 +1674,7 @@
   {
     "original": "***THE INNER RAM DOORS WILL OPEN IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 内部大门会在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1685,29 +1685,29 @@
   {
     "original": "***ZOMBIES HAVE RAMMED ONE OF THE PATHS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸已经撞到了其中一条路 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU BETTER DEFEND HARDER NEXT TIME***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你下次最好把僵尸打远点 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE INNER RAM DOORS WILL OPEN IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 内部大门会在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1718,29 +1718,29 @@
   {
     "original": "***THE INNER RAM DOORS ARE BEING RAMMED OPEN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 内部大门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ONE OF THEM ARE DELAYED DUE TO RAMMING BALANCE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他们其中一个人因撞击失衡而被拖延 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ELEVATOR IS LEAVING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将在20秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1751,7 +1751,7 @@
   {
     "original": "***ELEVATOR IS LEAVING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将在10秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1762,7 +1762,7 @@
   {
     "original": "***ELEVATOR IS LEAVING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯将在5秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1773,7 +1773,7 @@
   {
     "original": "***LAGEVATOR IS LEAVING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯已离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1784,106 +1784,106 @@
   {
     "original": "***SAY ADIOS TO RAM RANCH***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 和基情牧场说再见吧 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CASTLE PIECE ADDED (2/6)***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 建材已被拾取（2/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CASTLE PIECE ADDED (3/6)***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 建材已被拾取（3/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CASTLE PIECE ADDED (4/6)***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 建材已被拾取（4/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CASTLE PIECE ADDED (5/6)***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 建材已被拾取（5/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***JUMP THE SORROWS AWAY",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 跳走那些悲伤 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CASTLE PIECE ADDED (6/6)***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 建材已被拾取（6/6）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE CASTLE HAS BEEN COMPLETED!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 城堡已搭建完毕！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***BONUS: each jump damages all gravestones***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 奖励：每次跳跃会对所有墓碑都造成伤害 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ADMIN ROOM - RESET MAP***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 权男选择了重置地图 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1894,7 +1894,7 @@
   {
     "original": "***MISSILE SILO DOOR OPENS IN 60 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 导弹发射井的门将在60秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1905,18 +1905,18 @@
   {
     "original": "***BE SURE TO DEFEND HARD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 别刷你那划刀次数了都去守僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***MISSILE SILO DOOR OPENS IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 导弹发射井的门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1927,7 +1927,7 @@
   {
     "original": "***MISSILE SILO DOOR OPENS IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 导弹发射井的门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1938,7 +1938,7 @@
   {
     "original": "***MISSILE SILO DOOR OPENS IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 导弹发射井的门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1949,29 +1949,29 @@
   {
     "original": "***PRINGLES IS BACK!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 品客薯片滚回来了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***QUICK CLIMB THE LADDER!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 赶紧爬梯子不然你就真的变成二次元了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***OUTER DOOR OPENS IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 外门将在15秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1982,7 +1982,7 @@
   {
     "original": "***OUTER DOOR OPENS IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 外门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1993,51 +1993,51 @@
   {
     "original": "***OUTER DOOR IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 外门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***MAKE YOUR WAY TO THE BEST KOREAN SPACE ROCKET***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你们赶快去最美朝鲜的航天火箭 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DEFEND AS YOU SEE FIT ALONG THE WAY***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 路上边打边退别被抓了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***IT MAY TAKE A WHILE TO OPEN IT...***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 需要一点时间去打开舱门 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***SHORTCUT GATE IS OPENING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 近路的门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2048,7 +2048,7 @@
   {
     "original": "***SPACE ROCKET DOOR OPENING IN 60 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 航天火箭的舱门将在60秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2059,7 +2059,7 @@
   {
     "original": "***SPACE ROCKET DOOR OPENING IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 航天火箭的舱门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2070,7 +2070,7 @@
   {
     "original": "***SPACE ROCKET DOOR OPENING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 航天火箭的舱门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2081,7 +2081,7 @@
   {
     "original": "***SPACE ROCKET DOOR OPENING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 航天火箭的舱门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2092,29 +2092,29 @@
   {
     "original": "***SPACE ROCKET DOOR IS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 航天火箭的舱门已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***GET INSIDE THE SPACE ROCKET***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快去火箭里面 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***20 SECONDS LEFT***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 再坚持20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2125,7 +2125,7 @@
   {
     "original": "***10 SECONDS LEFT***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 再坚持10秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2136,34 +2136,34 @@
   {
     "original": "***INITIALIZING ROCKET TAKEOFF PROCEDURE***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 初始化火箭起飞程序 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***STAGE 3 WON***",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "***THAT'S ALL FOR NOW - MORE STAGES TO COME***",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第三关已完成***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "***THAT'S ALL FOR NOW - MORE STAGES TO COME***",
+    "en_trans": "",
+    "zh_trans": "*** 暂时就这么多内容了，未来会更新新关卡 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
