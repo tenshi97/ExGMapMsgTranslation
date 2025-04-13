@@ -2,62 +2,62 @@
   {
     "original": "< Ze_Re_Creation >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< ze_re_creation --- 复刻世界 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Author : Zenow >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 地图作者: Zenow（咖喱棒） >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< CS2 Porter: Shana >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< CS2版本由Shana移植 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Stage 1 >",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "< Button Active! >",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 第一关 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "< Button Active! >",
+    "en_trans": "",
+    "zh_trans": "< 按钮已按下 >",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "< 10 SecLeft >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 还有10秒 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "< A player has pick up LowHGun >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一位玩家拾取了手炮 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,18 +79,18 @@
   {
     "original": "< A player has pick up LowHWall >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一位玩家拾取了墙 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 20 SecLeft >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 还有20秒 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "< A player has pick up PushGun >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一位玩家拾取了推力枪 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,34 +112,34 @@
   {
     "original": ">>Key was picked up",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 一位玩家捡到了一把钥匙 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Boss Dead >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< boss被淦碎了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< You must to kill all the zombies to win >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 你得想办法把僵尸打下去才能结算！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
