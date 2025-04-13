@@ -123,7 +123,7 @@
   {
     "original": "** Magic Ember **",
     "en_trans": "",
-    "zh_trans": "** 魔法余烬 **",
+    "zh_trans": "** 魔法余烬-效果[灵魂箭、隐形身躯、绿花草、白龙吐息、ZM内在潜力 最大使用次数加一] **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -704,13 +704,13 @@
     "force_hint": 1
   },
   {
-    "original": "** The exit from the Old Church will open in 25 seconds **",
+    "original": "** The exit from the Old Church will open in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "** 从旧教堂出去的门将在 25 秒后开启 ** ",
+    "zh_trans": "** 从旧教堂出去的门将在 20 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 25,
+    "timer_num": 20,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -726,13 +726,13 @@
     "force_hint": 1
   },
   {
-    "original": "** The Sen's Fortress gates will open in 30 seconds **",
+    "original": "** The Sen's Fortress gates will open in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "** 塞恩古城的大门将在 30 秒后开启 ** ",
+    "zh_trans": "** 塞恩古城的大门将在 20 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 30,
+    "timer_num": 20,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -748,24 +748,24 @@
     "force_hint": 1
   },
   {
-    "original": "** The main hall gates will open in 10 seconds **",
+    "original": "** The main hall gates will open in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "** 主厅的大门将在 10 秒后开启 ** ",
+    "zh_trans": "** 主厅的大门将在 5 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 10,
+    "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
-    "original": "** Well done. The Main gates will open in 10 seconds **",
+    "original": "** Well done. The Main gates will open in 5 seconds **",
     "en_trans": "",
-    "zh_trans": "** 干得好。主门将在 10 秒后开启 ** ",
+    "zh_trans": "** 干得好。主门将在 5 秒后开启 ** ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 10,
+    "timer_num": 5,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -1276,13 +1276,13 @@
     "force_hint": 1
   },
   {
-    "original": "** The deepest gate will open in 20 seconds **",
+    "original": "** The deepest gate will open in 15 seconds **",
     "en_trans": "",
-    "zh_trans": "** 最深处的大门将在 20 秒后开启 **",
+    "zh_trans": "** 最深处的大门将在 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 20,
+    "timer_num": 15,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -1309,7 +1309,7 @@
     "force_hint": 1
   },
   {
-    "original": "由于当前地图难度，将初始血量改为200，同时购买时间改为无限",
+    "original": "当前初始血量改为一五十，且购买时间改为无限",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -1399,7 +1399,7 @@
   {
     "original": "** Flame Ember **",
     "en_trans": "",
-    "zh_trans": "** 余烬之火 **",
+    "zh_trans": "** 火焰余烬-效果[火球、混沌风暴、ZM猛毒雾、ZM毒雾 最大使用次数加一] **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1410,7 +1410,7 @@
   {
     "original": "** Dark Ember **",
     "en_trans": "",
-    "zh_trans": "** 黑暗余烬 **",
+    "zh_trans": "** 黑暗余烬-效果[黑暗风暴、黑暗球、ZM黑焰 最大使用次数加一] **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1487,7 +1487,7 @@
   {
     "original": "** Divine Ember **",
     "en_trans": "",
-    "zh_trans": "** 神圣余烬 **",
+    "zh_trans": "** 神圣余烬-效果[阳光疗愈、祝福(弹药)、神怒、阳光枪(雷枪)、ZM冲击 最大使用次数加一]**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1508,6 +1508,204 @@
   },
   {
     "original": "*** Admin Abuse: Lizard ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** Version 1.0.2.0 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "** The Lower Asylum gates will open in 5 seconds **",
+    "en_trans": "",
+    "zh_trans": "收容所的正门将在 5 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The Asylum Main gates will open in 25 seconds **",
+    "en_trans": "",
+    "zh_trans": "收容所的正门将在 25 秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** You got the the Prison key! **",
+    "en_trans": "",
+    "zh_trans": "**你拿到了监狱的钥匙!**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "** The Old Church gates will open in 30 seconds **",
+    "en_trans": "",
+    "zh_trans": "旧教堂的大门将在30秒后打开",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** At the cost of your health. I can open this passage for you. Deal? **",
+    "en_trans": "",
+    "zh_trans": "**只要你们能消耗部分最大血量，我就可以帮你们打开这条近路。这个交易如何？**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "** The gate of a ruined church will open in 30 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 毁坏的教堂的大门将在30秒后打开 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The fire will fade away in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 火焰将在20秒后消失 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The fire will fade away in 10 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 火焰将在10秒后消失 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The passage to the First Flame will open in 25 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 前往最初之火的道路将在25秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** Zombies will be teleported after 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 僵尸将会在20秒后传送 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** Zombies will be teleported after 15 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 僵尸将会在15秒后传送 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The passage from the Great Tree will open in 20 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 前往巨人树的道路将在20秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The entrance to the Arena of Fallen will open in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 前往堕落竞技场的道路将在20秒后开启 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The elevator will start moving in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 电梯将在 20 秒后开始移动 ** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The passage to the Hall of Fate will open in 20 seconds **",
+    "en_trans": "",
+    "zh_trans": "** 前往命运之厅的道路将在20秒后开启 ** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** The passage from the Great Tree will open in 15 seconds. **",
+    "en_trans": "",
+    "zh_trans": "** 离开巨人树的道路将在15秒后开启 ** ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "** You got the the Sen's Fortres key! **",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

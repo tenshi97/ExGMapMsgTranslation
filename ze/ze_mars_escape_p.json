@@ -5,8 +5,10 @@
     "zh_trans": "经过漫长的火星之旅，你们终于着陆了，但奇怪的事情发生了...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map made by Xquality.",
@@ -14,8 +16,10 @@
     "zh_trans": "地图由 Xquality 制作",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Mini airlock opening in 5.",
@@ -23,8 +27,10 @@
     "zh_trans": "小气闸将在5秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Power generator Offline.",
@@ -32,8 +38,10 @@
     "zh_trans": "发电机为非工作状态",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Power generator waiting for restart.",
@@ -41,8 +49,10 @@
     "zh_trans": "发电机等待重启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Airlock opening in 20 secs.",
@@ -50,8 +60,10 @@
     "zh_trans": "气闸将在20秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Power Generator Online.",
@@ -59,8 +71,10 @@
     "zh_trans": "发电机重启成功",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Airlock opening in 15 secs.",
@@ -68,8 +82,10 @@
     "zh_trans": "气闸将在15秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Airlock opening in 10 secs.",
@@ -77,8 +93,10 @@
     "zh_trans": "气闸将在10秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Airlock opening in 5 secs.",
@@ -86,8 +104,10 @@
     "zh_trans": "气闸将在5秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Airlock opening.",
@@ -95,8 +115,10 @@
     "zh_trans": "气闸解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Bunker closing in 60 secs",
@@ -104,8 +126,10 @@
     "zh_trans": "地堡60秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Pole doors closing.",
@@ -113,8 +137,10 @@
     "zh_trans": "门正在关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Bunker closing in 40 secs",
@@ -122,8 +148,10 @@
     "zh_trans": "地堡40秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Bunker closing in 20 secs",
@@ -131,8 +159,10 @@
     "zh_trans": "地堡20秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Bunker closing in 10 secs",
@@ -140,8 +170,10 @@
     "zh_trans": "地堡10秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Bunker closing in 5 secs",
@@ -149,8 +181,10 @@
     "zh_trans": "地堡5秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Marslab self-destructing in...",
@@ -158,8 +192,10 @@
     "zh_trans": "火星实验室自毁启动",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Security airlock closing.",
@@ -167,8 +203,10 @@
     "zh_trans": "安全气闸关闭中",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Elevator broken.",
@@ -176,7 +214,20 @@
     "zh_trans": "电梯已损坏",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "!mp7",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]

@@ -24,13 +24,13 @@
   {
     "original": "等待水中崩坏能浓度下降!",
     "en_trans": "",
-    "zh_trans": "等待水中崩坏能浓度下降!",
+    "zh_trans": "等待水中崩坏能浓度下降! --- 32s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 32,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "水中崩坏能浓度已达到安全水平!",
@@ -46,13 +46,13 @@
   {
     "original": "正在收集实验室资料!",
     "en_trans": "",
-    "zh_trans": "正在收集实验室资料!",
+    "zh_trans": "正在收集实验室资料! --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "征服宝石......第三律者......植入手术......",
@@ -79,13 +79,13 @@
   {
     "original": "正在分析内网IP!",
     "en_trans": "",
-    "zh_trans": "正在分析内网IP!",
+    "zh_trans": "正在分析内网IP! --- 10s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "分析完成!",
@@ -112,13 +112,13 @@
   {
     "original": "守住这里,直到c4爆炸!",
     "en_trans": "",
-    "zh_trans": "守住这里,直到c4爆炸!",
+    "zh_trans": "守住这里,直到c4爆炸! --- 15s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "桥已炸毁,撤退!",
@@ -145,13 +145,13 @@
   {
     "original": "守住,直到把汽车移动到指定位置!",
     "en_trans": "",
-    "zh_trans": "守住,直到把汽车移动到指定位置!",
+    "zh_trans": "守住,直到把汽车移动到指定位置! --- 20s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "汽车已移动到指定位置!",
@@ -200,13 +200,13 @@
   {
     "original": "保护学院长,直到巫女小姐治疗完毕(别让僵尸碰到德莉莎和八重樱)",
     "en_trans": "",
-    "zh_trans": "保护学院长,直到巫女小姐治疗完毕(别让僵尸碰到德莉莎和八重樱)",
+    "zh_trans": "保护学院长,直到巫女小姐治疗完毕(别让僵尸碰到德莉莎和八重樱) --- 41s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 41,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "没有保护好学援长,任务失败!",
@@ -233,13 +233,13 @@
   {
     "original": "安全屋门已经打开,速度进入!",
     "en_trans": "",
-    "zh_trans": "安全屋门已经打开,速度进入!",
+    "zh_trans": "安全屋门已经打开,速度进入! --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "根据资料显示,这附近还有一个办事处和一个仓库.",
@@ -481,6 +481,17 @@
     "icon_name": "icon_tip",
     "timer_num": 130,
     "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "检测到有死士进入,灭杀程序启动!",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
