@@ -24,7 +24,7 @@
   {
     "original": "< Easy Mode >",
     "en_trans": "",
-    "zh_trans": "< 简单(Easy) >",
+    "zh_trans": "< 简单(Easy) - 圣地守护者 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -118,7 +118,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Defend until the gates open! >",
@@ -189,7 +189,7 @@
   {
     "original": "< Normal Mode >",
     "en_trans": "",
-    "zh_trans": "< 普通(Normal) >",
+    "zh_trans": "< 普通(Normal) - 突破无限回廊 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "< Hard Mode >",
     "en_trans": "",
-    "zh_trans": "< 困难(Hard) >",
+    "zh_trans": "< 困难(Hard) - 蛮神歼灭战 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "FAKE DOLL",
     "en_trans": "",
-    "zh_trans": "假娃娃",
+    "zh_trans": "假人偶",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "< Refrain Mode >",
     "en_trans": "",
-    "zh_trans": "< 绝境(Refrain) >",
+    "zh_trans": "< 绝境(Refrain) - 究极神兵绝境战 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "< Extreme Mode >",
     "en_trans": "",
-    "zh_trans": "< 极限(Extreme) >",
+    "zh_trans": "< 极限(Extreme) - 朱雀诗魂战 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
