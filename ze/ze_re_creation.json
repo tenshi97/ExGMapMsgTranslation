@@ -2,7 +2,7 @@
   {
     "original": "< Ze_Re_Creation >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< Ze_Re_Creation >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "< Author : Zenow >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 地图作者: Zenow（咖喱棒） >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "< CS2 Porter: Shana >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< CS2版本由Shana移植 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,12 +35,12 @@
   {
     "original": "< Stage 1 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 第一关 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
