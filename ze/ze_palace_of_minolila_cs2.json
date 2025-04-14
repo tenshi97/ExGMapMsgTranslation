@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< ZE_PALACE_OF_MINOLILA >>",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Zombie has escaped!!! Try again... >>",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Next door will open in 5 seconds >>",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "- HARD MODE -",
@@ -536,7 +536,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hold for 15 seconds >>",
@@ -767,7 +767,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Dr.X will kill us in 10 seconds!!! ##",
@@ -789,7 +789,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Welcome to the world of re_creation!!! ###",
@@ -992,7 +992,7 @@
   {
     "original": "<< Blue [ The Jumping Hell ] >>",
     "en_trans": "",
-    "zh_trans": "<< 蓝色 [跃动的地狱]（躲脚底特效）>>",
+    "zh_trans": "<< 蓝色 [跃动的地狱]（三波脚底特效）>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "<< Red [ The Standstill World ] >>",
     "en_trans": "",
-    "zh_trans": "<< 红色 [静止的世界]（躲避箭头）>>",
+    "zh_trans": "<< 红色 [静止的世界]（躲避四周箭头）>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1036,7 +1036,7 @@
   {
     "original": "<< Yellow [ The Forbidden Arrow ] >>",
     "en_trans": "",
-    "zh_trans": "<< 黄色 [禁忌之剑]（可以大跳）>>",
+    "zh_trans": "<< 黄色 [禁忌之剑]（躲前面箭头）>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1108,7 +1108,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< 按钮似乎已经坏了 >>",
@@ -1245,7 +1245,7 @@
   {
     "original": "### Dr.X: Try more hard, and I hope we can meet again~ ###",
     "en_trans": "",
-    "zh_trans": "### X博士：加油吧，希望你们能活着出来！ ###",
+    "zh_trans": "### X博士：加油吧，祝愿你们还能活着出来！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1531,7 +1531,7 @@
   {
     "original": "<< Survive for 180 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 生存180秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1542,29 +1542,29 @@
   {
     "original": "<< You should select one area to go, or you will tele to zombie area >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 你应该选择一个区域去守点，或者你可以让僵尸给你加九千血 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "- EXTRA MODE -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 第六关 -ZM -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Extra Mode Complete!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 全图通关！ >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1575,12 +1575,12 @@
   {
     "original": "<< You are the legend of this map!!! >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 你们就是这张地图的传奇！>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
