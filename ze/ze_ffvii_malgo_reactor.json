@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**CS2 port by kaggel**",
@@ -19,94 +19,94 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** HEAL Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 治疗魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ULTIMA Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 终极魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** BIO Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 毒魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ELECTRO Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 电魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Dodge this! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 这招你躲得掉吗！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< All materias are disabled!! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 所有神器都已失效！！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< RUN TO THE TELEPORT! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 快进传送门！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Only the chosen may survive! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 唯有被选中者方能存活！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
