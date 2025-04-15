@@ -794,7 +794,7 @@
   {
     "original": ">><Radiant Finale> Disappeared<<",
     "en_trans": "",
-    "zh_trans": ">> <光明神的最终乐章> 消失了 <<",
+    "zh_trans": ">> <光明神的最终乐章>（弹药）消失了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,12 +838,12 @@
   {
     "original": ">><High Thunder Ⅱ> Disappeared<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> <高震雷>（电）消失了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

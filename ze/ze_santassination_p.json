@@ -4490,18 +4490,18 @@
   {
     "original": "*** WARM UP ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热身 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** SLAYING ALL PLAYER IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在 20 秒内处死所有玩家 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -4512,7 +4512,7 @@
   {
     "original": "*** SLAYING ALL PLAYER IN 10 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在 10 秒内处死所有玩家 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -4523,23 +4523,23 @@
   {
     "original": "*** THE JOURNEY SHALL COMMENCE SHORTLY ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 旅程即将开始 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** THE TIME IS NOW ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 就是现在 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

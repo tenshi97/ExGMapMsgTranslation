@@ -57,7 +57,7 @@
   {
     "original": "[ Lishang ] -> All good things must come to an end.",
     "en_trans": "",
-    "zh_trans": "[ 离殇 ] -> 天下无不散之筵席。",
+    "zh_trans": "[ 离殇 ] -> 有相遇就有离别。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "< A hidden door slides open! >",
     "en_trans": "",
-    "zh_trans": "< 隐藏门打开了！>",
+    "zh_trans": "< 打开了隐藏的暗门！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "[ Admin ] -> Selected Easy Mode for next round.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[ 管理员 ] -> 为下一回合选择了简单模式。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,62 +541,62 @@
   {
     "original": "< Water drains from the causeway revealing a passage! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 水位下降，出现了新的通路！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The water has completely drained from the causeway >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 水已经完全退去 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Summon Bahamut - Firaga >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了召唤巴哈姆特 - 火炎 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Nymian Device has been pressed >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 尼姆无限装置已被按下 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The door opens. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 关闭的门打开了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The chantry will be sealed off in 15 seconds! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 距放浪神礼堂被封锁还有 15 秒！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -607,12 +607,12 @@
   {
     "original": "< The chantry is sealed off! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 放浪神礼堂已被封锁！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
