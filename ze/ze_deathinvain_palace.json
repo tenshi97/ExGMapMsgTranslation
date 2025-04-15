@@ -13,7 +13,7 @@
   {
     "original": "<Destroy this place in 25 seconds>",
     "en_trans": "",
-    "zh_trans": "< 这个地方将在25秒后开路 >",
+    "zh_trans": "< 死亡神殿方将在25秒后彻底毁灭 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "<???:It's Ava. Please take care of it.>",
     "en_trans": "",
-    "zh_trans": "< ???:是Ava，请小心应对 >",
+    "zh_trans": "< ???:它是Ava，请照顾好他 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "**AVA follows a player**",
     "en_trans": "",
-    "zh_trans": "** AVA跟随了一位玩家（终极已拾取）**",
+    "zh_trans": "** AVA跟随了一位玩家（五秒终极已拾取）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "<AVA USE>",
     "en_trans": "",
-    "zh_trans": "< AVA（终极）已使用,5秒后爆炸 >",
+    "zh_trans": "< AVA（终极）已使用,5秒后生效 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "<Not good! It wants to die with us!>",
     "en_trans": "",
-    "zh_trans": "< 不好！它想和我们同归于尽！>",
+    "zh_trans": "< 不好！它想和我们同归于尽！快阻止他！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,13 +376,13 @@
   {
     "original": "<RAGING FIRE>",
     "en_trans": "",
-    "zh_trans": "< RAGING FIRE >",
+    "zh_trans": "< 烈火 > --- 去内圈",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Who's there?>",
@@ -398,7 +398,7 @@
   {
     "original": "<DIANA!>",
     "en_trans": "",
-    "zh_trans": "< 嘉然! >（使用任意奶神器硬抗伤害） ",
+    "zh_trans": "< 嘉然! > ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,13 +409,13 @@
   {
     "original": "<SHINING SUN>",
     "en_trans": "",
-    "zh_trans": "< SHINING SUN >",
+    "zh_trans": "< 闪耀之光 > --- 使用任意奶神器硬抗伤害",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Saint Diana bless us!>",
@@ -629,7 +629,7 @@
   {
     "original": "<AVA went through the battle and seemed to gain strength>",
     "en_trans": "",
-    "zh_trans": "< 通过这场战斗,AVA似乎获得了足够的力量(现在可以使用终极了) >",
+    "zh_trans": "< 通过这场战斗,AVA似乎获得了足够的力量 > (现在可以使用终极了)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -915,7 +915,7 @@
   {
     "original": "<Let's go on the rightnyan!>",
     "en_trans": "",
-    "zh_trans": "< 一起去右边吧喵~ >",
+    "zh_trans": "< 一起去左边吧喵~ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -937,7 +937,7 @@
   {
     "original": "<Let's gonyan!>",
     "en_trans": "",
-    "zh_trans": "< 我们走吧! >",
+    "zh_trans": "< 我们走吧喵~ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -981,7 +981,7 @@
   {
     "original": "<OK, go and put the fragments into the stone tablet by someone.>",
     "en_trans": "",
-    "zh_trans": "< ok,现在去把石碑碎片放进石碑里 >",
+    "zh_trans": "< OK,现在去把石碑碎片放进石碑里 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,7 +1014,7 @@
   {
     "original": "<SHOCKWAVE>",
     "en_trans": "",
-    "zh_trans": "< 冲击波 > --- 全屏伤害",
+    "zh_trans": "< 冲击波 > --- 跳跃减少伤害",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1036,7 +1036,7 @@
   {
     "original": "<SWEPT ACROSS>",
     "en_trans": "",
-    "zh_trans": "< 横扫千军 > --- 看准时机跳",
+    "zh_trans": "< 横扫千军 > ---全屏伤害",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,7 +1047,7 @@
   {
     "original": "<DIANA FIST>",
     "en_trans": "",
-    "zh_trans": "< 组合拳 > --- 全屏伤害",
+    "zh_trans": "< 组合拳 > --- 开奶硬抗",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,7 +1080,7 @@
   {
     "original": "<The stone tablets on both sides seem to have a clue>",
     "en_trans": "",
-    "zh_trans": "< 两边的石碑好像藏着什么秘密？>",
+    "zh_trans": "< 两边的石板好像藏着什么秘密？> （来两个人去绿色石板下面贴一下）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
