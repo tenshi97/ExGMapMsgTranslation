@@ -68,7 +68,7 @@
   {
     "original": "*** WAIT 30 SECONDS FOR THE ELEVATOR ***",
     "en_trans": "",
-    "zh_trans": "*** 等待 30 秒乘坐电梯 ***",
+    "zh_trans": "*** 等待 30 秒乘坐电梯(倒计时结束再进，否则你可能被夹死) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -87,7 +87,7 @@
   {
     "original": "*** Some of us should go IN the two sides to cover the team ***",
     "en_trans": "",
-    "zh_trans": "*** 我们中的一些人应该去两边守住僵尸 ***",
+    "zh_trans": "*** 打BOSS时一些人去两边守住僵尸(请攻击BOSS的头部，手雷能造成更多伤害) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -117,7 +117,7 @@
   {
     "original": "*** Please come forward <3 ***",
     "en_trans": "",
-    "zh_trans": "*** 请到前面 <3 (去后面)***",
+    "zh_trans": "*** 请到前面 <3 (按s去后面)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -176,7 +176,7 @@
   {
     "original": "*** Please go backward <3 ***",
     "en_trans": "",
-    "zh_trans": "*** 请到后面来 <3 (去前面)***",
+    "zh_trans": "*** 请到后面来 <3 (按w去前面)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,

@@ -618,45 +618,12 @@
   {
     "original": "< ZOMBIE ESCAPED >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 有僵尸进来了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "holLow wORlD",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "Hollow-World",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "Hollow.",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
