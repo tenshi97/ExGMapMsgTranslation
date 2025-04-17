@@ -2,7 +2,7 @@
   {
     "original": "**ZE_FFVII_COSMO_CANYON**",
     "en_trans": "",
-    "zh_trans": "**最终幻想：雪域星空**",
+    "zh_trans": "**最终幻想：雪地峡谷**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave.",
     "en_trans": "",
-    "zh_trans": "[赤红十三] 没错。但在此之前，我需要处理一点事，咱在基族洞窟里会面",
+    "zh_trans": "[赤红十三] 没错。但在此之前，我需要处理一点事，咱在吉族洞窟里会面",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "**Cover here for 5 seconds before we clear this obstacle**",
     "en_trans": "",
-    "zh_trans": "** 在障碍清除前掩护此处 5 秒",
+    "zh_trans": "** 5 秒后障碍物爆炸",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "**The barman will open the door in 5 seconds**",
     "en_trans": "",
-    "zh_trans": "**酒吧店主会在 5 秒后给我们开门",
+    "zh_trans": "**酒馆店主会在 5 秒后给我们开门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**",
     "en_trans": "",
-    "zh_trans": "**僵尸袭来! 在后门打开前守住星空酒吧 25 秒**",
+    "zh_trans": "**守住酒馆 25 秒**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "**The gates of gi cave will open in 15 seconds**",
     "en_trans": "",
-    "zh_trans": "**基族洞窟的大门 15 秒后开启**",
+    "zh_trans": "**吉族洞窟的大门 15 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": "**The gi gate will open in 35 seconds**",
     "en_trans": "",
-    "zh_trans": "**基族入口 35 秒后开启**",
+    "zh_trans": "**吉族入口 35 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**",
@@ -332,40 +332,40 @@
   {
     "original": "**Gi Nattak is using fire**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 释放了火焰**",
+    "zh_trans": "**吉纳塔克 释放了火焰**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak is using wind**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 释放了风**",
+    "zh_trans": "**吉纳塔克 释放了风**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak is using silence**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 使用了沉默**",
+    "zh_trans": "**吉纳塔克 使用了沉默**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak is spawning minions. Watch out for them**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 召唤了奴仆。小心他们!**",
+    "zh_trans": "**吉纳塔克 召唤了奴仆。小心他们!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,46 +376,46 @@
   {
     "original": "**Gi Nattak is using gravity**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 使用了重力**",
+    "zh_trans": "**吉纳塔克 使用了黑洞**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak is using poison**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 使用了剧毒**",
+    "zh_trans": "**吉纳塔克 使用了剧毒**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak is using shield**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 使用了护盾**",
+    "zh_trans": "**吉纳塔克 使用了护盾**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 使用了终极! 快杀了他要不然都得死**",
+    "zh_trans": "**吉纳塔克 使用了终极! 快杀了他要不然都得死**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**The airship to Shinra will arrive in 30 seconds**",
@@ -574,7 +574,7 @@
   {
     "original": "**A player has picked up SLEEP materia**",
     "en_trans": "",
-    "zh_trans": "**玩家拾起了 沉寂魔晶石**",
+    "zh_trans": "**玩家拾起了 沉寂(睡)魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,56 +585,56 @@
   {
     "original": "**Gi Nattak is using Fire Nova!!! Get out of middle**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 使用了火焰新星!!!远离中间**",
+    "zh_trans": "**吉纳塔克 使用了火焰新星!!!远离中间**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak is using aspil**",
     "en_trans": "",
-    "zh_trans": "基纳塔克 使用了吸血",
+    "zh_trans": "吉纳塔克 使用了吸血",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattak has healed 150 hp**",
     "en_trans": "",
-    "zh_trans": "基纳塔克 恢复了150点血量",
+    "zh_trans": "吉纳塔克 恢复了150点血量",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Gi Nattack is escaped**",
     "en_trans": "",
-    "zh_trans": "**基纳塔克 逃走了**",
+    "zh_trans": "**吉纳塔克 逃走了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Now you can get out of Cave of Gi**",
     "en_trans": "",
-    "zh_trans": "**你现在可以离开基族洞穴了**",
+    "zh_trans": "**你现在可以离开吉族洞穴了 | ZMTP 20秒**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
@@ -684,7 +684,7 @@
   {
     "original": "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..",
     "en_trans": "",
-    "zh_trans": "[赤红十三] 恭喜! 你做到了，但是基纳塔克逃走了! 不过我们下次会彻底击败他的!",
+    "zh_trans": "[赤红十三] 恭喜! 你做到了，但是吉纳塔克逃走了! 不过我们下次会彻底击败他的!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": "[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all..",
     "en_trans": "",
-    "zh_trans": "[赤红十三] 算了，不管怎样。我们要彻底击败基纳塔克",
+    "zh_trans": "[赤红十三] 算了，不管怎样。我们要彻底击败吉纳塔克",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,7 +750,7 @@
   {
     "original": "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL ITEM THAT WILL HELP YOU ON GI NATTAK**",
     "en_trans": "",
-    "zh_trans": "**找到所有的黄金箱子以取得特殊神器，那可以帮助你们击败基纳塔克",
+    "zh_trans": "**找到所有的黄金箱子以取得特殊神器，那可以帮助你们击败吉纳塔克",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,7 +849,7 @@
   {
     "original": "[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy..",
     "en_trans": "",
-    "zh_trans": "[克劳德] 兄弟们注意一下。如果杰尼西斯真的在这里，那可能是杰诺瓦..跟他们两个打，那可是一场恶战。",
+    "zh_trans": "[克劳德] 兄弟们注意一下。如果杰尼西斯真的在这里，那杰诺瓦大概率也会在这...跟他们两个打，那会是一场恶战。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,7 +860,7 @@
   {
     "original": "[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become..",
     "en_trans": "",
-    "zh_trans": "[克劳德]特别是如果他得到了基纳塔克的灵魂...无法想象他会强到什么地步...",
+    "zh_trans": "[克劳德] 如果他得到了吉纳塔克的灵魂...无法想象他会强到什么地步...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -871,7 +871,7 @@
   {
     "original": "[Cloud] If you succeed with that then we explode the base with Jenova.",
     "en_trans": "",
-    "zh_trans": "[克劳德] 如果你们成功了，就引爆基地与杰诺瓦同归于尽",
+    "zh_trans": "[克劳德] 如果你们成功了，就引爆基地彻底埋葬杰诺瓦",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,18 +959,18 @@
   {
     "original": "**The power is lost. Defend until the emergency generators are on**",
     "en_trans": "",
-    "zh_trans": "**电力已被中断。防守至应急发电器启动**",
+    "zh_trans": "**电力已被中断。20秒后恢复**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "**We got the power. The gates will open in 15 seconds**",
     "en_trans": "",
-    "zh_trans": "**有电了。大门 15 秒后开启**",
+    "zh_trans": "**电力已恢复 | 大门 15 秒后开启**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -987,12 +987,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**You have beaten Cosmo Canyon!! Congratulations !! **",
     "en_trans": "",
-    "zh_trans": "**恭喜你们通关最终幻想VII：雪域星空!**",
+    "zh_trans": "**恭喜你们通关最终幻想VII：雪地峡谷!**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1020,7 +1020,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**",
@@ -1069,7 +1069,7 @@
   {
     "original": "**Zombies are coming. Defend Cosmo Bar for 30 seconds before we open the back door**",
     "en_trans": "",
-    "zh_trans": "**僵尸来了。在我们打开后门之前，先防守酒吧 30 秒**",
+    "zh_trans": "**僵尸来了。在我们打开后门之前，先防守酒馆 30 秒**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1091,7 +1091,7 @@
   {
     "original": "**The reward is waiting for you in the gi cave**",
     "en_trans": "",
-    "zh_trans": "**奖励在基族洞窟中等着你。**",
+    "zh_trans": "**奖励在吉族洞窟中等着你。**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1146,7 +1146,7 @@
   {
     "original": "[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us.",
     "en_trans": "",
-    "zh_trans": "[克劳德] 这些人能够打败杰尼西斯和杰诺瓦。我想这对我们来说是一个问题解决了。",
+    "zh_trans": "[克劳德] 他们能打败了杰尼西斯和杰诺瓦。帮我们解决了一个大问题。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,7 +1157,7 @@
   {
     "original": "[Red-XIII] I cannot find enough words to thank them for all... they did a really good job.",
     "en_trans": "",
-    "zh_trans": "[赤红十三] 我找不到足够的言语来感谢他们所做的一切……他们做得真的很棒。",
+    "zh_trans": "[赤红十三] 感激涕零，不知所言...他们是我见过最优秀的人",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1179,7 +1179,7 @@
   {
     "original": "[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do.",
     "en_trans": "",
-    "zh_trans": "[克劳德] 听起来不错……我们得继续前进。我们还得阻止萨菲罗斯……总之我们还有很多事要做。",
+    "zh_trans": "[克劳德] 听起来不错...但是我们要尽快阻止萨菲罗斯，不能停下...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1190,7 +1190,7 @@
   {
     "original": "[Cloud] So lets start from the Temple of the Ancients..",
     "en_trans": "",
-    "zh_trans": "[克劳德] 那我们就从古代种神殿开始吧……",
+    "zh_trans": "[克劳德] 下一站就去古代种神殿吧?……",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
