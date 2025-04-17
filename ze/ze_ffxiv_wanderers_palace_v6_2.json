@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Map by Dakotec & Lishang >",
@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Easy Mode >",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Map ported by Waffel. Thanks to NiceShot, koen and jaek for helping. >",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Lishang ] -> All good things must come to an end.",
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Admin ] -> Selected Hard Mode for next round.",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Admin ] -> Selected Extreme Mode for next round.",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Thunder IV >",
@@ -277,7 +277,7 @@
   {
     "original": "< Hard Mode >",
     "en_trans": "",
-    "zh_trans": "< 困难(Hard) - 蛮神歼灭战 >",
+    "zh_trans": "< 困难(Hard) - 三蛮神歼灭战 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,13 +343,13 @@
   {
     "original": "FAKE DOLL",
     "en_trans": "",
-    "zh_trans": "假人偶",
+    "zh_trans": "FAKE DOLL - 假人偶",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "< The Final Ease is no longer sealed! >",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< A Player has acquired Apex Arrow >",
@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Admin ] -> Selected Refrain Mode for next round.",
@@ -404,7 +404,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Refrain Mode >",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Admin ] -> Selected Easy Mode for next round.",
@@ -536,7 +536,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Water drains from the causeway revealing a passage! >",
@@ -563,7 +563,7 @@
   {
     "original": "< A Player has acquired Summon Bahamut - Firaga >",
     "en_trans": "",
-    "zh_trans": "< 一名玩家获得了召唤巴哈姆特 - 火炎 >",
+    "zh_trans": "< 一名玩家获得了龙神召唤 - 火炎 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,161 +629,161 @@
   {
     "original": "< Map Update: 15/04/25 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 地图更新日期: 15/04/25 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Ultimate Annihilation >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 爆击之究极幻想 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Ultimate Suppression >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 乱击之究极幻想 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< The chantry is no longer sealed! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 放浪神礼堂的封锁解除了...>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> It's time to leave here now.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 是时候离开这里了。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> The end is also a beginning.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 这既是结束，亦是开始。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> The release of death is denied me here",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 这里乃是时间的牢狱，但求一死亦不可得。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> ...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 然而我也并不期望从此处离开...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> I shall live with my regret until the world itself hath ceased to be.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 待到世界终结之日，我也将随世界一同离去。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Such is my just punishment for consorting with Darkness ...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 我因为一时的感情冲动而扭曲了巴哈姆特的灵魂 ...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> for calling forth aloathsome and lamentable creature which ...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 所以我也不会去渴求自由",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> blackeneth my beloved's memory.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 这是我犯下错误后应得的惩罚。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Chaos ] -> Show me power befitting your station.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[ 卡奥斯 ] -> 向我展示与你身份相称的力量。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< You are the hero of the light! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 全图通关！你是真正的光之战士！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "- Dream Fall -",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "- 梦之陨落(Dream Fall) -",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
