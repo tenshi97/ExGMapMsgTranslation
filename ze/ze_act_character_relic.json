@@ -526,8 +526,9 @@
     "zh_trans": "守门者将在7秒后被救援。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] Logger save in 7 seconds.",
@@ -535,8 +536,9 @@
     "zh_trans": "伐木工将在7秒后被救援。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] Firer save in 7 seconds.",
@@ -544,8 +546,9 @@
     "zh_trans": "喷火工兵将在7秒后被救援。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] Doctor save in 7 seconds.",
@@ -553,8 +556,9 @@
     "zh_trans": "医生将在7秒后被救援。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] Fireman has ready!The door open in 15 seconds.",
@@ -580,8 +584,9 @@
     "zh_trans": "爆破手将在7秒后被救援。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] Third floor main door open in 30 seconds",
@@ -598,8 +603,9 @@
     "zh_trans": "遗迹法师将在7秒后被救援。",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 7,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] Second floor side door open in 5 seconds",
@@ -652,8 +658,9 @@
     "zh_trans": "老兵将在5秒后被救援",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Map] AFK TP in 15 seconds.",
@@ -1019,7 +1026,7 @@
   {
     "original": "[Map] And now ZM will attack Team B.",
     "en_trans": "",
-    "zh_trans": "并且现在僵尸将攻击B队",
+    "zh_trans": "并且现在僵尸开始进攻B队",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1125,7 +1132,7 @@
   {
     "original": "[Map] Now ZM attack Team A.",
     "en_trans": "",
-    "zh_trans": "僵尸现在攻击A队。",
+    "zh_trans": "僵尸现在开始进攻A队。",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
