@@ -13,7 +13,7 @@
   {
     "original": "<Destroy this place in 25 seconds>",
     "en_trans": "",
-    "zh_trans": "< 死亡神殿方将在25秒后彻底毁灭 >",
+    "zh_trans": "< 死亡神殿将在25秒后彻底毁灭 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "<Try this?>",
     "en_trans": "",
-    "zh_trans": "< 试试这个? >",
+    "zh_trans": "< 试试这个！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -150,8 +150,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A player has picked up Lure Scroll**",
@@ -574,7 +574,7 @@
   {
     "original": "<Zombie item enabled>",
     "en_trans": "",
-    "zh_trans": "< 僵尸神器已被禁用 >",
+    "zh_trans": "< 僵尸现在可以使用神器了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "<Zombie item disabled>",
     "en_trans": "",
-    "zh_trans": "< 僵尸现在可以使用神器了 >",
+    "zh_trans": "< 僵尸神器已被禁用 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
