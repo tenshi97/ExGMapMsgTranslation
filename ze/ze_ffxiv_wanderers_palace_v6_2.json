@@ -794,56 +794,45 @@
   {
     "original": "...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> The story is coming to an end ...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 故事即将迎来结局 ...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ Chaos ] -> I thirst for carnage.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[ 卡奥斯 ] -> 我渴望杀戮。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "<pos> 999999999",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 999999999,
-    "enable_timer": 1,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Ultimate Predation >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 追击之究极幻想 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
