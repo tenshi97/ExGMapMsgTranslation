@@ -2,7 +2,7 @@
   {
     "original": "接到线报,神社下面的实验室可能和大崩坏有关!",
     "en_trans": "",
-    "zh_trans": "接到线报,神社下面的实验室可能和大崩坏有关!",
+    "zh_trans": "接到线报,神社下面的实验室可能和大崩坏有关!(倒计时：水木、)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "根据资料显示,这附近还有一个办事处和一个仓库.",
     "en_trans": "",
-    "zh_trans": "根据资料显示,这附近还有一个办事处和一个仓库.",
+    "zh_trans": "根据资料显示,这附近还有一个办事处和一个仓库(倒计时：水木、)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,24 +255,24 @@
   {
     "original": "这辆大巴挡住了去路.守住这里,直到c4爆炸!",
     "en_trans": "",
-    "zh_trans": "这辆大巴挡住了去路.守住这里,直到c4爆炸!",
+    "zh_trans": "这辆大巴挡住了去路.守住这里,直到c4爆炸! --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "守住这里,直到梯子落下!",
     "en_trans": "",
-    "zh_trans": "守住这里,直到梯子落下!",
+    "zh_trans": "守住这里,直到梯子落下! --- 25s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "死士从另一边来了!",
@@ -288,13 +288,13 @@
   {
     "original": "已呼叫电梯.",
     "en_trans": "",
-    "zh_trans": "已呼叫电梯.",
+    "zh_trans": "已呼叫电梯 --- 15s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "电梯已抵达!",
@@ -310,13 +310,13 @@
   {
     "original": "正在搜查办事处资料......",
     "en_trans": "",
-    "zh_trans": "正在搜查办事处资料......",
+    "zh_trans": "正在搜查办事处资料 --- 23s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 23,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ME社......雷电龙马......经济犯罪......",
@@ -343,13 +343,13 @@
   {
     "original": "正在破解仓库安保系统!",
     "en_trans": "",
-    "zh_trans": "正在破解仓库安保系统!",
+    "zh_trans": "正在破解仓库安保系统! --- 35s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "安保系统已破解!",
@@ -365,13 +365,13 @@
   {
     "original": "守住这里,直到调查完毕!",
     "en_trans": "",
-    "zh_trans": "守住这里,直到调查完毕!",
+    "zh_trans": "守住这里,直到调查完毕! --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "逆熵......激进派......可可利亚......",
@@ -409,13 +409,13 @@
   {
     "original": "已经呼叫撤退直升机,撑住!",
     "en_trans": "",
-    "zh_trans": "已经呼叫撤退直升机,撑住!",
+    "zh_trans": "已经呼叫撤退直升机,撑住! --- 30s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "直升机即将到达,我们撤退!",
