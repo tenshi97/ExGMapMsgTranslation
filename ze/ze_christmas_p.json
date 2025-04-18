@@ -5,8 +5,10 @@
     "zh_trans": ">> 地图由 Taskuvaras 绘制 / 经 Moltard 修复 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">> WARMUP ROUND <<",
@@ -14,6 +16,7 @@
     "zh_trans": ">> 热身回合 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,8 +27,10 @@
     "zh_trans": ">> 还剩 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 30 SECONDS LEFT <<",
@@ -33,8 +38,10 @@
     "zh_trans": ">> 还剩 30 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 20 SECONDS LEFT <<",
@@ -42,8 +49,10 @@
     "zh_trans": ">> 还剩 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> 10 SECONDS LEFT <<",
@@ -51,8 +60,10 @@
     "zh_trans": ">> 还剩 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> WARMUP ROUND END <<",
@@ -60,6 +71,7 @@
     "zh_trans": ">> 热身回合结束 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -70,6 +82,7 @@
     "zh_trans": ">> 关卡： 1 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -80,8 +93,10 @@
     "zh_trans": "***20 秒后开门****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Hold here until we find a way to blow the bridge***",
@@ -89,6 +104,7 @@
     "zh_trans": "***在我们找到炸桥的办法之前，在这里等着***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -99,6 +115,7 @@
     "zh_trans": "***火车被卡住了，无法启动****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -109,6 +126,7 @@
     "zh_trans": "***走左边的小路****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -119,6 +137,7 @@
     "zh_trans": "***防守到我们打开大门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -129,6 +148,7 @@
     "zh_trans": "***门已经打开****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -139,6 +159,7 @@
     "zh_trans": "***大门已经关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -149,6 +170,7 @@
     "zh_trans": "****必须有一名队员去按按钮****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -159,6 +181,7 @@
     "zh_trans": ">> 一名玩家拾取了 [黑洞] <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -169,8 +192,10 @@
     "zh_trans": "*** 出口将在 20 秒后打开****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Exit Door will open in 10 seconds***",
@@ -178,8 +203,10 @@
     "zh_trans": "***出口将在 10 秒后打开****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Exit Door is open***",
@@ -187,6 +214,7 @@
     "zh_trans": "****出口已打开****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -197,8 +225,10 @@
     "zh_trans": "****防守 10 秒****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Plant the C4 to blow the way***",
@@ -206,6 +236,7 @@
     "zh_trans": "****安放C4 炸开道路****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -216,6 +247,7 @@
     "zh_trans": "****防守几秒钟****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -226,8 +258,10 @@
     "zh_trans": "***电梯在 20 秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Elevator doors closing in 10 seconds***",
@@ -235,8 +269,10 @@
     "zh_trans": "***电梯门 10 秒后关闭****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Elevator doors closing in 5 seconds***",
@@ -244,8 +280,10 @@
     "zh_trans": "***电梯门在 5 秒后关闭****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Sleigh leaving in 20 seconds**",
@@ -253,8 +291,10 @@
     "zh_trans": "**雪橇在 20 秒后出发**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Sleigh leaving in 10 seconds**",
@@ -262,8 +302,10 @@
     "zh_trans": "**雪橇在 10 秒后出发**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> ZOMBIE ABOARD !! YOU FAILED !! <<",
@@ -271,6 +313,7 @@
     "zh_trans": ">> 僵尸上船了！！你们失败了！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -281,6 +324,7 @@
     "zh_trans": "**关卡通过**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -291,6 +335,7 @@
     "zh_trans": ">> 关卡: 2 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -301,8 +346,10 @@
     "zh_trans": "**雪橇在 5 秒后出发**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> ZOMBIES INSIDE THE ELEVATOR <<",
@@ -310,6 +357,7 @@
     "zh_trans": ">> 电梯内有僵尸 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -320,6 +368,7 @@
     "zh_trans": ">> 关卡失败 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -330,8 +379,10 @@
     "zh_trans": "***防守 30 秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***5 seconds left***",
@@ -339,8 +390,10 @@
     "zh_trans": "***还剩 5 秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Find a way to open the door of the station***",
@@ -348,6 +401,7 @@
     "zh_trans": "***想办法打开车站的门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -358,8 +412,10 @@
     "zh_trans": "*** 车站的门将在 10 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Station Doors are open***",
@@ -367,6 +423,7 @@
     "zh_trans": "***车站大门已打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -377,6 +434,7 @@
     "zh_trans": "***火车挡住了去路***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -387,6 +445,7 @@
     "zh_trans": "***我们必须炸掉它****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -397,6 +456,7 @@
     "zh_trans": "***按下 E 在列车两侧各放置一个 c4***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -407,6 +467,7 @@
     "zh_trans": "***C4 已安放***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -417,6 +478,7 @@
     "zh_trans": "***向姜饼屋进发！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -427,8 +489,10 @@
     "zh_trans": "***防守 15 秒****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Hold for 5 seconds***",
@@ -436,8 +500,10 @@
     "zh_trans": "***防守 5 秒****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Hold for 10 seconds***",
@@ -445,8 +511,10 @@
     "zh_trans": "***防守 10 秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Defend! Something is coming!***",
@@ -454,6 +522,7 @@
     "zh_trans": "***守住！大的要来了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -464,8 +533,10 @@
     "zh_trans": "***30秒后关闭大门****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIES IN SAFE ZONE!!!***",
@@ -473,6 +544,7 @@
     "zh_trans": "***僵尸进入了安全区！！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -483,6 +555,7 @@
     "zh_trans": "***杀死他们就能通关***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -493,6 +566,7 @@
     "zh_trans": ">> 关卡: 3 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -503,8 +577,10 @@
     "zh_trans": "***防守 20 秒****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP HEAL <<",
@@ -512,6 +588,7 @@
     "zh_trans": ">> 一名玩家获取了 [治疗] <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -522,6 +599,7 @@
     "zh_trans": "***门开了！ 快进去！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -532,6 +610,7 @@
     "zh_trans": ">> 等巨人倒下后，他的尸体将变成路，穿过酸液池，不要掉下去了 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -542,8 +621,10 @@
     "zh_trans": "***电梯 7 秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Hold for 20 seconds***",
@@ -551,8 +632,10 @@
     "zh_trans": "***防守 20 秒****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***Station doors are closing!!***",
@@ -560,6 +643,7 @@
     "zh_trans": "***车站的门正在关闭!!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -570,8 +654,10 @@
     "zh_trans": "***门将在30秒后打开！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> Saviors of Christmas, well done!!! <<",
@@ -579,6 +665,7 @@
     "zh_trans": ">> 拯救圣诞节的英雄，做得好！<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -589,6 +676,7 @@
     "zh_trans": ">> 地图将重置 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -599,8 +687,10 @@
     "zh_trans": "*** 还剩10秒圣诞老人将释放僵尸！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> SECRET MUSIC 2 PLAYING <<",
@@ -608,6 +698,7 @@
     "zh_trans": ">> 彩蛋音乐2 播放中 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -618,8 +709,20 @@
     "zh_trans": ">> 彩蛋音乐1 播放中 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "故意的",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
