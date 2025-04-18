@@ -2,40 +2,40 @@
   {
     "original": "***** ZOMBIES SEEN AT BLACK LION SWIMMING POOLS ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 黑狮游泳池发现僵尸(翻译:星荧铃) *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** ZOMBIES ARE INFECTING THE AIR *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 僵尸正在污染空气 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** HUMANS MUST SURVIVE FOR 1.5 MINUTES *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 人类必须存活 90 秒 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 90,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "***** 45 SECONDS UNTIL AIR BECOMES TOXIC *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 45 秒后空气将变为有毒 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "***** 10 SECONDS UNTIL AIR BECOMES FULLY TOXIC *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 10 秒后空气将完全有毒 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,18 +57,18 @@
   {
     "original": "***** GET INSIDE THE BUILDING *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 进入建筑物 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** 3 *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 3 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "***** 2 *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 2 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "***** 1 *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 1 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,95 +101,95 @@
   {
     "original": "***** BLACK LION SWIMMING POOLS CONTAMINATED *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 黑狮游泳池已被污染 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** DRAINING PUMPS ACTIVATED *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 排水泵已启动 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** PUMP FAILURE IMMINENT *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 排水泵发生故障 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** PUMPS DAMAGED *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 泵已损坏 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** WARNING - INCOMING FLOODS *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 警告 - 洪水即将来袭 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** DOORS ARE ABOUT TO LOCK..... *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 门即将上锁..... *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** ALL DOORS LOCKED *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 所有门已锁定 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** TOXIC AIR LEVELS RETURNING TO NORMAL *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 毒气浓度恢复正常 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** 10 SECONDS BEFORE ESCAPE DOORS OPEN *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 逃生门 10 秒后开启 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,51 +200,51 @@
   {
     "original": "***** ESCAPE DOORS S1 & S2 OPENING *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 逃生门S1和S2正在开启 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** ESCAPE DOORS C1 OPENING *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 逃生门C1正在开启 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** ESCAPE DOORS E1 & E3 OPENED *****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 逃生门E1和E3已开启 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** ANTI TOXINS BEING RELEASED ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 正在释放抗毒素 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** 40 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 40 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,18 +255,18 @@
   {
     "original": "***** GET TO THE SAFETY ROOM ON THE ROOF ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 前往屋顶安全室 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***** 30 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 30 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "***** 10 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 10 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "***** 5 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 5 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": "***** 4 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 4 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "***** 3 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 3 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "***** 2 SECONDS UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 2 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "***** 1 SECOND UNTIL EFFECT ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 1 秒后生效 ****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,12 +343,12 @@
   {
     "original": "***** ANTI TOXIN'S EFFECTIVE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "***** 抗毒素生效 *****",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
