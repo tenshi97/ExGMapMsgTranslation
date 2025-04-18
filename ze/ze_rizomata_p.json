@@ -563,12 +563,12 @@
   {
     "original": "Level 4 set",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "调关至第四关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]

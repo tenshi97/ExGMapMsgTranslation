@@ -2,7 +2,7 @@
   {
     "original": "**Map by Ma/l/go**",
     "en_trans": "",
-    "zh_trans": "**地图作者 Ma/l/go**",
+    "zh_trans": "**地图作者 Ma/l/go(翻译:星荧铃)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,62 +200,62 @@
   {
     "original": "** EARTH Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 土魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ICE Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 冰魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WIND Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 风魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** AQUA Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 水魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** GRAVITY Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 黑洞魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Hold this area for 20 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**守住 20 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,34 +266,34 @@
   {
     "original": "** MIMIC Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 复制魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** BARRIER Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 盾魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** FIRE Materia has been found. **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 已找到 火魔晶石 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

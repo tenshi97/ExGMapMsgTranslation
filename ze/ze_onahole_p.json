@@ -3302,7 +3302,7 @@
   {
     "original": "Amazing, you're still here huh?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "太棒了，你居然还在这儿，是吧？",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -3313,7 +3313,7 @@
   {
     "original": "Keep this up and you might become one of Earth-Chans Guardians",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "继续这样下去，你或许会成为地球酱的守护者之一。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -3324,12 +3324,12 @@
   {
     "original": "ADMIN SET - LEVEL 3",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "管理员设定 - 第三关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
+    "timer_num": 0,
+    "enable_timer": 0,
     "force_hint": 0
   }
 ]
