@@ -299,7 +299,7 @@
   {
     "original": "< Hold this area for 25 seconds! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 守住 25 秒！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,34 +310,34 @@
   {
     "original": "** An administrator has set [GGEASY VERSION] for next round! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员为下回合设置了 [GGEASY] ！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Seems I do not have to hold back. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 此战，无需保留！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** An administrator has set [RACE VERSION] for next round! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员为下回合设置了 [竞速] ！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
