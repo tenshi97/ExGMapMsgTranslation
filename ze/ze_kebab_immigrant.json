@@ -13,7 +13,7 @@
   {
     "original": "[ CHET USE FIRE LASERS ]",
     "en_trans": "",
-    "zh_trans": "Chet使用了火焰之刃---跳或蹲躲避三次",
+    "zh_trans": "Chet使用了火焰之刃---boss方向三刀高低刀",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ So he will add somes lasers for you fckg faggot ]",
@@ -294,7 +294,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ ZOMBIES DETECTED ]",
@@ -316,7 +316,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ YOU WON THE MAP ]",
@@ -523,9 +523,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
+    "timer_num": 5,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ The gates will open in 20 SECONDS ]",
@@ -547,7 +547,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[ 20 SECONDS LEFT ]",
@@ -596,12 +596,12 @@
   {
     "original": "终点跳刀魔改为只有高刀(注意!!!!!)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "终点秒杀刀魔改为只有高刀!!!(本魔改由原神糕手bxzl为各位保驾护航)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
