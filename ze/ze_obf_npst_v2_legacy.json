@@ -5,8 +5,10 @@
     "zh_trans": "所有的音乐都在链接里:",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "youtube.com/watch?v=vZOBj0FcHz0",
@@ -14,8 +16,10 @@
     "zh_trans": "youtube.com/watch?v=vZOBj0FcHz0",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "There is a secret on the map. Try to locate it.",
@@ -23,8 +27,10 @@
     "zh_trans": "地图上有个秘密,试着找到它",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Hint: maybe you should decode the message?",
@@ -32,8 +38,10 @@
     "zh_trans": "提示:也许你应该解码这条信息",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Welcome on Objective NPST",
@@ -41,8 +49,10 @@
     "zh_trans": "欢迎来到行动代号:NPST",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Good Luck !",
@@ -50,8 +60,10 @@
     "zh_trans": "祝你好运",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The door has opened>>>",
@@ -59,8 +71,10 @@
     "zh_trans": "门开了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The yellow door leading to the HUB will open soon>>>",
@@ -68,8 +82,10 @@
     "zh_trans": "通往黑山基地的黄色大门将会在不久后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The yellow door Area 9 will open in 10 seconds>>>",
@@ -77,8 +93,10 @@
     "zh_trans": "九号区域的黄色大门将在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<Get out of here !!!>>>",
@@ -86,8 +104,10 @@
     "zh_trans": "离开这里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The door is opening get inside !>>>",
@@ -95,8 +115,10 @@
     "zh_trans": "门即将打开，快进去！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<We are not giving thanks to Kotya for scripts>>>",
@@ -104,8 +126,10 @@
     "zh_trans": "感谢Kotya的脚本",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The electricity should be cut off in a few seconds>>>",
@@ -113,8 +137,10 @@
     "zh_trans": "几秒钟后就会断电",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<Electricity is OFF>>>",
@@ -122,8 +148,10 @@
     "zh_trans": "电源已关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "DON'T TOUCH THE LASERS",
@@ -131,8 +159,10 @@
     "zh_trans": "不要碰激光",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***The door will open in 10 seconds***",
@@ -140,8 +170,10 @@
     "zh_trans": "门将在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<The door leading to the elevator are open!>>>",
@@ -149,8 +181,10 @@
     "zh_trans": "通往电梯的门已经打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<Quickly climb the ladder or the zombies will slap your ass !>>>",
@@ -158,8 +192,10 @@
     "zh_trans": "快点爬上梯子,否则僵尸会打你的屁屁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<Advance before it closes !>>>",
@@ -167,8 +203,10 @@
     "zh_trans": "在电梯门关上之前赶紧离开这",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The fence has broken>>>",
@@ -176,8 +214,10 @@
     "zh_trans": "水下的栅栏网已经被破坏了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<Call the elevator>>>",
@@ -185,8 +225,10 @@
     "zh_trans": "按下按钮，等待电梯的到来",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The door is going to open>>>",
@@ -194,8 +236,10 @@
     "zh_trans": "尸笼大门即将打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<Prepare to shoot>>>",
@@ -203,8 +247,10 @@
     "zh_trans": "准备开火",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<We are not giving thanks to Waffel for helping>>>",
@@ -212,8 +258,10 @@
     "zh_trans": "感谢Waffel的帮忙",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<The water level is increasing>>>",
@@ -221,8 +269,10 @@
     "zh_trans": "水位正在上升",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "We are not giving thanks to Friend for brushwork",
@@ -230,8 +280,10 @@
     "zh_trans": "感谢我的朋友对地图美术的贡献",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<DOOR IS OPEN>>>",
@@ -239,8 +291,10 @@
     "zh_trans": "卷帘门已经打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<It's not finished>>>",
@@ -248,8 +302,10 @@
     "zh_trans": "现在还没有结束",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<<<5>>>",
@@ -257,8 +313,10 @@
     "zh_trans": "<<< 5 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<4>>>",
@@ -266,8 +324,10 @@
     "zh_trans": "<<< 4 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<3>>>",
@@ -275,8 +335,10 @@
     "zh_trans": "<<< 3 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<2>>>",
@@ -284,8 +346,10 @@
     "zh_trans": "<<< 2 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<1>>>",
@@ -293,8 +357,10 @@
     "zh_trans": "<<< 1 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<<GO GO GOOOO>>>",
@@ -302,8 +368,10 @@
     "zh_trans": "冲 冲 冲!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "<检测到泰坦离场,10秒后执行处死事件>",
@@ -311,8 +379,10 @@
     "zh_trans": "检测到泰坦离开紫色区域,10秒后执行处死事件",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<已触发处死事件>",
@@ -320,7 +390,31 @@
     "zh_trans": "已触发处死事件",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "什么bug，人麻了",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "你们自己探索吧，当原神玩吧",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
