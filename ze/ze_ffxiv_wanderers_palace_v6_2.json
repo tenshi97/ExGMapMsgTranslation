@@ -563,7 +563,7 @@
   {
     "original": "< A Player has acquired Summon Bahamut - Firaga >",
     "en_trans": "",
-    "zh_trans": "< 一名玩家获得了龙神召唤 - 火炎 >",
+    "zh_trans": "< 一名玩家获得了龙神召唤 - 爆炎 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,12 +849,12 @@
   {
     "original": "< A Player has acquired Summon Bahamut - Thundaga >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了龙神召唤 - 暴雷 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
