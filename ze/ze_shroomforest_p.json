@@ -42,7 +42,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL: FLAT GRASS <<",
@@ -51,7 +52,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WAIT TILL THAT WALL BREAKS ***",
@@ -69,7 +71,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WALL IS BROKEN RUUUUUUN!! ***",
@@ -88,7 +91,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WAIT TILL BOMB BREAKS THOSE BOARDS ***",
@@ -168,7 +172,7 @@
   {
     "original": "*** SHOOT IT BEFORE ITS TOO LATE!! ***",
     "en_trans": "",
-    "zh_trans": "*** 趁还来得及，打掉它！***",
+    "zh_trans": "*** 趁还来得及，打掉它！(去场地边缘受到的伤害更低)***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -211,7 +215,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> ALL 6 MINES USED <<",
@@ -220,7 +225,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<",
@@ -229,7 +235,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL COMPLETED!! <<",
@@ -238,7 +245,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL: BIG TREE <<",
@@ -247,7 +255,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP HEAL <<",
@@ -256,7 +265,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP ICE <<",
@@ -265,7 +275,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD FOR 10 seconds ***",
@@ -301,7 +312,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD FOR 5 seconds ***",
@@ -395,7 +407,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP WIND <<",
@@ -404,7 +417,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD FOR 30 seconds ***",
@@ -422,7 +436,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> SECRET IS NOW OPEN <<",
@@ -441,7 +456,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<",
@@ -456,7 +472,7 @@
   {
     "original": ">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<",
     "en_trans": "",
-    "zh_trans": ">> 也许它在两侧房间的箱子里 <<",
+    "zh_trans": ">> 也许在两侧房间的箱子里，打掉它们看看 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -529,7 +545,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> EXTREME MODE ADDED <<",
@@ -538,7 +555,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> BOSSES ON LEVEL II <<",
@@ -547,7 +565,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD FOR ABOUT 30 SECONDS ***",
@@ -580,7 +599,7 @@
   {
     "original": ">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<",
     "en_trans": "",
-    "zh_trans": ">> 野生的百变兽出现了!!!射它!!!!!!!!!! <<",
+    "zh_trans": ">> 野生的百变怪出现了!!!射它!!!!!!!!!! <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -594,43 +613,48 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DITTO IS USING SEED ATTACK <<",
     "en_trans": "",
-    "zh_trans": ">> 百变怪使用了种子攻击 <<",
+    "zh_trans": ">> 百变怪使用了飞叶快刀(快蹲下，使用火神器可以点燃它) <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DITTO IS USING FLAMETHROWER <<",
     "en_trans": "",
-    "zh_trans": ">> 百变怪使用了火焰喷射 <<",
+    "zh_trans": ">> 百变怪使用了喷射火焰 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DITTO IS USING WATER... SOMETHING <<",
     "en_trans": "",
-    "zh_trans": ">> 百变怪使用了喷水... 啥 <<",
+    "zh_trans": ">> 百变怪使用了喷水... 啥(按跳跃键，浮出水面到板子上去) <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<",
     "en_trans": "",
-    "zh_trans": ">> 百变怪使用了十万伏特游到安全的地方 <<",
+    "zh_trans": ">> 百变怪使用了十万伏特 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DITTO IS USING SOMETHING... FUNNY? <<",
@@ -639,7 +663,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> AND IT'S NOT VERY EFFECTIVE!!!! <<",
@@ -648,7 +673,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<",
@@ -755,7 +781,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL: CHOOSING LEVEL <<",
@@ -764,7 +791,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***",
@@ -857,7 +885,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE ELEVATOR WILL FALL DOWN !!! ***",
@@ -942,7 +971,7 @@
   {
     "original": "*** DONT LET ANY ZOMBIE ENTER !! ***",
     "en_trans": "",
-    "zh_trans": "*** 别让僵尸进来!! ***",
+    "zh_trans": "*** 别让僵尸出来!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -996,7 +1025,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 40 SECONDS LEFT <<",
@@ -1034,7 +1064,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Congratulation ! <<",
@@ -1073,7 +1104,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Find a place to hold and survive 1 minute and 30 seconds! <<",
@@ -1091,7 +1123,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 60 seconds left <<",
@@ -1146,7 +1179,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: HELL NORMAL <<",
@@ -1155,7 +1189,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<",
@@ -1164,7 +1199,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<",
@@ -1173,7 +1209,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> RESTARTING ROUND IN 5 SECONDS <<",
@@ -1220,7 +1257,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "不如 我要玩xxx",
