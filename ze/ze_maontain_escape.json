@@ -2,117 +2,117 @@
   {
     "original": "普通模式",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "普通模式",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "但......",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "但......",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "地图出现了大飞板",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图出现了大飞板",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "那是什么....",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "那是什么....",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "飞",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "飞",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "强身健体",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "强身健体",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "选择模式中.....",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "选择模式中.....",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "曼波",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "曼波",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "黑雾四起",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "黑雾四起",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "雾气消失",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "雾气消失",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "3",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "3",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "2",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "2",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "1",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,34 +145,34 @@
   {
     "original": "雾气再起",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "雾气再起",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "一名玩家拾取了蚁狮守卫",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "一名玩家拾取了蚁狮守卫",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "60秒后核爆降临",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "60秒后核爆降临",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
   }
 ]

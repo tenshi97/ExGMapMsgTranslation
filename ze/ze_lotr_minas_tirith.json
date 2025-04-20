@@ -915,78 +915,78 @@
   {
     "original": "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第四关完成！ ** 继续挑战 EX 关吧！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** EXTREME MODE : ON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** EX 关启动！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ENABLED BLUE COLORCORRECTION AND PARTICLES **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 启用了蓝色色彩校正和粒子效果 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 五级以外的僵尸神器都已解锁 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** CONSTANT METEOR HAS BEEN ENABLED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 战斗过程中请注意躲避脚下的红色天谴特效 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** INCREASED NUMBER OF NAZGULS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 戒灵的数量增加了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 0 级的玩家自动升级到 1 级 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

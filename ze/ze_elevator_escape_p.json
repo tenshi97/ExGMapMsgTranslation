@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** MAP BY JB_GAMBLE ***",
@@ -24,7 +25,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** 5 SECONDS ***",
@@ -42,12 +44,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WATER CART LEAVING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "*** 洒水车会在5秒后离开 ***",
+    "zh_trans": "*** 缆车会在5秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -60,7 +63,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR 1 & 2 OPENING ***",
@@ -69,7 +73,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** USE RADIO ***",
@@ -78,7 +83,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***",
