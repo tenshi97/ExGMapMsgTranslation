@@ -35,7 +35,7 @@
   {
     "original": "***45***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 45 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "***30***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 30 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "***15***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 15 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "***10***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 10 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "***5***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 5 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "***4***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 4 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "***3***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 3 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "***2***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 2 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "***1***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 1 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,29 +134,29 @@
   {
     "original": "***WARMUP OVER***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 热身结束 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TRAIN CALLED, PLEASE STANDBY***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已呼叫列车，请稍后 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TRAIN WILL ARRIVE IN 35 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 列车将在35秒后到站 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,40 +167,40 @@
   {
     "original": "***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸压上来了，快退到车站站台继续防守 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TRAIN APPROACHING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 列车已到站 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***FALLBACK ONTO THE TRAIN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快上车 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TRAIN DEPARTS IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 列车将在15秒后出发 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,29 +211,29 @@
   {
     "original": "***ZOMBIE SHORTCUT OPEN***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸快速爆菊路已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 速度点！在地狱门关闭之前赶紧进来! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***NETHER PORTAL CLOSES IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地狱门将在10秒后关闭 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,29 +244,29 @@
   {
     "original": "***PORTAL CLOSED***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地狱门已关闭 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THE NETHER***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前位置:地狱 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DEFEND FOR 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "***DEFEND FOR 20 MORE SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 再坚持20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,18 +288,18 @@
   {
     "original": "***DOORS OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门开了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 撤退！这些门会在10秒后关闭！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,23 +310,23 @@
   {
     "original": "***MOVING ZOMBIES FORWARD***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送僵尸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***DOOR OPENING***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门开了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
