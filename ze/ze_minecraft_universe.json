@@ -141,5 +141,192 @@
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 0
+  },
+  {
+    "original": "***TRAIN CALLED, PLEASE STANDBY***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***TRAIN WILL ARRIVE IN 35 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***TRAIN APPROACHING***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***FALLBACK ONTO THE TRAIN***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***TRAIN DEPARTS IN 15 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***ZOMBIE SHORTCUT OPEN***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***NETHER PORTAL CLOSES IN 10 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***PORTAL CLOSED***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***THE NETHER***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***DEFEND FOR 20 SECONDS***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***DEFEND FOR 20 MORE SECONDS***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***DOORS OPENING***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***MOVING ZOMBIES FORWARD***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***DOOR OPENING***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
