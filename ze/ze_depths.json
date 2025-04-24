@@ -24,7 +24,7 @@
   {
     "original": "Stage 1 - Awakening",
     "en_trans": "",
-    "zh_trans": "第一章- 觉醒",
+    "zh_trans": "第一章 - 觉醒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -662,7 +662,7 @@
   {
     "original": "Stage 3 - Iron Fortress",
     "en_trans": "",
-    "zh_trans": "第三关 -钢铁堡垒",
+    "zh_trans": "第三关 - 钢铁堡垒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": "Water will rise again in 25 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水位将在25秒后上升",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -750,18 +750,18 @@
   {
     "original": "Water levels lowering",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水位已下降",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Door is opening in 40 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在40秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "Water levels rising",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "水位已上升",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,7 +783,7 @@
   {
     "original": "Door opens in 25 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "门将在25秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

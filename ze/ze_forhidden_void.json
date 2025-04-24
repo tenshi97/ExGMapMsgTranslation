@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "port by lopb to cs2||Thanks fong,Tenshi,x1aOFu and 气流 for offering help",
@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Warm Up Time >>",
@@ -448,7 +448,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "defend until the crystal falls",
@@ -459,7 +459,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the tunnel to open",
@@ -470,7 +470,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Obstacle has been moved",
@@ -481,7 +481,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "trigger the crystal to activate the slate",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The tunnel is open",
@@ -503,7 +503,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "She disappeared, we need to leave this place now!!!",
@@ -1097,7 +1097,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "s**t!We still need 5 pieces,altar is devouring all of us,it wants our lives to fill its gaps",
@@ -1108,7 +1108,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "We made it! Those sacrificial companions will be memorialized forever.We can't fail them.The portal is going to open,get in now!",
@@ -1119,12 +1119,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "It seems like we have to go right side",
     "en_trans": "",
-    "zh_trans": "看起来我们得走右边。",
+    "zh_trans": "看起来我们得走右边",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1185,7 +1185,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "s**t!We still need 1 pieces,altar is devouring all of us,it wants our lives to fill its gaps",
@@ -1196,7 +1196,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Wait for the path to open [20 sec]",
@@ -1229,7 +1229,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Acheron Arrive!",
@@ -1432,7 +1432,7 @@
   {
     "original": "Wait for tunnel open [18 sec]",
     "en_trans": "",
-    "zh_trans": "不要放弃，一切经历终将尘埃落定 --- 48s(倒计时30秒时大门开启)",
+    "zh_trans": "不要放弃，一切谜团终将拨云见日 --- 48s(倒计时30秒时大门开启)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1482,6 +1482,6 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
