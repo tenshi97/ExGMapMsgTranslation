@@ -5,8 +5,10 @@
     "zh_trans": "* * * 快艇将在6秒后离开 * * *",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "* * * Hold this temple untill Steve does something * * *",
@@ -14,6 +16,7 @@
     "zh_trans": "* * *在史蒂夫找到方法前守住这座庙宇90秒 * * *",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 90,
     "enable_timer": 1,
     "force_hint": 0
@@ -24,8 +27,10 @@
     "zh_trans": "测试",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "tetek jtkejt kjek jktjek jkaldjgklaj klgs",
@@ -33,8 +38,10 @@
     "zh_trans": "测试 2",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "test",
@@ -42,8 +49,10 @@
     "zh_trans": "黑测试==-=-=-=",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "123",
@@ -51,7 +60,20 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 123,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "welwel, test??",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
