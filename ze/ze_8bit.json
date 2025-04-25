@@ -23,8 +23,9 @@
     "zh_trans": "[第 1 关 普通难度]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** A player has learned Heal magick. **",
@@ -33,7 +34,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE MAIN DOOR OPENS IN 35 SECONDS",
@@ -51,7 +53,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** A player has learned Ammo. **",
@@ -60,7 +63,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** A player has learned Mine. **",
@@ -69,7 +73,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** A player has learned Stopper magick. **",
@@ -78,7 +83,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE MAIN DOOR OPENS IN 5 SECONDS",
@@ -159,7 +165,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE WALL WILL BREAK IN 20 SECONDS",
@@ -213,7 +220,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "BOSS IS DEAD",
@@ -222,7 +230,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "LOCKS WILL OPEN IN 25 SECONDS",
@@ -284,8 +293,9 @@
     "zh_trans": "** 祝贺你 - 你赢了 [第 1 关 普通难度] **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** MAP BY FRENCHY**",
@@ -302,8 +312,9 @@
     "zh_trans": "[第 2 关 普通难度]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE DOORS WILL OPEN IN 25 SECONDS",
@@ -366,7 +377,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE PLATFORM WILL GO IN 30 SECONDS",
@@ -392,8 +404,9 @@
     "zh_trans": "** 祝贺你 - 你赢了 [第 2 关 普通难度] **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[STAGE 3 NORMAL]",
@@ -401,8 +414,9 @@
     "zh_trans": "[第 3 关 普通难度]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE DOOR WILL OPEN IN 30 SECONDS",
@@ -419,8 +433,9 @@
     "zh_trans": "按下 2 个触发按钮",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Congratulations - u won [STAGE 3 NORMAL] **",
@@ -428,8 +443,9 @@
     "zh_trans": "** 祝贺你 - 你赢了 [第 3 关 普通难度] **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[STAGE 1 EXTREME]",
@@ -437,8 +453,9 @@
     "zh_trans": "[第 1 关 EX极限难度]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** A player has learned Cannon ultimate. **",
@@ -447,7 +464,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Kill The Remaining Zombie! <<",
@@ -456,7 +474,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Congratulations - u won [STAGE 1 EXTREME] **",
@@ -464,8 +483,9 @@
     "zh_trans": "** 祝贺你 - 你赢了 [第 1 关 EX极限难度] **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[STAGE 2 EXTREME]",
@@ -473,8 +493,9 @@
     "zh_trans": "[第 2 关 EX极限难度]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "FASE 1",
@@ -482,8 +503,9 @@
     "zh_trans": "第 1 阶段",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "FASE 2",
@@ -491,8 +513,9 @@
     "zh_trans": "第 2 阶段",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Congratulations - u won [STAGE 2 EXTREME] **",
@@ -500,8 +523,9 @@
     "zh_trans": "** 祝贺你 - 你赢了 [第 2 关 EX极限难度] **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[STAGE 3 EXTREME]",
@@ -509,8 +533,9 @@
     "zh_trans": "[第 3 关 EX极限难度]",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "FASE 1 SHOOT ONLY BLUE BOSS",
@@ -518,8 +543,9 @@
     "zh_trans": "第 1 阶段：攻击蓝色 BOSS",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "THE PLATFORM WILL BREAK IN 30 SECONDS",
@@ -533,11 +559,12 @@
   {
     "original": "** Congratulations - u won [STAGE 3 EXTREME] **",
     "en_trans": "",
-    "zh_trans": "** 祝贺你 - 你赢了 [第 2 关 EX极限难度] **",
+    "zh_trans": "** 祝贺你 - 你赢了 [第 3 关 EX极限难度] **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Electro magic. **",
@@ -546,7 +573,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Mine. **",
@@ -555,7 +583,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Fire magick. **",
@@ -564,7 +593,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Stopper magic. **",
@@ -573,7 +603,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Ammo. **",
@@ -582,7 +613,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Heal magic. **",
@@ -591,7 +623,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Player has picked up Cannon ultimate. **",
@@ -600,7 +633,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "PHASE 1",
@@ -608,8 +642,9 @@
     "zh_trans": " 一阶段 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "PHASE 2",
@@ -617,17 +652,19 @@
     "zh_trans": "二阶段 1",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "PHASE 1 SHOOT ONLY BLUE BOSS",
     "en_trans": "",
-    "zh_trans": "一阶段只需要射击蓝色Boss即可 1",
+    "zh_trans": "一阶段只需要射击蓝色Boss即可",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[FINAL STAGE]",
@@ -636,7 +673,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "ONLY DEFEND! TELEPORT ENABLE IN 180 SECOND",
@@ -654,7 +692,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "90 SECOND",
