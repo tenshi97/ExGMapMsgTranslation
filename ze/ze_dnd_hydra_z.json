@@ -73,8 +73,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Debug successful arms of hadar**",
@@ -222,7 +222,7 @@
   {
     "original": "**The Hydra breathes acid smoke**",
     "en_trans": "",
-    "zh_trans": "**海德拉呼出酸性烟雾(全屏伤害)**",
+    "zh_trans": "**海德拉呼出酸性烟雾(中等全屏伤害)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "**The Hydra quakes the earth**",
     "en_trans": "",
-    "zh_trans": "**海德拉使大地震动(跳起来)**",
+    "zh_trans": "**海德拉使大地震动(少量全屏伤害)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "**The Hydra blasts you with acid**",
     "en_trans": "",
-    "zh_trans": "**海德拉对你使用酸液冲击(全屏伤害)**",
+    "zh_trans": "**海德拉对你使用酸液冲击(高额全屏伤害)**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

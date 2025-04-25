@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Break the seal in 20 seconds",
@@ -114,7 +115,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "The seal will be released in 20 seconds",
@@ -159,7 +161,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[Spirit Pray]Transmit in 10 seconds",
@@ -194,8 +197,9 @@
     "zh_trans": "有人触发了>>Normal<<模式的彩蛋，接下来去找绿精灵（不想继续触发就不要去找精灵）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Caught the ��Green Elf��, Difficulty ��Normal��",
