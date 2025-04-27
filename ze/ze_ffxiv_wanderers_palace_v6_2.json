@@ -981,23 +981,23 @@
   {
     "original": "< A Player has acquired Summon Bahamut - Blizzaga >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 一名玩家获得了龙神召唤 - 冰封 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> All good things must come to an end.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 天下无不散之筵席。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
