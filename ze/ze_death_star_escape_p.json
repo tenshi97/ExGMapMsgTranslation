@@ -15,7 +15,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>Map created by FreeZe<<<",
@@ -42,7 +43,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>>Left-Elevator leaving in 10 seconds<<<",
@@ -82,7 +84,7 @@
   },
   {
     "original": ">>>Spawn Sections losing air...vacuum in 10 seconds<<<",
-    "en_trans": ">>>重生区域发生气体泄漏...还剩10秒撤离<<<",
+    "en_trans": "",
     "zh_trans": ">>>重生区域发生气体泄漏...还剩10秒撤离<<<",
     "jp_trans": "",
     "kr_trans": "",
@@ -100,7 +102,7 @@
   },
   {
     "original": ">>>Generator section losing air...vacuum in 10 seconds",
-    "en_trans": ">>>电力区发生气体泄漏...还剩10秒撤离<<<",
+    "en_trans": "",
     "zh_trans": ">>>电力区发生气体泄漏...还剩10秒撤离<<<",
     "jp_trans": "",
     "kr_trans": "",
@@ -233,6 +235,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
