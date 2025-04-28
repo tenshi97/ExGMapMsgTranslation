@@ -76,7 +76,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[爆炎] 持续伤害附近的人类5秒,50秒冷却.",
@@ -96,7 +96,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "有冒险者找到了飓风.",
@@ -116,7 +116,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[飓风] 释放跟随飓风推开僵尸5秒,50秒冷却.",
@@ -136,7 +136,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "有冒险者找到了凛冬.",
@@ -156,7 +156,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[凛冬] 对范围内僵尸造成定身6秒,50秒冷却.",
@@ -176,7 +176,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[凛冬] 能对BOSS造成定身效果.",
@@ -196,7 +196,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "> Barrier shatter in 25 sec. <",
@@ -225,7 +225,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[极冻] 射出寒气3秒,冻结前方人类5秒,50秒冷却.",
@@ -274,7 +274,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "<Byakko>: Turn back,now.",
@@ -304,7 +304,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "<Byakko>: Or you will face my fury.",
@@ -533,7 +533,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[灭绝] 直接斩杀附近的人类,50秒冷却.",
@@ -551,8 +551,8 @@
     "zh_trans": "[灭绝] 直接斩杀附近的人类,50秒冷却.",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 50,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "有冒险者找到了赤陨.",
@@ -572,7 +572,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[赤陨] 向前方生成黑洞6秒,50秒冷却.",
@@ -592,7 +592,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[赤陨] 能对Boss造成定身效果.",
@@ -612,7 +612,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "有冒险者找到了冥水.",
@@ -632,7 +632,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[冥水] 放置旋涡区域强减速僵尸7秒,50秒冷却.",
@@ -652,7 +652,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[冥水] 能对Boss造成伤害.",
@@ -672,7 +672,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "< Admin switch to Stage Hard. >",
@@ -702,7 +702,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[秘火] 对范围内僵尸造成中等减速6秒,50秒冷却.",
@@ -722,7 +722,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[秘火] 该神器能对BOSS和其护盾技能造成伤害.",
@@ -742,7 +742,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "> Byakko is casting Fire And Lighting. <",
@@ -920,7 +920,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[晶体墙] 向前方生成水晶墙5秒,50秒冷却.",
@@ -940,7 +940,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[晶体墙] 能对Boss造成定身效果.",
@@ -960,7 +960,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "Ever this map is kinda small,But i still hope you enjoy. xd",
@@ -1027,7 +1027,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[庇护] 生成跟随护盾使周围僵尸免疫子弹5秒,50秒冷却.",
@@ -1047,7 +1047,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "有冒险者找到了怒雷.",
@@ -1067,7 +1067,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[怒雷] 对范围内僵尸造成微弱减速7秒,50秒冷却.",
@@ -1087,7 +1087,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[怒雷] 该神器能直接击碎僵尸的护盾/对BOSS和其护盾技能造成伤害.",
@@ -1107,7 +1107,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "有僵尸习得了暗影.",
@@ -1127,7 +1127,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[暗影] 隐藏附近包括自己的僵尸5秒,50秒冷却.",
@@ -1147,7 +1147,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "有冒险者找到了岩狱.",
@@ -1167,7 +1167,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[岩狱] 直线禁锢路线上的僵尸7秒,能被挠碎,50秒冷却.",
@@ -1187,7 +1187,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "[岩狱] 能对BOSS造成定身效果.",
@@ -1207,7 +1207,7 @@
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "< Admin switch to Stage ZM. >",
