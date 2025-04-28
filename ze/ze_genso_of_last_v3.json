@@ -8,7 +8,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*A player has picked up Fire Magic*",
@@ -19,7 +19,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*A player has picked up Wind Magic*",
@@ -30,7 +30,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*A player has picked up Heal Magic*",
@@ -41,7 +41,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** A zombie picked up Heal Magic ***",
@@ -52,7 +52,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** A zombie picked up Warp Magic ***",
@@ -63,7 +63,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** A zombie picked up Ice Magic ***",
@@ -74,7 +74,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*A player has picked up Ancient Earth Magic*",
@@ -85,7 +85,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Defend ***",
@@ -96,7 +96,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Grim Reaper defeated ***",
@@ -140,7 +140,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "< ze_genso_of_last_v3 >",
@@ -151,7 +151,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "Map by Pohmian/Mochi",
@@ -162,7 +162,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "Port by 三百度幸运12121",
@@ -173,7 +173,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***The LeftGate is going to open in 40 seconds***",
@@ -250,7 +250,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[WARM-UP ROUND 50SECONDS]",
@@ -272,7 +272,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[NORMAL MODE - Welcome to the Genso]",
@@ -283,7 +283,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Admin Selected NormalMode ***",
@@ -294,7 +294,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** The LeftGate is unlocked ***",
@@ -316,7 +316,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[HARD MODE - Search The Genso to Escape]",
@@ -327,7 +327,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Admin Selected HardMode ***",
@@ -338,7 +338,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** The RightGate is unlocked ***",
@@ -459,7 +459,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***The Last Gate is going to close in 45 seconds***",
@@ -470,7 +470,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[Soul Mode]",
@@ -481,7 +481,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[SOUL MODE - Escape From The Genso]",
@@ -492,7 +492,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[TheLast Mode]",
@@ -503,7 +503,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[THELAST MODE - The Genso is Going to end]",
@@ -514,7 +514,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Admin Selected ThelastMode ***",
@@ -525,7 +525,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Admin Selected SoulMode ***",
@@ -536,7 +536,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***You won Normal Mode***",
@@ -547,7 +547,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***You won Hard Mode***",
@@ -558,7 +558,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***Failed***",
@@ -569,7 +569,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** The Gates are going to open in 45 seconds***",
@@ -613,7 +613,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "[ZOMBIES MODE - The Genso Ended]",
@@ -624,7 +624,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Golem Ahglan Defeated ***",
@@ -668,7 +668,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** !? ***",
@@ -756,7 +756,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***You won Thelast Mode***",
@@ -767,7 +767,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** The vents are going to open ***",
@@ -778,7 +778,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** It going to break ***",
@@ -888,7 +888,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 190,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** 180seconds ***",
@@ -910,7 +910,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Gravity ***",
@@ -976,7 +976,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "< A?nCie?? E??R?? >",
@@ -987,7 +987,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "***Survive in 180 seconds***",
@@ -1009,7 +1009,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*** Admin Selected ZombiesMode ***",
@@ -1020,6 +1020,6 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	}
 ]
