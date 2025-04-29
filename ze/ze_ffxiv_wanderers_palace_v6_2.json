@@ -1009,29 +1009,29 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Type 1 in chat to get solo.",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "The map is from Final Fantasy XIV.",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "在聊天栏输入1进入单人模式。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 0
+  },
+  {
+    "original": "The map is from Final Fantasy XIV.",
+    "en_trans": "",
+    "zh_trans": "这张地图源自《最终幻想14》。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Slay goober",
@@ -1047,7 +1047,7 @@
   {
     "original": "Nobody cares.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "没人在乎。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
