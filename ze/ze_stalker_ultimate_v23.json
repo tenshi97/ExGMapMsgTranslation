@@ -867,5 +867,49 @@
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "A player picked up spikeball",
+    "en_trans": "",
+    "zh_trans": " 一位玩家拾取了海胆(奶) ",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "**Prepare for ultimate survival. Fight for your life!!**",
+    "en_trans": "",
+    "zh_trans": "** 拼尽全力活下来! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "**FIREBALL GOT MAXIMUM POWER**",
+    "en_trans": "",
+    "zh_trans": "** 火球已升级至最高级 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "**YOU DID IT!!!**GOOD LUCK!!**",
+    "en_trans": "",
+    "zh_trans": "** 你做到了！** 祝你好运！**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
