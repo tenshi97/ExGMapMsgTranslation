@@ -1042,12 +1042,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ADMIN PRESSED KILL ALL BUTTON **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员按下了处死按钮 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
