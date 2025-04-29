@@ -60,7 +60,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ***",
@@ -69,7 +70,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***",
@@ -87,7 +89,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WHAT IS THIS PLACE? ***",
@@ -96,7 +99,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** IT SEEMS LIKE THERE IS NO WAY OUT ***",
@@ -105,43 +109,47 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** RESIST UNTIL SOMETHING HAPPENS ***",
     "en_trans": "",
-    "zh_trans": "*** 坚持一会,有什么事就要发生了 ***",
+    "zh_trans": "*** 坚持一会,有什么事就要发生了(20秒) ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "*** CRYSTALLIZE ***",
     "en_trans": "",
-    "zh_trans": "*** 结晶 ***",
+    "zh_trans": "*** 结晶(躲开冰晶) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** FROSTY BEAM ***",
     "en_trans": "",
-    "zh_trans": "*** 寒冰射线 ***",
+    "zh_trans": "*** 寒冰射线(跳绳) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ICY WIND ***",
     "en_trans": "",
-    "zh_trans": "*** 寒风 ***",
+    "zh_trans": "*** 寒风(“中间”特效按“W”抵抗推力，“场外”出现特效按“S”吸力) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** CRYSTAL RAIN ***",
@@ -150,7 +158,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WHAT WAS THAT THING? ***",
@@ -159,7 +168,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** OH WELL! WHATEVER IT IS IT'S GONE NOW! ***",
@@ -168,7 +178,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** WE BETTER RUN BEFORE THE TEMPLE COLLAPSES! ***",
@@ -177,7 +188,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** NUKE IN 1 MINUTE AND 30 SECONDS ***",
@@ -195,7 +207,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** NUKE IN 1 MINUTE ***",
@@ -263,10 +276,11 @@
   {
     "original": "*** BLANKET FREEZE ***",
     "en_trans": "",
-    "zh_trans": "*** 寒冰笼罩 ***",
+    "zh_trans": "*** 寒冰笼罩(跳起来) ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Created by Jack Bauer ***",
@@ -33,7 +34,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** You Must Wait For Your Team ***",
@@ -42,7 +44,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The Train Will Leave in 5 seconds ***",
@@ -56,11 +59,12 @@
   {
     "original": "*** To use the barricade hammer, hold E key to move wood up or down, and HIT ATTACK KEY on hammer to place a wood barricade! ***",
     "en_trans": "",
-    "zh_trans": "*** 要使用障碍锤子，按住 E 键将木板上下移动，然后切换到锤子，点击攻击键把木板放下! ***",
+    "zh_trans": "*** 要使用障碍锤子，按住 E 键将木板上下移动，点击攻击键把木板放下! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Level B Door Opens in 25 Seconds ***",
@@ -87,7 +91,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Level B Door Opens in 5 Seconds ***",
@@ -114,7 +119,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE PORTAL IS OPEN!!! GO!!!! ***",
@@ -123,7 +129,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THAT BIG X ON THE RIGHT IS A SECRET PATH THAT ONLY THE ICE GUN HOLDER CAN GO! ***",
@@ -132,7 +139,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Exit Door Opens in 15 Seconds ***",
@@ -150,7 +158,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Exit Door Opens in 5 Seconds ***",
@@ -168,12 +177,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***",
     "en_trans": "",
-    "zh_trans": "*** 破坏蓝色木桶以扮演坦克!!! ***",
+    "zh_trans": "*** 破坏蓝色铁桶以扮演坦克!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -222,7 +232,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The Helicopter is coming ***",
@@ -231,7 +242,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Rescue ETA in 1 minute ***",
@@ -249,7 +261,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HOLD E to charge this plasma gun. When FULLY charged, HIT ATTACK KEY ON PLASMA GUN TO SHOOT!! ***",
@@ -258,7 +271,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THIS ITEM IS VERY DANGEROUS SO CAREFUL WHEN USE IT. ***",
@@ -267,7 +281,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** BREAK THE BRIDGE LADDER TO HOLD THE ZOMBIES!!!! ***",
@@ -276,7 +291,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Detonation in 3 Seconds ***",
@@ -339,7 +355,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Rocket in 10 seconds ***",
@@ -366,7 +383,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** ZOMBIES ON THE HELICOPTER, SHOOT THEM OUT!! ***",
@@ -375,7 +393,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU ARE PLAYING ON MEDIUM DIFFICULTY!! KIDS!! ***",
@@ -384,7 +403,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Shoot the Bridge Down!! ***",
@@ -393,7 +413,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***",
@@ -416,11 +437,12 @@
   {
     "original": "*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK ***",
     "en_trans": "",
-    "zh_trans": "*** 坦克可以破坏大石头上的木质平台 ***",
+    "zh_trans": "*** 坦克可以破坏木质平台上的大石头 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boat Leaving in 5 Seconds ***",
@@ -438,7 +460,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU HAVE TO GO TO THE HOUSE THIS TIME!! ***",
@@ -447,7 +470,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Rescue ETA in less than 2 minutes ***",
@@ -465,16 +489,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY ZOMBIES ***",
     "en_trans": "",
-    "zh_trans": "*** 僵尸可以破坏大石头上的木质平台 ***",
+    "zh_trans": "*** 僵尸可以破坏木质平台上的大石头 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***",
@@ -483,7 +509,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Press E to push things away with this gun! ***",
@@ -492,7 +519,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU CANNOT BARRICADE THE TRAM! ***",
@@ -501,7 +529,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU CANNOT BARRICADE THE TELEPORT! ***",
@@ -510,7 +539,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** DO NOT SPAM ATTACK KEY, WAIT UNTIL ATTACK ANIMATION ENDS ***",
@@ -528,7 +558,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** YOU CANNOT BARRICADE THE TRAIN! ***",
@@ -537,7 +568,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** SHOOT THE LADDER TO HOLD THE ZOMBIES!!!! ***",
@@ -546,6 +578,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

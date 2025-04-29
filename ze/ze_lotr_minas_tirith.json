@@ -1025,18 +1025,18 @@
   {
     "original": "** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你们做到了 ** 在最高难度下通关了该地图 ** 所有神器已解锁 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** FEEL FREE TO RTV THE MAP **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 是时候按Y输入“rtv”发起换图投票了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

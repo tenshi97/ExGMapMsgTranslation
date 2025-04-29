@@ -725,22 +725,22 @@
   {
     "original": "*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***",
     "en_trans": "",
-    "zh_trans": "*** Boss正在吸收你对他造成的伤害 ***",
+    "zh_trans": "*** Boss正在吸收你对他造成的伤害(持续10秒) ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "*** DONT SHOOT HIM ***",
+    "en_trans": "",
+    "zh_trans": "*** 不要向BOSS开枪，准备扔手雷 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
-  },
-  {
-    "original": "*** DONT SHOOT HIM ***",
-    "en_trans": "",
-    "zh_trans": "*** 不要向BOSS开枪 ***",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
   },
   {
     "original": "*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***",
