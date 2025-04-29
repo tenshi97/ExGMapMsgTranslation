@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Version 0.0.0.2 **",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Special thanks to Brunelazo343 for custom skins **",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The Catacombs gates will open in 20 seconds **",
@@ -1757,7 +1757,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The Old Church gates will open in 15 seconds **",
@@ -1773,7 +1773,7 @@
   {
     "original": "** Zombies will be teleported after 30 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸将在 30 秒后传送 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1784,23 +1784,23 @@
   {
     "original": "** The Great Grey Wolf Sif was defeated... **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大灰狼希夫被击败了... **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** The Great Grey Wolf Sif was one of King Gwyns protectors and like his loyal companions, he swore an oath to answer the call when the time came **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大灰狼希夫曾是葛温王的护卫之一，正如他忠诚的伙伴们那样，他立下誓言当时机到来时将回应召唤 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
