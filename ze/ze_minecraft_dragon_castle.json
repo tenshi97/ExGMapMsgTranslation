@@ -924,6 +924,17 @@
     "force_hint": 1
   },
   {
+    "original": "* Torch 2 pickup*",
+    "en_trans": "",
+    "zh_trans": "* 拾起第 2 个火把，可以用它烧掉前方的蜘蛛网 *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
     "original": "ZOMBIE DETECTED !!",
     "en_trans": "",
     "zh_trans": "检测到僵尸！！",
@@ -971,6 +982,50 @@
     "original": "### LEVEL 1/5 ###",
     "en_trans": "",
     "zh_trans": "### 关卡 1/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 2/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 2/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 3/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 3/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 4/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 4/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 5/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 5/5 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
