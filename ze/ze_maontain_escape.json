@@ -266,34 +266,34 @@
   {
     "original": "护送猫猫",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "护送猫猫",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸突破了一次！！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸突破了一次！！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸摧毁了运载目标，任务失败！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸摧毁了运载目标，任务失败！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
