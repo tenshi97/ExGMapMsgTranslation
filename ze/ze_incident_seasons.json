@@ -242,9 +242,9 @@
     "force_hint": 1
   },
   {
-    "original": "*** 巴托莉：真正的异变其实是我！ ***",
+    "original": "*** 巴托莉:真正的异变其实是我! ***",
     "en_trans": "",
-    "zh_trans": "*** 巴托莉：真正的异变其实是我！(BGM:Nameless Passion - Sennzai / 天束 ) ***",
+    "zh_trans": "*** 巴托莉:真正的异变其实是我！(BGM:Nameless Passion - Sennzai/天束 ) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -272,7 +272,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** Player has picked up the Dark ***",
@@ -283,7 +283,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** 巴托莉会帮助我们 ***",
@@ -310,13 +310,13 @@
   {
     "original": "*** Player has picked up the Light ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了光 ***",
+    "zh_trans": "*** 一名玩家捡起了光（治疗） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** Player has picked up the Fire ***",
@@ -327,7 +327,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** Player has picked up the Water ***",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** Player has picked up the Season Power ***",
@@ -349,7 +349,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** 巴托莉已经准备好使用极冰长枪了 ***",
@@ -360,7 +360,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "*** 巴托莉：根据我的调查，这一切都是有人在幕后操控 ***",
@@ -547,12 +547,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** A zombie has picked up Electrical Ring ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸捡起了闪电之力 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -563,7 +563,7 @@
   {
     "original": "*** A zombie has picked up Collecter magic ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸捡起了收集者 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -574,7 +574,7 @@
   {
     "original": "** 20 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 20 秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "*** 10 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,13 +596,13 @@
   {
     "original": "** 巴托莉：应该就是这里了，到上面去，我可以尝试破坏这里的仪式 **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 巴托莉：应该就是这里了，到上面去，我可以尝试破坏这里的仪式 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "test",
@@ -618,12 +618,12 @@
   {
     "original": "*** 巴托莉：好的……让我看看，真不容易…… ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 巴托莉：好的……让我看看，真不容易…… ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
