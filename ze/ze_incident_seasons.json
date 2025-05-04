@@ -838,13 +838,13 @@
   {
     "original": "*** 巴托莉：我来催动魔晶打开道路，你们帮我抵抗一下死尸 ***",
     "en_trans": "",
-    "zh_trans": "*** 巴托莉：我来催动魔晶打开道路，你们帮我抵抗一下死尸 ***",
+    "zh_trans": "*** 巴托莉：我来催动魔晶打开道路，你们帮我抵抗一下死尸(大概需要85秒) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 85,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 巴托莉：差不多可以走了 ***",
