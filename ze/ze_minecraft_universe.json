@@ -167,13 +167,13 @@
   {
     "original": "***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***",
     "en_trans": "",
-    "zh_trans": "*** 僵尸压上来了，快退到车站站台继续防守 ***",
+    "zh_trans": "*** 僵尸压上来了，快退到车站站台继续防守(60秒后开启侧路，倒计时剩余30秒时列车到站) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 60,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***TRAIN APPROACHING***",
@@ -211,7 +211,7 @@
   {
     "original": "***ZOMBIE SHORTCUT OPEN***",
     "en_trans": "",
-    "zh_trans": "*** 僵尸快速爆菊路已开启 ***",
+    "zh_trans": "*** 僵尸快速爆菊路已开启(走侧路的人，面对僵尸身后是路) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -761,13 +761,13 @@
   {
     "original": "***FALLBACK TO THE SHIP***",
     "en_trans": "",
-    "zh_trans": "*** 现在撤退到船上 ***",
+    "zh_trans": "*** 现在撤退到船上(大约60秒后桥断) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 60,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ZOMBIES ARE BEING TELEPORTED FORWARD***",

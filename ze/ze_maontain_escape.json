@@ -266,144 +266,144 @@
   {
     "original": "护送猫猫",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "护送猫猫",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸突破了一次！！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸突破了一次！！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸摧毁了运载目标，任务失败！！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸摧毁了运载目标，任务失败！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "0.8重力",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "0.8重力",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "1.25倍速",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1.25倍速",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "因为一些原因将开启原地尸变",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "因为一些原因将开启原地尸变",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "抓钩抓到了一名人类，帮帮他",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "抓钩抓到了一名人类，帮帮他",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "0.3重力",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "0.3重力",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "冰！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "wc，冰！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "2重力",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "2重力",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "1.25重力",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "30秒后将进行只能使用近战武器最终对决",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "1.25重力",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "30秒后将进行只能使用近战武器最终对决",
+    "en_trans": "",
+    "zh_trans": "30秒后将进行只能使用近战武器最终对决",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "15秒后将进行只能使用近战武器最终对决",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "15秒后将进行只能使用近战武器最终对决",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {

@@ -13,7 +13,7 @@
   {
     "original": "<!!!> COLD MOUNTAIN <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 寒冷山脉 <!!!>",
+    "zh_trans": "<!!!> 沿着路上的标识走，不要迷失在寒冷山脉里了 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "<!!!> THE COLD HURTS <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 寒冷会对玩家造成伤害 <!!!>",
+    "zh_trans": "<!!!> 寒冷的天气使玩家生命值持续流失，随时注意自己的“护甲”和“生命值” <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "<!!!> TRAM LEAVING 60 SECONDS <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 电车将在 60 秒后出发 <!!!> ",
+    "zh_trans": "<!!!> 缆车将在 60 秒后出发 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "<!!!> TRAM LEAVING <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 电车即将出发 <!!!>",
+    "zh_trans": "<!!!> 缆车即将出发 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,89 +189,89 @@
   {
     "original": "<!!!> LEVEL 5 <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 第五关 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<!!!> CALL HELICOPTER <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 呼叫直升机带我们离开这里 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<!!!> USE THE RADIO <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 使用无线电设备呼叫救援 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<!!!> IN THE OPEN CONTAINER <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 在打开的集装箱里 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<!!!> WAIT FOR HELICOPTER <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 守到直升机来接我们 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<!!!> FALL BACK TO HELICOPTER <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 直升机来了，撤退 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<!!!> HELICOPTER LEAVING <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 直升机正在离开 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<!!!> MAP COMPLETE <!!!>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<!!!> 全图通关，感谢游玩！地图作者:JB (文本翻译:星荧铃) <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

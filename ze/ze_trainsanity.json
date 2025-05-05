@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** max rooms: 5 ***",
@@ -167,23 +167,23 @@
   {
     "original": "+++ teleport pad has been found +++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+++ 传送已被发现 +++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "--- kill zombies in the room ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 杀死房间里的僵尸 ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

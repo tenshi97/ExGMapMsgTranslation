@@ -343,51 +343,51 @@
   {
     "original": "< Too late for laments! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 为时已晚! >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< I've been... Defeated? >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 这... 就是败北？ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You have beaten INSANE II (HELLZ VERSION)!! Congratulations !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你已经击败了 疯狂 II(HELLZ) ！！恭喜！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< I understand that you've been looking for me. >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 寻找此身…你倒是执着。 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**Hold this area for 17 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**坚守这个区域 17 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "**Hold this area for 15 seconds!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**坚守这个区域 15 秒！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,34 +409,34 @@
   {
     "original": "**Blast Doors are locked! Find another way!**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "**防爆门已锁死！寻找其他出路！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Say goodbye! >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 该说再见了! >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** You have beaten INSANE III (RMZS VERSION)!! Congratulations !! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你已经征服了 疯狂 III (RMZS) ！！恭喜！！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
