@@ -2,7 +2,7 @@
   {
     "original": "| SPECIAL THANKS TO ANTOSHA & TONY |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 特别感谢：ANTOSHA & TONY |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "| 20 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 20 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "| 15 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 15 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "| 10 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 10 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -47,7 +47,7 @@
     "original": "| 5 |",
     "en_trans": "",
     "zh_trans": "",
-    "jp_trans": "",
+    "jp_trans": "| 5 |",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
@@ -57,7 +57,7 @@
   {
     "original": "| 25 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 25 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,23 +68,34 @@
   {
     "original": "| RANDOM DOOR OPENING SOON.. |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 将会随机开启一扇门 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "| 30 |",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "| 30 |",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 30,
     "enable_timer": 1,
     "force_hint": 0
+  },
+  {
+    "original": "| CHECKPOINT REACHED |",
+    "en_trans": "",
+    "zh_trans": "| 存档点已激活，下回合将在此处继续游戏进程 |",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
