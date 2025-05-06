@@ -266,7 +266,7 @@
   {
     "original": "*** Player has picked up the Earth ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了土 ***",
+    "zh_trans": "*** 一名玩家捡起了坚岩之壁(土) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "*** Player has picked up the Dark ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了黑洞 ***",
+    "zh_trans": "*** 一名玩家捡起了恒星之引(黑洞) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "*** Player has picked up the Light ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了光（治疗） ***",
+    "zh_trans": "*** 一名玩家捡起了光芒之心（治疗） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "*** Player has picked up the Fire ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了火 ***",
+    "zh_trans": "*** 一名玩家捡起了炽烈之焰(火) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "*** Player has picked up the Water ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了水 ***",
+    "zh_trans": "*** 一名玩家捡起了沧澜之涣(水) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "*** A zombie has picked up Electrical Ring ***",
     "en_trans": "",
-    "zh_trans": "*** 僵尸捡起了电环 ***",
+    "zh_trans": "*** 僵尸捡起了闪电之力 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,13 +838,13 @@
   {
     "original": "*** 巴托莉：我来催动魔晶打开道路，你们帮我抵抗一下死尸 ***",
     "en_trans": "",
-    "zh_trans": "*** 巴托莉：我来催动魔晶打开道路，你们帮我抵抗一下死尸 ***",
+    "zh_trans": "*** 巴托莉：我来催动魔晶打开道路，你们帮我抵抗一下死尸(大概需要85秒) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 85,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 巴托莉：差不多可以走了 ***",
@@ -1575,7 +1575,7 @@
   {
     "original": "*** 100 sec ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 100 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1586,7 +1586,7 @@
   {
     "original": "*** 50 sec ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 50 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1597,23 +1597,23 @@
   {
     "original": "*** 暗符[纯粹的狂气] ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 暗符[纯粹的狂气] ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 暗符[斜向的噩梦] ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 暗符[斜向的噩梦] ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
