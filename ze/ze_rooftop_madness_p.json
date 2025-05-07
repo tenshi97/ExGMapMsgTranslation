@@ -2,7 +2,7 @@
   {
     "original": "*** Human items can be found in blue containers ***",
     "en_trans": "",
-    "zh_trans": "*** 人类神器可以在蓝色集装箱中找到 ***",
+    "zh_trans": "*** 人类可以在蓝色集装箱中找到神器 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "*** Map by Soft Serve ***",
     "en_trans": "",
-    "zh_trans": "*** 地图作者 Soft Serve ***",
+    "zh_trans": "*** 地图作者 Soft Serve(翻译:星荧铃) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,51 +178,51 @@
   {
     "original": "*** Cabin leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 木屋将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Porch leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 走廊将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Lawn leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 草坪将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Pipe leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 管道将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Lift 2 activating in 10 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 电梯 2 将在 10 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "*** Fire Zombie has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火焰僵尸已出现 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "*** Tetromino has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 俄罗斯方块已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "*** Mega Zombie has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 巨型僵尸已出现 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "*** Wind Zombie has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 风之僵尸已出现 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,18 +277,18 @@
   {
     "original": "*** Seagull leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 海鸥将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Laser Zombie has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 激光僵尸已出现 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": "*** Helicopter arriving in 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 直升机将在 30 秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "*** Helicopter arriving in 15 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 直升机将在 15 秒后抵达 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
