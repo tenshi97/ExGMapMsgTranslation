@@ -5,6 +5,7 @@
     "zh_trans": "就是这个鬼地方了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": "这场浩劫的源头...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": "我们得找到设施的核心并超载它来摧毁这个实验室.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,6 +38,7 @@
     "zh_trans": "我们得按原先计划的那样,先去维修区关闭总闸.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -45,6 +49,7 @@
     "zh_trans": "我们的行径路线当中会有会有一些防爆门,手动关闭它们以此短暂的休息一会.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -55,6 +60,7 @@
     "zh_trans": "记得跟紧你的队友.虚空会吞噬所有缓慢之人.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -65,6 +71,7 @@
     "zh_trans": "祝各位凯旋而归!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -75,6 +82,7 @@
     "zh_trans": "找到电源主控室",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -85,8 +93,10 @@
     "zh_trans": "感谢Cloudnine对于地图的帮助",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map still in beta, feel free to report any issues to me.",
@@ -94,8 +104,10 @@
     "zh_trans": "地图仍在测试阶段,如果有任何问题,请向 <路过人王小明> 反馈",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Map optimization will be done in final version",
@@ -103,8 +115,10 @@
     "zh_trans": "地图大小的压缩将推迟到最终版本处理.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "This is just a reminder that if you still have the old version please make sure delete it as it is not worth to store a 400mb map in your driver",
@@ -112,8 +126,10 @@
     "zh_trans": "提醒:记得删除旧版本400mb的版本文件",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Thanks to Huan Tian's map route improvement, the final version will have a new ending route, and the map will be 150MB in size",
@@ -121,8 +137,10 @@
     "zh_trans": "感谢<幻天>提供的路线改进建议,最终版本将会有一条[全新的结局路线],地图大小会被限制在150mb大小",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Also thanks to tupu This version is only tested in Zombie Paradise, the final version will be released",
@@ -130,8 +148,10 @@
     "zh_trans": "感谢Tupu,本版本会在僵尸乐园进行测试,最终版本会公开发布.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "The Door will open in 30s",
@@ -139,8 +159,10 @@
     "zh_trans": "防爆门将在30秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The Door seems to be stuck...",
@@ -148,6 +170,7 @@
     "zh_trans": "门似乎被卡住了...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -158,6 +181,7 @@
     "zh_trans": "按钮没反应,修起来需要花点时间.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -168,6 +192,7 @@
     "zh_trans": "僵尸快追上来了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -178,8 +203,10 @@
     "zh_trans": "在此坚守60秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door opened",
@@ -187,6 +214,7 @@
     "zh_trans": "门已经打开了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -197,6 +225,7 @@
     "zh_trans": "我们需要一点时间把梯子放下来",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -207,6 +236,7 @@
     "zh_trans": "防守僵尸直到梯子降下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -217,6 +247,7 @@
     "zh_trans": "能源主控室就在前面!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -227,6 +258,7 @@
     "zh_trans": "这些洞里的污水看起来有毒...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -237,6 +269,7 @@
     "zh_trans": "走左边的门.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -247,6 +280,7 @@
     "zh_trans": "钥匙卡没反应.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -257,6 +291,7 @@
     "zh_trans": "坚守僵尸直到我们修好它.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -267,6 +302,7 @@
     "zh_trans": "另一边的门已经打开了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -277,6 +313,7 @@
     "zh_trans": "快跑!快进主控室!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -287,6 +324,7 @@
     "zh_trans": "防守到门关!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -297,6 +335,7 @@
     "zh_trans": "干得好,这个地方看起来很安全.总算能休息会了..",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -307,6 +346,7 @@
     "zh_trans": "卧槽",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -317,6 +357,7 @@
     "zh_trans": "守住这个卷帘门直到电力恢复",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -327,6 +368,7 @@
     "zh_trans": "能源已恢复至33%",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -337,6 +379,7 @@
     "zh_trans": "能源已恢复至66%",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -347,6 +390,7 @@
     "zh_trans": "来电了,赶紧出来!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -357,6 +401,7 @@
     "zh_trans": "从刚才的大爆炸来看,设施应该快要炸了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -367,6 +412,7 @@
     "zh_trans": "我们得加快脚步找到实验室",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -377,6 +423,7 @@
     "zh_trans": "坚守这片区域直到我们把这破木板踹开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -387,6 +434,7 @@
     "zh_trans": "门关了,继续前进!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -397,6 +445,7 @@
     "zh_trans": "我们马上就能离开这个鬼地方了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -407,6 +456,7 @@
     "zh_trans": "我们只需要穿过悬崖边，坐电梯去下面的实验室.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -417,6 +467,7 @@
     "zh_trans": "似乎通往悬崖边的门是锁着的.我们得绕道而行",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -427,6 +478,7 @@
     "zh_trans": "准备防守僵尸!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -437,8 +489,10 @@
     "zh_trans": "防守40秒!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Watch out the pipe!",
@@ -446,6 +500,7 @@
     "zh_trans": "小心管道爆炸!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -456,6 +511,7 @@
     "zh_trans": "门开了,快走!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -466,6 +522,7 @@
     "zh_trans": "分头行动,两边都不能失守!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -476,6 +533,7 @@
     "zh_trans": "我们需要对两侧控制面板进行配置。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -486,6 +544,7 @@
     "zh_trans": "发现僵尸,紧急制动门已经打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -496,6 +555,7 @@
     "zh_trans": "我们差不多到了另一边了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -506,6 +566,7 @@
     "zh_trans": "就差一点我们就到研究实验室了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -516,8 +577,10 @@
     "zh_trans": "防守40秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The Emergency Generator!",
@@ -525,6 +588,7 @@
     "zh_trans": "应急发电机!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -535,6 +599,7 @@
     "zh_trans": "按下所有按钮重启它！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -545,6 +610,7 @@
     "zh_trans": "门打开了,继续前进!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -555,6 +621,7 @@
     "zh_trans": "这东西一旦开始预热就会很吵。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -565,6 +632,7 @@
     "zh_trans": "这么大的噪音会引来很多僵尸",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -575,8 +643,10 @@
     "zh_trans": "防守大约60秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "GENERATOR STARTUP ACTIVATED.",
@@ -584,6 +654,7 @@
     "zh_trans": "应急发电机启动了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -594,6 +665,7 @@
     "zh_trans": "...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -604,6 +676,7 @@
     "zh_trans": "应急发电机已经启动!快离开这!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -614,6 +687,7 @@
     "zh_trans": "草",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -624,6 +698,7 @@
     "zh_trans": "僵尸从下方集装箱追过来了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -634,6 +709,7 @@
     "zh_trans": "守住他们直到我们把这扇门解锁.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -644,6 +720,7 @@
     "zh_trans": "大门已经打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -654,8 +731,10 @@
     "zh_trans": "二号大门将会在60秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Fall back!",
@@ -663,6 +742,7 @@
     "zh_trans": "快撤退!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -673,6 +753,7 @@
     "zh_trans": "二号大门正在打开...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -683,6 +764,7 @@
     "zh_trans": "这儿总算安全了吧.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -693,6 +775,7 @@
     "zh_trans": "右侧的门会在不久后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -703,6 +786,7 @@
     "zh_trans": "保持队形",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -713,6 +797,7 @@
     "zh_trans": "找到主反应堆.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -723,6 +808,7 @@
     "zh_trans": "在僵尸追上我们之前快到办公室里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -733,6 +819,7 @@
     "zh_trans": "防爆门被锁上了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -743,8 +830,10 @@
     "zh_trans": "防守30秒",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Its open! Keep going further into the labs.",
@@ -752,6 +841,7 @@
     "zh_trans": "门开了!快去实验室!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -762,8 +852,10 @@
     "zh_trans": "坚守此地!门会在30秒后解锁",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Defend yourself!",
@@ -771,6 +863,7 @@
     "zh_trans": "守住僵尸!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -781,6 +874,7 @@
     "zh_trans": "大门正在开启!快进来守到门关!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -791,6 +885,7 @@
     "zh_trans": "准备好下一场战斗...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -801,6 +896,7 @@
     "zh_trans": "这扇防爆门开得非常慢,守住防线!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -811,6 +907,7 @@
     "zh_trans": "我草",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -821,6 +918,7 @@
     "zh_trans": "开门装置被烧坏了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -831,6 +929,7 @@
     "zh_trans": "我们得想个办法修好它.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -841,6 +940,7 @@
     "zh_trans": "看来缺口处少了一块电池.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -851,6 +951,7 @@
     "zh_trans": "到水下去找找.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -861,8 +962,10 @@
     "zh_trans": "CSGO版本由TuPu移植",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Decontamination Process Started.",
@@ -870,6 +973,7 @@
     "zh_trans": "净化程序启动!.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -880,8 +984,10 @@
     "zh_trans": "还剩20秒。抵挡住僵尸的进攻。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The doors are unlocked! Activate the eyescanner and keep moving forward!",
@@ -889,6 +995,7 @@
     "zh_trans": "防爆门已经解锁！激活眼睛扫描仪，继续前进！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -899,6 +1006,7 @@
     "zh_trans": "看起来有点效果了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -909,6 +1017,7 @@
     "zh_trans": "整个系统已经重启!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -919,8 +1028,10 @@
     "zh_trans": "等待50秒控制面板重启.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The System restarted! Open the door and head to the control room!",
@@ -928,6 +1039,7 @@
     "zh_trans": "系统已经重启!快开门冲向控制室",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -938,6 +1050,7 @@
     "zh_trans": "干得好.我们到反应堆前面的控制室了.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -948,6 +1061,7 @@
     "zh_trans": "我们得关掉安全系统",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -958,6 +1072,7 @@
     "zh_trans": "僵尸又追上来了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -968,6 +1083,7 @@
     "zh_trans": "坚持住!安全系统正在关闭!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -978,6 +1094,7 @@
     "zh_trans": "安全系统已经关闭!快开门!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -988,6 +1105,7 @@
     "zh_trans": "小心头顶掉下来的碎片!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -998,6 +1116,7 @@
     "zh_trans": "守住伸缩桥!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1008,6 +1127,7 @@
     "zh_trans": "这里就是核心堆入口区域了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1018,6 +1138,7 @@
     "zh_trans": "防守直到大门开启!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1028,6 +1149,7 @@
     "zh_trans": "门快开了!撤退!撤退!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1038,6 +1160,7 @@
     "zh_trans": "那门困不住僵尸多久",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1048,6 +1171,7 @@
     "zh_trans": "检测到人数在37人以下",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1058,6 +1182,7 @@
     "zh_trans": "简单结局已触发",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1068,6 +1193,7 @@
     "zh_trans": "同时转动两侧阀门超载核心",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1078,8 +1204,10 @@
     "zh_trans": "核心自毁程序将在15秒后开始.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The Reactor self destruct sequence has started!",
@@ -1087,6 +1215,7 @@
     "zh_trans": "反应堆自毁程序已经启动！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1097,6 +1226,7 @@
     "zh_trans": "是时候该离开这鬼地方了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1107,6 +1237,7 @@
     "zh_trans": "僵尸加速buff已启动,冲冲冲!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1117,6 +1248,7 @@
     "zh_trans": "剩余人数:＞37",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1127,6 +1259,7 @@
     "zh_trans": "困难结局已触发",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1137,6 +1270,7 @@
     "zh_trans": "核心将会在几分钟后被摧毁.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1147,6 +1281,7 @@
     "zh_trans": "它们来了...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1157,8 +1292,10 @@
     "zh_trans": "大门将在25秒后打开,继续防守!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Its opening! Run!",
@@ -1166,6 +1303,7 @@
     "zh_trans": "大门正在打开!准备撤退!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1176,8 +1314,31 @@
     "zh_trans": "坚守此地直到大门开启!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "检测到不要脸的哈鸡雀，即将启动炸服程序！",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "哈鸡雀活着浪费空气，死了浪费土地，不要脸的xnn，迟早骨灰被扬了",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
