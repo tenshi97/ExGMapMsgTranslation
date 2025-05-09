@@ -2,11 +2,12 @@
   {
     "original": "** ze_sky_bridge_a01_fix3 **",
     "en_trans": "",
-    "zh_trans": "** ze_sky_bridge_a01_fix3 （僵尸逃跑：天空之桥） **",
+    "zh_trans": "** ze_sky_bridge_a01_fix3 （天空之桥） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** Map by kur4yam1 **",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Defend for 20 seconds <<",
@@ -87,7 +89,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Button 2 Pressed ***",
@@ -95,8 +98,9 @@
     "zh_trans": ">> 按钮 2 已被按下 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Button 1 Pressed ***",
@@ -104,8 +108,9 @@
     "zh_trans": ">> 按钮 1 已被按下 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Button 3 Pressed ***",
@@ -113,8 +118,9 @@
     "zh_trans": ">> 按钮 3 已被按下 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Button 4 Pressed ***",
@@ -122,8 +128,9 @@
     "zh_trans": ">> 按钮 4 已被按下 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> All button pressed <<",
@@ -132,7 +139,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Defend for 10 seconds <<",
@@ -159,7 +167,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Laser stopped! <<",
@@ -168,7 +177,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Last Defend for 40 seconds <<",
@@ -186,7 +196,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Failed <<",
@@ -195,7 +206,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Don't let the zombies touch the crystal! <<",
@@ -204,7 +216,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Jump!! <<",
@@ -213,6 +226,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
