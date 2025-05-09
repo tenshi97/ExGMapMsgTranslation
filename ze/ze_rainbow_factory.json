@@ -2,29 +2,29 @@
   {
     "original": "*** Map by : Airvulpes ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图作者: Airvulpes ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Difficulty : Disuse ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 当前难度：停止运作 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Door Opens in 15 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在15秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "*** Door Opens in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "*** Door Opens in 25 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在25秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "*** Door Opens in 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "*** Door Closes in 20 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,12 +79,12 @@
   {
     "original": "*** STAGE COMPLETED ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 回合已完成 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
