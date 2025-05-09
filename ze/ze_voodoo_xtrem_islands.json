@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> STARTING GAME.. GOOD LUCK & HAVE FUN <<<",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> READ THE CONSOLE COMMANDS <<",
@@ -24,7 +26,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Welcome to ze_voodoo_islands ***",
@@ -33,7 +36,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The voodoo master has challenged you to survive on 3 different islands ***",
@@ -41,8 +45,9 @@
     "zh_trans": "*** 巫毒大师要考验你们能否在三个不同的岛屿上活下来 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** If you succeed you will enter heaven ***",
@@ -51,7 +56,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** In 10 seconds you will be teleported to the first island ***",
@@ -69,7 +75,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Muahahaha... ***",
@@ -78,7 +85,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Survive there for 90 secs <<",
@@ -105,7 +113,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** 10 seconds till gates will open. Prepare to run ***",
@@ -123,7 +132,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Boat leaves in 10 seconds <<",
@@ -141,7 +151,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** 10s left till zombies are trapped. Prepare to run to the teleporter ***",
@@ -159,7 +170,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 12 seconds till zombies are unleashed <<",
@@ -177,7 +189,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Survive here for 90 secs <<",
@@ -195,7 +208,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Voodoo master has created a force field from preventing you from falling off island***",
@@ -204,7 +218,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Zombies have been unleashed from the cage <<",
@@ -213,7 +228,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 10 seconds till escape route opens <<",
@@ -231,7 +247,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Floating boxes will activate in 15 seconds ***",
@@ -249,7 +266,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Teleporter activates in 30 seconds <<",
@@ -267,7 +285,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Zombies will go in hell ***",
@@ -276,7 +295,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Teleporter activates in 15 seconds <<",
@@ -303,7 +323,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Take a look around and explore. Enjoy your stay ***",
@@ -312,7 +333,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Yeah yeah it was the original map. I'm gonna change the islands ! ***",
@@ -321,7 +343,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Muahahahahahah ***",
@@ -330,7 +353,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** HEY WAIT WHAT IS THIS ?! ***",
@@ -339,7 +363,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** OH SHIT !! ***",
@@ -348,7 +373,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Level 2 - The islands start changing <<",
@@ -356,8 +382,9 @@
     "zh_trans": ">> 第二关 - 岛屿开始发生变化 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Zombies have been unleashed ***",
@@ -366,7 +393,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Defend against the zombies <<",
@@ -375,7 +403,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** GO GO GO !! ***",
@@ -384,7 +413,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The gates are open and the zombies have been trapped ***",
@@ -393,7 +423,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 8 seconds till zombies are unleashed <<",
@@ -420,7 +451,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Entrance to escape route is now open and the zombies have been trapped ***",
@@ -429,7 +461,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Congrats ! Game continues on level 3 ***",
@@ -437,8 +470,9 @@
     "zh_trans": "*** 恭喜 ! 游戏将继续 第三关 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Ok ! Time to add some witchcraft... ***",
@@ -447,16 +481,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Level 3 - Be faster not slower <<",
     "en_trans": "",
-    "zh_trans": ">> 第三关 - 更快了 <<",
+    "zh_trans": ">> 第三关 - 更快了(终点需要跳高低刀) <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 6 seconds till zombies are unleashed <<",
@@ -492,7 +528,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Beat Voodoo Master and zombies will go in hell ***",
@@ -501,7 +538,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Welcome in hell zombies.. ***",
@@ -510,7 +548,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Enjoy your stay***",
@@ -519,7 +558,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** You win ! Let's see if you can beat The Voodoo Master ***",
@@ -528,16 +568,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Level 4 - Beat the Voodoo Master <<",
     "en_trans": "",
-    "zh_trans": ">> 第四关 - 击败巫毒大师 <<",
+    "zh_trans": ">> 第四关 - 击败巫毒大师(高低刀+旋转刀) <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> ONLY 5 seconds till zombies are unleashed <<",
@@ -564,7 +606,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 5 seconds till zombies are unleashed <<",
@@ -582,7 +625,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Congrats you beat the map ! ***",
@@ -591,16 +635,18 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> ZM Round <<",
     "en_trans": "",
-    "zh_trans": ">> ZM 关 <<",
+    "zh_trans": ">> ZM 关(旋转刀+列车刀) <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** The voodoo master unlocked 3 islands. Find a place to survive ***",
@@ -608,8 +654,9 @@
     "zh_trans": "*** 巫毒大师开放了三个岛屿，找个地方活下去 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Survive for 180 secs <<",
@@ -654,7 +701,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** You are the real Master of Voodoo Islands.. ***",
@@ -663,7 +711,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Thanks for playing ***",
@@ -672,7 +721,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Back to Level 1 ***",
@@ -680,31 +730,24 @@
     "zh_trans": "*** 正在返回第一关 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
-  },
-  {
-    "original": "全是买人的狗",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** An admin have changed level to ZM-Round ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 管理员调关至第五关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> Adminroom : Slaying all in 5 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 5秒后重新开始 <<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -713,10 +756,11 @@
   {
     "original": "*** An admin have changed to level 3 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 管理员调关至第三关 ***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
