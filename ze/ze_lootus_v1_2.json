@@ -2,18 +2,18 @@
   {
     "original": ">> Normal Mode <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 普通 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> 20 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": ">> 5 seconds left <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 还剩 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": ">> 30 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 30 秒 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,18 +46,18 @@
   {
     "original": ">> Zombie TP in 10 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸将在 10 秒后传送 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> 15 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 15 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": ">> 40 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": ">> 10 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": ">> 35 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 35 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": ">> 25 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 25 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": ">> Survive 60 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 生存 60 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": ">> Jump down <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 跳下去! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
