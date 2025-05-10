@@ -313,8 +313,9 @@
     "zh_trans": "**我被打败了，这不可能！（撤退记得丢雷）**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Air leaves in 30 seconds**",
@@ -407,8 +408,9 @@
     "zh_trans": "**[调关房]第 3 关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Map by Tenshi.**",
@@ -426,8 +428,9 @@
     "zh_trans": ">>版本: CS2 v1.2<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**[Admin]Stage 1**",
@@ -435,8 +438,9 @@
     "zh_trans": "**[调关房]第 1 关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**[Admin]Stage 2**",
@@ -444,8 +448,9 @@
     "zh_trans": "**[调关房]第 2 关**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>Version: CS2 v1.09<<",
@@ -453,8 +458,9 @@
     "zh_trans": ">>版本: CS2 v1.09<<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 9,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Special Thanks:GemaYue , uuz , 银月筱瑶, 兎RB**",
