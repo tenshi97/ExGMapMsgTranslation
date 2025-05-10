@@ -68,7 +68,7 @@
   {
     "original": "***INCOMING TOAST - LEFT CHAMBER***",
     "en_trans": "",
-    "zh_trans": "***左室有烤面包机即将出现***",
+    "zh_trans": "*** 面包机左室即将掉落面包片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "***INCOMING TOAST - BOTH CHAMBERS***",
     "en_trans": "",
-    "zh_trans": "***两个房间都有烤面包机即将出现***",
+    "zh_trans": "*** 面包机两室即将掉落面包片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "***A METAL ASS HAS BEEN PICKED UP***",
     "en_trans": "",
-    "zh_trans": "***一个金属已被拿起***",
+    "zh_trans": "*** 一个铁锭已被拿起 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "***INCOMING TOAST - RIGHT CHAMBER***",
     "en_trans": "",
-    "zh_trans": "***右室有烤面包机即将出现***",
+    "zh_trans": "*** 面包机右室即将掉落面包片 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -392,8 +392,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***DEBRIS REMOVED - FALL BACK***",
