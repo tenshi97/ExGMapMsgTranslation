@@ -321,18 +321,18 @@
   {
     "original": "*** Pool leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 游泳池将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Force Gun has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 力量枪已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,34 +343,34 @@
   {
     "original": "*** Helicopter is approaching ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 直升机正在接近 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** WARNING! Escape vehicles are about to leave! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 警告！逃生载具即将离开！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Zombies have escaped... and they're calling for reinforcements! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸脱困... 它们正在呼叫增援！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
