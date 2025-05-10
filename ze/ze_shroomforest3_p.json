@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Special Thanks to nano <<",
@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Thanks to Unloze and GFLClan.ru <<",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> WARMUP ROUND <<",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> 40 SECONDS LEFT <<",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP WATER <<",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Door opening in 20 seconds ***",
@@ -151,7 +151,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP FIRE <<",
@@ -162,7 +162,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP HEAL <<",
@@ -173,7 +173,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP 6 MINES <<",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP UNLIMITED AMMO <<",
@@ -195,7 +195,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend for 30 seconds ***",
@@ -217,7 +217,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP ICE <<",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP ELECTRO <<",
@@ -239,7 +239,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE KNIGHT HAS BEEN DEFEATED !!! <<",
@@ -250,7 +250,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Castle Gate is opening ***",
@@ -261,7 +261,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Gate opening in 25 seconds ***",
@@ -283,7 +283,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ALL 6 MINES USED <<",
@@ -294,7 +294,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Gate opening in 5 seconds ***",
@@ -393,7 +393,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend until the path is clear ***",
@@ -448,7 +448,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> KILL THEM BEFORE IT'S TOO LATE <<",
@@ -459,7 +459,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE SKELETONS HAVE BEEN DEFEATED !!! <<",
@@ -470,7 +470,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** PLAYER FOUND A KEY ***",
@@ -497,7 +497,7 @@
   {
     "original": "*** LIFT LEAVING IN 15 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 电梯 15 秒后离开 ***",
+    "zh_trans": "*** 缆车 15 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,7 +508,7 @@
   {
     "original": "*** LIFT LEAVING IN 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 电梯 5 秒后离开 ***",
+    "zh_trans": "*** 缆车 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<",
@@ -602,7 +602,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL: POKEBALL <<",
@@ -613,7 +613,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR LEAVING IN 20 seconds ***",
@@ -646,7 +646,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<",
@@ -657,7 +657,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Tunnel opening in 20 seconds ***",
@@ -679,7 +679,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Tunnel opening in 5 seconds ***",
@@ -761,7 +761,7 @@
   {
     "original": "*** IT ATTACKED IN A GRUMPY RAGE !!! ***",
     "en_trans": "",
-    "zh_trans": "*** 卡比兽很愤怒，因为你们惊扰了它的美梦!!! ***",
+    "zh_trans": "*** 卡比兽很愤怒，因为你们打扰了它的美梦!!! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -855,7 +855,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<",
@@ -866,7 +866,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<",
@@ -877,7 +877,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** SNORLAX USED HYPERBEAM ***",
@@ -910,7 +910,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> 2 MORE RUNGS TO FIND <<",
@@ -952,14 +952,14 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** LIFT LEAVING IN 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "*** 电梯 30 秒后离开 ***",
+    "zh_trans": "*** 缆车 30 秒后离开(缆车不是路，别上去) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -970,7 +970,7 @@
   {
     "original": "*** THE LIFT IS BROKEN ! ***",
     "en_trans": "",
-    "zh_trans": "*** 电梯坏了！***",
+    "zh_trans": "*** 缆车坏了！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1064,7 +1064,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** ELEVATOR IS STUCK ***",
@@ -1075,7 +1075,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***",
@@ -1086,7 +1086,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** NICE JOB!!! ***",
@@ -1097,7 +1097,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<",
@@ -1108,7 +1108,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Doors opening in 30 seconds ***",
@@ -1152,7 +1152,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> A POKEBALL HAS BEEN PICKED UP <<",
@@ -1163,7 +1163,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> CATCH HIM. HE IS OUR WAY OUT !!! <<",
@@ -1174,7 +1174,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> TAKE THE POKEBALL <<",
@@ -1185,7 +1185,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> SHINY PIKACHU HAS BEEN PICKED UP <<",
@@ -1262,7 +1262,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> STAY ON THE BOOK <<",
@@ -1273,7 +1273,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> IT SHOULD BE SAFER <<",
@@ -1284,7 +1284,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PIKACHU IS GETTING OUT OF CONTROL !! <<",
@@ -1295,7 +1295,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE OVERLOAD IS RECHARGING THE RADIO !! <<",
@@ -1306,7 +1306,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> GO ON THE BOOK ! <<",
@@ -1317,7 +1317,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> LEVEL: TIME LOOP <<",
@@ -1328,7 +1328,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE TIME MACHINE IS ALMOST READY !!! <<",
@@ -1339,7 +1339,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> DEFEND !!! <<",
@@ -1350,7 +1350,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> DEFEND FOR 40 SECONDS <<",
@@ -1438,7 +1438,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<",
@@ -1449,7 +1449,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<",
@@ -1460,7 +1460,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<",
@@ -1471,7 +1471,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> WE WERE TOO LATE !!! <<",
@@ -1482,7 +1482,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<",
@@ -1493,7 +1493,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> OH NO!! SATAN IS ALIVE ! <<",
@@ -1504,7 +1504,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> SATAN OPENED A PORTAL TO HELL !!! <<",
@@ -1515,7 +1515,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- [ZOMBIES] Find Satan's Powers to make him stronger --",
@@ -1526,7 +1526,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<",
@@ -1537,7 +1537,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> STOP HIM BEFORE IT'S TOO LATE !! <<",
@@ -1548,7 +1548,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<",
@@ -1559,7 +1559,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> GET READY FOR THE FINAL FIGHT !! <<",
@@ -1570,7 +1570,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> KEEP ZOMBIES OUT OF THE ROOM <<",
@@ -1581,7 +1581,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- [ZOMBIES] You can still find Satan's Powers during the fight --",
@@ -1592,7 +1592,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan can summon Ultimate Minions **",
@@ -1603,7 +1603,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan control the Electricity **",
@@ -1614,7 +1614,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan can summon Tornado Minions **",
@@ -1625,7 +1625,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan is immune to Grenades **",
@@ -1636,7 +1636,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan control the Ice **",
@@ -1647,7 +1647,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **",
@@ -1658,7 +1658,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> SATAN IS ESCAPING !! <<",
@@ -1669,7 +1669,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> HE WON'T GO FAR ! <<",
@@ -1680,7 +1680,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> DEFEND 20 SECONDS !! <<",
@@ -1779,7 +1779,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<",
@@ -1790,7 +1790,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE WORLD WILL FINALLY BE IN PEACE !!! <<",
@@ -1801,7 +1801,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> DEFEND 20 SECONDS <<",
@@ -1834,7 +1834,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> You beat the map ! <<",
@@ -1845,7 +1845,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Good Ending <<",
@@ -1856,7 +1856,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Thanks for being part of this incredible adventure <<",
@@ -1867,7 +1867,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: DEAD TREE <<",
@@ -1878,7 +1878,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE MASTERBALL HAS BEEN PICKED UP <<",
@@ -1889,7 +1889,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> TAKE THE MASTERBALL <<",
@@ -1900,7 +1900,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan's Speed Increased **",
@@ -1911,18 +1911,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan can summon Water Minions **",
     "en_trans": "",
-    "zh_trans": "** 撒旦能够召唤水元素喽啰 **",
+    "zh_trans": "** 撒旦能够召唤水元素 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> MAP IS OVER <<",
@@ -1933,7 +1933,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> TELEPORTER TO ADMIN ROOM AVAILABLE <<",
@@ -1944,7 +1944,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> NUKE ALL IN 30 SECONDS <<",
@@ -1966,7 +1966,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> FIND 3 RUNGS TO FIX IT <<",
@@ -1988,7 +1988,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> YOU TOOK TOO LONG !! <<",
@@ -2032,7 +2032,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Satan can summon Fire Minions **",
@@ -2043,7 +2043,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ZOMBIES IN THE SAFE AREA <<",
@@ -2076,7 +2076,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<",
@@ -2087,7 +2087,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<",
@@ -2098,7 +2098,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> PLAYER HAS CHOSEN: CAVES NORMAL <<",
@@ -2109,6 +2109,6 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

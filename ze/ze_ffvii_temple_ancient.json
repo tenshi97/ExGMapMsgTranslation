@@ -5,8 +5,10 @@
     "zh_trans": "**地图作者 Microsoft Edge 和 DarkRoad(翻译:星荧铃)**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**WARMUP ROUND**",
@@ -14,6 +16,7 @@
     "zh_trans": "**热身回合**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,8 +27,10 @@
     "zh_trans": "**感谢 Batnik_Ref.smd 为 TRI-FACE 提供动画**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "[AERIS] This is the Temple of the Ancients***",
@@ -33,6 +38,7 @@
     "zh_trans": "[爱丽丝] 这就是古代种神殿***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -43,6 +49,7 @@
     "zh_trans": "[爱丽丝] 我感觉到了！古代种的知识在飘荡**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -53,6 +60,7 @@
     "zh_trans": "[爱丽丝] 我想进去看看！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -63,6 +71,7 @@
     "zh_trans": "**第一关 [普通]**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -73,6 +82,7 @@
     "zh_trans": "**[克劳德] 如果我们想进入神殿，要先激活传送水晶！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -83,8 +93,10 @@
     "zh_trans": "**[克劳德] 坚守这个区域 10 秒钟！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[AERIS] I know it's going to be tough",
@@ -92,6 +104,7 @@
     "zh_trans": "**[爱丽丝] 我知道这会很艰难**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -102,6 +115,7 @@
     "zh_trans": "**[爱丽丝] 不管怎样**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -112,6 +126,7 @@
     "zh_trans": "**[爱丽丝] 克劳德被传送到了神殿的另一个地方**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -122,6 +137,7 @@
     "zh_trans": "**[爱丽丝] 找到通往神殿下一部分的路**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -132,8 +148,10 @@
     "zh_trans": "一名玩家捡起了火焰魔晶石",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 10 seconds!**",
@@ -141,8 +159,10 @@
     "zh_trans": "**坚守这个区域 10 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Go Go Go**",
@@ -150,6 +170,7 @@
     "zh_trans": "**Go Go Go**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -160,8 +181,10 @@
     "zh_trans": "**在此坚守 12 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 12,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Hold this area for 15 seconds!**",
@@ -169,8 +192,10 @@
     "zh_trans": "**坚守这片区域 15 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Run to the upper floor**",
@@ -178,6 +203,7 @@
     "zh_trans": "**快去楼上**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -188,6 +214,7 @@
     "zh_trans": "**等等，有什么事情要发生了**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -198,8 +225,10 @@
     "zh_trans": "**守住这里 15 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Get Inside this hole**",
@@ -207,6 +236,7 @@
     "zh_trans": "**到这个洞里去**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -217,6 +247,7 @@
     "zh_trans": "**Go go go!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -227,6 +258,7 @@
     "zh_trans": "**下一条路已打开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -237,8 +269,10 @@
     "zh_trans": "一名玩家捡起了治疗魔晶石",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**One of the paths is chosen randomly**",
@@ -246,6 +280,7 @@
     "zh_trans": "**其中一条路是随机的**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -256,6 +291,7 @@
     "zh_trans": "**去白球那里**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -266,8 +302,10 @@
     "zh_trans": "**传送功能将在 20 秒后启用！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[CLOUD] Defend here for 10 seconds!**",
@@ -275,8 +313,10 @@
     "zh_trans": "**[克劳德] 在此防守 10 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "A player has picked up the ICE Materia",
@@ -284,8 +324,10 @@
     "zh_trans": "一名玩家捡起了冰魔晶石",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**[CLOUD] The only way is through this gate**",
@@ -293,6 +335,7 @@
     "zh_trans": "**[克劳德] 唯一的路是通过这扇门**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -303,6 +346,7 @@
     "zh_trans": "**[克劳德] 我会试着打开大门，但这需要一些时间**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -313,8 +357,10 @@
     "zh_trans": "**[克劳德] 在此坚守 10 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[CLOUD] Gates are open keep running!**",
@@ -322,6 +368,7 @@
     "zh_trans": "**[克劳德] 门开了，继续跑！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -332,6 +379,7 @@
     "zh_trans": "**[克劳德] 这里会容易些，但你们得等一会儿**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -342,8 +390,10 @@
     "zh_trans": "**[克劳德] 防守这些门 10 秒钟** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[CLOUD] Hold this area for 10 seconds**",
@@ -351,8 +401,10 @@
     "zh_trans": "**[克劳德] 坚守这个区域 10 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[CLOUD] This place looks familiar this is where Sephiroth is hiding**",
@@ -360,6 +412,7 @@
     "zh_trans": "**[克劳德] 这地方看起来很眼熟，这就是萨菲罗斯的藏身之处**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -370,8 +423,10 @@
     "zh_trans": "**[克劳德] 在这儿坚守 15 秒** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[AERIS] This is Sephiroth!**",
@@ -379,6 +434,7 @@
     "zh_trans": "**[艾莉丝] 是萨菲罗斯！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -389,6 +445,7 @@
     "zh_trans": "**[萨菲罗斯] 很高兴见到你，克劳德！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -399,6 +456,7 @@
     "zh_trans": "**[克劳德] 萨菲罗斯，你想怎样！？**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -409,6 +467,7 @@
     "zh_trans": "**[萨菲罗斯] 我想要的，克劳德，是宇宙黑暗之海的力量，这个星球将成为我的方舟**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -419,6 +478,7 @@
     "zh_trans": "**[萨菲罗斯] 你们所知道的一切都可能是幻觉**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -429,6 +489,7 @@
     "zh_trans": "*** 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -439,8 +500,10 @@
     "zh_trans": "**萨菲罗斯逃走了。大门将在 15 秒后打开！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**[CLOUD] Ruby dragon blocking the way!**",
@@ -448,6 +511,7 @@
     "zh_trans": "**[克劳德] 红宝石龙挡住了去路！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -458,6 +522,7 @@
     "zh_trans": "**[克劳德] 我们必须打败它才能得到魔晶石**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -468,6 +533,7 @@
     "zh_trans": "**[克劳德] 手雷能造成更多伤害**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -478,6 +544,7 @@
     "zh_trans": "**[克劳德] 宝石龙施展了黑洞攻击！去两边！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -488,6 +555,7 @@
     "zh_trans": "**红宝石龙已被击杀！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -498,6 +566,7 @@
     "zh_trans": "**[爱丽丝] 克劳德，拿走水晶！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -508,8 +577,10 @@
     "zh_trans": "**[克劳德] 最后的守点！防守这座桥 20 秒！** ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "A player has picked up the EARTH Materia",
@@ -517,8 +588,10 @@
     "zh_trans": "一名玩家捡起了土魔晶石",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Cloud die! You lose!**",
@@ -526,6 +599,18 @@
     "zh_trans": "**克劳德死了! 你们输了!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "**[CLOUD] God used magick! We going to level 1 [Extreme]**",
+    "en_trans": "",
+    "zh_trans": "**[克劳德] 管理员使用了魔法！我们即将前往第一关 [极限难度]**",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1

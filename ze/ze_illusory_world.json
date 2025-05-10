@@ -114,7 +114,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "The slate will open in 20 seconds",
@@ -182,7 +183,7 @@
   {
     "original": "Turn on the last transfer after 30 seconds and close after 10 seconds",
     "en_trans": "",
-    "zh_trans": "水池的传送将在30秒后开启（不要站水池里面否则可能会让你体验飞一般的感觉）",
+    "zh_trans": "水池的传送将在30秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -222,7 +223,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "After 10 seconds, the platform will rise to meet the final challenge",

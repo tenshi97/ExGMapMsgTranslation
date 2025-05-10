@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "* Turning music on *",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Boat leaving in 5 seconds ***",
@@ -65,20 +67,22 @@
   {
     "original": "*** OH NOOES ***",
     "en_trans": "",
-    "zh_trans": "***哦--我的天!***",
+    "zh_trans": "*** 你 被 骗 了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***",
     "en_trans": "",
-    "zh_trans": "***赶紧击杀RICK ASTLEY,不然我们会被他击败***",
+    "zh_trans": "*** Rick Astley 居然耍了我们!（BGM：Never Gonna Give You Up） ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Noob Cleaned ***",
@@ -87,7 +91,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** RICK ASTLEY IS DEAD ***",
@@ -96,7 +101,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Hold here for 20 seconds ***",
@@ -123,7 +129,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***CS2 Ver Port By Shana*（Zombieden） ***",
@@ -132,7 +139,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***If you find any bug in this map,please contact me,thank you***",
@@ -141,6 +149,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

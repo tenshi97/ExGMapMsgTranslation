@@ -24,7 +24,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ SECRET LIFT IS LEAVING!! ++",
@@ -33,7 +34,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ ESCAPE LIFT 1 ARRIVING IN 20 SECONDS ++",
@@ -60,7 +62,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ LIFT DOOR 1 OPENING UP ++",
@@ -69,7 +72,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++",
@@ -87,7 +91,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ LIFT DOOR 2 OPENING UP ++",
@@ -96,7 +101,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++",
@@ -150,12 +156,13 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++",
     "en_trans": "",
-    "zh_trans": "++ 还有30秒时间抵达安全的地方 : Licciana!! ++",
+    "zh_trans": "++ 还有30秒时间抵达安全的地方 : 里西西亚!! ++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -168,6 +175,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

@@ -60,7 +60,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<< Gates open in 10 seconds! >>>",
@@ -119,11 +120,12 @@
   {
     "original": "<<< Blade stopping! >>>",
     "en_trans": "",
-    "zh_trans": "<<< 停止！ >>>",
+    "zh_trans": "<<< 刀片停止了！ >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<< Zombies teleport in 45 seconds! >>>",
@@ -168,7 +170,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<< 25 more seconds! >>>",
@@ -186,7 +189,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<< Killzone >>>",
@@ -195,7 +199,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "?",

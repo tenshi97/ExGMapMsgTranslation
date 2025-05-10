@@ -816,7 +816,7 @@
   {
     "original": "<CONTINUOUS ATTACK JUMP CHOP>",
     "en_trans": "",
-    "zh_trans": "< 组合攻击 > --- 远离boss",
+    "zh_trans": "< “闪电五连鞭” > --- 远离boss",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -844,7 +844,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Get what you need and go!>",

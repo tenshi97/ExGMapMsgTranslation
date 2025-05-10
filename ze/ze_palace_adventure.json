@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Stage1-Easy**",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Boss Start 42 Second**",
@@ -29,20 +31,22 @@
   {
     "original": "**[ice Laser]**",
     "en_trans": "",
-    "zh_trans": "**冰光束 (躲避 BOSS 方向发出的光束)5**",
+    "zh_trans": "**冰光束 (躲避 BOSS 方向发出的光束)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Ice Ball**",
     "en_trans": "",
-    "zh_trans": "**冰球 (躲避 BOSS 方向发出的球)5**",
+    "zh_trans": "**冰球 (躲避 BOSS 方向发出的球)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Stage1 Complete**",
@@ -51,7 +55,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Zombie Escape**",
@@ -60,7 +65,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Stage2-Hard**",
@@ -69,7 +75,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Hold 30 second**",
@@ -83,65 +90,72 @@
   {
     "original": "**Dance of Death**",
     "en_trans": "",
-    "zh_trans": "**死亡之舞 (八选二尸笼)5**",
+    "zh_trans": "**死亡之舞 (八选二尸笼)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Flame Strike**",
     "en_trans": "",
-    "zh_trans": "**火焰打击 (远离特效)5**",
+    "zh_trans": "**火焰打击 (远离特效)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Wind of Destruction**",
     "en_trans": "",
-    "zh_trans": "**摧毁之风 (退至后场并且准备按 S 和打碎球体)5**",
+    "zh_trans": "**摧毁之风 (退至后场并且准备按 S 和打碎球体)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Burn of Wind**",
     "en_trans": "",
-    "zh_trans": "**灼烧之风 (前往前场并且准备按 W 抵抗)5**",
+    "zh_trans": "**灼烧之风 (前往前场并且准备按 W 抵抗)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Quake**",
     "en_trans": "",
-    "zh_trans": "**地震 (远离头上掉落的板子)5**",
+    "zh_trans": "**地震 (远离头上掉落的板子)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Flame Holy**",
     "en_trans": "",
-    "zh_trans": "**神圣火焰 (快进入后面的水中,红屏的瞬间回来平台)5**",
+    "zh_trans": "**神圣火焰 (快进入后面的水中,红屏的瞬间回来平台)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Sword of Wind**",
     "en_trans": "",
-    "zh_trans": "**风之剑 (躲避头顶的刀)5**",
+    "zh_trans": "**风之剑 (躲避头顶的刀)**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Admin Selected RTV for next round",
@@ -150,7 +164,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**RTV**",
@@ -159,7 +174,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**You Win**",
@@ -168,7 +184,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<-15->",
@@ -200,20 +217,22 @@
   {
     "original": "**Wind[Backward]**",
     "en_trans": "",
-    "zh_trans": "**风之力 [对着中间 BOSS 按 w 抵抗]5**",
+    "zh_trans": "**风之力 [对着中间 BOSS 按 w 抵抗]**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Wind[Forward]**",
     "en_trans": "",
-    "zh_trans": "**风之引 [对着中间 BOSS 按 s 抵抗]5**",
+    "zh_trans": "**风之引 [对着中间 BOSS 按 s 抵抗]**",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 5,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<-150->",
@@ -276,7 +295,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Admin Selected Stage2 for next round",
@@ -285,7 +305,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Admin Selected Stage1 for next round",
@@ -294,6 +315,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

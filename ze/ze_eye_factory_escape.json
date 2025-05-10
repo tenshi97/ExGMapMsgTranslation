@@ -5,6 +5,7 @@
     "zh_trans": "** 据情报,一只邪恶的眼睛正在破坏世界的和平**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": "** 我们集结了一只最优秀的小队,势必在这次击破邪恶之眼 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": "** 我们的任务是收集资料并找到邪恶之眼 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,6 +38,7 @@
     "zh_trans": "** 我们对工厂内部一无所知,小心行事 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -45,8 +49,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** 一位玩家捡起了治疗,90秒cd **",
@@ -54,6 +60,7 @@
     "zh_trans": "** 一位玩家捡起了治疗,90秒cd **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -64,8 +71,10 @@
     "zh_trans": "** 第一扇门将在15秒后打开,请稍候 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 第二扇门将在10秒后打开,请稍候 **",
@@ -73,8 +82,10 @@
     "zh_trans": "** 第二扇门将在10秒后打开,请稍候 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 试着调查一下电脑,也许我们能找到一些东西 **",
@@ -82,6 +93,7 @@
     "zh_trans": "** 试着调查一下电脑,也许我们能找到一些东西 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -92,6 +104,7 @@
     "zh_trans": "** 慢着，我们来时的门正在关闭 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -102,6 +115,7 @@
     "zh_trans": "** 这家工厂是个陷阱,我们只能继续探索了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -112,6 +126,7 @@
     "zh_trans": "** 找到逃生的路 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -122,6 +137,7 @@
     "zh_trans": "** 线索已经收集,但我们来时的路线已经关闭 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -132,8 +148,10 @@
     "zh_trans": "** 给我15秒破坏这个木箱 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 这台电脑存储了一些关于眼睛的东西 **",
@@ -141,6 +159,7 @@
     "zh_trans": "** 这台电脑存储了一些关于眼睛的东西 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -151,6 +170,7 @@
     "zh_trans": "** 我们发现墙后面有一部电梯 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -161,8 +181,10 @@
     "zh_trans": "** 电梯将在30秒后启动,摧毁掉这堵墙 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 这扇门是锁着的,给我15秒 **",
@@ -170,8 +192,10 @@
     "zh_trans": "** 这扇门是锁着的,给我15秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 一位玩家捡起了喷火器,有燃料限制 **",
@@ -179,6 +203,7 @@
     "zh_trans": "** 一位玩家捡起了喷火器,有燃料限制 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -189,6 +214,7 @@
     "zh_trans": "** 一位玩家捡起了火箭筒,可以使用八次 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -199,6 +225,7 @@
     "zh_trans": "** 奇怪的眼睛...**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -209,8 +236,10 @@
     "zh_trans": "** 门将在25秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 拿去吧,也许有用 **",
@@ -218,6 +247,7 @@
     "zh_trans": "** 拿去吧,也许有用 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -228,6 +258,7 @@
     "zh_trans": "** 小心梯子 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -238,6 +269,7 @@
     "zh_trans": "** 这个按钮可以把桥吊到水上 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -248,8 +280,10 @@
     "zh_trans": "** 等待30秒守住僵尸,直到桥升起 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 桥出现了,后退 **",
@@ -257,6 +291,7 @@
     "zh_trans": "** 桥出现了,后退 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -267,8 +302,10 @@
     "zh_trans": "** 这道门将在20秒后开门 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 我感觉门后有一个危险的陷阱 **",
@@ -276,6 +313,7 @@
     "zh_trans": "** 我感觉门后有一个危险的陷阱 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -286,6 +324,7 @@
     "zh_trans": "** 为坠落做好准备 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -296,6 +335,7 @@
     "zh_trans": "** 小心 ! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -306,6 +346,7 @@
     "zh_trans": "** 激光已关闭 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -316,7 +357,20 @@
     "zh_trans": "** 门将在35秒后打开 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<< 感谢zed社区测试地图,以及对本图提出任何意见的人 >>",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]

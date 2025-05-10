@@ -6,7 +6,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++ Thanks to George and Sgt. zuff ++",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Warmup: 80 seconds",
@@ -105,7 +107,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Warmup: 90 seconds",
@@ -132,7 +135,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++Stage 1 Set++",
@@ -150,7 +154,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++Stage 5 Set++",
@@ -168,48 +173,53 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "|||RIGHT CONSOLE PRESSED|||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|||右控制台被按下|||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "|||LEFT CONSOLE PRESSED|||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|||左控制台被按下||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "|||FAR RIGHT CONSOLE PRESSED|||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|||最右侧控制台被按下|||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "|||FAR LEFT CONSOLE PRESSED|||",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "|||最左侧控制台被按下|||",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[>Vortigaunt< entered the game]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[>弗地冈< 加入战局]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -218,7 +228,7 @@
   {
     "original": "[>Summoner< entered the game]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[>巫师< 降临战场]",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -231,16 +241,17 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "++Stage 2 Set++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++调关至 第二关++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 2,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "[>Alma< entered the game]",
@@ -249,39 +260,41 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "[>Jumper< entered the game]",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "[>跳跃者< 进入了游戏]",
+    "jp_trans": "",
+    "kr_trans": "",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "++Stage 4 Set++",
+    "en_trans": "",
+    "zh_trans": "++调关至 第四关++",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
     "enable_timer": 0
   },
   {
-    "original": "++Stage 4 Set++",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
-  },
-  {
     "original": "++Stage 3 Set++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "++调关至 第三关++",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "** ADMIN END ROUND **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 管理员结束了回合 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -308,10 +321,11 @@
   {
     "original": "本社区禁止使用传送枪恶意solo",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "本社区禁止使用传送枪恶意solo",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

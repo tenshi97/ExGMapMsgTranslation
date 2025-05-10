@@ -2,11 +2,12 @@
   {
     "original": "这是哪？",
     "en_trans": "",
-    "zh_trans": "这是哪",
+    "zh_trans": "这是哪？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "奇怪的地方，怎么到处都是...鸡块？不管了，找到路就行！",
@@ -15,7 +16,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "门会在30秒后打开！",
@@ -61,7 +63,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "侧路会在10秒后开放",
@@ -93,20 +96,22 @@
   {
     "original": "这又是什么地方？",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这又是什么地方？",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "看来是个快餐店？去门口守住！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "看来是个快餐店？去门口守住！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "地板在30s后碎裂",
@@ -120,11 +125,12 @@
   {
     "original": "看来是个快餐店？去门口守住,等着上车！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "看来是个快餐店？去门口守住,等着上车！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "这玩意怎么跑脸上来了？看来只能消灭它了！（boss战在10s后开启）",
@@ -138,11 +144,12 @@
   {
     "original": "看来这玩意死了，应该结束了！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "看来这玩意死了，应该结束了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "将在35秒后全体传送！",

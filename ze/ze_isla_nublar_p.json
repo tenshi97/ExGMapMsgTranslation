@@ -2,226 +2,397 @@
   {
     "original": "***CURRENT DIFFICULTY IS NORMAL***",
     "en_trans": "",
-    "zh_trans": "***当前关卡；第一关***",
+    "zh_trans": "*** 当前关卡；第一关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***RESTORE THE POWER!***",
     "en_trans": "",
-    "zh_trans": "***恢复电力!***",
+    "zh_trans": "*** 恢复电力! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***MULDOON'S SHOTGUN HAS BEEN FOUND***",
     "en_trans": "",
-    "zh_trans": "***有人找到了马尔登的霰弹枪***",
+    "zh_trans": "*** 有人找到了马尔登的霰弹枪 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***HOLD THIS POSITION!***",
     "en_trans": "",
-    "zh_trans": "***守住这里!***",
+    "zh_trans": "*** 守住这里! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***POWER RESTORING IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***15秒后恢复供电***",
+    "zh_trans": "*** 15秒后恢复供电 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***POWER RESTORING IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***10秒后恢复供电***",
+    "zh_trans": "*** 10秒后恢复供电 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***POWER RESTORING IN 5 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***5秒后恢复供电***",
+    "zh_trans": "*** 5秒后恢复供电 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***SHOTGUN OUT OF AMMO***",
     "en_trans": "",
-    "zh_trans": "***霰弹枪弹药耗尽***",
+    "zh_trans": "*** 霰弹枪弹药耗尽 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***TELEPORTING ALL TO GENERATOR CATWALK***",
     "en_trans": "",
-    "zh_trans": "***将所有走得慢的玩家传送到发电机通道***",
+    "zh_trans": "*** 将所有走得慢的玩家传送到发电机通道 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***POWER HAS BEEN RESTORED***",
     "en_trans": "",
-    "zh_trans": "***电力已经恢复***",
+    "zh_trans": "*** 电力已恢复 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***ZOMBIES HAVE BEEN TRAPPED...RUUN!***",
     "en_trans": "",
-    "zh_trans": "***僵尸被困住了...该走了!***",
+    "zh_trans": "*** 僵尸被困住了，该走了! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***所有关着的门将在60秒后打开***",
+    "zh_trans": "*** 所有关着的门将在60秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***所有关着的门将在30秒后打开***",
+    "zh_trans": "*** 所有关着的门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***所有关着的门将在15秒后打开***",
+    "zh_trans": "*** 所有关着的门将在15秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***GO TO THE CONTROL ROOM***",
     "en_trans": "",
-    "zh_trans": "***现在去控制室***",
+    "zh_trans": "*** 现在去控制室 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***GET INTO THE TRUCK***",
     "en_trans": "",
-    "zh_trans": "***快上卡车***",
+    "zh_trans": "*** 快上卡车 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***GET OUT THE TRUCK AND GO TO THE HATCH***",
     "en_trans": "",
-    "zh_trans": "***下车，现在到出口去***",
+    "zh_trans": "*** 下车，现在到出口去 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***LIFT IS COMING***",
     "en_trans": "",
-    "zh_trans": "***电梯正在来的路上***",
+    "zh_trans": "*** 电梯正在来的路上 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***HOLD THIS POSTION***",
     "en_trans": "",
-    "zh_trans": "***守住这里***",
+    "zh_trans": "*** 守住这里 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***LIFT IS HERE!***",
     "en_trans": "",
-    "zh_trans": "***电梯到了***",
+    "zh_trans": "*** 电梯到了！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***FALL BACK***",
     "en_trans": "",
-    "zh_trans": "***撤退***",
+    "zh_trans": "*** 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***DOOR WILL OPEN IN 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***门将在20秒后打开***",
+    "zh_trans": "*** 门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***DOOR WILL OPEN IN 10 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***门将在10秒后打开***",
+    "zh_trans": "*** 门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FALL BACK!!!***",
     "en_trans": "",
-    "zh_trans": "***跑路了兄弟!***",
+    "zh_trans": "*** 跑路了兄弟! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***CT WIN!***",
     "en_trans": "",
-    "zh_trans": "***人类胜利!***",
+    "zh_trans": "*** 人类胜利! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***MOVING ON TO HARD MODE***",
+    "en_trans": "",
+    "zh_trans": "*** 加载第二关 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "***CURRENT DIFFICULTY IS HARD***",
+    "en_trans": "",
+    "zh_trans": "*** 当前关卡：第二关 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***USE GENERATOR TO ENABLE POWER TO BUTTON***",
+    "en_trans": "",
+    "zh_trans": "*** 启动发电机来为按钮供电 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***THE BUTTON WILL CLOSE THE GATES***",
+    "en_trans": "",
+    "zh_trans": "*** 这个按钮可以让大门关闭 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***GO GO PLANT THE C4***",
+    "en_trans": "",
+    "zh_trans": "*** 去安放C4 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***ON THE DOOR TO THE CONTAINER***",
+    "en_trans": "",
+    "zh_trans": "*** 在集装箱门上 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***PRESS USE ON THE CONTAINER DOOR***",
+    "en_trans": "",
+    "zh_trans": "*** 按下集装箱门上的按钮 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***GAS CANS HAVE BEEN COLLECTED***",
+    "en_trans": "",
+    "zh_trans": "*** 汽油已被收集 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***RUN BACK TO THE BOAT***",
+    "en_trans": "",
+    "zh_trans": "*** 撤退到船上 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***BOAT REFUELING***",
+    "en_trans": "",
+    "zh_trans": "*** 正在给船加油 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***MOVING ON TO EXTREME MODE***",
+    "en_trans": "",
+    "zh_trans": "*** 加载第三关 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

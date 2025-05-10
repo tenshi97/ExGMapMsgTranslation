@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> NOVICE DIFFICULTY",
@@ -17,9 +17,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "> Map by SubDelt@",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Thanks to",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Cuniczek and Kaemon - helping with Propper",
@@ -52,7 +52,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Kaesar - providing UT2004 models",
@@ -63,7 +63,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> JorisCeoen - modeling help",
@@ -74,7 +74,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Enviolinador - lots of general help",
@@ -85,7 +85,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<",
@@ -190,6 +190,182 @@
     "original": ">>>Enemies reached the objective<<<",
     "en_trans": "",
     "zh_trans": ">>> 敌人已到达目标点 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> THE EXPLOSIVES ARE IN PLACE! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 炸药已安置！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> EXPLOSION IN 40 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 40秒后爆炸 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 40,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> EXPLOSION IN 20 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 20秒后爆炸 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> EXPLOSION IN 5 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 5秒后爆炸 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 你必须打开维修船的后门 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "> Tip - You can do this by standing near the lever at the rear part of the vessel",
+    "en_trans": "",
+    "zh_trans": "> 提示 - 你可以通过站在船后面的控制杆附近来做到这一点",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> THE REAR DOOR HAS BEEN OPENED <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 后门已打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> REINFORCEMENTS ARE ON THE WAY! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 增援正在途中！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 你必须打开维修船的侧门 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> WARNING! INBOUND AIRSTRIKE! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 警告！空袭即将到来！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 立即在维修船内寻找掩体！<<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> SIDE DOORS OPEN IN 45 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 侧门将在 45 秒后打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 45,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> SIDE DOORS OPEN IN 20 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 侧门将在 20 秒后打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> SIDE DOORS OPEN IN 5 SECONDS <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 侧门将在 5 秒后打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">>> SIDE DOORS ARE OPENING <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 侧门正在打开 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 你必须潜入N.E.X.U.S.拖车 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

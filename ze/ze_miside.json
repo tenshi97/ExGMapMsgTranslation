@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< ... >",
@@ -415,7 +415,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: You did it! >",
@@ -976,7 +976,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> You need to clear all zombies. <",
@@ -987,7 +987,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Stage 3 <<",
@@ -998,7 +998,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Last battery is in the kitchen,But seems like that door is locked from here... >",
@@ -1174,7 +1174,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: That fan is still spining.. >",
@@ -1295,7 +1295,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: Seems like it didn't find you yet. >",
@@ -1570,7 +1570,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ZM Mode. <<",
@@ -1581,7 +1581,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Thank for your playing,Hope you all enjoy the map! XD <<",
@@ -1592,7 +1592,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Admin select Stage 3! <",
@@ -1620,6 +1620,83 @@
     "original": "> Press E get speed up and kill human in front of you. <",
     "en_trans": "",
     "zh_trans": "> 按E加速并杀死你面前的人类 <",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 1",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 2",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 3",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 4",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 4,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 5",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 6",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 6,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "stp by 风铃睡不醒 4/30",
+    "en_trans": "",
+    "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

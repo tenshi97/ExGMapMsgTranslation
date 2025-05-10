@@ -8,7 +8,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### LEVEL 1 ###",
@@ -924,6 +924,17 @@
     "force_hint": 1
   },
   {
+    "original": "* Torch 2 pickup*",
+    "en_trans": "",
+    "zh_trans": "* 拾起第 2 个火把，可以用它烧掉前方的蜘蛛网 *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
     "original": "ZOMBIE DETECTED !!",
     "en_trans": "",
     "zh_trans": "检测到僵尸！！",
@@ -971,6 +982,116 @@
     "original": "### LEVEL 1/5 ###",
     "en_trans": "",
     "zh_trans": "### 关卡 1/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 2/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 2/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 3/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 3/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 4/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 4/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "### LEVEL 5/5 ###",
+    "en_trans": "",
+    "zh_trans": "### 关卡 5/5 ###",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "* FIRE GUN - 60 sec cooldown *",
+    "en_trans": "",
+    "zh_trans": "* 喷火枪 - 60秒冷却时间 *",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "short way opening !",
+    "en_trans": "",
+    "zh_trans": "捷径开启！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "The barrier will break in 10 seconds.",
+    "en_trans": "",
+    "zh_trans": "屏障将在 10 秒后破裂",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "Barrier Break! GO BACK!",
+    "en_trans": "",
+    "zh_trans": "屏障碎了！快跑！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "The final door will close in 15 seconds.",
+    "en_trans": "",
+    "zh_trans": "最后的门将在 15 秒后关闭。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "FINAL DOOR CLOSED",
+    "en_trans": "",
+    "zh_trans": "最后的门已关闭",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
