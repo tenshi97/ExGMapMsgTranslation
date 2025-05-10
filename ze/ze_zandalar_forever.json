@@ -312,11 +312,12 @@
   {
     "original": "小心！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "小心！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "打死王座的三角龙，部落的飞艇会来接我们",
