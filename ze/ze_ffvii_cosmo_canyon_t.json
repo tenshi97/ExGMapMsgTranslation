@@ -247,7 +247,7 @@
   {
     "original": "**The gates of gi cave will open in 15 seconds**",
     "en_trans": "",
-    "zh_trans": "15秒后打开通向基族洞穴的大门",
+    "zh_trans": "15秒后打开通向吉族洞穴的大门",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 15,
@@ -305,7 +305,7 @@
   {
     "original": "[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak..",
     "en_trans": "",
-    "zh_trans": "【赤红-13】 这里是基族洞穴....我的父亲曾经在这里跟基 纳塔克战斗过....",
+    "zh_trans": "【赤红-13】 这里是吉族洞穴....我的父亲曾经在这里跟吉 纳塔克战斗过....",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -335,7 +335,7 @@
   {
     "original": "[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..",
     "en_trans": "",
-    "zh_trans": "【赤红-13】请不要把这件事放在心上...它对于我来说是个英雄..同时我也希望你们可以帮助我打倒基 纳塔克 ",
+    "zh_trans": "【赤红-13】请不要把这件事放在心上...它对于我来说是个英雄..同时我也希望你们可以帮助我打倒吉 纳塔克 ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -375,7 +375,7 @@
   {
     "original": "**Gi Nattak is using poison**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<毒>>>",
+    "zh_trans": "吉纳塔克使用了<<<毒>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -385,7 +385,7 @@
   {
     "original": "**Gi Nattak is using shield**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<护盾>>>",
+    "zh_trans": "吉纳塔克使用了<<<护盾>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -395,7 +395,7 @@
   {
     "original": "**Gi Nattak is spawning minions. Watch out for them**",
     "en_trans": "",
-    "zh_trans": "基纳塔克召唤了火魂.小心他砸死你",
+    "zh_trans": "吉纳塔克召唤了火魂.小心他砸死你",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -405,7 +405,7 @@
   {
     "original": "**Gi Nattak is using gravity**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<黑洞>>>",
+    "zh_trans": "吉纳塔克使用了<<<黑洞>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -415,7 +415,7 @@
   {
     "original": "**Gi Nattak is using fire**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<火>>>",
+    "zh_trans": "吉纳塔克使用了<<<火>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -425,7 +425,7 @@
   {
     "original": "**Gi Nattak is using wind**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<风>>>",
+    "zh_trans": "吉纳塔克使用了<<<风>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -444,7 +444,7 @@
   {
     "original": "**Gi Nattak is using aspil**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<摄魂术>>>，快蹲下",
+    "zh_trans": "吉纳塔克使用了<<<摄魂术>>>，快蹲下",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -454,7 +454,7 @@
   {
     "original": "**Gi Nattak is using Fire Nova!!! Get out of middle**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<火焰新星>>>，快去场地边缘！",
+    "zh_trans": "吉纳塔克使用了<<<火焰新星>>>，快去场地边缘！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -464,17 +464,16 @@
   {
     "original": "**Gi Nattack is escaped**",
     "en_trans": "",
-    "zh_trans": "基纳塔克逃跑了",
+    "zh_trans": "吉纳塔克逃跑了",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 20,
+    "enable_timer": 1
   },
   {
     "original": "**Now you can get out of Cave of Gi**",
     "en_trans": "",
-    "zh_trans": "我们现在可以离开基族洞穴了",
+    "zh_trans": "我们现在可以离开吉族洞穴了",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -521,7 +520,7 @@
   {
     "original": "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..",
     "en_trans": "",
-    "zh_trans": "【赤红-13】我们做到了。但基纳塔克逃走了....我们下次还会打败它的...",
+    "zh_trans": "【赤红-13】我们做到了。但吉纳塔克逃走了....我们下次还会打败它的...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -540,7 +539,7 @@
   {
     "original": "**Gi Nattak has healed 300 hp**",
     "en_trans": "",
-    "zh_trans": "基纳塔克回复了300血",
+    "zh_trans": "吉纳塔克回复了300血",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -559,7 +558,7 @@
   {
     "original": "**Gi Nattak is using teleport**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<传送>>>，不要乱动",
+    "zh_trans": "吉纳塔克使用了<<<传送>>>，不要乱动",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -599,7 +598,7 @@
   {
     "original": "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL ITEM THAT WILL HELP YOU ON GI NATTAK**",
     "en_trans": "",
-    "zh_trans": "找齐所有宝箱，即可解锁不死鸟之尾。它可以助力你们击败基纳塔克",
+    "zh_trans": "找齐所有宝箱，即可解锁不死鸟之尾。它可以助力你们击败吉纳塔克",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -688,7 +687,7 @@
   {
     "original": "[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all..",
     "en_trans": "",
-    "zh_trans": "【赤红-13】不管怎样，我们都需要再一次击败基纳塔克，这次不能让它逃走了....",
+    "zh_trans": "【赤红-13】不管怎样，我们都需要再一次击败吉纳塔克，这次不能让它逃走了....",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -767,7 +766,7 @@
   {
     "original": "[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power.",
     "en_trans": "",
-    "zh_trans": "【赤红-13】他可能要找的是基纳塔克的灵魂...因为里面蕴含的庞大的能量...",
+    "zh_trans": "【赤红-13】他可能要找的是吉纳塔克的灵魂...因为里面蕴含的庞大的能量...",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -787,7 +786,7 @@
   {
     "original": "**Gi Nattak is using silence**",
     "en_trans": "",
-    "zh_trans": "基纳塔克对神器使用了<<<沉默>>>",
+    "zh_trans": "吉纳塔克对神器使用了<<<沉默>>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -807,7 +806,7 @@
   {
     "original": "[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!",
     "en_trans": "",
-    "zh_trans": "【杰内西斯】也没关系，基纳塔克的灵魂已经到手了...我可以实现我的计划了...再会. ",
+    "zh_trans": "【杰内西斯】也没关系，吉纳塔克的灵魂已经到手了...我可以实现我的计划了...再会. ",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -827,7 +826,7 @@
   {
     "original": "**GI NATTAK USES LAVA SUPERATTACK**",
     "en_trans": "",
-    "zh_trans": "基纳塔克让岩浆上升了！",
+    "zh_trans": "吉纳塔克让岩浆上升了！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -934,7 +933,7 @@
   {
     "original": "[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become..",
     "en_trans": "",
-    "zh_trans": "【克劳德】尤其是他获得了基纳塔克的灵魂...他会变得更加强大..",
+    "zh_trans": "【克劳德】尤其是他获得了吉纳塔克的灵魂...他会变得更加强大..",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -1020,12 +1019,11 @@
   {
     "original": "**The power is lost. Defend until the emergency generators are on**",
     "en_trans": "",
-    "zh_trans": "房间停电了，我们得撑到电力恢复..",
+    "zh_trans": "电力中断, 19 秒后恢复..",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 19,
+    "enable_timer": 1
   },
   {
     "original": "**We got the power. The gates will open in 15 seconds**",
@@ -1243,7 +1241,7 @@
   {
     "original": "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**",
     "en_trans": "",
-    "zh_trans": "基纳塔克使用了<<<终极>>>，快击败它！",
+    "zh_trans": "吉纳塔克使用了<<<终极>>>，快击败它！",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
