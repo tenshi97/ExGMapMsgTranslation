@@ -629,7 +629,7 @@
   {
     "original": "**Now you can get out of Cave of Gi**",
     "en_trans": "",
-    "zh_trans": "**你现在可以离开吉族洞穴了 | ZMTP 20秒**",
+    "zh_trans": "**你现在可以离开吉族洞穴了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,11 +959,11 @@
   {
     "original": "**The power is lost. Defend until the emergency generators are on**",
     "en_trans": "",
-    "zh_trans": "**电力已被中断。20秒后恢复**",
+    "zh_trans": "**电力已被中断。19秒后恢复**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 20,
+    "timer_num": 19,
     "enable_timer": 1,
     "force_hint": 0
   },
