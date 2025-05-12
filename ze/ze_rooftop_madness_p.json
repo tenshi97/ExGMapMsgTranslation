@@ -332,7 +332,7 @@
   {
     "original": "*** Force Gun has been acquired ***",
     "en_trans": "",
-    "zh_trans": "*** 力量枪已获得 ***",
+    "zh_trans": "*** 弹簧枪已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,13 +354,13 @@
   {
     "original": "*** WARNING! Escape vehicles are about to leave! ***",
     "en_trans": "",
-    "zh_trans": "*** 警告！逃生载具即将离开！ ***",
+    "zh_trans": "*** 警告！逃生载具即将离开！(5秒) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Zombies have escaped... and they're calling for reinforcements! ***",
@@ -376,7 +376,7 @@
   {
     "original": "*** Hammer has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 巨锤已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,29 +387,29 @@
   {
     "original": "*** Turtle leaving in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 海龟将在 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "*** Rainbow Road has been reached ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已抵达彩虹路 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Teleporting humans in 10 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 即将传送人类，剩余 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "*** Teleporting zombies in 5 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸将在 5 秒后传送 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "*** Screwdriver has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 螺丝刀已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "*** Dragonslayer has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 屠龙者已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "*** Decoy has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 诱饵已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "*** DDR has been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** DDR 已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,7 +475,7 @@
   {
     "original": "*** Freeze Mines have been acquired ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 冰冻地雷已获得 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
