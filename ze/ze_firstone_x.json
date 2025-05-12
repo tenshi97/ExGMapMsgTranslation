@@ -13,46 +13,46 @@
   {
     "original": "地图由子沫official制作",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图由子沫official制作",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "这是我的第一张地图",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这是我的第一张地图",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "希望你有一个好的体验",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "希望你有一个好的体验",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "感谢所有帮助过我的人",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "感谢所有帮助过我的人",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "欢迎来到彩蛋房",
@@ -409,650 +409,650 @@
   {
     "original": "part 1",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "α:还需要25秒",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第一部分",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "α:还需要25秒",
+    "en_trans": "",
+    "zh_trans": "α:还需要25秒",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "Ai:距离破译机械门还需要15秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "Ai:距离破译机械门还需要15秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "primary:闪刀启动!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "primary:闪刀启动!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 红箭 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 红箭 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 烈火再燃 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 烈火再燃 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:即将破门而入",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:即将破门而入",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "α:保持火力压制,稍后",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:保持火力压制,稍后",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:还需10秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需10秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:启用！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:启用！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:机械门还需要5秒开启",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:机械门还需要5秒开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:机械门被加密,正在破译",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:机械门被加密,正在破译",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:预计需要45秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:预计需要45秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 45,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:检测到传输能量请小心",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:检测到传输能量请小心",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:距离敌人传送还有5秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:距离敌人传送还有5秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:还需要10秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要10秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:机械门被锁死了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:机械门被锁死了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:正在破坏其结构",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:正在破坏其结构",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "检测到传送能量,还需要5秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "检测到传送能量,还需要5秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:还需要30秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要30秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:还需要20秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要20秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:正在启用传送门",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:正在启用传送门",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:传送还需要10秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:传送还需要10秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:传送还需要5秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:传送还需要5秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "α:没路了快破坏这个石头",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:没路了快破坏这个石头",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "α:没时间在这里徘徊了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:没时间在这里徘徊了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:检测到敌人靠近",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:检测到敌人靠近",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "α:一部分人清理道路其他人保持火力!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:一部分人清理道路其他人保持火力!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:先打开右边的限制接触器才能使用左边的开关",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:先打开右边的限制接触器才能使用左边的开关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "α:敌人追的很近,在此构建防御",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:敌人追的很近,在此构建防御",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:敌人正在快速移动",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:敌人正在快速移动",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:限制器已经被解除",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:限制器已经被解除",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:现在通过另一边的身份验证",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:现在通过另一边的身份验证",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:身份验证已通过",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:身份验证已通过",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:大门正在解锁请等待25秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:大门正在解锁请等待25秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:还需要5秒,准备",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要5秒,准备",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "α:动能机停止了,我们得想办法让他动起来",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:动能机停止了,我们得想办法让他动起来",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:先解除左边的安全限制器",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:先解除左边的安全限制器",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:再打开右边的能量置入器让后面的路开启",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:再打开右边的能量置入器让后面的路开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:安全限制器已解除",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:安全限制器已解除",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:系统已经重启",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:系统已经重启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:能量正在植入",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:能量正在植入",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:还需要25秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要25秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:大门已损坏,正在设法破坏",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:大门已损坏,正在设法破坏",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:还需要5秒,准备!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要5秒,准备!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "α:装甲门太厚了,想办法开启他",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:装甲门太厚了,想办法开启他",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:检测到右边墙壁为空心,正在设法破坏",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:检测到右边墙壁为空心,正在设法破坏",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "α:在AI打开门之前守住这里",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:在AI打开门之前守住这里",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:检测到门内有可触发电路",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:检测到门内有可触发电路",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "α:迅速去触发!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:迅速去触发!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:检测后续大门正在打开",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:检测后续大门正在打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:大约还需要40秒",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:大约还需要40秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 40,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "α:边打边撤!不要把触发的兄弟们卖了",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "α:边打边撤!不要把触发的兄弟们卖了",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:敌人在快速接近！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:敌人在快速接近！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AI:正在关闭大门!大约还需要20秒.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:正在关闭大门!大约还需要20秒.",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:还需要5秒.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:还需要5秒.",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "AI:大门关闭中!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "AI:大门关闭中!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-- 序章谢幕开启 --",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-- 序章谢幕开启 --",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "有个衰哥调了第三关",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "有个衰哥调了第三关",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
