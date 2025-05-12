@@ -2,7 +2,7 @@
   {
     "original": "***Modified by Reflelia***",
     "en_trans": "",
-    "zh_trans": "***由 Reflelia 修改***",
+    "zh_trans": "*** 此地图由 Reflelia 进行魔改 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -41,7 +41,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***40 SECONDS LEFT***",
@@ -96,12 +96,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***CURRENT MODE >>>NORMAL<<<***",
     "en_trans": "",
-    "zh_trans": "***当前模式>>>正常<<<***",
+    "zh_trans": "*** 当前模式>>> 普通模式（无神器低血量剿匪）<<< ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "***CURRENT MODE >>>CUSTOM<<<***",
     "en_trans": "",
-    "zh_trans": "***当前模式>>>自定义<<<***",
+    "zh_trans": "*** 当前模式>>> 自定义模式（全神器剿匪）<<< ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "***Zombie picked up Freeze***",
     "en_trans": "",
-    "zh_trans": "***僵尸捡到了冰冻***",
+    "zh_trans": "*** 一名僵尸拾取了冰 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "***ChainSaw Picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了电锯***",
+    "zh_trans": "*** 一位玩家捡到了电锯 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": "***Zombie picked up Gravity***",
     "en_trans": "",
-    "zh_trans": "***僵尸捡到了重力***",
+    "zh_trans": "*** 一名僵尸拾取了黑洞 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,7 +167,7 @@
   {
     "original": "***Nuke launched***",
     "en_trans": "",
-    "zh_trans": "***核弹已发射***",
+    "zh_trans": "*** 核弹已发射 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "***Jump portal opened***",
     "en_trans": "",
-    "zh_trans": "***跳跃传送门已打开***",
+    "zh_trans": "*** 场地中间的大飞板已开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "***Nuke impact***",
     "en_trans": "",
-    "zh_trans": "***核弹冲击***",
+    "zh_trans": "*** 核弹已爆炸 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "***Speed picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了速度***",
+    "zh_trans": "*** 一位玩家拾取了加速 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "***Ice picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了冰***",
+    "zh_trans": "*** 一位玩家拾取了冰 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": "***Barrel picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了桶***",
+    "zh_trans": "*** 一位玩家拾取了秒杀桶（按e会在你面钱生成一个桶） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "***Wall picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了墙***",
+    "zh_trans": "*** 一位玩家拾取了墙 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "***Player picked up Radio***",
     "en_trans": "",
-    "zh_trans": "***玩家捡到了收音机***",
+    "zh_trans": "*** 一位玩家拾取了点歌机 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "[MUSIC] Camellia vs Akira Complex - Reality Distortion",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：Camellia vs Akira Complex - Reality Distortion",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,7 +376,7 @@
   {
     "original": "***Wind picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了风***",
+    "zh_trans": "*** 一位玩家拾取了风 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -387,7 +387,7 @@
   {
     "original": "[MUSIC] Waterflame - Glorious morning",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：Waterflame - Glorious morning",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -398,7 +398,7 @@
   {
     "original": "***Snow picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了雪***",
+    "zh_trans": "*** 一位玩家拾取了雪 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "***Heal picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了治疗***",
+    "zh_trans": "*** 一位玩家拾取了奶 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "[MUSIC] We Are Number One Remix but by The Living Tombstone",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：We Are Number One Remix but by The Living Tombstone",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": "***Rocket - Right click to shot***",
     "en_trans": "",
-    "zh_trans": "***火箭 - 右键发射***",
+    "zh_trans": "***  有人拾取了火箭筒，鼠标右键使用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "***grenade picked up***",
     "en_trans": "",
-    "zh_trans": "***捡到了手榴弹***",
+    "zh_trans": "*** 一位玩家拾取了手雷制造机 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "[MUSIC] a_hisa - Snow Cloud",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：a_hisa - Snow Cloud",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": "[MUSIC] Pendulum - Crush",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：Pendulum - Crush",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,7 +475,7 @@
   {
     "original": "[MUSIC] Pendulum - Encoder",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：Pendulum - Encoder",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,7 +486,7 @@
   {
     "original": "[MUSIC] SimplePlan - Last One Standing",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：SimplePlan - Last One Standing",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -497,7 +497,7 @@
   {
     "original": "***Zombie picked up Pizza***",
     "en_trans": "",
-    "zh_trans": "***僵尸捡到了披萨***",
+    "zh_trans": "*** 一名僵尸拾取了披萨 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,7 +508,7 @@
   {
     "original": "[MUSIC] Kaneko Chiharu - TEmPTaTiON",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm： Kaneko Chiharu - TEmPTaTiON",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,7 +519,7 @@
   {
     "original": "***Zombie picked up Nuke***",
     "en_trans": "",
-    "zh_trans": "***僵尸捡到了核弹***",
+    "zh_trans": "*** 一名僵尸拾取了秒杀 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "[MUSIC] Talesweaver - Reminiscene",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：Talesweaver - Reminiscene",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "[MUSIC] a_hisa - floral",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm： a_hisa - floral",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -563,7 +563,7 @@
   {
     "original": "[MUSIC] Kaneko Chiharu - Silent Blue",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm： Kaneko Chiharu - Silent Blue",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "***Zombie picked up Laser***",
     "en_trans": "",
-    "zh_trans": "***僵尸捡到了激光***",
+    "zh_trans": "*** 一名僵尸拾取了跳刀 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,23 +629,23 @@
   {
     "original": "***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有人在调关房选择了全员低重力（当前回合低重力）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***ADMIN CHANGED MODE [CUSTOM]***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有人在调关房为下一回合选择了自定义模式***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
