@@ -508,7 +508,7 @@
   {
     "original": "这波死士清理完毕,小心,又有一波死士从房子里面出来了!",
     "en_trans": "",
-    "zh_trans": "这波死士清理完毕,小心,又有一波死士从房子里面出来了 --- 27秒后僵尸开始最后的自助餐",
+    "zh_trans": "这波死士清理完毕,小心,又有一波死士从房子里面出来了 --- 僵尸将在27秒后追尾",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,13 +541,13 @@
   {
     "original": "天穹市警局:明白,直升机已向你们接近!",
     "en_trans": "",
-    "zh_trans": "天穹市警局:明白,直升机已向你们接近!",
+    "zh_trans": "天穹市警局:明白,直升机已向你们接近! --- 直升机将在24秒后离开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 24,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "太迟了!!!",
