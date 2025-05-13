@@ -5,6 +5,7 @@
     "zh_trans": ">>刀剑神域 ver:2.0<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": ">>地图制作: Tenshi<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": ">>特别感谢: Lopb, Seth<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,8 +38,10 @@
     "zh_trans": ">>第一关<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up [ZM]<Ice>**",
@@ -44,6 +49,7 @@
     "zh_trans": "**僵尸已拾取[ZM]<寒冰>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -54,6 +60,7 @@
     "zh_trans": "**已拾取<治疗魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -64,6 +71,7 @@
     "zh_trans": "**已拾取<风魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -74,8 +82,10 @@
     "zh_trans": ">>小镇的门15秒后开启<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The door will open in 30 seconds<<",
@@ -83,8 +93,10 @@
     "zh_trans": ">>这扇门30秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<SHAKE WAVE>>",
@@ -92,6 +104,7 @@
     "zh_trans": "<<震荡波>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -102,6 +115,7 @@
     "zh_trans": "<<引力>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -112,6 +126,7 @@
     "zh_trans": "<<震撼世界>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -122,6 +137,7 @@
     "zh_trans": "<<践踏>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -132,6 +148,7 @@
     "zh_trans": "<<粉碎>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -142,8 +159,10 @@
     "zh_trans": ">>门将在25秒后开启<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The door will close in 20 seconds<<",
@@ -151,8 +170,10 @@
     "zh_trans": ">>门将在20秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Crystal not placed<<",
@@ -160,6 +181,7 @@
     "zh_trans": ">>水晶未放置归位<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -170,6 +192,7 @@
     "zh_trans": ">>回合已失败<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -180,6 +203,7 @@
     "zh_trans": "**已拾取<大地魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -190,8 +214,10 @@
     "zh_trans": ">>侧门将在15秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Stage 4 has been chosen**",
@@ -199,8 +225,10 @@
     "zh_trans": "**已选择第四关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Stage 4<<",
@@ -208,8 +236,10 @@
     "zh_trans": ">>第四关<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Go to the Palace<<",
@@ -217,6 +247,7 @@
     "zh_trans": ">>去宫殿那里<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -227,6 +258,7 @@
     "zh_trans": ">>启动水晶塔<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -237,8 +269,10 @@
     "zh_trans": ">>烈焰领域之门30秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The door will open in 20 seconds<<",
@@ -246,8 +280,10 @@
     "zh_trans": ">>大门20秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up [ZM]<Gravity>**",
@@ -255,6 +291,7 @@
     "zh_trans": "**僵尸已拾起[ZM]<黑洞>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -265,8 +302,10 @@
     "zh_trans": ">>电梯将在30秒后升起<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up <Gravity Magic>**",
@@ -274,6 +313,7 @@
     "zh_trans": "**已拾取<重力魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -284,8 +324,10 @@
     "zh_trans": ">>坚持30秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Defence for 20 seconds<<",
@@ -293,8 +335,10 @@
     "zh_trans": ">>坚持20秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Balrog is casting Flame Nova, use <Lightning> to resist it<<",
@@ -302,6 +346,7 @@
     "zh_trans": ">>炎魔正在使用火焰新星,使用<电环>抵抗效果!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -312,8 +357,10 @@
     "zh_trans": ">>火焰新星将在10秒后发动<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up [ZM]<Stealth>**",
@@ -321,6 +368,7 @@
     "zh_trans": "**僵尸已拾起[ZM]<隐身>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -331,6 +379,7 @@
     "zh_trans": "**僵尸已拾起[ZM]<护盾>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -341,6 +390,7 @@
     "zh_trans": "**玩家已拾取<水魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -351,6 +401,7 @@
     "zh_trans": "**玩家已拾取<电环魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -361,8 +412,10 @@
     "zh_trans": "**已选择第一关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A player has picked up <Ultima Magic>**",
@@ -370,6 +423,7 @@
     "zh_trans": "**玩家已拾取<终极魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -380,6 +434,7 @@
     "zh_trans": "**已选择ZM关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -390,6 +445,7 @@
     "zh_trans": ">>ZM关卡<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -400,6 +456,7 @@
     "zh_trans": "**玩家已拾取<复制魔法>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -410,8 +467,10 @@
     "zh_trans": ">>还有180秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 180,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>120 seconds remaining<<",
@@ -419,8 +478,10 @@
     "zh_trans": ">>还有120秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>60 seconds remaining<<",
@@ -428,8 +489,10 @@
     "zh_trans": ">>还有60秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>ze_S_A_M ver:2.0.15<<",
@@ -437,6 +500,7 @@
     "zh_trans": ">>刀剑神域  ver:2.0.15<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -447,6 +511,7 @@
     "zh_trans": ">>特别感谢: Lopb, @Seth, Kxnrl<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -457,8 +522,10 @@
     "zh_trans": " >>侧门将在10秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**A Player has picked up <Crystal>**",
@@ -466,6 +533,7 @@
     "zh_trans": "**玩家已拾起<水晶>**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -476,6 +544,7 @@
     "zh_trans": " >>第二关<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -486,8 +555,10 @@
     "zh_trans": " >>传送将在15秒后准备就绪<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Breaking crystals<<",
@@ -495,6 +566,7 @@
     "zh_trans": " >>击碎水晶<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -505,8 +577,10 @@
     "zh_trans": " >>守住15秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<EVIL>>",
@@ -514,6 +588,7 @@
     "zh_trans": "<<恶灵>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -524,6 +599,7 @@
     "zh_trans": "<<橙色标记>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -534,6 +610,7 @@
     "zh_trans": "<<爆发>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -544,6 +621,7 @@
     "zh_trans": "<<蓝色标记>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -554,6 +632,7 @@
     "zh_trans": "<<巨石冲击>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -564,6 +643,7 @@
     "zh_trans": "<<地震>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -574,8 +654,10 @@
     "zh_trans": " >>电梯将在15秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The teleporter will be ready in 20 seconds<<",
@@ -583,8 +665,10 @@
     "zh_trans": " >>传送20秒后准备就绪<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Come out of the Palace and defend the zombies<<",
@@ -592,6 +676,7 @@
     "zh_trans": " >>快从宫殿里出来,守住僵尸<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -602,8 +687,10 @@
     "zh_trans": " >>还要10秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Zombies get out<<",
@@ -611,6 +698,7 @@
     "zh_trans": " >>僵尸退散<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -621,8 +709,10 @@
     "zh_trans": " >>第三关<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Go to the Stela<<",
@@ -630,6 +720,7 @@
     "zh_trans": " >>去石柱那里<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -640,8 +731,10 @@
     "zh_trans": " >>石柱传送将在15秒后启动<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The rock will break in 15 seconds<<",
@@ -649,8 +742,10 @@
     "zh_trans": " >>岩石将在15秒后崩塌<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The rock will break in 25 seconds<<",
@@ -658,8 +753,10 @@
     "zh_trans": " >>岩石将在25秒后崩塌<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The rock will break in 30 seconds<<",
@@ -667,8 +764,10 @@
     "zh_trans": " >>岩石将在30秒后崩塌<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The rock will break in 40 seconds<<",
@@ -676,8 +775,10 @@
     "zh_trans": " >>岩石将在40秒后崩塌<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Its ice dragon<<",
@@ -685,6 +786,7 @@
     "zh_trans": " >>是寒冰之龙<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -695,6 +797,7 @@
     "zh_trans": " <凛冬之怒>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -705,6 +808,7 @@
     "zh_trans": " <寒冰风暴>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -715,6 +819,7 @@
     "zh_trans": " <凝结>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -725,6 +830,7 @@
     "zh_trans": " <寒冰护盾>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -735,8 +841,10 @@
     "zh_trans": " >>大门会在70秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 70,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>20 seconds remaining<<",
@@ -744,8 +852,10 @@
     "zh_trans": ">>还有20秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>10 seconds remaining<<",
@@ -753,8 +863,10 @@
     "zh_trans": ">>还有10秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Stage 5<<",
@@ -762,8 +874,10 @@
     "zh_trans": ">>第五关<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Finding the Crystal<<",
@@ -771,6 +885,7 @@
     "zh_trans": ">>找到水晶<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -781,6 +896,7 @@
     "zh_trans": ">>水晶已被正确放置<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -791,6 +907,7 @@
     "zh_trans": ">>有什么要来了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -801,8 +918,10 @@
     "zh_trans": ">>等待20秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The Void Gate will open in 30 seconds<<",
@@ -810,8 +929,10 @@
     "zh_trans": ">>虚空之门30秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Activate two buttons<<",
@@ -819,6 +940,7 @@
     "zh_trans": ">>按下两处按钮<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -829,8 +951,10 @@
     "zh_trans": ">>等待6秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<COLLAPSAR>>",
@@ -838,6 +962,7 @@
     "zh_trans": "<<毁灭>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -848,6 +973,7 @@
     "zh_trans": "<<诅咒>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -858,6 +984,7 @@
     "zh_trans": "<<崩塌>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -868,6 +995,7 @@
     "zh_trans": "<<暗影之剑>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -878,6 +1006,7 @@
     "zh_trans": "<<混沌风暴>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -888,6 +1017,7 @@
     "zh_trans": "<<洪流>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -898,6 +1028,7 @@
     "zh_trans": "<<生命汲取>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -908,6 +1039,7 @@
     "zh_trans": "<<闪耀>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -918,6 +1050,7 @@
     "zh_trans": ">>我们成功摧毁了它<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -928,6 +1061,7 @@
     "zh_trans": ">>快离开这里!!!快回去!!!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -938,6 +1072,7 @@
     "zh_trans": ">>右侧的门已打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -948,6 +1083,7 @@
     "zh_trans": ">>看起来有什么挡住了去路<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -958,6 +1094,7 @@
     "zh_trans": ">>哦!是暗影守卫<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -968,6 +1105,7 @@
     "zh_trans": ">>快杀了他!!!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -978,6 +1116,7 @@
     "zh_trans": ">> 它正在启动<暗影掠夺> <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -988,6 +1127,7 @@
     "zh_trans": ">>他逃跑了!!虚空之门打开了!!快跟上!!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -998,6 +1138,7 @@
     "zh_trans": ">>朝他射击!!!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1008,6 +1149,7 @@
     "zh_trans": ">>我们打败他了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1018,6 +1160,7 @@
     "zh_trans": ">>保持防守<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1028,6 +1171,7 @@
     "zh_trans": ">>水晶正在注入能量<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1038,6 +1182,7 @@
     "zh_trans": ">>我们马上就能离开这里了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1048,6 +1193,7 @@
     "zh_trans": ">>快离开这里!!!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1058,6 +1204,7 @@
     "zh_trans": ">>快上飞船!!!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1068,8 +1215,10 @@
     "zh_trans": ">>飞船将在15秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>Zombies get on<<",
@@ -1077,6 +1226,7 @@
     "zh_trans": ">>僵尸上来了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1087,8 +1237,10 @@
     "zh_trans": "**已选择第二关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The Gate will close in 40 seconds<<",
@@ -1096,8 +1248,10 @@
     "zh_trans": ">>大门会在40秒后关闭<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Stage 3 has been chosen**",
@@ -1105,8 +1259,10 @@
     "zh_trans": "**已选择第三关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The door on the left has opened<<",
@@ -1114,6 +1270,7 @@
     "zh_trans": ">>左边的门已打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1124,6 +1281,7 @@
     "zh_trans": "**已选择第五关**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1134,6 +1292,7 @@
     "zh_trans": ">>僵尸进来了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1144,6 +1303,7 @@
     "zh_trans": ">>刀剑神域 ver:2.0.12<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1154,6 +1314,7 @@
     "zh_trans": "本地图作者 Ayano 加加加加加加加加加加入了游戏!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1164,6 +1325,7 @@
     "zh_trans": ">>刀剑神域 ver:2.0.13<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1174,6 +1336,7 @@
     "zh_trans": ">>刀剑神域 ver:2.0.16<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1184,6 +1347,7 @@
     "zh_trans": ">>刀剑神域 ver:2.0.17<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1194,8 +1358,10 @@
     "zh_trans": ">>等待20秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<<ANGER SHIELD>>",
@@ -1203,6 +1369,7 @@
     "zh_trans": "<<愤怒之盾>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1213,6 +1380,7 @@
     "zh_trans": ">>ze_S_A_M ver:2.0.19<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1223,6 +1391,7 @@
     "zh_trans": ">>ze_S_A_M ver:2.0.20<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1233,6 +1402,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1243,6 +1413,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1253,6 +1424,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1263,6 +1435,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1273,6 +1446,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1283,8 +1457,10 @@
     "zh_trans": ">>电梯将在5秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>The library door will open in 30 seconds<<",
@@ -1292,8 +1468,10 @@
     "zh_trans": ">>图书馆的门将在30秒后打开<< ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>ze_S_A_M ver:2.2.6<<",
@@ -1301,6 +1479,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1311,6 +1490,7 @@
     "zh_trans": ">> 当前分担伤害: 500 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1321,6 +1501,7 @@
     "zh_trans": ">> 当前分担伤害: 200 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1331,6 +1512,7 @@
     "zh_trans": ">> 当前分担伤害: 175 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1341,6 +1523,7 @@
     "zh_trans": ">> 当前分担伤害: 150 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1351,6 +1534,7 @@
     "zh_trans": ">> 当前分担伤害: 125 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1361,6 +1545,7 @@
     "zh_trans": ">> 当前分担伤害: 100 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1371,6 +1556,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1381,6 +1567,7 @@
     "zh_trans": ">>这看起来是一条小路，打破那个金属围栏<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1391,8 +1578,10 @@
     "zh_trans": ">>门将在15秒后打开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> Current shared damage: 40 <<",
@@ -1400,6 +1589,7 @@
     "zh_trans": ">> 当前分担伤害: 40 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1410,6 +1600,7 @@
     "zh_trans": ">> 当前分担伤害: 50 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1420,6 +1611,7 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1430,8 +1622,20 @@
     "zh_trans": ">> 当前分担伤害: 75 <<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": ">>ze_S_A_M ver:2.2.9<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
