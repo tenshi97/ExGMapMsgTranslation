@@ -486,29 +486,29 @@
   {
     "original": "ZM Mode.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ZM 模式.",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "ze_prisonbreak_rescue(Season 2)",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "ze_prisonbreak_rescue 越狱：拯救(第二季)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Map by Royal Warrior",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "地图作者 Royal Warrior(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,7 +519,7 @@
   {
     "original": "Thank for your playing!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "感谢您的游玩！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "Hope you all enjoy the map!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "希望大家喜欢这张地图！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "Survive for 150 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "生存 150 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "Nuke in 100 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "核弹将在 100 秒后爆炸！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -563,7 +563,7 @@
   {
     "original": "Nuke in 60 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "核弹将在 60 秒后爆炸！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -574,7 +574,7 @@
   {
     "original": "Nuke in 30 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "核弹将在 30 秒后爆炸！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "Nuke in 20 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "核弹将在 20 秒后爆炸！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,7 +596,7 @@
   {
     "original": "Nuke in 10 seconds!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "核弹将在 10 秒后爆炸！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
