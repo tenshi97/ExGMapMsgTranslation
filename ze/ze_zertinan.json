@@ -19,7 +19,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** CS2 Port By @Seth **",
@@ -30,7 +30,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**60 seconds remaining**",
@@ -497,7 +497,7 @@
   {
     "original": "** Gravity **",
     "en_trans": "",
-    "zh_trans": "** 黑洞 <被吸到场地中间附加死亡buff> **",
+    "zh_trans": "** 黑洞 <抵抗吸力> **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "** Flash Freeze **",
     "en_trans": "",
-    "zh_trans": "** 速冻（蹲下） **",
+    "zh_trans": "** 速冻（贴墙） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
