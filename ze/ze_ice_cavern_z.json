@@ -56,7 +56,7 @@
   {
     "original": "<<< Gastly Wind >>>",
     "en_trans": "",
-    "zh_trans": "<<< 阴森的风 >>>",
+    "zh_trans": "<<< 阴森的风 >>>（抵抗中间吸力）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -152,7 +152,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<<< Last hold! Hold for 60 seconds! >>>",
@@ -166,7 +167,7 @@
   {
     "original": "<<< Ladder on side of platform has been broken watch out!!!",
     "en_trans": "",
-    "zh_trans": "<<< 平台一侧的梯子已经坏了，小心！！！ >>>",
+    "zh_trans": "<<< 平台一侧的梯子已开放，小心！！！ >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -185,7 +186,7 @@
   {
     "original": "<<< Replenish >>>",
     "en_trans": "",
-    "zh_trans": "<<< 补充物资 >>>",
+    "zh_trans": "<<< 补充物资 >>>（治疗）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -205,10 +206,10 @@
   {
     "original": "?",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 有人被墙盖死了，使用z3悼念队友 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 1
   }
 ]
