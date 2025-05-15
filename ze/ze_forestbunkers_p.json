@@ -2,18 +2,18 @@
   {
     "original": ">> 9 MINUTES TO ESCAPE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你有9分钟时间来逃离这个地方 << - 翻译:星荧铃",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 9,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DOOR OPENING IN 10 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 门将在 10 秒后开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": ">> BUNKER DOORS OPENING IN 15 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡门将在 15 秒后开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": ">> BUNKER DOORS CLOSING IN 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡门将在 5 秒后关闭 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": ">> DOORS WILL OPEN AGAIN IN 10 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 门将在 10 秒后再次开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": ">> FOREST PATH: RESIST 20 SECONDS",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 森林路：坚持 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": ">> FOREST PATH: 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 森林路： 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,18 +79,18 @@
   {
     "original": ">> FOREST PATH: RETREAT! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 森林路：撤退！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> BUNKER PATH: BARRICADE AND RESIST 40 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：坚持 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,18 +101,18 @@
   {
     "original": ">> 6 MINUTES TO ESCAPE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你还有6分钟时间来逃离这里 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> BUNKER PATH: 20 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：还剩 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": ">> BUNKER PATH: 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：还剩 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,18 +134,18 @@
   {
     "original": ">> BUNKER PATH: FALL BACK! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：撤退! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> BUNKER PATH: HOLD THE CAVE FOR 20 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：坚守洞穴 20 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": ">> BUNKER PATH: 5 SECONDS! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：还剩 5 秒！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,18 +167,18 @@
   {
     "original": ">> BUNKER PATH: RETREAT! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 地堡路：撤退! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>MAIN DOOR OPENING IN 15 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 主门将在 15 秒后开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": ">> MAIN DOOR CLOSING IN 3 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 主门将在 3 秒后关闭 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": ">> MAIN DOOR WILL OPEN AGAIN IN 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 主门将在 5 秒后再次开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,18 +211,18 @@
   {
     "original": ">> 3 MINUTES TO ESCAPE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 在3分钟内逃脱这里 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> DOOR OPENING IN 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 门将在 5 秒后开启 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": ">> DOOR CLOSING IN 3 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 门将在 3 秒后关闭 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": ">> DOOR OPENING AGAIN IN 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 5 秒后再次开门 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": ">> HOLD THE RIVER FOR 25 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守住河流 25 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": ">> 10 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": ">> 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,84 +288,84 @@
   {
     "original": ">> RETREAT TO A SAFER SPOT! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撤到更安全的地方！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> FIND A WAY ON TO THE ROOF <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 找到通往屋顶的路 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> CALLING FOR HELP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 正在寻求救援 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> HOLD THE ROOF UNTIL HELP ARRIVES <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守住屋顶，救援马上就到 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> 1 MINUTE TO ESCAPE <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 只剩最后一分钟了 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> CHOPPER IS ON THE WAY! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 直升机正在赶来！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> READ THE CHAT MESSAGES!!!! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 查看聊天信息！！！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> ZOMBIES WILL BE TELEPORTED IN 10 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸将在 10 秒后传送 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -376,29 +376,29 @@
   {
     "original": ">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 直升机在旧棚屋等着你 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> WAIT FOR ZOMBIES TO BE TELEPORTED <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 等僵尸传送走 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 等不了多久了，直升机将在 30 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": ">> 3 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 3 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": ">> 2 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 2 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": ">> 1 <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 1 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,45 +442,45 @@
   {
     "original": ">> ZOMBIES HAVE BEEN TELEPORTED. RUN!! FOLLOW THE LIGHTS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 僵尸已被传送. 快跑!! 跟着光走 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> DONT FALL BEHIND! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 别掉队! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> 10 SECONDS TO ESCAPE <<",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": ">> TOO LATE <<",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 逃离时间还剩 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": ">> TOO LATE <<",
+    "en_trans": "",
+    "zh_trans": ">> 太慢了！ <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
