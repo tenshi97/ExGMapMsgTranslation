@@ -477,7 +477,7 @@
   {
     "original": "-=[ Easy Mode :: CT/T > 4 ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 简单模式 :: 人类/僵尸数量 > 4 ]=-",
+    "zh_trans": "-=[ 简单模式 :: 人类数量是僵尸的4倍以上 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -521,7 +521,7 @@
   {
     "original": "-=[ Normal Mode :: CT/T > 2 < 4 ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 正常模式 :: 人类/僵尸数量 > 2 且 < 4 ]=-",
+    "zh_trans": "-=[ 普通模式 :: 人类数量是僵尸的2倍到4倍之间 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
