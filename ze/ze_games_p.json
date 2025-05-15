@@ -464,6 +464,72 @@
     "force_hint": 1
   },
   {
+    "original": "-=[ Select your first game ]=-",
+    "en_trans": "",
+    "zh_trans": "-=[ 选择第一个小游戏 ]=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "-=[ Easy Mode :: CT/T > 4 ]=-",
+    "en_trans": "",
+    "zh_trans": "-=[ 简单模式 :: 人类/僵尸数量 > 4 ]=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "-=[ Starting game: Drop ]=-",
+    "en_trans": "",
+    "zh_trans": "-=[ 游戏开始：空投 ]=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "-=[ Survive 60 Seconds... ]=-",
+    "en_trans": "",
+    "zh_trans": "-=[ 生存 60 秒... ]=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 60,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "-=[ Activating in 5 ]=-",
+    "en_trans": "",
+    "zh_trans": "-=[ 5 秒后激活 ]=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "-=[ Normal Mode :: CT/T > 2 < 4 ]=-",
+    "en_trans": "",
+    "zh_trans": "-=[ 正常模式 :: 人类/僵尸数量 > 2 且 < 4 ]=-",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
     "original": "-=[Normal Mode ]=-",
     "en_trans": "",
     "zh_trans": "-=[ 普通模式 ]=-",
