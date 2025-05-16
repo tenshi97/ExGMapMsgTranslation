@@ -5,6 +5,7 @@
     "zh_trans": "...我们怎么昏迷了这么久...NPST事件才过去几小时",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": "<总部>...请求回复",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": "长官，我们在",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,6 +38,7 @@
     "zh_trans": "<总部>士兵们，干得好，我以为要再也见不到你们了呢，接下来我复述本次行动目标...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -45,6 +49,7 @@
     "zh_trans": "等会？...他妈的，左边办公室里好像有什么动静...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -55,6 +60,7 @@
     "zh_trans": "<总部>发生了什么？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -65,6 +71,7 @@
     "zh_trans": "报告，有不知名生物在攻击我们...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -75,6 +82,7 @@
     "zh_trans": "<总部>...鉴于目前情况，我部现将你们的行动代号更改为“GooseStep”，你们的任务不变...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -85,6 +93,7 @@
     "zh_trans": "<总部>收集一切在哈夫克设施内有关NPST协议的情报，然后活着带回总部...去其他有收音电台的地方再联系我",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -95,6 +104,7 @@
     "zh_trans": "遵命，长官！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -105,6 +115,7 @@
     "zh_trans": "<总部>祝武运昌隆",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -115,8 +126,10 @@
     "zh_trans": "<40>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<35>",
@@ -124,8 +137,10 @@
     "zh_trans": "<35>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<50>",
@@ -133,8 +148,10 @@
     "zh_trans": "<50>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<总部>据情报，地下设施中拥有一份弥足珍贵的文件，找到它",
@@ -142,6 +159,7 @@
     "zh_trans": "<总部>据情报，地下设施中拥有一份弥足珍贵的文件，找到它",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -152,8 +170,10 @@
     "zh_trans": "<30>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<60>",
@@ -161,8 +181,10 @@
     "zh_trans": "<60>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "他们要从后面涌出来了！",
@@ -170,6 +192,7 @@
     "zh_trans": "他们要从后面涌出来了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -180,6 +203,7 @@
     "zh_trans": "这个电梯似乎坏了...不过我们可以撬开这个下水道口，这能让我们上到办公区",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -190,6 +214,7 @@
     "zh_trans": "<总部>救援你们的Federation小队已经在路上了...按计划去指定位置和他们碰头",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -200,6 +225,7 @@
     "zh_trans": "守住这个控制室，直到我们修改前台权限",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -210,6 +236,7 @@
     "zh_trans": "前面的门被堵住了...仔细听，我们脚下有水流声",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -220,6 +247,7 @@
     "zh_trans": "我有一个点子...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -230,6 +258,7 @@
     "zh_trans": "给炸药一点时间预热",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -240,6 +269,7 @@
     "zh_trans": "应急保险柜里有我们需要的工具，能帮我们从下水道上去",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -250,6 +280,7 @@
     "zh_trans": "<总部>各单位注意，哈夫克武装直升机正在往你们的方位靠拢，立刻做好战斗准备",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -260,6 +291,7 @@
     "zh_trans": "这个平台上有一把固定机枪，他看上去似乎还能运转",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -270,6 +302,7 @@
     "zh_trans": "当心！直升机要往上面的平台攻击了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -280,6 +313,7 @@
     "zh_trans": "<总部>你们需要获取一层实验室的实验样本，另据可靠消息，二层的办公区有着一块存储机密信息的U盘...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -290,6 +324,7 @@
     "zh_trans": "<总部>...但这并非本次任务目标，不必勉强自己，祝你们好运",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -300,6 +335,7 @@
     "zh_trans": "这是什么...一张钥匙卡？先留着吧，它可能会有用",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -310,8 +346,10 @@
     "zh_trans": "1",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "当前结局：<未断脊梁>",
@@ -319,6 +357,7 @@
     "zh_trans": "当前结局：<未断脊梁>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -329,6 +368,7 @@
     "zh_trans": "让终章奏响...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -339,6 +379,7 @@
     "zh_trans": "<总部>GooseStep小队，我很遗憾通知你们，我部暂时与你们的增援Federation小队失联...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -349,6 +390,7 @@
     "zh_trans": "<总部>如果你们没有其他方法撤离，就按原定计划去指定地点等待Federation小队接应",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -359,6 +401,7 @@
     "zh_trans": "遵命...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -369,6 +412,7 @@
     "zh_trans": "后面是一片火场，我们已经无路可退了...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -379,6 +423,7 @@
     "zh_trans": "我出现幻觉了吗...身后的火焰竟然正在消散？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -389,6 +434,7 @@
     "zh_trans": "找到灭火器了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -399,6 +445,7 @@
     "zh_trans": "当心！直升机要往下面攻击了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -409,6 +456,7 @@
     "zh_trans": "是Federation小队...我们得救了吗？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -419,6 +467,7 @@
     "zh_trans": "<Federation>报告总部，我队路上遭遇敌袭，短暂失联...但是我们已经抵达任务目的地了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -429,6 +478,7 @@
     "zh_trans": "<总部>干的很好...GooseStep小队呢？",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -439,6 +489,7 @@
     "zh_trans": "<Federation>...（沉默）我们没有发现GooseStep小队的幸存者，只找到了几具队员遗体...以及他们誓死保卫下来的情报",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -449,6 +500,7 @@
     "zh_trans": "当前结局：<长夜未尽，勿颂黎明>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -459,6 +511,7 @@
     "zh_trans": "长官，我们得到了设施停机坪的权限卡，据监控显示，那里有一架直升机",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -469,6 +522,7 @@
     "zh_trans": "<总部>我部批准你们使用其他计划撤离，如果我部与Federation小队取得联系，将会第一时间通知他们有关事宜",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -479,6 +533,7 @@
     "zh_trans": "他妈的，这架直升机好像出现了什么损坏",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -489,6 +544,7 @@
     "zh_trans": "给我们的工兵一点时间修好这个大家伙...",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -499,8 +555,20 @@
     "zh_trans": "麻利点，小伙子们，直升机马上起飞了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "stp by 风铃睡不醒 5/16 修复，触发",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
