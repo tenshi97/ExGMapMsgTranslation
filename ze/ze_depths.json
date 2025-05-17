@@ -794,117 +794,117 @@
   {
     "original": "...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "......（彩蛋已触发）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "A car! We could make some use of it if it works...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "那有一辆车！来个有c1驾照的老司机去开车！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Use the car to break the grates!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们需要用车来撞破栅栏门！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Security system has been alerted",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "安全系统已收到警报",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "We only have about 4 minutes left to leave this place",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "我们只有四分钟的时间离开这里！--- 240s",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 240,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Platform called",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "已呼叫平台",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Use the car to get the bridge down!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "用车把桥撞下来！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Last door is opening in 10 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后的大门将在10秒后打开",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "1 minute left",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还有60秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "This is our last hold. Resist!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "这是我们最后的守点。坚持住!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "30 seconds left",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "还有30秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -915,7 +915,7 @@
   {
     "original": "10 seconds left",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "再坚持10秒",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -926,12 +926,12 @@
   {
     "original": "STAGE 3 COMPLETE",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "第三关已完成",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
