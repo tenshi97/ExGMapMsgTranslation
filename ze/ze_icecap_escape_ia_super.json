@@ -783,78 +783,78 @@
   {
     "original": ">超级大逃亡...<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">超级大逃亡...<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">皮肤们分散在地图各处<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">皮肤们分散在地图各处<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">找到他们并且存活300s吧<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">找到他们并且存活300s吧<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 300,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">核爆还剩下180s<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">核爆还剩下180s<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 180,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">核爆还剩下90s<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">核爆还剩下90s<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 90,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">核爆还剩下30s<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">核爆还剩下30s<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">核爆...<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">核爆...<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

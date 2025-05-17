@@ -591,11 +591,12 @@
   {
     "original": "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***",
     "en_trans": "",
-    "zh_trans": "***必须触发4个球体才能活下去！***",
+    "zh_trans": "***必须对4个球按e触发才能活下去！***",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 4,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***HOLD ON TO YOUR HELMETS!***",
