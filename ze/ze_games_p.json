@@ -618,73 +618,73 @@
   {
     "original": "-=[ Easy Mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 简单模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Survive until next ratio mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 生存至下一个模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Hard Mode :: CT/T == 1 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 困难模式 :: 僵尸和人类数量相同 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "-=[ Hard Mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 困难模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ It's time for the final minigame ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 现在是最后的小游戏时间 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Humans Win ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 人类胜利 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Killing zombies in 5 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 5 秒内消灭僵尸 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
