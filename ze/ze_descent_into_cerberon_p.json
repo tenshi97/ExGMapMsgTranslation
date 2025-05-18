@@ -5,8 +5,10 @@
     "zh_trans": "<<地图制作 TORMACOY>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "***THIS THE LOCATION OUR AGENTS REPORTED. THERE SHOULD BE AN ENEMY FACILITY SOMEWHERE INSIDE THIS TEMPLE***",
@@ -14,6 +16,7 @@
     "zh_trans": "***这是我们特工报告的地点。 这座寺庙里应该有敌人的设施***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,6 +27,7 @@
     "zh_trans": "*** 我们必须找到并摧毁它。小心僵尸，这里到处都是***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -34,6 +38,7 @@
     "zh_trans": "***现在，让我们继续前进****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -44,6 +49,7 @@
     "zh_trans": "***这个平台看起来像电梯......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -54,6 +60,7 @@
     "zh_trans": "***前门正在开启......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -64,6 +71,7 @@
     "zh_trans": "*** 这里是寺庙的入口......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -74,6 +82,7 @@
     "zh_trans": "*** 拖住他们，我们再想办法打开 ****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -84,6 +93,7 @@
     "zh_trans": "***差不多了......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -94,6 +104,7 @@
     "zh_trans": "*** 搞定。门现在开了！撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -104,6 +115,7 @@
     "zh_trans": "***在其他人调查该区域时，守住阵线***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -114,6 +126,7 @@
     "zh_trans": "***地板上的那个按钮应该能打开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -124,6 +137,7 @@
     "zh_trans": "*** 干得好，这应该能打开大门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -134,6 +148,7 @@
     "zh_trans": "*** 小心，这个按钮打开了这个区域的所有门 ****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -144,6 +159,7 @@
     "zh_trans": "*** 侧门开启中......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -154,8 +170,10 @@
     "zh_trans": "***还剩5秒。准备撤退***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** THE DOOR IS OPENING. RUN***",
@@ -163,6 +181,7 @@
     "zh_trans": "*** 门正在开启 撤退！****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -173,6 +192,7 @@
     "zh_trans": "*** 我们应该分头检查这两条路 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -183,6 +203,7 @@
     "zh_trans": "***稍等片刻，门很快就会打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -193,6 +214,7 @@
     "zh_trans": "***请稍等片刻，我们去开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -203,8 +225,10 @@
     "zh_trans": "***大门应该在25秒后开启。防守这里***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD THEM OFF! THE OTHER TEAM NEEDS TIME TO OPEN THE DOOR***",
@@ -212,6 +236,7 @@
     "zh_trans": "*** 拖住他们。另一个小队需要点时间来开门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -222,8 +247,10 @@
     "zh_trans": "***还剩 10 秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***5 SECONDS. PREPARE TO RUN***",
@@ -231,8 +258,10 @@
     "zh_trans": "***还剩 5 秒，准备跑****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD A FEW SECONDS WHILE THE DOOR OPENS***",
@@ -240,6 +269,7 @@
     "zh_trans": "***在门打开时再防守几秒钟 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -250,6 +280,7 @@
     "zh_trans": "***坚持住***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -260,6 +291,7 @@
     "zh_trans": "***要打开了 准备跑***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -270,6 +302,7 @@
     "zh_trans": "***我们得继续前进。小心这里的陷阱！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -280,6 +313,7 @@
     "zh_trans": "***左边好像被堵住了，去右边****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -290,6 +324,7 @@
     "zh_trans": "***这里的路也被堵住了，我们必须想办法打开那些栅栏***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -300,6 +335,7 @@
     "zh_trans": "***这样就能打开铁栅栏了***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -310,6 +346,7 @@
     "zh_trans": "***继续防守 我们不知道打开需要多少时间**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -320,6 +357,7 @@
     "zh_trans": "***铁栅栏打开了！快撤！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -330,6 +368,7 @@
     "zh_trans": "***楼梯被堵住了。从洞穴突破 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -340,6 +379,7 @@
     "zh_trans": "*** 敌人的设施应该在洞穴的另一侧。在墙壁上安放一个 C4.***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -350,8 +390,10 @@
     "zh_trans": "**C4 已安放。在 20 秒后爆炸。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 10 SECONDS LEFT!***",
@@ -359,8 +401,10 @@
     "zh_trans": "*** 还剩 10 秒！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** GET OUT IT'S GOING TO EXPLODE ***",
@@ -368,6 +412,7 @@
     "zh_trans": "*** 远离炸弹！要爆炸了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -378,6 +423,7 @@
     "zh_trans": "***这是敌人的设施。现在我们需要前往核心区并摧毁它****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -388,6 +434,7 @@
     "zh_trans": "***派一队人前去探索，其余的人继续争取时间！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -398,6 +445,7 @@
     "zh_trans": "***我们将乘坐这部电梯前往核心区***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -408,6 +456,7 @@
     "zh_trans": "***这个电梯好像用不了......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -418,6 +467,7 @@
     "zh_trans": "***妈的！系统受到保护。给我点时间破解它***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -428,6 +478,7 @@
     "zh_trans": "***破解到一半了......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -438,8 +489,10 @@
     "zh_trans": "***破解成功！电梯10秒后离开。快上来！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***KEEP GOING. I WILL OPEN THE DOORS FOR YOU***",
@@ -447,6 +500,7 @@
     "zh_trans": "***继续前进 我会为你打开大门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -457,8 +511,10 @@
     "zh_trans": "*** 第一扇门在 5 秒后打开****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** SECOND DOOR OPENS IN 10 SECONDS***",
@@ -466,8 +522,10 @@
     "zh_trans": "*** 第二扇门将在 10 秒后打开****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** THIRD DOOR OPENS IN 10 SECONDS ***",
@@ -475,8 +533,10 @@
     "zh_trans": "*** 第三扇门将在 10 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** THIS DOOR MAY TAKE SOME TIME TO OPEN. HOLD YOUR GROUND ! ***",
@@ -484,6 +544,7 @@
     "zh_trans": "*** 这扇门可能需要一些时间才能打开。坚守阵地 ！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -494,8 +555,10 @@
     "zh_trans": "*** 还有 5 秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***FUCK!! THERES A SECOND DOOR!! GIVE ME 10 MORE SECONDS TO OPEN IT ***",
@@ -503,8 +566,10 @@
     "zh_trans": "***他妈的！还有一扇门 再给我10秒钟打开它***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** LIFT WARMING UP. HOLD THEM***",
@@ -512,6 +577,7 @@
     "zh_trans": "***电梯正在预热。守住***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -522,8 +588,10 @@
     "zh_trans": "*** 电梯将在 10 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ANOTHER WAREHOUSE...DOESNT SEEM TO HAVE AN EXIT***",
@@ -531,6 +599,7 @@
     "zh_trans": "****另一个仓库......似乎没有出口****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -541,6 +610,7 @@
     "zh_trans": "***我们的情报表明，我们距离核心区仍有一段距离。我们需要继续前进***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -551,6 +621,7 @@
     "zh_trans": "*** 我们或许可以打开旁边的通风管道，看看它能把我们带到哪里去****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -561,6 +632,7 @@
     "zh_trans": "***妈的 那扇门有额外的安全措施 给我几秒钟***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -571,6 +643,7 @@
     "zh_trans": "***我靠!! 这扇门的安全系统是块硬骨头!! 再给我一点时间!! 守住!***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -581,6 +654,7 @@
     "zh_trans": "*** 门已经打开。 队伍动起来！ 走！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -591,6 +665,7 @@
     "zh_trans": "***下水道门破解中...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -601,8 +676,10 @@
     "zh_trans": "*** 还剩10秒***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THE TRAM STATION IS AHEAD. HOLD YOUR GROUND WHILE OTHERS GO AHEAD TO POWER IT ON***",
@@ -610,6 +687,7 @@
     "zh_trans": "***电车站就在前面。 需要有人去打开电源，其他人则坚守阵地***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -620,8 +698,10 @@
     "zh_trans": "***电车已启动 30秒后出发***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***TRAM LEAVES IN 10 SECONDS***",
@@ -629,8 +709,10 @@
     "zh_trans": "***电车 10 秒后出发***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR LEAVING IN 25 SECONDS***",
@@ -638,8 +720,10 @@
     "zh_trans": "***电梯 25 秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR LEAVING IN 10 SECONDS***",
@@ -647,8 +731,10 @@
     "zh_trans": "***电梯 10 秒后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***ELEVATOR LEAVING IN 5 SECONDS***",
@@ -656,8 +742,10 @@
     "zh_trans": "***电梯 5 秒钟后离开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***OPENING DOOR...***",
@@ -665,6 +753,7 @@
     "zh_trans": "***大门开启......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -675,6 +764,7 @@
     "zh_trans": "***在这里多守会......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -685,6 +775,7 @@
     "zh_trans": "***这一定是前往核心区的最后一扇门。做好准备....****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -695,6 +786,7 @@
     "zh_trans": "***进入核心的门被锁住了......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -705,6 +797,7 @@
     "zh_trans": "***请前往两边侧门的房间，并找到电脑破解系统来打开这扇门***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -715,6 +808,7 @@
     "zh_trans": "***然后用中间房间里的电脑解锁大门****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -725,6 +819,7 @@
     "zh_trans": "***右侧按钮已按下，破解中...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -735,6 +830,7 @@
     "zh_trans": "***右侧已破解***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -745,6 +841,7 @@
     "zh_trans": "***向反应堆开枪！这样可以摧毁核心***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -755,6 +852,7 @@
     "zh_trans": "***左侧按钮已按下，破解中...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -765,6 +863,7 @@
     "zh_trans": "***一旦完成从房间另一侧的门逃走***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -775,6 +874,7 @@
     "zh_trans": "***左侧已破解***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -785,6 +885,7 @@
     "zh_trans": "***两侧均已破解。 使用中央计算机获取核心访问权限***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -795,6 +896,7 @@
     "zh_trans": "***门应该很快就会打开......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -805,6 +907,7 @@
     "zh_trans": "***拖住他们，这些门需要一些时间才能打开......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -815,6 +918,7 @@
     "zh_trans": "**我们正在接近撤离小组。门很快开启，守住***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -825,8 +929,10 @@
     "zh_trans": "***门在 10 秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***CRACKING ELEVATOR SYSTEM...***",
@@ -834,6 +940,7 @@
     "zh_trans": "*** 破解电梯系统中......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -844,8 +951,10 @@
     "zh_trans": "***电梯 10 秒钟后启动，快上来！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** MISSION COMPLETE. NICE WORK TEAM***",
@@ -853,6 +962,7 @@
     "zh_trans": "*** 任务完成。干得好，伙计们****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -863,6 +973,7 @@
     "zh_trans": "*** 几秒钟后部署桥梁......***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -873,6 +984,7 @@
     "zh_trans": "***无法进入这些门，找台电脑打开它们***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -883,8 +995,10 @@
     "zh_trans": "***底部的门在10秒后打开***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***THIS LEADS TO THE REACTOR AREA.USE THAT COMPUTER TO GIVE ME ACCESS TO THE DOOR SYSTEM AND CRACK INTO IT***",
@@ -892,6 +1006,7 @@
     "zh_trans": "***这里通向核心区，使用那台电脑我才能进入门禁系统并破解它****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -902,8 +1017,10 @@
     "zh_trans": "*** 上层门将在 10 秒后打开 ****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "***CRACKING INTO THE DOOR SYSTEM...***",
@@ -911,6 +1028,7 @@
     "zh_trans": "***正在破解门禁系统...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -921,6 +1039,7 @@
     "zh_trans": "***25%...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -931,6 +1050,7 @@
     "zh_trans": "***50%...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -941,6 +1061,7 @@
     "zh_trans": "***75%...***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -951,8 +1072,20 @@
     "zh_trans": "***破解完成。撤退!！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "stp by 长渢 修改回合时间(PVE专用)",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
