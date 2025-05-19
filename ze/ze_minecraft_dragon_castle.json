@@ -1102,7 +1102,7 @@
   {
     "original": "The teleport will open in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "传送门将在 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1113,7 +1113,7 @@
   {
     "original": "Last 10 sec!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 10 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,18 +1124,18 @@
   {
     "original": "Teleport Open! GO !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "传送门已开启！走！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "AFK TP 10 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸将在 10 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1146,7 +1146,7 @@
   {
     "original": "The bridge will open in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "桥梁将在 20 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,18 +1157,18 @@
   {
     "original": "Opening !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "开了！走！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Boss teleportation will open in 25 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "Boss传送将在 25 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
