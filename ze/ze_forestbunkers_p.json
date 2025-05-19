@@ -519,18 +519,18 @@
   {
     "original": ">> ZOMBIE REPELENT PICKED UP (ONE USE) <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 已拾取僵尸驱逐剂（只能使用一次） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> FOREST PATH: RESIST 25 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 森林路：坚持 25 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": ">> FOREST PATH: 5 SECONDS LEFT <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 森林路：剩余 5 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,12 +552,12 @@
   {
     "original": ">> FOREST PATH: FALL BACK! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 森林路：撤退！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
