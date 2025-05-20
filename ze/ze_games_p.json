@@ -376,7 +376,7 @@
   {
     "original": "-=[ Zombie spawn advanced ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 僵尸提前复活 ]=-",
+    "zh_trans": "-=[ 僵尸传送点刷新了 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "-=[ Zombie spawn has advanced ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 僵尸复活时间提前了 ]=-",
+    "zh_trans": "-=[ 僵尸传送点提前了 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "-=[ Easy Mode :: CT/T > 4 ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 简单模式 :: 人类/僵尸数量 > 4 ]=-",
+    "zh_trans": "-=[ 简单模式 :: 人类数量是僵尸的4倍以上 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,7 +596,7 @@
   {
     "original": "-=[ Normal Mode :: CT/T > 2 < 4 ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 正常模式 :: 人类/僵尸数量 > 2 且 < 4 ]=-",
+    "zh_trans": "-=[ 普通模式 :: 人类数量是僵尸的2倍到4倍之间 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,73 +618,73 @@
   {
     "original": "-=[ Easy Mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 简单模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Survive until next ratio mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 生存至下一个模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Hard Mode :: CT/T == 1 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 困难模式 :: 僵尸和人类数量相同 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "-=[ Hard Mode ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 困难模式 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ It's time for the final minigame ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 现在是最后的小游戏时间 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Humans Win ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 人类胜利 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Killing zombies in 5 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 5 秒内消灭僵尸 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,40 +695,40 @@
   {
     "original": "-=[ The main gates are under attack ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 主门正受到攻击 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Hard Mode :: CT/T > 1 < 2 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 困难模式 :: 人类数量是僵尸的1倍到2倍之间 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Starting game: Frogger ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 游戏开始：青蛙过河 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Collect the gems in 45 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 在 45 秒内收集宝石 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,29 +739,29 @@
   {
     "original": "-=[ All Gems have been collected ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 所有宝石已集齐 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Make your way to the highway ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 穿过高速公路 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Middle Exit opening in 30 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 中间的出口将在 30 秒后开启 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "-=[ Doors opening in 5 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 门将在 5 秒后开启 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,51 +783,51 @@
   {
     "original": "-=[ Easy Mode :: CT/T == 4 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 简单模式 :: 人类数量是僵尸的4倍 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 4,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "-=[ Starting game: The Trap ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 游戏开始：陷阱 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Activating Trap ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 陷阱激活中 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Fallback up the ladders ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 撤退至梯子上 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ You have 30 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 你有 30 秒时间 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -838,12 +838,12 @@
   {
     "original": "-=[ Finishing Game :: < 2 ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 游戏结束 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

@@ -193,7 +193,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> LOADING KILLER 10 SECONDS <<<",
@@ -202,7 +203,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">> LOADING KILLER 5 SECONDS <<<",
@@ -211,7 +213,8 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>> HOLD 25 SECONDS <<<",
