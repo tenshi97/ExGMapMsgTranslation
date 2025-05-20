@@ -442,7 +442,7 @@
   {
     "original": "**A player has picked up <Verdandi>**",
     "en_trans": "",
-    "zh_trans": "**一名玩家获得了命运**",
+    "zh_trans": "**一名玩家获得了命运（双倍伤害）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": "**A zombie has picked up <Heal>**",
     "en_trans": "",
-    "zh_trans": "**僵尸拾取了魔神**",
+    "zh_trans": "** 一名僵尸拾取了魔神之力（多种效果奶） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1003,7 +1003,7 @@
   {
     "original": "**It seems there is a strange energy emanating from the eyes of the statues in the corridors of this place**",
     "en_trans": "",
-    "zh_trans": "**这里走廊上的雕像眼睛里似乎散发着一种奇异的能量**",
+    "zh_trans": "** 这里走廊上的雕像眼睛里似乎散发着一种奇异的能量(运送小雕像时注意不能被大雕像眼睛注视到) **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1014,7 +1014,7 @@
   {
     "original": "**The statue! We found it!**",
     "en_trans": "",
-    "zh_trans": "**雕像 我们发现了它**",
+    "zh_trans": "** 是雕像！我们发现了它 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,7 +1080,7 @@
   {
     "original": "**Oh, what happen? It's teleport magic!!!**",
     "en_trans": "",
-    "zh_trans": "**哦,怎么了?这是传送魔法**",
+    "zh_trans": "** 哦,怎么回事？这是传送魔法！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,7 +1124,7 @@
   {
     "original": "**Item <Wisp> is temporarily unavailable**",
     "en_trans": "",
-    "zh_trans": "**暂时无法使用灵光**",
+    "zh_trans": "** 神器<灵光>暂时被禁用 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1135,7 +1135,7 @@
   {
     "original": "**It seems that we are temporarily safe. Item <Wisp> is also available now**",
     "en_trans": "",
-    "zh_trans": "**灵光可以使用了**",
+    "zh_trans": "** 现在可以使用灵光了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "**You better not jump on those stone lanterns**",
     "en_trans": "",
-    "zh_trans": "**你最好别跳上那些石灯笼**",
+    "zh_trans": "** 不想变成二次元就别碰那俩石灯笼 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1553,7 +1553,7 @@
   {
     "original": "**Nade do more damage in 10 seconds**",
     "en_trans": "",
-    "zh_trans": ">> 手雷可以造成更多伤害---10s <<",
+    "zh_trans": ">> 10秒后boss会免疫手雷伤害 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1564,7 +1564,7 @@
   {
     "original": "**Item can do more damage**",
     "en_trans": "",
-    "zh_trans": ">> 神器可以对boss造成伤害 <<",
+    "zh_trans": ">> 神器可以对boss造成更多伤害 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1586,7 +1586,7 @@
   {
     "original": "**Waiting for the wave**",
     "en_trans": "",
-    "zh_trans": "**等待浪潮**",
+    "zh_trans": "** 等待水位上升 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1938,12 +1938,12 @@
   {
     "original": "**Zombies get on**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 哦里谢，这下僵尸真的逃跑了 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
