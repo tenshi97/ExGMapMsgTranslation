@@ -695,7 +695,7 @@
   {
     "original": "-=[ The main gates are under attack ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 主门正受到攻击 ]=-",
+    "zh_trans": "-=[ 城门正受到攻击 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -849,12 +849,12 @@
   {
     "original": "-=[ The main gates have been penetrated ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 城门已被攻破 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
