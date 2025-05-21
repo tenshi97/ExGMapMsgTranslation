@@ -35,7 +35,7 @@
   {
     "original": "Thanks:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator",
     "en_trans": "",
-    "zh_trans": "特别致谢:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator）",
+    "zh_trans": "特别致谢:冰雪葬泪\\Eugen - Fong\\Lishang - Spxctator",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "<5 seconds>",
     "en_trans": "",
-    "zh_trans": "在等5秒",
+    "zh_trans": "< 再等5秒 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "< Meat - Waters >",
     "en_trans": "",
-    "zh_trans": "< 涡旋 - 对boss按s >",
+    "zh_trans": "< 涡旋 - 对boss按s抵抗吸力 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_key_down",
@@ -299,7 +299,7 @@
   {
     "original": "<Zombie Item is Enable>",
     "en_trans": "",
-    "zh_trans": "僵尸神器取消禁用了",
+    "zh_trans": "< 现在可以使用僵尸神器了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,13 +354,13 @@
   {
     "original": "ZE_Aooka3 Map by vueru",
     "en_trans": "",
-    "zh_trans": "ZE_Aooka3 地图作者；vueru",
+    "zh_trans": "ZE_Aooka3 地图作者:vueru 翻译:Shooting stars 技能补充：水木、",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Stage II <",
@@ -1036,7 +1036,7 @@
   {
     "original": "<Kohh has been disabled>",
     "en_trans": "",
-    "zh_trans": "<神器“传送门”已被禁用>",
+    "zh_trans": "< 神器“传送门”已被禁用 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
