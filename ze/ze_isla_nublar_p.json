@@ -497,7 +497,7 @@
   {
     "original": "***ITS FALLING DOWN!!!***",
     "en_trans": "",
-    "zh_trans": "*** 有东西掉下来了! ***",
+    "zh_trans": "*** 有什么东西掉下来了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,38 +519,49 @@
   {
     "original": "***YOU WON!!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你们是冠军! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***YOU WON!!!***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你们是冠军！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***THANKS FOR PLAYING : )***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 感谢游玩ヾ(･ω･`｡)** ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***MAP RESET***",
+    "en_trans": "",
+    "zh_trans": "*** 地图重置 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "***ZOMBIE DETECTED***",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",

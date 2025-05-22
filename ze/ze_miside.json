@@ -1729,23 +1729,23 @@
   {
     "original": "> Zombie has most of snowball! <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸的收集的雪球更多! <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Final defend will be harder for human. <",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 最后的守点会更难 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
