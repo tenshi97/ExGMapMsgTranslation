@@ -1014,12 +1014,12 @@
   {
     "original": "人类不触发僵尸就补药触发啦！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类不触发僵尸就补药触发啦！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
