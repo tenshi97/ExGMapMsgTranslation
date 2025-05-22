@@ -68,7 +68,7 @@
   {
     "original": ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<",
     "en_trans": "",
-    "zh_trans": ">>> 一位玩家拾取了zm奶 <<<",
+    "zh_trans": ">>> 僵尸获得了治疗 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -682,9 +682,31 @@
     "force_hint": 1
   },
   {
+    "original": ">>> STAGE 5 : HILL MODE <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第五关：山丘 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> STAGE 6 : TOWN MODE <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第六关：城镇 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
     "original": ">>> GLOOMY LEVEL <<<",
     "en_trans": "",
-    "zh_trans": ">>> EX关 <<<",
+    "zh_trans": ">>> EX关(可以通过无线电菜单关闭红色地图滤镜,默认按键为Z+9) <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,18 +717,18 @@
   {
     "original": ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 僵尸获得了黑洞 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>> THE SHIP DEPARTING IN 20 SECONDS <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 船将在 20 秒后启航 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -715,14 +737,36 @@
     "force_hint": 0
   },
   {
-    "original": ">>> STAGE4 COMPLETED <<<",
+    "original": ">>> STAGE5 COMPLETED <<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">>> 第五关已完成 <<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": ">>> STAGE6 COMPLETED <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第六关已完成 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">>> STAGE4 COMPLETED <<<",
+    "en_trans": "",
+    "zh_trans": ">>> 第四关已完成 <<<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
