@@ -2,7 +2,7 @@
   {
     "original": "<< Teleport in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 传送将在20秒后准备就绪 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "<< AFK Teleport in 10 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 10秒后传送挂机玩家 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "<< A player has picked up electro magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一位玩家拾取了电 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "<< A player has picked up heal magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一位玩家拾取了奶 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "<< the bridge will open in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 大桥将在20秒后开放 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "<< A player has picked up snow magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一位玩家拾取了雪 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,18 +68,18 @@
   {
     "original": "<< the way is able to pass now >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 现在可以通行了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< the way will be able to pass in 10 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 这条路将在10秒后允许通过 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,7 +90,7 @@
   {
     "original": "<< the way will be able to pass in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 这条路将在20秒后允许通过 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "<< wait for 30 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 等待30秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "<< defend for 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守20秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "<< defend for 25 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守25秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "<< wait for 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 等待20秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": "<< the platform wil rise in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 平台将在20秒后升起 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": "<< defend for 35 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守35秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,7 +167,7 @@
   {
     "original": "<< STAGE I COMPLETE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第一关已完成 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "<< A player has picked up wind magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一位玩家拾取了风 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,7 +189,7 @@
   {
     "original": "<< A zombie has picked up gravity magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一名僵尸拾取了黑洞 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "<< A zombie has picked up speed magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一名僵尸拾取了加速 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,18 +211,18 @@
   {
     "original": "<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< "这个墓碑是用来纪念那位利用脚本获得misaka竞赛优胜的玩家" >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< zombie used speed >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸使用了加速 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,18 +233,18 @@
   {
     "original": "<< R.I.P >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "( 都cs2了这墓碑竟然还在这，那就给这哥们上个香再走吧 )",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< A zombie has picked up zmshiel >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 一名僵尸拾取了减速盾 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
