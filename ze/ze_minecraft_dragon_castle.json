@@ -530,7 +530,7 @@
   {
     "original": "* Bucket 2 pickup*",
     "en_trans": "",
-    "zh_trans": "* 已拿起 2 号桶，装上水去把房子的火灭了 *",
+    "zh_trans": "* 已拿起 2 号桶，去水池里装上水，靠近房子灭火 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "* Bucket 1 pickup*",
     "en_trans": "",
-    "zh_trans": "* 已拿起 1 号桶，装上水去把房子的火灭了 *",
+    "zh_trans": "* 已拿起 1 号桶，去水池里装上水，靠近房子灭火 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -915,7 +915,7 @@
   {
     "original": "* Torch 1 pickup*",
     "en_trans": "",
-    "zh_trans": "* 拾起第 1 个火把，可以用它烧掉前方的蜘蛛网 *",
+    "zh_trans": "* 拾起第 1 个火把，持有者靠近蜘蛛网就能烧掉它 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -926,7 +926,7 @@
   {
     "original": "* Torch 2 pickup*",
     "en_trans": "",
-    "zh_trans": "* 拾起第 2 个火把，可以用它烧掉前方的蜘蛛网 *",
+    "zh_trans": "* 拾起第 2 个火把，持有者靠近蜘蛛网就能烧掉它 *",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1175,6 +1175,138 @@
     "timer_num": 25,
     "enable_timer": 1,
     "force_hint": 0
+  },
+  {
+    "original": "<<< DRAGON BOSS >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 末影龙 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "THE DRAGON IS VERY STRONG, BE CAREFUL!",
+    "en_trans": "",
+    "zh_trans": "末影龙非常强，小心！（待在后场中间，方便躲技能）",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<<< LASER ACTIVATED >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 跳刀（跳完5刀后抬头，还有一刀） >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<<< ZOMBIE WAY OPENING >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 守僵尸 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<<< 3 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 3 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< 2 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 2 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< 1 >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 1 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< OPEN >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 正在打开尸笼 >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "LOOK UP !",
+    "en_trans": "",
+    "zh_trans": "抬头躲刀！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "<<< NPC ATTACK! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< NPC攻击! （打掉僵尸NPC并远离TNT） >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<<< RUN AWAY FROM THE FIRE! >>>",
+    "en_trans": "",
+    "zh_trans": "<<< 远离红色的地板! >>>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "Laser completed.",
+    "en_trans": "",
+    "zh_trans": "激光已停止。",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "Open GO!!",
