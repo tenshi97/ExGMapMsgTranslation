@@ -5,6 +5,7 @@
     "zh_trans": "**红巨星现在很不稳定**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": "**前往基地顶端并找到逃生舱**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,8 +27,10 @@
     "zh_trans": "**地图制作： Eddie**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Special thanks to Kaemon and Hannibal (SPA)**",
@@ -34,8 +38,10 @@
     "zh_trans": "**特别感谢： Kaemon and Hannibal (SPA)**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**And also thanks to i3D Community and Supreme Elite Community**",
@@ -43,8 +49,10 @@
     "zh_trans": "**以及 i3D Community 和 Supreme Elite Community**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "**Double doors sealing in 15s**",
@@ -52,8 +60,10 @@
     "zh_trans": "**双扇门在15秒内封闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Double doors sealing in 5s**",
@@ -61,8 +71,10 @@
     "zh_trans": "**双扇门在5秒内封闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Sealing double doors**",
@@ -70,6 +82,7 @@
     "zh_trans": "**双扇门已封闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -80,8 +93,10 @@
     "zh_trans": "**电梯25秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Generator Elevator leaving 15 s**",
@@ -89,8 +104,10 @@
     "zh_trans": "**电梯15秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Generator Elevator is leaving**",
@@ -98,6 +115,7 @@
     "zh_trans": "**电梯正在离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -108,8 +126,10 @@
     "zh_trans": "** 货仓区上层门15秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Cargo secction upper door opening in 5s**",
@@ -117,8 +137,10 @@
     "zh_trans": "** 货仓区上层门5秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Closing gravity tower upper access**",
@@ -126,6 +148,7 @@
     "zh_trans": "**正在关闭重力塔上层通道**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -136,6 +159,7 @@
     "zh_trans": "**重力塔通道已被箱子堵住**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -146,8 +170,10 @@
     "zh_trans": "**重力塔通道在5秒后可用**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Cargo lift leaving in 30 s**",
@@ -155,8 +181,10 @@
     "zh_trans": "**运货电梯30秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Pods will departure in 2 minutes**",
@@ -164,8 +192,10 @@
     "zh_trans": "**逃生舱120秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Cargo lift leaving in 15 s**",
@@ -173,8 +203,10 @@
     "zh_trans": "**运货电梯15秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Cargo lift leaving in 5 s**",
@@ -182,8 +214,10 @@
     "zh_trans": "**运货电梯5秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Giant Star is in critical situation**",
@@ -191,6 +225,7 @@
     "zh_trans": "**红巨星正处于紧急状态**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -201,6 +236,7 @@
     "zh_trans": "**你们需要分开搭乘两个逃生舱**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -211,6 +247,7 @@
     "zh_trans": "**不要让僵尸进到逃生舱**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -221,6 +258,7 @@
     "zh_trans": "**所有僵尸将传送至感染舱**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -231,8 +269,10 @@
     "zh_trans": "**逃生舱60秒后离开**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Pod access door will close in 20 s**",
@@ -240,8 +280,10 @@
     "zh_trans": "**逃生舱入口将在20秒后关闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Pod access door will close in 10 s**",
@@ -249,8 +291,10 @@
     "zh_trans": "**逃生舱入口将在10秒后关闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Pod access door will close in 5 s**",
@@ -258,8 +302,10 @@
     "zh_trans": "**逃生舱入口将在5秒后关闭**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Pods are leaving the platform**",
@@ -267,6 +313,7 @@
     "zh_trans": "**逃生舱正在离开平台**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -277,6 +324,7 @@
     "zh_trans": "**逃生舱正在离开危险区域**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -287,6 +335,7 @@
     "zh_trans": "**超新星爆发**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -297,6 +346,7 @@
     "zh_trans": "**基地无法抵抗住这场爆炸**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -307,6 +357,7 @@
     "zh_trans": "**我日...**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -317,6 +368,7 @@
     "zh_trans": "**是黑洞!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -327,6 +379,7 @@
     "zh_trans": "**将僵尸推到每个逃生舱的后面**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -337,6 +390,7 @@
     "zh_trans": "**逃生舱将会分离，后舱将坠入黑洞**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -347,8 +401,10 @@
     "zh_trans": "**后舱封闭倒计时：15秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Gravity of the blackhole is very strong**",
@@ -356,6 +412,7 @@
     "zh_trans": "**黑洞的引力非常强**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -366,8 +423,10 @@
     "zh_trans": "**后舱封闭倒计时：5秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Rear section leaving the structure**",
@@ -375,6 +434,7 @@
     "zh_trans": "**后舱已脱离主体结构**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -385,8 +445,10 @@
     "zh_trans": "**中心舱封闭倒计时：15秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Central section sealing in 5 s**",
@@ -394,8 +456,10 @@
     "zh_trans": "**中心舱封闭倒计时：5秒**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**Central section leaving the structure**",
@@ -403,6 +467,7 @@
     "zh_trans": "**中心舱已脱离主体结构**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -413,6 +478,7 @@
     "zh_trans": "**关闭电梯通道以确保安全**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -423,6 +489,7 @@
     "zh_trans": "**大门故障**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
