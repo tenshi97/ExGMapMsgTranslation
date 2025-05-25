@@ -244,18 +244,18 @@
   {
     "original": "<< A zombie has picked up zmshiel >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸拾取了盾（会动的紫墙） >>",
+    "zh_trans": "<< 一名僵尸拾取了盾（紫墙） >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "<< Admin select STAGE III >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 有权男选择了第三关 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "<< teleport human in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 20秒后传送人类 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "<< the bridge will appear in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 桥将在20秒后出现 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,18 +288,18 @@
   {
     "original": "<< wait for a few seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 再等一会 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< defend for 30 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守30秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,7 +310,7 @@
   {
     "original": "<< defend for 10 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守10秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -321,7 +321,7 @@
   {
     "original": "<< defend for 15 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守15秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,7 +332,7 @@
   {
     "original": "<< hold for 25 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守25秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "<< defend for 40 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 坚守40秒 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,23 +354,23 @@
   {
     "original": "--- 云从月暂时撤退了...... ---",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "--- 云从月暂时撤退了...... ---",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< STAGE II COMPLETE >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 第二关已完成 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
