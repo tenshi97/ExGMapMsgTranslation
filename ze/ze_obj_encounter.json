@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*正在加载未知作战记录v0.23",
@@ -14,6 +16,7 @@
     "zh_trans": "*正在加载未知作战记录v0.23",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,6 +27,7 @@
     "zh_trans": "-..",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -34,6 +38,7 @@
     "zh_trans": "--.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -44,6 +49,7 @@
     "zh_trans": "---",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -54,6 +60,7 @@
     "zh_trans": "行动代号：争锋相对",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -64,6 +71,7 @@
     "zh_trans": "正在加载任务数据",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -74,6 +82,7 @@
     "zh_trans": "加载成功",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -84,6 +93,7 @@
     "zh_trans": "*位置：[数据删除]基地",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -94,6 +104,7 @@
     "zh_trans": "*当地时间：[数据删除]",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -104,6 +115,7 @@
     "zh_trans": "*距离不明类型灾害发生的时间：01:23",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -114,6 +126,7 @@
     "zh_trans": "*正在加载语音....成功",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -124,6 +137,7 @@
     "zh_trans": ">>>咳咳，该死的<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -134,6 +148,7 @@
     "zh_trans": ">>>地图显示我们从这里坐电梯可以撤离<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -144,6 +159,7 @@
     "zh_trans": ">>>从小就教我们火灾不能坐电梯...但管他呢<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -154,6 +170,7 @@
     "zh_trans": ">>>这该死的安全系统挡不住感染者反而挡住我们了<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -164,6 +181,7 @@
     "zh_trans": ">>>给我点时间<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -174,6 +192,7 @@
     "zh_trans": ">>>僵尸扒开了侧门<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -184,6 +203,7 @@
     "zh_trans": ">>>快走<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -194,6 +214,7 @@
     "zh_trans": ">>>我们只需要坐电梯向上，就能摆脱这一切了<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -204,6 +225,7 @@
     "zh_trans": ">>>电梯正在赶来<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -214,6 +236,7 @@
     "zh_trans": ">>>马上就到<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -224,6 +247,7 @@
     "zh_trans": ">>>快进来<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -234,6 +258,7 @@
     "zh_trans": ">>>怎么回事<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -244,6 +269,7 @@
     "zh_trans": ">>>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -254,8 +280,10 @@
     "zh_trans": "< 20 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 10 >",
@@ -263,8 +291,10 @@
     "zh_trans": "< 10 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 5 >",
@@ -272,8 +302,10 @@
     "zh_trans": "< 5 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>感觉这个玻璃不是很稳固<<<",
@@ -281,6 +313,7 @@
     "zh_trans": ">>>感觉这个玻璃不是很稳固<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -291,8 +324,10 @@
     "zh_trans": "< 40 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "< 30 >",
@@ -300,8 +335,10 @@
     "zh_trans": "< 30 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>小心玻璃<<<",
@@ -309,6 +346,7 @@
     "zh_trans": ">>>小心玻璃<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -319,8 +357,10 @@
     "zh_trans": "< 50 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 50,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*.......发生了不明类型灾害",
@@ -328,6 +368,7 @@
     "zh_trans": "*.......发生了不明类型灾害",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -338,6 +379,7 @@
     "zh_trans": "*各类供电与通讯系统严重损坏或失效",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -348,6 +390,7 @@
     "zh_trans": "*现在已对当前地区实施全面隔离检疫",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -358,6 +401,7 @@
     "zh_trans": "*为了安全起见 建议收听到此广播的人员立即撤离",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -368,6 +412,7 @@
     "zh_trans": "*如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -378,6 +423,7 @@
     "zh_trans": "*请立即报告给随行的军官、警察或安保人员",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -388,6 +434,7 @@
     "zh_trans": "*因为这些症状可能与最近的事件有关",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -398,6 +445,7 @@
     "zh_trans": "< 无线电终止 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -408,6 +456,7 @@
     "zh_trans": ">>>沟槽的破无线电<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -418,8 +467,10 @@
     "zh_trans": ">>>给我10秒<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>小心触电<<<",
@@ -427,6 +478,7 @@
     "zh_trans": ">>>小心触电<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -437,6 +489,7 @@
     "zh_trans": ">>>呼，终于摆脱掉这些感染者了<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -447,8 +500,10 @@
     "zh_trans": "< 60 >",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>我正在想办法关闭这个破门<<<",
@@ -456,6 +511,7 @@
     "zh_trans": ">>>我正在想办法关闭这个破门<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -466,6 +522,7 @@
     "zh_trans": ">>>这个门看样子支撑不了多久<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -476,6 +533,7 @@
     "zh_trans": ">>>不管了，我们先撤<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -486,6 +544,7 @@
     "zh_trans": ">>>我们的权限不够打开这扇门<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -496,6 +555,7 @@
     "zh_trans": ">>>看我大力出奇迹<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -506,6 +566,7 @@
     "zh_trans": ">>>快去控制台按开关打开门<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -516,6 +577,7 @@
     "zh_trans": ">>>撑住！电梯即将就位<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -526,6 +588,7 @@
     "zh_trans": ">>>小心电梯<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -536,6 +599,7 @@
     "zh_trans": "未完待续.....",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -546,6 +610,7 @@
     "zh_trans": "*正在加载未知作战记录v0.24",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -556,6 +621,7 @@
     "zh_trans": ">>>快去控制室启动开关<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -566,6 +632,7 @@
     "zh_trans": ">>>备用供电系统正在开启<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -576,6 +643,7 @@
     "zh_trans": ">>>50%<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -586,8 +654,20 @@
     "zh_trans": ">>>大门正在打开<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "mp_roundtime 5",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]

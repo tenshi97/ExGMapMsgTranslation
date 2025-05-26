@@ -2,62 +2,62 @@
   {
     "original": "*** We found the key! Excellent! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们找到钥匙了！好样的！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Door will open in 10 seconds! Defend! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这门还有10秒才会开启！坚持住！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** It's open! Run! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门开了！快跑！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***Those guys are shooting at us! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 有杂种在攻击我们！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** AVOID THE ROCKETS! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 躲开他们发射的火箭! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Player picked up Flame Thrower ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 一位玩家拾取了喷火器（按E使用，燃料制） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "*** Player picked up Vanya's Rifle ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 一位玩家拾取了vanya的步枪（直线秒杀，只有一次） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,535 +79,535 @@
   {
     "original": "*** Hold for 30 seconds ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守30秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Run! Get to the warehouse! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快去仓库！我不想当僵尸我先走了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Teleporting everyone to the warehouse in 15 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 15秒后将所有人传送至仓库！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
+    "timer_num": 15,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 5 Seconds left! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Defend the warehouse for 10 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 守住仓库10秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Fall back! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还愣着干啥快跑啊! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend in the sewers for 40 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在下水道拖住僵尸40秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 40,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** 5 SECONDS!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Meet Vanya outside ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在外面和Vanya碰面 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Shoot the APC ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 向装甲车射击！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Dodge its shots! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 躲开装甲车的攻击! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "***TIP: Nades do NOT do extra damage on this boss! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 提示：装甲车不吃雷，你那道具还是留着一会守桥吧 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** The gate will open in 15 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将在15秒后开启！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 15,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** We have no choice. Get in the train and hold for 20 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们没招了，先去火车守住20秒！剩下的事待会再说！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "***  We should be fine for now ****",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们现在应该安全了... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** [Cop] They are here! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** [条子] 他们在这里! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Quick! Get out through that vent in the ceiling! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快点！从梯子爬出去！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** [Cop] I think I heard something over there! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** [条子] 我好像听到了什么动静！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Shit! They found us! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 密码的条子发现我们了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** [Cop] Kill them all! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** [条子] 把他们都突突了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 5 Seconds! Get in now! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒！赶紧进来！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Defend for 40 seconds while Vanya is trying to open the door for us! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在Vanya给我们开门的同时防御40秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 40,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** 5 Seconds remaining! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Get off the boat now!!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 该下船了！动作快点！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend here for 25 seconds until garage door opens ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在车库附近防守25秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Dammit! The door is locked! FIND THE KEY! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我糙，这门被锁住了！看看周围有没有钥匙！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 5 Seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** They cut off the railroad! We need to find another way out. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他们切断了铁路！我们得再想个办法撤退！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** There is a boat down there! This is our only chance",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 快看下面有条船！没办法了我们先上船！***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Starting the engine in 10 seconds! Hold on. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这条船还得需要10秒才能启动！守住这里！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 10,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** They're attacking from both sides. Defend! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他们还能从两边上船！保持开火！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Jump on the boat now! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 所有人现在上船! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** There is a subway under that road crossing. I will plant the bomb so we can get down there. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这个路口下面有一条地铁，我会放置C4以便我们能到达那里！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend for 20 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守20秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 20,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Get down there now! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 赶紧下来！下来之后贴两边墙走！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend for 35 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 坚守35秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 35,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Get back! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 所有人后退! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU BEAT LEVEL 1! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你拿下了第一关！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 5 Seconds left! Get back! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒！赶紧进来！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Break the railing on the sides for easier defence! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 打破两边的栏杆能让我们守点更容易点！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Bridge will be destroyed in 25 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 这个桥会在25秒后被炸断! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** It's dead! Run across the bridge to safety! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 它被打爆了！只要到桥对面我们就安全了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** We beat them! Keep moving! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们干掉了他们！继续前进！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** 5 more seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** We have to keep defending here while train is coming through ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火车通过时，我们必须在这里继续防守! --- 60s ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Teleporting everyone to the parking lot in 15 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 15秒后将所有人传送至停车场! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
+    "timer_num": 15,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Fall back! Get to the parking lot. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在去停车场！别磨磨唧唧的！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend near the garage for 25 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在车库附近防守25秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "=== ADMIN PRESSED NUKE XD ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 有权男按下了核爆按钮 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,260 +618,260 @@
   {
     "original": "*** Defend near the garage for 30 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在车库附近防守30秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** PUTIN GOT REKT COMRADE!! NOW RUN!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 虎哥被打败了！快跑！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** EXECUTING EDGY MUSIC AND SHAKE! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 来点紧张刺激的bgm和屏幕抖动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Also prepare for lasers at the end cuz every map must have them nowadays ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有最后的跳刀...现在不是是张ze图就硬往里塞个跳刀吗？ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== CROUCH! PUTIN IS THROWING LASERS AT YOU! ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 蹲下！虎哥在对你使用跳刀！（两刀高刀） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== RUN FORWARD! PUTIN IS USING PUSH! ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 往前跑！虎哥在对你使用推力！（按w抵抗） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== RUN BACK! PUTIN CASTED GRAVITY! ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 往后退！虎哥在对你使用黑洞！（按s抵抗） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== DESTROY ALL VODKA BOTTLES QUICKLY OR RIP ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 抬头打碎所有的伏特加酒瓶不然你们就要gg了！ ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== DODGE THE GOPNIKS! ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 小心前面! ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== HURRY UP! ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 开枪啊我还不想死啊! ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Almost there bois! Hold for 30 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 就快到了！坚持30秒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** 5 Seconds! Get ready to fall back! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最后5秒了！准备撤退！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** GO COMRADES! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 兄弟们该走了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Platform leaves in 25 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 平台将在25秒后离开! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 25,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** 5 seconds! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 还有5秒! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** [Putin] I am not done with you yet ! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** [虎哥] 我还没输呢，现在请你们去死吧! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** SHOOT HIM NOW !!! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 别当切刀杂种！都给我开枪！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** More lasers bois! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 准备跳刀!（高中低） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** [Putin] YOU DEFEATED ME??! HOW ??! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** [虎哥] 你能打败我？为什么？! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Anyway SHOOT HIM! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 不管怎样，先打败他！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** ....Putin's nest?! Oh Shit! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 为什么虎哥在这？他不是早就死在18年的夏天了吗？ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Wait what the fuck? Are we in...? ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 等等...wtf这是哪啊？ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** INCOMING TRAINS! GET TO THE SIDE! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火车来了！快去两边！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Player picked up Shaurma (Heal) ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 一位玩家拾取了奶 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -882,150 +882,150 @@
   {
     "original": "*** NO WESTERN SPIES ALLOWED ON THIS MAP! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 西方间谍游玩此地图会被直接ban0！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** WARNING! This map is in Beta so there might be bugs and other issues! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 注意!这张图还处于测试阶段，因此可能会有一些BUG和其他问题 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Alright bois its time! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 游戏开始了，挂机的都醒醒！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== WARMUP ROUND COMRADE! ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 现在是热身时间，再等等你的兄弟 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Map By [CygaPb] RoadRunner ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 地图作者：[CygaPb] RoadRunner 翻译&提示：水木、***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** CS2 Version Port By Shana ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** CS2版本由Shana移植（社区翻译已同步和谐，请放心食用） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== The map defult mode is Harmonious mode ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 地图默认为和谐模式 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== If you want to play Original Mode,you can Find Choose area and stand there ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 如果你想玩原版，你可以找到选择区域并站在那里（请不要在服务器游玩原版，慎重选择！） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== If the number of players choosing Original Mode more than Harmonious mode.The Game will start with Choose Original Mode ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 如果选择原版模式的玩家数量多于和谐模式。游戏将以原版模式进行（请不要在服务器游玩原版，慎重选择！） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== You have 5 seconds to choosing to stand if you want to choose Mode ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 你只有5秒的时间选择玩哪个版本 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** They're waiting for us at the door. Get out through the windows at the top! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他们在门口等我们，我们得从三楼的窗户翻出去！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Follow Vanya. He will lead us to safety ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 跟着vanya走，他会带我们安全前进 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== LEVEL 1: Sewers and Bridge ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 第一关：下水道和大桥 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== ADMIN CHANGED TO LEVEL 1 ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 有权男选择了第一关 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1036,7 +1036,7 @@
   {
     "original": "=== ADMIN CHANGED TO LEVEL 2 ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 有权男选择了第二关 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1047,7 +1047,7 @@
   {
     "original": "=== ADMIN CHANGED TO LEVEL 3 ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 有权男选择了第三关 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1058,188 +1058,199 @@
   {
     "original": "*** They're waiting for us at the door. Get out through the windows at the 2nd floor! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 他们在门口等我们，我们得从二楼的窗户翻出去！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== LEVEL 2 : Boat and Metro ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 第二关：小船和地铁 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== LEVEL 3 : EXTREME ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 第三关：决战虎哥 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== Executing: Edgy Music ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 这bgm让我想起了当年征战某宇宙神图的日子 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== Executing: Lasers ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 终点区域：高中低刀 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== Game Mode : Harmonious Mode ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 当前模式：和谐模式 ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "=== Game Mode : Original Mode ===",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "=== 当前模式：原版模式（请不要直播玩此模式！！！） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The Game Mode will become Original Mode",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "下一局游戏模式将变为原版模式 ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The Game Mode will become Harmonious Mode",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "下一局游戏模式将变为和谐模式",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** We're almost there! Hold for 30 seconds and we're safe! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我们快到了！再坚持30秒我们就安全了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 30,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "*** Shoot off remaining zombies! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 难道你们真的想和僵尸一起拿冠军？（干掉僵尸才能结算）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU BEAT LEVEL 2! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你拿下了第二关！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Moving to level 3 comrades! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在该挑战第三关了! ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Kill the remaining zombies! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你们不能和僵尸一起拿冠军！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** YOU BEAT LEVEL 3! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 你拿下了第三关！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** RTV in the chat! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在该按y输入rtv了！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** [Putin] I will return......one day... ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** [虎哥] 我还会回来的...你们都给我等着！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "*** We should be fine for now ****",
+    "en_trans": "",
+    "zh_trans": "*** 我们现在应该安全了... ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

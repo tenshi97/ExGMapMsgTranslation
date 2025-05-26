@@ -5,8 +5,10 @@
     "zh_trans": "** 原作:ZE BLACKMESA,作者:BILL SMAUTZ(翻译:星荧铃) **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** REDESIGN BY CISNEROS **",
@@ -14,8 +16,10 @@
     "zh_trans": "** 改编:CISNEROS **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** 变动:无，无聊的正常模式! ***",
@@ -23,6 +27,7 @@
     "zh_trans": "*** 变动:无，无聊的正常模式! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -33,6 +38,7 @@
     "zh_trans": "*** 似乎即将发生一场大地震... ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -43,6 +49,7 @@
     "zh_trans": "*** 变动:登上电车吧——没有桥/秘密通道 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -53,6 +60,7 @@
     "zh_trans": "*** 桥梁已激活 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -63,6 +71,7 @@
     "zh_trans": "*** 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活1-2个怪物) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -73,8 +82,10 @@
     "zh_trans": "*** 堡垒回合:存活300秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 300,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 冰冻枪已被拿起，按E使用，cd:60秒 ***",
@@ -82,6 +93,7 @@
     "zh_trans": "*** 冰冻枪已被拿起，按E使用，cd:60秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -92,8 +104,10 @@
     "zh_trans": "*** 通风区保护将在10秒后解锁 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 地雷已被拿起，按E使用，仅能放置4个地雷 ***",
@@ -101,6 +115,7 @@
     "zh_trans": "*** 地雷已被拿起，按E使用，仅能放置4个地雷 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -111,8 +126,10 @@
     "zh_trans": "*** 还剩120秒！活下去！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 120,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** 弹药箱已被拿起，按E使用，cd:90秒 **",
@@ -120,6 +137,7 @@
     "zh_trans": "** 弹药箱已被拿起，按E使用，cd:90秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -130,6 +148,7 @@
     "zh_trans": "*** 有人找到了迷幻药并获得了急速。但毒品是害的，对吧?（加速已被拿起，固定加速25%） ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -140,8 +159,10 @@
     "zh_trans": "*** 只剩60秒！抵抗！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 30 seconds to go! C'mon! ***",
@@ -149,8 +170,10 @@
     "zh_trans": "*** 还剩30秒！加油！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 毁灭僵尸的细菌将在15秒内释放! ***",
@@ -158,8 +181,10 @@
     "zh_trans": "*** 毁灭僵尸的细菌将在15秒内释放! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** YEAH!!! WE DID IT!!! ***",
@@ -167,6 +192,7 @@
     "zh_trans": "*** 是的！我们成功了！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -177,8 +203,10 @@
     "zh_trans": "*** 电车将在7秒钟后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Security Door Closes in 5 Seconds ***",
@@ -186,8 +214,10 @@
     "zh_trans": "*** 安全门将在5秒钟后关闭 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Airlock Opens in 12 Seconds ***",
@@ -195,8 +225,10 @@
     "zh_trans": "*** 气闸将在12秒钟后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 12,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Sector L door opens in 30 seconds ***",
@@ -204,8 +236,10 @@
     "zh_trans": "*** L区门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Sector L door opens in 10 seconds ***",
@@ -213,8 +247,10 @@
     "zh_trans": "*** L区门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** This cave has collapsed... Maybe another earthquake could help? ***",
@@ -222,6 +258,7 @@
     "zh_trans": "***这个洞穴已经坍塌了...也许另一次地震会有所帮助？***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -232,8 +269,10 @@
     "zh_trans": "*** 抵抗15秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Resist 5 seconds! There's some shaking going on! ***",
@@ -241,8 +280,10 @@
     "zh_trans": "***抵抗5秒！这里正在发生晃动！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 推力抢已经被拿起，按e使用，cd:60秒. ***",
@@ -250,6 +291,7 @@
     "zh_trans": "*** 推力抢已经被拿起，按e使用，cd:60秒. ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -260,8 +302,10 @@
     "zh_trans": "*** 在这里坚持15秒！这个区域曾经通往一个废弃的矿井！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Defend that natural bridge! The seismometer reads a new earthquake soon!!! ***",
@@ -269,6 +313,7 @@
     "zh_trans": "*** 保卫那座天然的桥！地震测量仪显示很快会有新的地震发生！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -279,6 +324,7 @@
     "zh_trans": "*** 继续防守！我们必须坚持到整座桥被摧毁！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -289,8 +335,10 @@
     "zh_trans": "*** 坚持住！还有30秒就会发生下一次地震！！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** C'mon!!! Just 5 seconds! ***",
@@ -298,8 +346,10 @@
     "zh_trans": "*** 加油!!! 还剩5秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** We have to get to a safe zone now! The nuke will make this area collapse! ***",
@@ -307,6 +357,7 @@
     "zh_trans": "*** 现在我们必须前往安全区域！核弹会让这个区域坍塌！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -317,6 +368,7 @@
     "zh_trans": "*** 到那边的小洞穴去！它的墙壁是由花岗岩建造的！ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -327,6 +379,7 @@
     "zh_trans": "*** 来吧!!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -337,6 +390,7 @@
     "zh_trans": "*** 变动:突破到另一边——没有电车和前路锁定 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -347,8 +401,10 @@
     "zh_trans": "*** G区第一个门将在30秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** First sector G door opens in 10 seconds ***",
@@ -356,8 +412,10 @@
     "zh_trans": "*** G区第一个门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Second sector G door opens in 25 seconds ***",
@@ -365,8 +423,10 @@
     "zh_trans": "*** G区第二个门将在25秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Second sector G door opens in 10 seconds ***",
@@ -374,8 +434,10 @@
     "zh_trans": "*** G区第二个门将在10秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 电梯20秒后离开 ***",
@@ -383,8 +445,10 @@
     "zh_trans": "*** 电梯20秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 警告:主发电机过载 ***",
@@ -392,6 +456,7 @@
     "zh_trans": "*** 警告:主发电机过载 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -402,6 +467,7 @@
     "zh_trans": "*** 错误:冷却系统无法启动. ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -412,8 +478,10 @@
     "zh_trans": "*** 注意:紧急模式启动.门在60秒内打开. ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Safety underground bunker opens in 30 Seconds ***",
@@ -421,8 +489,10 @@
     "zh_trans": "***地下安全防空洞将在30秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Safety underground bunker opens in 10 Seconds ***",
@@ -430,8 +500,10 @@
     "zh_trans": "***地下安全防空洞将在10秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Safety underground bunker opens in 5 Seconds ***",
@@ -439,8 +511,10 @@
     "zh_trans": "***地下安全防空洞将在5秒后开启***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Safety underground bunker is opening ***",
@@ -448,6 +522,7 @@
     "zh_trans": "*** 地下安全防空洞正在开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -458,8 +533,10 @@
     "zh_trans": "***警告：设施将在30秒内爆炸***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Safety underground bunker closes in 10 Seconds ***",
@@ -467,8 +544,10 @@
     "zh_trans": "***地下安全防空洞将在10秒后关闭***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 变动:散漫的吉米——低重力激活 ***",
@@ -476,6 +555,7 @@
     "zh_trans": "*** 变动:散漫的吉米——低重力激活 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -486,6 +566,7 @@
     "zh_trans": "*** 变动:登上电车吧——没有前路/秘密通道 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -496,6 +577,7 @@
     "zh_trans": "*** 变动:奇怪的空间情况——走另一边/没有秘密通道/低重力 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -506,6 +588,7 @@
     "zh_trans": "*** 变动:窥探秘密是不礼貌的——被锁住的秘密通道？ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -516,8 +599,10 @@
     "zh_trans": "*** 区域P的门将在20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Sector P door opens in 5 seconds ***",
@@ -525,8 +610,10 @@
     "zh_trans": "*** 区域P的门将在5秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Sewage system door opens in 35 seconds. ***",
@@ -534,8 +621,10 @@
     "zh_trans": "***下水道系统的门将在35秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Sewage system door opens in 15 seconds. ***",
@@ -543,8 +632,10 @@
     "zh_trans": "***下水道系统的门将在15秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Sewage system door opens in 5 seconds. ***",
@@ -552,8 +643,10 @@
     "zh_trans": "***下水道系统的门将在5秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Maintenance area door opens in 25 seconds. ***",
@@ -561,8 +654,10 @@
     "zh_trans": "***维护区的门将在25秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Maintenance area door opens in 10 seconds. ***",
@@ -570,8 +665,10 @@
     "zh_trans": "***维护区的门将在10秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Ventilation lockers open in 25 seconds. ***",
@@ -579,8 +676,10 @@
     "zh_trans": "***通风储物柜将在25秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Ventilation lockers open in 10 seconds. ***",
@@ -588,8 +687,10 @@
     "zh_trans": "***通风储物柜将在10秒后打开。***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** GO! We have to get to the Escape elevator!!! ***",
@@ -597,6 +698,7 @@
     "zh_trans": "***快点！我们必须赶到逃生电梯！！！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -607,8 +709,10 @@
     "zh_trans": "*** 电梯20秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevator leaves in 10 seconds!!! ***",
@@ -616,8 +720,10 @@
     "zh_trans": "*** 电梯10秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Airlock Closing in 8 Seconds ***",
@@ -625,8 +731,10 @@
     "zh_trans": "*** 气闸将在8秒内关闭。 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Helicopter Departing in 30 Seconds ***",
@@ -634,8 +742,10 @@
     "zh_trans": "*** 直升机将在30秒后起飞 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Helicopter Departing in 10 Seconds ***",
@@ -643,8 +753,10 @@
     "zh_trans": "*** 直升机将在10秒后起飞 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Helicopter Departing in 5 Seconds ***",
@@ -652,8 +764,10 @@
     "zh_trans": "*** 直升机将在5秒后起飞 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Helicopter is Departing ***",
@@ -661,6 +775,7 @@
     "zh_trans": "*** 直升机正在离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -671,8 +786,10 @@
     "zh_trans": "*** 警告:设施将在40秒后爆炸 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 尖刺炸弹已被拿起，按E使用，仅能用一次 ***",
@@ -680,6 +797,7 @@
     "zh_trans": "** 尖刺炸弹已被拿起，按E使用，仅能用一次 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -690,6 +808,7 @@
     "zh_trans": "*** 减速电环已被拿起，按E使用，cd:45秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -700,8 +819,20 @@
     "zh_trans": "** 喷火器已被拿起，按E使用，再按E关闭，仅能使用10秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "*** 下水道的门在20秒后打开 ***",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
