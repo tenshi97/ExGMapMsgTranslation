@@ -24,7 +24,7 @@
   {
     "original": "> > PLAYER PICKED HURT ITEM < <",
     "en_trans": "",
-    "zh_trans": "> > 玩家拾取了伤害 < <",
+    "zh_trans": "> > 玩家拾取了 能量球(伤害) < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "> > PLAYER PICKED FIRE ITEM < <",
     "en_trans": "",
-    "zh_trans": "> > 玩家拾取了火 < <",
+    "zh_trans": "> > 玩家拾取了 火能量球(燃烧) < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "> > PLAYER PICKED SLOW ITEM < <",
     "en_trans": "",
-    "zh_trans": "> > 玩家拾取了减速 < <",
+    "zh_trans": "> > 玩家拾取了 冰能量球(冰冻) < <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "*** THAT WAS A MISTAKE ***",
     "en_trans": "",
-    "zh_trans": "*** 是个错误 ***",
+    "zh_trans": "*** 这是个错误的决定，现在你死定了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -541,7 +541,7 @@
   {
     "original": "*** NOW YOU DIE ***",
     "en_trans": "",
-    "zh_trans": "*** 现在你死定了 ***",
+    "zh_trans": "*** 尽量站在中场，不要站在白色的线上 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,7 +552,7 @@
   {
     "original": "*** IMMA PULL YOU ***",
     "en_trans": "",
-    "zh_trans": "*** 我要拉你 ***",
+    "zh_trans": "*** “我要拉你”(按 W 抵抗推力) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -563,7 +563,7 @@
   {
     "original": "*** IMMA PUSH YOU ***",
     "en_trans": "",
-    "zh_trans": "*** 我要推你 ***",
+    "zh_trans": "*** “我要推你”(按 S 抵抗吸力) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
