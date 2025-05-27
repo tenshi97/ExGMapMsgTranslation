@@ -1322,7 +1322,7 @@
   {
     "original": "The barrier will break in 15 seconds. GO BACK !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "屏障将在 15 秒后破裂。撤退！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1333,40 +1333,40 @@
   {
     "original": "Break the board!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "打碎木板！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Press the button for the boat to arrive.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "按下按钮让船过来",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Defend the area",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "守住这里",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "The boat will arrive in 20 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "船将在 20 秒后到达。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1377,18 +1377,18 @@
   {
     "original": "Boat is coming.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "船来了。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Last 5 sec! get on the boat",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒！快上船！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,18 +1399,18 @@
   {
     "original": "ZOMBIE TP 5 SEC !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸传送倒计时 5 秒！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "The teleport will open in 25 seconds.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "传送门将在 25 秒后开启。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,18 +1421,18 @@
   {
     "original": "Zombie short way open.",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸捷径已开启。",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "Last 5 sec! Ready!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "最后 5 秒！准备！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1443,40 +1443,40 @@
   {
     "original": "BOSS teleportation is Open! GO!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "BOSS传送已开启！快跑！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** WARDEN COMINGG **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 监守者 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "I THINK HE A LITTLE ANGRY !!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "他似乎有点生气了！！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "ZOMBIE DOOR OPEN 5 SEC!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "尸笼将在 5 秒后开启！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1487,34 +1487,34 @@
   {
     "original": "<<< ZM DOOR OPEN >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 尸笼开启 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< ZM DOOR CLOSED >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 尸笼关闭 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<<< HUMAN WIN >>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<<< 人类胜利 >>>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
