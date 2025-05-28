@@ -5,8 +5,10 @@
     "zh_trans": "*** 第一关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "* Turning music on *",
@@ -14,8 +16,10 @@
     "zh_trans": "* 音乐 起洞！ *",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** Player has picked up Pushgun ***",
@@ -23,6 +27,7 @@
     "zh_trans": "*** 玩家拾起了 推力枪 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -33,6 +38,7 @@
     "zh_trans": "*** 可无限次数使用 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -43,6 +49,7 @@
     "zh_trans": "*** 玩家拾起了 喷火器 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -53,6 +60,7 @@
     "zh_trans": "*** 最多可使用 10 次 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -63,6 +71,7 @@
     "zh_trans": "*** 玩家拾起了 弹药库 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -73,8 +82,10 @@
     "zh_trans": "*** 门在 35 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors open in 25 Seconds ***",
@@ -82,8 +93,10 @@
     "zh_trans": "*** 门在 25 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Player has picked up Electro gun ***",
@@ -91,6 +104,7 @@
     "zh_trans": "*** 玩家拾起了 激光 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -101,6 +115,7 @@
     "zh_trans": "*** 使用后再次按E可以关闭，总持续时间10秒，用完后将无法使用，注意使用时机 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -111,8 +126,10 @@
     "zh_trans": "*** 门在 10 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors are opening ***",
@@ -120,6 +137,7 @@
     "zh_trans": "*** 门正在开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -130,8 +148,10 @@
     "zh_trans": "*** 桥梁 30 秒后激活 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Bridge activates in 15 seconds ***",
@@ -139,8 +159,10 @@
     "zh_trans": "*** 桥梁 15 秒后激活 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Hold until the path is cleared ***",
@@ -148,6 +170,7 @@
     "zh_trans": "*** 防守至道路清空 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -158,6 +181,7 @@
     "zh_trans": "*** 现在撤退!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -168,8 +192,10 @@
     "zh_trans": "*** 门在 25 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Door opens in 10 seconds ***",
@@ -177,8 +203,10 @@
     "zh_trans": "*** 门在 10 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Door is opening ***",
@@ -186,6 +214,7 @@
     "zh_trans": "*** 门正在开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -196,6 +225,7 @@
     "zh_trans": "*** 这扇门应该很快打开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -206,6 +236,7 @@
     "zh_trans": "*** 守住 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -216,6 +247,7 @@
     "zh_trans": "*** 玩家拾起了 地雷 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -226,6 +258,7 @@
     "zh_trans": "*** 可使用 5 次 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -236,6 +269,7 @@
     "zh_trans": "*** 玩家拾起了 乐高墙 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -246,6 +280,7 @@
     "zh_trans": "*** 玩家拾起了 榴弹枪 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -256,8 +291,10 @@
     "zh_trans": "*** 拦住他们 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** FALL BACK ***",
@@ -265,6 +302,7 @@
     "zh_trans": "*** 撤退 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -275,6 +313,7 @@
     "zh_trans": "*** 再守一会儿! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -285,6 +324,7 @@
     "zh_trans": "*** 守住它们! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -295,6 +335,7 @@
     "zh_trans": "*** 撤退! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -305,6 +346,7 @@
     "zh_trans": "*** 玩家拾起了 手炮 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -315,6 +357,7 @@
     "zh_trans": "*** 玩家拾起了 治疗 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -325,6 +368,7 @@
     "zh_trans": "*** 仅能使用一次 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -335,6 +379,7 @@
     "zh_trans": "*** 这是最后的守点! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -345,8 +390,10 @@
     "zh_trans": "*** 守住它们，最后 20 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 10 SECONDS LEFT ***",
@@ -354,8 +401,10 @@
     "zh_trans": "*** 还剩 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Zombie at the end ***",
@@ -363,6 +412,7 @@
     "zh_trans": "*** 僵尸尾随 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -373,6 +423,7 @@
     "zh_trans": "*** 你失败了! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -383,6 +434,7 @@
     "zh_trans": "*** 关卡完成! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -393,6 +445,7 @@
     "zh_trans": "*** 第二关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -403,8 +456,10 @@
     "zh_trans": "*** 门在 30 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Press both buttons at the same time to open the door! ***",
@@ -412,6 +467,7 @@
     "zh_trans": "*** 需要同时触发两边按钮才能开门 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -422,6 +478,7 @@
     "zh_trans": "*** 按钮已按下! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -432,8 +489,10 @@
     "zh_trans": "*** 30 秒后开门! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** FALL BACK ****",
@@ -441,6 +500,7 @@
     "zh_trans": "*** 撤退 ****",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -451,6 +511,7 @@
     "zh_trans": "*** 守到道路开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -461,8 +522,10 @@
     "zh_trans": "*** 最后的门将在 25 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Almost at the end.. ***",
@@ -470,6 +533,7 @@
     "zh_trans": "*** 快结束了.. ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -480,6 +544,7 @@
     "zh_trans": "*** 门很快开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -490,8 +555,10 @@
     "zh_trans": "*** 还剩 15 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** THIS IS THE FINAL HOLD ***",
@@ -499,6 +566,7 @@
     "zh_trans": "*** 这是最后的守点 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -509,8 +577,10 @@
     "zh_trans": "*** 坚持 30 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 20 more seconds! ***",
@@ -518,8 +588,10 @@
     "zh_trans": "*** 还剩 20 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 10 more seconds! ***",
@@ -527,8 +599,10 @@
     "zh_trans": "*** 还剩 10 秒! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ADMIN CHANGED TO EXTREME 3 **",
@@ -536,8 +610,10 @@
     "zh_trans": "** 管理员将关卡更改为 EX3 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** Turning on:... **",
@@ -545,6 +621,7 @@
     "zh_trans": "** 开启中... **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -555,6 +632,7 @@
     "zh_trans": "** 终极无敌毁灭模式(无线电菜单可以关闭红色地图滤镜,默认按键为Z+9) **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -565,6 +643,7 @@
     "zh_trans": "*** 第三关 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -575,8 +654,10 @@
     "zh_trans": "*** 门在 25 秒后开启! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevators leave in 25 seconds ***",
@@ -584,8 +665,10 @@
     "zh_trans": "*** 电梯 25 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevators leave in 15 seconds ***",
@@ -593,8 +676,10 @@
     "zh_trans": "*** 电梯 15 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevators leave in 5 seconds ***",
@@ -602,8 +687,10 @@
     "zh_trans": "*** 电梯 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors are opening in 25 seconds ***",
@@ -611,8 +698,10 @@
     "zh_trans": "*** 门在 25 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** RESIST ***",
@@ -620,6 +709,7 @@
     "zh_trans": "*** 抵抗住 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -630,8 +720,10 @@
     "zh_trans": "*** 门在 15 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors are opening in 5 seconds ***",
@@ -639,8 +731,10 @@
     "zh_trans": "*** 门在 5 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Hold a bit more! ***",
@@ -648,6 +742,7 @@
     "zh_trans": "*** 再守一会! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -658,6 +753,7 @@
     "zh_trans": "*** 道路很快打开! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -668,6 +764,7 @@
     "zh_trans": "*** 在这个位置再守一会! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -678,6 +775,7 @@
     "zh_trans": "*** 继续守住! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -688,6 +786,7 @@
     "zh_trans": "*** Boss 死了 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -698,6 +797,7 @@
     "zh_trans": "*** 额，他挂了对吧? ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -708,6 +808,7 @@
     "zh_trans": "*** 这个平台似乎要坍塌了 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -718,6 +819,7 @@
     "zh_trans": "*** 去中间，快!! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -728,6 +830,7 @@
     "zh_trans": "*** Boss正在吸收你对他造成的伤害(持续10秒) ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
     "enable_timer": 1,
     "force_hint": 0
@@ -738,6 +841,7 @@
     "zh_trans": "*** 不要向BOSS开枪，准备扔手雷 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -748,6 +852,7 @@
     "zh_trans": "*** 额，他现在是真的死了吧? ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -758,6 +863,7 @@
     "zh_trans": "*** 恶魔之眼 死了~ ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -768,6 +874,7 @@
     "zh_trans": "*** 现在是时候逃离了 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -778,8 +885,10 @@
     "zh_trans": "*** 守住这里 30 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Hold this position for 20 seconds ***",
@@ -787,8 +896,10 @@
     "zh_trans": "*** 守住这里 20 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** That thing? Leaves in 45 seconds ***",
@@ -796,8 +907,10 @@
     "zh_trans": "*** 你说啥？45秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 20 SECONDS LEFT ***",
@@ -805,8 +918,10 @@
     "zh_trans": "*** 还剩 20 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 5 SECONDS LEFT ***",
@@ -814,8 +929,10 @@
     "zh_trans": "*** 还剩 5 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** CONGRATULATIONS YOU HAVE BEATEN THE MAP! ***",
@@ -823,6 +940,7 @@
     "zh_trans": "*** 恭喜你战胜了这张地图! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -833,8 +951,10 @@
     "zh_trans": "*** 电梯 25 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevator leaves in 15 seconds ***",
@@ -842,8 +962,10 @@
     "zh_trans": "*** 电梯 15 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevator leaves in 5 seconds ***",
@@ -851,8 +973,10 @@
     "zh_trans": "*** 电梯 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Doors are opening! ***",
@@ -860,6 +984,7 @@
     "zh_trans": "*** 门正在开启! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -870,6 +995,7 @@
     "zh_trans": "*** 守住，直到门关! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -880,8 +1006,10 @@
     "zh_trans": "*** 守住这里 25 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 10 more seconds ***",
@@ -889,8 +1017,10 @@
     "zh_trans": "*** 还剩 10 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Heli leaves in 30 seconds ***",
@@ -898,8 +1028,10 @@
     "zh_trans": "*** 直升机 30 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Heli leaves in 15 seconds ***",
@@ -907,8 +1039,10 @@
     "zh_trans": "*** 直升机 15 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Heli leaves in 5 seconds ***",
@@ -916,8 +1050,10 @@
     "zh_trans": "*** 直升机 5 秒后离开 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Elevator descends in 20 seconds ***",
@@ -925,8 +1061,10 @@
     "zh_trans": "*** 电梯 20 秒后下降 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** HOLD THEM BACK ***",
@@ -934,6 +1072,7 @@
     "zh_trans": "*** 守住它们 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -944,6 +1083,7 @@
     "zh_trans": "*** 再坚持一下! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -954,6 +1094,7 @@
     "zh_trans": "*** 啥? 我们得尽快离开! ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -964,6 +1105,7 @@
     "zh_trans": "*** Boss正在使用终极 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -974,6 +1116,7 @@
     "zh_trans": "*** 向他开火！要不然咱全完了 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -984,8 +1127,10 @@
     "zh_trans": "** 管理员将关卡更改为 EX1 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "*** ZOMBIES ON BOARD YOU FAIL! ***",
@@ -993,8 +1138,20 @@
     "zh_trans": "*** 僵尸上船了，你输了！***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "** ADMIN CHANGED TO EXTREME 2 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 2,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
