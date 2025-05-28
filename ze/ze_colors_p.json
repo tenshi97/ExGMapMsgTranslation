@@ -5,6 +5,7 @@
     "zh_trans": "** 嘿你好吗 欢迎来到ze_colors **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": "** 无论你信不信，这张图是ze入门级别的！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": "** 当前难度: 柠檬 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,6 +38,7 @@
     "zh_trans": "** 这个关卡看起来就像古老的路易斯安那州：沿着这片孤独的小土地布满了线条和正方形 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -45,6 +49,7 @@
     "zh_trans": "** 快走! 出生点僵尸有推力! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -55,6 +60,7 @@
     "zh_trans": "** 守住! 我们离出生点太近了! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -65,6 +71,7 @@
     "zh_trans": "** 再守一会！我们很快搞定！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -75,6 +82,7 @@
     "zh_trans": "** 守住这里！这里有4个入口，守好他们！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -85,8 +93,10 @@
     "zh_trans": "** 守住！还有10秒！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** RESIST! We need to wait for a bit until we fly-fly-fly! **",
@@ -94,6 +104,7 @@
     "zh_trans": "** 守住！守到我们飞起来！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -104,6 +115,7 @@
     "zh_trans": "** 再守一会！魔法能量正在充能！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -114,6 +126,7 @@
     "zh_trans": "** 最后几秒！守住！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -124,6 +137,7 @@
     "zh_trans": "** 分头行动！两边都要守住！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -134,8 +148,10 @@
     "zh_trans": "** 守住！最后10秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** Do you see it? Time to practice ropeless bungee jumping! **",
@@ -143,6 +159,7 @@
     "zh_trans": "** 看到了吗！是时候开始练习无绳蹦极了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -153,6 +170,7 @@
     "zh_trans": "** 狭窄的空间！ 时间紧张！ 守住！要不然全都得死! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -163,6 +181,7 @@
     "zh_trans": "** 撤退！地图已经足够长了，可以说很不错了！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -173,6 +192,7 @@
     "zh_trans": "** 再守一会！然后进入最后的守点! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -183,6 +203,7 @@
     "zh_trans": "** 我非常确定你现在希望给你的生活做什么... **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -193,6 +214,7 @@
     "zh_trans": "** 这是我们的最后一站！守住 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -203,6 +225,7 @@
     "zh_trans": "** 走！比以往更荒谬的结局在等着你 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -213,6 +236,7 @@
     "zh_trans": "** 桥梁很快破碎！守住 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -223,6 +247,7 @@
     "zh_trans": "** 准备好！最后的冲击波要来了！ **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -233,6 +258,7 @@
     "zh_trans": "** 守住！我们必须在最后一刻活下去！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -243,6 +269,7 @@
     "zh_trans": "*** 漂亮！你们做到了！现在难度更改为 葡萄 ***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -253,6 +280,7 @@
     "zh_trans": "** 难度：葡萄 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -263,6 +291,7 @@
     "zh_trans": "** 无线电菜单里有选项可以关闭瞎眼的地图滤镜(默认按键为Z+9) **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -273,6 +302,7 @@
     "zh_trans": "** 关卡： 葡萄 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -283,6 +313,7 @@
     "zh_trans": "** Shake-shaka-shake-shaka-boom！葡萄是一种含钙的水果！**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -293,6 +324,7 @@
     "zh_trans": "*** 难以置信！你成功通关了葡萄模式 再来一次如何？***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -303,6 +335,7 @@
     "zh_trans": "*** 我打赌你一定没想到会看到这条信息！恭喜您成功闯过葡萄 2 模式！你还敢继续玩吗？***",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -313,7 +346,9 @@
     "zh_trans": "测试",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
