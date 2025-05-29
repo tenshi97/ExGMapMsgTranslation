@@ -8,18 +8,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Map by @Seth >",
     "en_trans": "",
-    "zh_trans": "< 地图作者；@Seth >",
+    "zh_trans": "< 地图作者；@Seth >（翻译：水木，已根据原版游戏进行适配性翻译）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Stage 1 <<",
@@ -255,7 +255,7 @@
   {
     "original": "< Kind Mita: There has a Portal in my bedroom,It could help you get to the normal size version. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔: 我的卧室里有一个传送机，它可以帮助你恢复成正常大小 >",
+    "zh_trans": "< 善良米塔: 我的卧室里有一个传送机，它可以帮你恢复成正常大小 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,7 +277,7 @@
   {
     "original": "< Kind Mita: Yes!I placed a Icon on the battery,Go get it. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔: 是的！我在电池上放置了一个图标，现在去拿吧 >",
+    "zh_trans": "< 善良米塔: 是的！我在所有电池上面放置了一个图标，你需要去找到它们！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -475,7 +475,7 @@
   {
     "original": "< Mita: I sort of rushed off earlier, and now this place is a mess... >",
     "en_trans": "",
-    "zh_trans": "< 米塔: 我很早就匆匆离开了, 现在这个地方一团糟... >",
+    "zh_trans": "< 米塔: 我很久之前就离开了这里, 现在这个地方一团糟... >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,7 +640,7 @@
   {
     "original": "> You still got chance if finish the task! <",
     "en_trans": "",
-    "zh_trans": "> 如果你已经完成任务了，那你们还有机会 <",
+    "zh_trans": "> 就算尸笼开了你们也还有机会完成两个任务！ <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -657,7 +657,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Press E to push zombies away. <",
@@ -668,7 +668,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Stage 2 <<",
@@ -690,7 +690,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Press E to shot beam hurt zombies,Hit 10 time will charge the pistol. <",
@@ -701,7 +701,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Charged shot create blaze area to slow zombie down. <",
@@ -712,7 +712,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 30 >",
@@ -734,7 +734,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Press E to heal humans. <",
@@ -745,12 +745,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Kind Mita: You have to turn on that shower head,Need some water to jump down >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔：你必须打开淋浴头，等它放出一些水后你才能往下跳>",
+    "zh_trans": "< 善良米塔：你必须先打开淋浴头，等它放出一些水后你才能往下跳>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,7 +783,7 @@
   {
     "original": "< Kind Mita: I will break that shampoo,Get on those bubble to fly up! >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔：我会打破洗发水的瓶子，让那些泡泡飞起来！>",
+    "zh_trans": "< 善良米塔：我会打破洗发水的瓶子，让你们飞起来！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -805,7 +805,7 @@
   {
     "original": "< Kind Mita: Shot the screw to open it,We need to hide for a while. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔：对那两个螺丝开枪，我们需要进去躲一会儿 >",
+    "zh_trans": "< 善良米塔：破坏那两个螺丝，我们需要进去躲一会儿 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -833,7 +833,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Press E to place a duck to block zombies. <",
@@ -844,7 +844,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Admin select Stage ZM! <",
@@ -954,18 +954,18 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Press E smash zombies to make them slow down. <",
     "en_trans": "",
-    "zh_trans": "> 按E使用，减速被砸到的僵尸 <",
+    "zh_trans": "> 按E使用，减速被砸到的僵尸，注意有距离限制 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Stage 2 Clear!!! <<",
@@ -1014,7 +1014,7 @@
   {
     "original": "< Kind Mita: But don't worry,There's a tv in here and kitchen.>",
     "en_trans": "",
-    "zh_trans": "< 善良米塔：别担心，这里和厨房都有电视 >",
+    "zh_trans": "< 善良米塔：没关系，这里和厨房都有电视 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1025,7 +1025,7 @@
   {
     "original": "< Kind Mita: You could get into tv game and out from the kitchen tv.>",
     "en_trans": "",
-    "zh_trans": "< 善良米塔；你可以进入电视游戏，然后从厨房的电视里出来 >",
+    "zh_trans": "< 善良米塔；你可以穿越到电视游戏里，然后从厨房的电视里出来 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1201,7 +1201,7 @@
   {
     "original": "< Kind Mita: Good job,That fan is no longer working now. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔；好样的，那个风扇不会影响我们了.  >",
+    "zh_trans": "< 善良米塔；干得好，那个风扇不会影响我们了 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1300,7 +1300,7 @@
   {
     "original": "< Kind Mita: Seems like it didn't find you yet. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔：看样子它好像还没找到你 >",
+    "zh_trans": "< 善良米塔：看起来它好像还没找到你 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1311,7 +1311,7 @@
   {
     "original": "< Kind Mita: Go,Jump on the plane,You have to bring the battery to the portal. >",
     "en_trans": "",
-    "zh_trans": "< 善良米塔：走吧，跳到飞机上面，你需要把电池带到传送门 >",
+    "zh_trans": "< 善良米塔：走吧，跟着飞机走，你需要把电池带到传送门 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "< Crazy Mita: This is what they deserved,To getting you away from me. >",
     "en_trans": "",
-    "zh_trans": "<疯狂米塔：她们让你离开我，这是她们应得的 >",
+    "zh_trans": "< 疯狂米塔：她们让你离开我，这是她们应得的 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1614,7 +1614,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "> Press E get speed up and kill human in front of you. <",
@@ -1625,7 +1625,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "stp by 1",
