@@ -827,34 +827,34 @@
   {
     "original": ">> MAP BY live action cow <<",
     "en_trans": "",
-    "zh_trans": ">> MAP BY live action cow <<",
+    "zh_trans": ">> 地图制作:live action cow 地图汉化:泽坎red 海鲜西 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** TOTAL SECRETS FOUND 0/11 ***",
     "en_trans": "",
-    "zh_trans": "*** TOTAL SECRETS FOUND 0/11 ***",
+    "zh_trans": "*** 彩蛋收集总量 0/11 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** FIND 3 BLUE SKULLS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 找到三个蓝色颅骨 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 3,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
