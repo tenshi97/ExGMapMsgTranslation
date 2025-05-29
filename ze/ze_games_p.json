@@ -882,18 +882,18 @@
   {
     "original": "-=[ Zombies Activated Trap ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 僵尸激活了陷阱 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "-=[ Hold 15 seconds ]=-",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "-=[ 坚持 15 秒 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
