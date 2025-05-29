@@ -22,7 +22,7 @@
   {
     "original": ">>GO INTO THE OFFICE AND PRESS THE BUTTON<<",
     "en_trans": "",
-    "zh_trans": ">>去走进办公室,然后按下按钮<<",
+    "zh_trans": ">>进办公室,然后按下按钮<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -51,7 +51,7 @@
   {
     "original": ">>SYSTEM CHECKING PROCESS<<",
     "en_trans": "",
-    "zh_trans": ">>系统的检查过程<<",
+    "zh_trans": ">>系统自检中...<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -280,7 +280,7 @@
   {
     "original": ">>CLIMB TO THE TREE ! TAKE CARE !<<",
     "en_trans": "",
-    "zh_trans": ">>顺着绳子爬到树上!小心<<",
+    "zh_trans": ">>顺着发光的绳子爬到树上!不要掉下去了!<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -340,7 +340,7 @@
   {
     "original": ">>DOCK ESCAPE<<",
     "en_trans": "",
-    "zh_trans": ">>船坞逃生<<",
+    "zh_trans": ">>逃生路线：码头<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -370,7 +370,7 @@
   {
     "original": ">>BUNKER ESCAPE<<",
     "en_trans": "",
-    "zh_trans": ">>地堡逃脱<<",
+    "zh_trans": ">>逃生路线：地堡<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -390,7 +390,7 @@
   {
     "original": ">>HELIPAD ESCAPE<<",
     "en_trans": "",
-    "zh_trans": ">>停机坪逃生<<",
+    "zh_trans": ">>逃生路线：停机坪<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -410,7 +410,7 @@
   {
     "original": ">>SYSTEM ENABLE IN 40s<<",
     "en_trans": "",
-    "zh_trans": ">>系统将在40秒后启用<<",
+    "zh_trans": ">>防御系统将在40秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 40,
@@ -449,7 +449,7 @@
   {
     "original": ">>SYSTEM ENABLE IN 20s<<",
     "en_trans": "",
-    "zh_trans": ">>系统将在20秒后启用<<",
+    "zh_trans": ">>防御系统将在20秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -458,7 +458,7 @@
   {
     "original": ">>SYSTEM ENABLE IN 5s<<",
     "en_trans": "",
-    "zh_trans": ">>系统将在5秒后启用<<",
+    "zh_trans": ">>防御系统将在5秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -467,7 +467,7 @@
   {
     "original": ">>TAKE THE LADDER ! BREAKING IN 10s<<",
     "en_trans": "",
-    "zh_trans": ">>拿上梯子! 10秒后突破<<",
+    "zh_trans": ">>上梯子! 10秒后梯子就碎了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -476,7 +476,7 @@
   {
     "original": ">>TAKE THE LADDER ! BREAKING IN 5s<<",
     "en_trans": "",
-    "zh_trans": ">>拿上梯子! 5秒后突破<<",
+    "zh_trans": ">>上梯子! 5秒后梯子就碎了<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
