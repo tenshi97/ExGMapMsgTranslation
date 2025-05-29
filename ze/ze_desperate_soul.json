@@ -1036,7 +1036,7 @@
   {
     "original": "**<Tips>: Press <E> to pick up the statue**",
     "en_trans": "",
-    "zh_trans": "**<提示>:按<E>拾起雕像**",
+    "zh_trans": "** <提示>:按E拾起雕像，运送小雕像时注意不能被大雕像眼睛注视到 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1553,7 +1553,7 @@
   {
     "original": "**Nade do more damage in 10 seconds**",
     "en_trans": "",
-    "zh_trans": ">> 10秒后boss会免疫手雷伤害 <<",
+    "zh_trans": ">> 手雷可对boss造成少量伤害 --- 10s <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1564,7 +1564,7 @@
   {
     "original": "**Item can do more damage**",
     "en_trans": "",
-    "zh_trans": ">> 神器可以对boss造成更多伤害 <<",
+    "zh_trans": ">> 神器(破晓，天星)可以对boss造成部分伤害 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

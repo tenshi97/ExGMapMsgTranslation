@@ -2,21 +2,19 @@
   {
     "original": "**Map By R1cko27**",
     "en_trans": "",
-    "zh_trans": "**地图作者；R1cko27（补充；水木、）**",
+    "zh_trans": "**地图作者；R1cko27 补充提示；水木、**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**King of the Mountain**",
     "en_trans": "",
-    "zh_trans": "**目眩山巅（躲开障碍前往终点）**",
+    "zh_trans": "** 目眩山巅（躲开障碍前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,10 +22,9 @@
   {
     "original": "**Revolving Platforms**",
     "en_trans": "",
-    "zh_trans": "**旋转木马（尽快前往终点）**",
+    "zh_trans": "** 旋转木马（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,10 +32,9 @@
   {
     "original": "**Crazy Rock**",
     "en_trans": "",
-    "zh_trans": "**障碍狂欢（避开障碍抵达终点）**",
+    "zh_trans": "** 障碍狂欢（避开障碍抵达终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -46,10 +42,9 @@
   {
     "original": "**KZ**",
     "en_trans": "",
-    "zh_trans": "**KZ（尽快前往终点）**",
+    "zh_trans": "** KZ（开局的难点需要旋转跳）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -57,10 +52,9 @@
   {
     "original": "**Fruit Race**",
     "en_trans": "",
-    "zh_trans": "**完美配对（记住头顶即将出现的图案不要掉下去）**",
+    "zh_trans": "** 完美配对（记住头顶和脚底的图案不要掉下去）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -68,10 +62,9 @@
   {
     "original": "**Moving Walls**",
     "en_trans": "",
-    "zh_trans": "*五花八门（尽快前往终点）**",
+    "zh_trans": "** 五花八门（尽快前往终点）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -79,10 +72,9 @@
   {
     "original": "**Fragile floor**",
     "en_trans": "",
-    "zh_trans": "**蜂窝迷图（被玩家踩过的方块会碎掉）**",
+    "zh_trans": "** 蜂窝迷图（被玩家踩过的方块会碎掉，稳住自己）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -90,10 +82,9 @@
   {
     "original": "**Skipping Rope**",
     "en_trans": "",
-    "zh_trans": "**跳绳（保证自己在平台上）**",
+    "zh_trans": "** 跳绳（保证自己在平台上）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -101,10 +92,9 @@
   {
     "original": "**Zombie on elevator**",
     "en_trans": "",
-    "zh_trans": "**我趣，僵尸要和人类一起躲天坠啦**",
+    "zh_trans": "** 我趣，僵尸要和人类一起躲天坠啦 **",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -112,34 +102,11 @@
   {
     "original": "**UP**",
     "en_trans": "",
-    "zh_trans": "**抬头躲天坠（躲完低头躲地坠）**",
+    "zh_trans": "** 抬头躲天坠（天坠躲完低头躲地坠）**",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
-  },
-  {
-    "original": "peacemode switched!!!",
-    "en_trans": "",
-    "zh_trans": "已切换和平模式！",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
-  },
-  {
-    "original": "peacemode",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 0
   }
 ]
