@@ -563,29 +563,29 @@
   {
     "original": ">> FREEZERAY PICKED UP <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 冰冻射线已拾取 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> CHOPPER DOORS OPENING <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 正在开启直升机的门... <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> CHOPPER LEAVING IN 5 SECONDS <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 直升机将在 5 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
