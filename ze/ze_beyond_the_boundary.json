@@ -2,7 +2,7 @@
   {
     "original": "Current difficulty >>Hard<<!",
     "en_trans": "",
-    "zh_trans": "当前难度 >>困难<<!",
+    "zh_trans": "当前难度 >>困难<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -194,7 +194,7 @@
   {
     "original": "Someone has triggered the >>Normal<< mode egg. Go to the green Elf",
     "en_trans": "",
-    "zh_trans": "有人触发了>>Normal<<模式的彩蛋，接下来去找绿精灵（不想继续触发就不要去找精灵）",
+    "zh_trans": "有人触发了>>普通<<模式的彩蛋，接下来去找绿精灵（不想玩大风车路线就不要继续触发）",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -204,10 +204,11 @@
   {
     "original": "Caught the ��Green Elf��, Difficulty ��Normal��",
     "en_trans": "",
-    "zh_trans": "已抓到 ��绿精灵��, 当前回合已变为 Normal 模式（回合结束重置）",
+    "zh_trans": "已捕获绿精灵, 当前回合已变为>>普通<<模式（大风车路线，回合结束重置难度）",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 3,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]

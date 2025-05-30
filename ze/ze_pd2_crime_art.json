@@ -2,12 +2,11 @@
   {
     "original": "** MAP MADE BY DARKOGRE AND PATRAO! **",
     "en_trans": "",
-    "zh_trans": "** 本图由DARKOGRE和PATRAO制作（翻译&倒计时：水木、） **",
+    "zh_trans": "** 地图作者：DARKOGRE，PATRAO 翻译&倒计时：水木、 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "** USE THE COMPUTERS TO OPEN THE DOOR **",
@@ -16,8 +15,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** DOOR OPENS IN 20 SECONDS **",
@@ -35,8 +33,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** GO TO THE BATHROOM **",
@@ -45,8 +42,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** BATHROOM DOOR OPENS IN 15 SECONDS **",
@@ -60,12 +56,11 @@
   {
     "original": "** DOOR IS OPEN **",
     "en_trans": "",
-    "zh_trans": "** 浴室的门已开启 **",
+    "zh_trans": "** 门已开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** Truck leaving in 15 seconds! **",
@@ -83,8 +78,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** Shoot them! **",
@@ -93,8 +87,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** The Elevator will leave in 10 seconds. Don't miss it! **",
@@ -126,7 +119,7 @@
   {
     "original": "** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **",
     "en_trans": "",
-    "zh_trans": "** 守住厨房! 不要让僵尸进来!（25秒后打开卧室门） **",
+    "zh_trans": "** 守住厨房! 不要让僵尸进来!（25秒后开卧室门) **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -135,17 +128,16 @@
   {
     "original": "** DOOR IS OPENING **",
     "en_trans": "",
-    "zh_trans": "** 卧室的门打开了 **",
+    "zh_trans": "** 门现已开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 0
   },
   {
     "original": "** HOLD THE BEDROOM **",
     "en_trans": "",
-    "zh_trans": "** 卧室的门25秒后关闭（僵尸若发现没人在卧室触发请!ztele从主路破点） **",
+    "zh_trans": "** 卧室的门25秒后关闭（僵尸若发现没人触发请!ztele从主路破点） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -154,12 +146,11 @@
   {
     "original": "** MAKE YOUR WAY TO THE OFFICE **",
     "en_trans": "",
-    "zh_trans": "** 出门左转上楼，去办公室 **",
+    "zh_trans": "** 现在去办公室 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **",
@@ -168,18 +159,16 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **",
     "en_trans": "",
-    "zh_trans": "** 用电脑来开启去往屋顶的路! **",
+    "zh_trans": "** 用电脑来开启去往屋顶的路!! **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   },
   {
     "original": "** 30 SECONDS TO UNLOCK THE DOOR **",
@@ -197,7 +186,6 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1
   }
 ]
