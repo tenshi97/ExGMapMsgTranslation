@@ -1201,13 +1201,13 @@
   {
     "original": "*** 你们...不能...摧毁...这个世界... ***",
     "en_trans": "",
-    "zh_trans": "*** 你们...不能...摧毁...这个世界... ***",
+    "zh_trans": "*** 你们...不能...摧毁...这个世界... （僵尸15秒后传送）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 15,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** A:摧毁世界? 她不才是引发这场异变的罪魁祸首吗? ***",
@@ -1278,13 +1278,13 @@
   {
     "original": "*** 巴托莉:现在我已经掌握了死亡的力量 ***",
     "en_trans": "",
-    "zh_trans": "*** 巴托莉:现在我已经掌握了死亡的力量 ***",
+    "zh_trans": "*** 巴托莉:现在我已经掌握了死亡的力量（生存30秒） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 30,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 巴托莉:而生的力量就在这四季轮回之间 ***",
@@ -1333,7 +1333,7 @@
   {
     "original": "*** A:成神?有点意思,让我看看你的实力! ***",
     "en_trans": "",
-    "zh_trans": "*** A:成神?有点意思,让我看看你的实力! ***",
+    "zh_trans": "*** A:成神?有点意思,让我看看你的实力! （准备开始倒退开枪守僵尸，阶段结束后血量将恢复至200）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1443,7 +1443,7 @@
   {
     "original": "*** 混沌「不完美的四季秩序」 ***",
     "en_trans": "",
-    "zh_trans": "*** 混沌「不完美的四季秩序」 ***",
+    "zh_trans": "*** 混沌「不完美的四季秩序」（BOSS方向来列车伤害刀，一下120伤害） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1454,7 +1454,7 @@
   {
     "original": "*** 「最初与最后的无名弹幕」 ***",
     "en_trans": "",
-    "zh_trans": "*** 「最初与最后的无名弹幕」 ***",
+    "zh_trans": "*** 「最初与最后的无名弹幕」（人类已获得1.5倍移动速度，最边上有概率封路） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1839,7 +1839,7 @@
   {
     "original": "*** ？？？：试试这个 ***",
     "en_trans": "",
-    "zh_trans": "*** ？？？：试试这个 ***",
+    "zh_trans": "*** ？？？：试试这个（BOSS方向来两刀，固定“一高一低”或“一低一高”） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2224,7 +2224,7 @@
   {
     "original": "*** 索尼娅：绝不能放你们走…… ***",
     "en_trans": "",
-    "zh_trans": "*** 索尼娅：绝不能放你们走…… ***",
+    "zh_trans": "*** 索尼娅：绝不能放你们走……（僵尸方向来列车伤害刀） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2235,13 +2235,13 @@
   {
     "original": "*** 索尼娅：不！！！！！ ***",
     "en_trans": "",
-    "zh_trans": "*** 索尼娅：不！！！！！ ***",
+    "zh_trans": "*** 索尼娅：不！！！！！ （10秒后打开传送门）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 你获得了秋的力量！！！ ***",
@@ -2268,7 +2268,7 @@
   {
     "original": "*** Player has picked up the bomb ***",
     "en_trans": "",
-    "zh_trans": "*** 一名玩家捡起了彩蛋(消除弹幕) ***",
+    "zh_trans": "*** 一名玩家捡起了bomb-灵击(消除BOSS的弹幕一次) ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
