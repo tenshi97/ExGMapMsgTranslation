@@ -57,7 +57,7 @@
   {
     "original": "<< A player has picked up snow magic >>",
     "en_trans": "",
-    "zh_trans": "<< 一位玩家拾取了雪 >>",
+    "zh_trans": "<< 一位玩家拾取了水 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "<< the way will close in 10 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 这条路将在10秒后封锁 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,40 +453,40 @@
   {
     "original": "<< GIGA DRAIN >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 吸力 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Trials of Sword lv.1 >>",
     "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
-    "original": "** Plant the C4, add leave there immediately!!! **",
-    "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 剑之领域 lv.1 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
+  },
+  {
+    "original": "** Plant the C4, add leave there immediately!!! **",
+    "en_trans": "",
+    "zh_trans": "** 安放C4，然后躲远点! **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** C4 will explode in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** C4将在20秒后爆炸 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -497,7 +497,7 @@
   {
     "original": "<< AFK teleport in 10>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 10秒后传送挂机玩家 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -508,7 +508,7 @@
   {
     "original": "** Something will happen in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 20秒后可能要发生什么事情 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,29 +519,29 @@
   {
     "original": "*** Mapper: I will help you from the next round ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 御坂：我可以帮助你们... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Mapper: Only if you can complete this challenge!!! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 御坂：前提是你们得有资格成为我的队友! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defeat Misaka or Survive for 30 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 击败御坂或存活30秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -552,40 +552,40 @@
   {
     "original": "*** Mapper: Seems that you guys are good at DODGING LASER ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 御坂：看来你们都是跳刀高手 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Mapper: OK Now just finish this round ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 御坂：...那好吧，你们先完成这关 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Mapper: I will help you after this round, good luck ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 御坂：之后我会帮助你们赶走入侵者，希望我们合作愉快！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Defend final 25 seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 最后坚持25秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -596,23 +596,23 @@
   {
     "original": "*** STAGE III Complete ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第三关已完成 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Human Item Misaka will be Unlocked from next round ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 现在人类从开局神殿传送后可以在侧路找到御坂美琴 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
