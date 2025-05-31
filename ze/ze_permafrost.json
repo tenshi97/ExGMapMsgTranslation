@@ -354,24 +354,24 @@
   {
     "original": "** ZOMBIE HEAL HAS BEEN PICKED UP **",
     "en_trans": "",
-    "zh_trans": "** zm奶已拾起 **",
+    "zh_trans": "** [zm]奶已拾起 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "** ZOMBIE GRAVITY HAS BEEN PICKED UP **",
     "en_trans": "",
-    "zh_trans": "** zm黑洞已拾起 **",
+    "zh_trans": "** [zm]黑洞已拾起 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "** STAGE 2 SET AS NEXT STAGE **",
@@ -387,13 +387,13 @@
   {
     "original": "** ZOMBIE FREEZEBALL HAS BEEN PICKED UP **",
     "en_trans": "",
-    "zh_trans": "** zm冰球已拾取 **",
+    "zh_trans": "** [zm]冰球已拾取 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "** STAGE 4 SET AS NEXT STAGE **",
@@ -464,12 +464,12 @@
   {
     "original": "** ROUND FAILED **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 回合失败 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
