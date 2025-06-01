@@ -74,7 +74,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "Kill all remaining zombies",
@@ -96,7 +96,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "World Level 02",
@@ -107,7 +107,7 @@
 		"icon_name": "icon_tip",
 		"timer_num": 0,
 		"enable_timer": 0,
-		"force_hint": 0
+		"force_hint": 1
 	},
 	{
 		"original": "*Corpse tide*",
@@ -277,7 +277,7 @@
 	{
 		"original": "Congratulations on completing all levels",
 		"en_trans": "",
-		"zh_trans": " 恭喜你们拿下了这张地图！（汉化：水木、）",
+		"zh_trans": " 恭喜你们拿下了这张地图！（翻译：水木、）",
 		"jp_trans": "",
 		"kr_trans": "",
 		"icon_name": "icon_tip",

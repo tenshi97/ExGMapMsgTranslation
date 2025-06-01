@@ -2,38 +2,42 @@
   {
     "original": "***Map by Reflelia***",
     "en_trans": "",
-    "zh_trans": "***地图作者；Reflelia（汉化：水木、）***",
+    "zh_trans": "*** 地图作者；Reflelia 翻译：水木、***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Particle Effect by Airvulpes***",
     "en_trans": "",
-    "zh_trans": "***粒子特效；Airvulpes***",
+    "zh_trans": "*** 粒子特效；Airvulpes ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Thanks to Shizuru[idea] / uuz[model]***",
     "en_trans": "",
-    "zh_trans": "***特别感谢Shizuru[创意] / uuz[模型]***",
+    "zh_trans": "*** 特别感谢Shizuru[创意] / uuz[模型] ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***CURRENT LEVEL - 1 -***",
     "en_trans": "",
-    "zh_trans": "***当前关卡 - 第一关 -***",
+    "zh_trans": "*** 当前关卡 - 第一关 -***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***20 seconds***",
@@ -47,7 +51,7 @@
   {
     "original": "***Freezer picked up***",
     "en_trans": "",
-    "zh_trans": "***冰已拾起***",
+    "zh_trans": "*** 一位玩家拾取了冰 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -56,7 +60,7 @@
   {
     "original": "***Zombie picked up Nuke***",
     "en_trans": "",
-    "zh_trans": "***僵尸拾取了秒杀***",
+    "zh_trans": "*** 一名僵尸拾取了秒杀 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -65,7 +69,7 @@
   {
     "original": "***RESIST FOR 35 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***坚守35秒***",
+    "zh_trans": "*** 坚守35秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -74,7 +78,7 @@
   {
     "original": "***HOLD FOR 20 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***坚守20秒***",
+    "zh_trans": "*** 坚守20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -83,7 +87,7 @@
   {
     "original": "***RESIST 25 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***坚守25秒***",
+    "zh_trans": "*** 坚守25秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 25,
@@ -92,7 +96,7 @@
   {
     "original": "***Recovery picked up***",
     "en_trans": "",
-    "zh_trans": "***奶已拾起***",
+    "zh_trans": "*** 一位玩家拾取了奶 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -101,7 +105,7 @@
   {
     "original": "***TELEPORT ENABLE IN 30 SECONDS***",
     "en_trans": "",
-    "zh_trans": "***30秒后启动传送***",
+    "zh_trans": "*** 30秒后传送 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -110,7 +114,7 @@
   {
     "original": "***Wind picked up***",
     "en_trans": "",
-    "zh_trans": "***风已拾起***",
+    "zh_trans": "*** 一位玩家拾取了风 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -119,7 +123,7 @@
   {
     "original": "***Elevator rise up in 10 seconds***",
     "en_trans": "",
-    "zh_trans": "***电梯10秒后上升***",
+    "zh_trans": "*** 电梯将在10秒后上升 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -128,7 +132,7 @@
   {
     "original": "***Break the box***",
     "en_trans": "",
-    "zh_trans": "***打碎中间的水晶***",
+    "zh_trans": "*** 打碎中间的水晶 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -138,7 +142,7 @@
   {
     "original": "***Teleport activates in 45 seconds***",
     "en_trans": "",
-    "zh_trans": "***45秒后激活传送***",
+    "zh_trans": "*** 传送将在45秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 45,
@@ -147,7 +151,7 @@
   {
     "original": "***Gravity Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了黑洞***",
+    "zh_trans": "*** boss使用了黑洞 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -157,7 +161,7 @@
   {
     "original": "***Wind Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了风***",
+    "zh_trans": "*** boss使用了风 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -167,7 +171,7 @@
   {
     "original": "***Ice Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了冰***",
+    "zh_trans": "*** boss使用了冰 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -177,7 +181,7 @@
   {
     "original": "***Snow picked up***",
     "en_trans": "",
-    "zh_trans": "***雪已拾起***",
+    "zh_trans": "*** 一位玩家拾取了雪 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -186,7 +190,7 @@
   {
     "original": "***Thruster Casted***",
     "en_trans": "",
-    "zh_trans": "***boss使用了击飞***",
+    "zh_trans": "*** boss使用了击飞 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -196,7 +200,7 @@
   {
     "original": "***Go Back to teleport place***",
     "en_trans": "",
-    "zh_trans": "***回到传送区域***",
+    "zh_trans": "*** 回到来路的传送点 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -205,7 +209,7 @@
   {
     "original": "***Final teleport enable in 35 seconds***",
     "en_trans": "",
-    "zh_trans": "***最终传送将在35秒后启动***",
+    "zh_trans": "*** 最终传送将在35秒后开始 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 35,
@@ -214,7 +218,7 @@
   {
     "original": "***Zombie teleport in 10 seconds***",
     "en_trans": "",
-    "zh_trans": "***僵尸将在10秒后传送***",
+    "zh_trans": "*** 僵尸将在10秒后传送 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 10,
@@ -223,7 +227,7 @@
   {
     "original": "***5 seconds left***",
     "en_trans": "",
-    "zh_trans": "***还有5秒***",
+    "zh_trans": "*** 还有5秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -232,16 +236,17 @@
   {
     "original": "***Run!***",
     "en_trans": "",
-    "zh_trans": "***撤退！***",
+    "zh_trans": "*** 撤退！***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***ESCAPE***",
     "en_trans": "",
-    "zh_trans": "***成功逃脱~***",
+    "zh_trans": "*** 成功逃脱~ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -251,7 +256,7 @@
   {
     "original": "***Zombie picked up Ice***",
     "en_trans": "",
-    "zh_trans": "***僵尸拾取了冰***",
+    "zh_trans": "*** 一名僵尸拾取了冰 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -260,7 +265,7 @@
   {
     "original": "***Zombie picked up Heal***",
     "en_trans": "",
-    "zh_trans": "***僵尸拾取了奶（奶只有两次哦）***",
+    "zh_trans": "*** 一名僵尸拾取了奶（奶只有两次哦）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -269,7 +274,7 @@
   {
     "original": "***Zombie picked up Gravity***",
     "en_trans": "",
-    "zh_trans": "***僵尸拾取了黑洞***",
+    "zh_trans": "*** 一名僵尸拾取了黑洞 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -278,11 +283,12 @@
   {
     "original": "***Zombie Escaped***",
     "en_trans": "",
-    "zh_trans": "***僵尸已逃脱***",
+    "zh_trans": "*** 僵尸已逃脱 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** NO HIT DETECT,BOSS WILL SELF KILL IN 10 SEC **",
@@ -301,21 +307,23 @@
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***CURRENT LEVEL - 2 -***",
     "en_trans": "",
-    "zh_trans": "***当前关卡 - 第二关 -***",
+    "zh_trans": "*** 当前关卡 - 第二关 - ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Hold 30 seconds***",
     "en_trans": "",
-    "zh_trans": "***坚守30秒***",
+    "zh_trans": "*** 坚守30秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -324,7 +332,7 @@
   {
     "original": "***Resist 30 seconds***",
     "en_trans": "",
-    "zh_trans": "***坚守30秒***",
+    "zh_trans": "*** 坚守30秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -333,16 +341,17 @@
   {
     "original": "***HOLD UNTIL GATE OPEN***",
     "en_trans": "",
-    "zh_trans": "***守住，直到大门开启***",
+    "zh_trans": "*** 守住，直到大门开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Portal open in 30 seconds***",
     "en_trans": "",
-    "zh_trans": "***传送门将在30秒后启用***",
+    "zh_trans": "*** 传送门将在30秒后启用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -351,16 +360,17 @@
   {
     "original": "***Hold until Door Break***",
     "en_trans": "",
-    "zh_trans": "***在大门打开之前守住这里***",
+    "zh_trans": "*** 在大门打开之前守住这里 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Door open in 20 seconds***",
     "en_trans": "",
-    "zh_trans": "***门将在20秒后开启***",
+    "zh_trans": "*** 门将在20秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -369,7 +379,7 @@
   {
     "original": "***Last elevator come down in 30 seconds***",
     "en_trans": "",
-    "zh_trans": "***最后的电梯将在30秒后下降***",
+    "zh_trans": "*** 最后的电梯将在30秒后下降 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 30,
@@ -378,7 +388,7 @@
   {
     "original": "***Last elevator goes up in 7 seconds***",
     "en_trans": "",
-    "zh_trans": "***最后的电梯将在7秒后上升***",
+    "zh_trans": "*** 最后的电梯将在7秒后上升 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 7,
@@ -387,7 +397,7 @@
   {
     "original": "***Spread out***",
     "en_trans": "",
-    "zh_trans": "***疯狂弹幕（先回头躲外圈再躲内圈）***",
+    "zh_trans": "*** 疯狂弹幕（先回头躲外圈再躲内圈）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -397,7 +407,7 @@
   {
     "original": "***Laser***",
     "en_trans": "",
-    "zh_trans": "***跳刀（四周随机来刀）***",
+    "zh_trans": "*** 跳刀（四周随机来刀）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -407,7 +417,7 @@
   {
     "original": "***For Upper***",
     "en_trans": "",
-    "zh_trans": "***自由落体（保证落在平台上）***",
+    "zh_trans": "*** 自由落体（保证落在平台上） ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -417,7 +427,7 @@
   {
     "original": "***Danger Field***",
     "en_trans": "",
-    "zh_trans": "***煎蛋（远离红色区域）***",
+    "zh_trans": "*** 煎蛋（远离红色区域）***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -427,16 +437,17 @@
   {
     "original": "***CURRENT LEVEL - 3 -***",
     "en_trans": "",
-    "zh_trans": "***当前关卡 - 第三关 -***",
+    "zh_trans": "*** 当前关卡 - 第三关 - ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***First Door Break in 20 seconds***",
     "en_trans": "",
-    "zh_trans": "***第一道门20秒后打开***",
+    "zh_trans": "*** 第一道门20秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -445,7 +456,7 @@
   {
     "original": "***Resist 20 seconds***",
     "en_trans": "",
-    "zh_trans": "***坚守20秒***",
+    "zh_trans": "*** 坚守20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -454,7 +465,7 @@
   {
     "original": "***Door break in 20 seconds***",
     "en_trans": "",
-    "zh_trans": "***门将在20秒后开启***",
+    "zh_trans": "*** 门将在20秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -463,7 +474,7 @@
   {
     "original": "***Bridge opening...***",
     "en_trans": "",
-    "zh_trans": "***大桥已开放***",
+    "zh_trans": "*** 大桥已开放 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -473,7 +484,7 @@
   {
     "original": "***Hold 20 seconds***",
     "en_trans": "",
-    "zh_trans": "***坚守20秒***",
+    "zh_trans": "*** 坚守20秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 20,
@@ -482,36 +493,37 @@
   {
     "original": "***Reflection will cast in 2s*",
     "en_trans": "",
-    "zh_trans": "***反伤将在2秒后启用（停枪）*",
+    "zh_trans": "*** 反伤将在2秒后启用（停枪） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
-    "enable_timer":0,
-    "force_hint": 1
+    "enable_timer":1,
+    "force_hint": 0
   },
   {
     "original": "***Reflection will cast in 1s*",
     "en_trans": "",
-    "zh_trans": "***反伤将在1秒后启用（停枪）*",
+    "zh_trans": "*** 反伤将在1秒后启用（停枪） **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
-    "enable_timer":0,
-    "force_hint": 1
+    "enable_timer":1,
+    "force_hint": 0
   },
   {
     "original": "***Reflection Casted***",
     "en_trans": "",
-    "zh_trans": "***看看有哪个小可爱上了右上角丢人名单***",
+    "zh_trans": "*** 看看有哪个小可爱上了右上角丢人名单 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Reflection ended***",
     "en_trans": "",
-    "zh_trans": "***反伤结束，继续输出boss***",
+    "zh_trans": "*** 反伤结束，继续输出boss ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -557,11 +569,12 @@
   {
     "original": "***Failed***",
     "en_trans": "",
-    "zh_trans": "***回合失败***",
+    "zh_trans": "*** 回合失败 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***Resist 15 seconds***",
@@ -575,7 +588,7 @@
   {
     "original": "***All items will Disable in 5 seconds***",
     "en_trans": "",
-    "zh_trans": "***所有神器将在5秒后禁用***",
+    "zh_trans": "*** 所有神器将在5秒后禁用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 5,
@@ -584,7 +597,7 @@
   {
     "original": "***All items will Disable in 4 seconds***",
     "en_trans": "",
-    "zh_trans": "***所有神器将在4秒后禁用***",
+    "zh_trans": "*** 所有神器将在4秒后禁用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 4,
@@ -593,7 +606,7 @@
   {
     "original": "***All items will Disable in 3 seconds***",
     "en_trans": "",
-    "zh_trans": "***所有神器将在3秒后禁用***",
+    "zh_trans": "*** 所有神器将在3秒后禁用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 3,
@@ -602,7 +615,7 @@
   {
     "original": "***All items will Disable in 2 seconds***",
     "en_trans": "",
-    "zh_trans": "***所有神器将在2秒后禁用***",
+    "zh_trans": "*** 所有神器将在2秒后禁用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 2,
@@ -611,7 +624,7 @@
   {
     "original": "***All items will Disable in 1 seconds***",
     "en_trans": "",
-    "zh_trans": "***所有神器将在1秒后禁用***",
+    "zh_trans": "*** 所有神器将在1秒后禁用 ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 1,
@@ -620,10 +633,11 @@
   {
     "original": "***Ende***",
     "en_trans": "",
-    "zh_trans": "***恭喜通关***",
+    "zh_trans": "*** 是跳刀大神！白丝！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
