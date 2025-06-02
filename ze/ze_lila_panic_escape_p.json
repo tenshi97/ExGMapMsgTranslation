@@ -2,13 +2,13 @@
   {
     "original": "** MAP BY SLAYERDRAGON **",
     "en_trans": "",
-    "zh_trans": "** 地图作者：SLAYERDRAGON **",
+    "zh_trans": "** 地图作者：SLAYERDRAGON 翻译：水木、 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** LEVEL 1 (EASY) **",
@@ -107,7 +107,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** AMMO GUN - 40 sec cooldown **",
@@ -145,13 +145,13 @@
   {
     "original": "** DJ IN DA HOUSE !! **",
     "en_trans": "",
-    "zh_trans": "** 点歌机已拾取，该换台了！（左键切歌右键放） **",
+    "zh_trans": "** 点歌机已拾取，我们需要更嗨的bgm！（左键切歌右键放） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Button B2 Pressed **",
@@ -184,7 +184,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** Button B3 Pressed **",
@@ -228,7 +228,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SECRET BLUE WORLD COMPLETED **",
@@ -338,7 +338,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** 5 SECONDS REMAINING **",
@@ -354,7 +354,7 @@
   {
     "original": "** U WON LEVEL 1 (EASY) **",
     "en_trans": "",
-    "zh_trans": "** 你拿下了第一关（简单难度） **",
+    "zh_trans": "** 你拿下了第一关！（简单难度） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -371,7 +371,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** LEVEL 2 (BOSS) **",
@@ -442,7 +442,7 @@
   {
     "original": "** KILL IT BEFORE IT RAPES EVERYONE !! **",
     "en_trans": "",
-    "zh_trans": "** 在它弄死我们之前解决它 !! **",
+    "zh_trans": "** 在它弄死我们之前干掉它 !! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -453,7 +453,7 @@
   {
     "original": "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **",
     "en_trans": "",
-    "zh_trans": "** 手雷和特殊物品（头顶的蓝加号）能对它造成更多伤害！ **",
+    "zh_trans": "** 手雷和特殊物品（头顶的蓝加号）能对boss造成更多伤害 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_caution",
@@ -470,7 +470,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** PEDOBEAR HAS BEEN DEFEATED **",
@@ -492,7 +492,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MUSIC] LINKIN PARK - Numb",
@@ -503,12 +503,12 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** U WON LEVEL 2 (BOSS) **",
     "en_trans": "",
-    "zh_trans": "** 你拿下了第二关（boss战） **",
+    "zh_trans": "** 你拿下了第二关！（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -525,7 +525,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "[MUSIC] DAFT PUNK - One More Time",
@@ -536,7 +536,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "修复神器按钮问题 (by bxzl) loaded",
@@ -602,7 +602,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SECRET BARBIE COMPLETED **",
@@ -624,7 +624,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** ADMIN chose LEVEL 2 for NEXT ROUND **",
@@ -662,7 +662,7 @@
   {
     "original": "** U WON LEVEL 3 (HARD) **",
     "en_trans": "",
-    "zh_trans": "** 你拿下了第三关（困难难度） **",
+    "zh_trans": "** 你拿下了第三关！（困难难度） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -679,7 +679,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SECRET I LIKE TO MOVE IT COMPLETED **",
@@ -706,7 +706,7 @@
   {
     "original": "** HEAL GUN - 40 sec cooldown **",
     "en_trans": "",
-    "zh_trans": "** 奶 - 40秒冷却 **",
+    "zh_trans": "** 治疗 - 40秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": "** U WON LEVEL 4 (BOSS) **",
     "en_trans": "",
-    "zh_trans": "** 你拿下了第四关（boss战） **",
+    "zh_trans": "** 你拿下了第四关！（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -756,7 +756,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** LEVEL 5 (ZM ROUND) **",
@@ -849,7 +849,7 @@
   {
     "original": "** U WON LEVEL 5 (ZM ROUND) **",
     "en_trans": "",
-    "zh_trans": "** 你拿下了第五关（zm） **",
+    "zh_trans": "** 你拿下了第五关！（zm） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -888,7 +888,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "** SECRETS 3 of 5 FOUND **",
@@ -915,7 +915,18 @@
   {
     "original": "[MUSIC] GUNS n ROSES - Paradise City",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "当前地图bgm：GUNS n ROSES - Paradise City",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "** LASER GUN - 60 sec cooldown **",
+    "en_trans": "",
+    "zh_trans": "** 激光墙 - 60秒冷却 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -924,31 +935,20 @@
     "force_hint": 0
   },
   {
-    "original": "** LASER GUN - 60 sec cooldown **",
-    "en_trans": "",
-    "zh_trans": "",
-    "jp_trans": "",
-    "kr_trans": "",
-    "icon_name": "icon_tip",
-    "timer_num": 60,
-    "enable_timer": 1,
-    "force_hint": 0
-  },
-  {
     "original": "** LEVEL 6 (BOSS) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 第六关（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "** SUICIDAL ZOMBIE INCOMING **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [zm]自爆已拾取（右键使用，别走着走着就自爆了） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -959,12 +959,12 @@
   {
     "original": "** U WON LEVEL 6 (BOSS) **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 你拿下了第六关！（boss战） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 6,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
