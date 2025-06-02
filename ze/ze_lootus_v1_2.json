@@ -145,7 +145,7 @@
   {
     "original": ">> 60 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 60 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,7 +156,7 @@
   {
     "original": ">> 45 seconds <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 45 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -167,23 +167,23 @@
   {
     "original": ">> Rage <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 狂暴 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Attacks become more difficult during this phase <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 本阶段难度已提升 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
