@@ -106,8 +106,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** 5 Seconds left! ***",
@@ -579,8 +579,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 0,
-    "force_hint": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "*** Fall back! Get to the parking lot. ***",
@@ -706,7 +706,7 @@
   {
     "original": "=== DODGE THE GOPNIKS! ===",
     "en_trans": "",
-    "zh_trans": "=== 小心前面! ===",
+    "zh_trans": "=== 小心前面！注意毛子蹲大冲击!（一共四波） ===",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1108,7 +1108,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 1
+    "force_hint": 0
   },
   {
     "original": "=== Game Mode : Harmonious Mode ===",
