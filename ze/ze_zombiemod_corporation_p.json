@@ -2,7 +2,7 @@
   {
     "original": "** Welcome ! Boats Will Leave in 10 Seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 船将在 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,7 +13,7 @@
   {
     "original": "*** Doors Will Open in 15 Seconds ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 门将在 15 秒后开启 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "** Gate Will Open in 30 seconds",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 大门将在 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "** Final heli is Leaving in 60 Seconds .. PROTECT YOURSELF**",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 直升机将在 60 秒后离开 .. 保护好自己 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,7 +46,7 @@
   {
     "original": "** Final heli is leaving in 5 seconds! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 直升机将在 5 秒后离开！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "** Final Zombie Boat is Leaving in 10 Seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 僵尸船将在 10 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "** Elevator is leaving in 20 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 电梯将在 20 秒后离开 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,7 +79,7 @@
   {
     "original": "** Final Door Will Open in 30 seconds **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 最后的门将在 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -90,12 +90,12 @@
   {
     "original": "** Map Created By Marlborito |PT| **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 地图作者 Marlborito |PT| （翻译:星荧铃）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
