@@ -5,8 +5,10 @@
     "zh_trans": "",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "WELCOME TO STARK ESCAPE",
@@ -14,6 +16,7 @@
     "zh_trans": "欢迎来到史塔克逃亡",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -24,8 +27,10 @@
     "zh_trans": "地图创建者：Platin(翻译:星荧铃)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Test Server : Mapeadores | GFL",
@@ -33,8 +38,10 @@
     "zh_trans": "测试服务器 : Mapeadores | GFL",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "Catch the elevator before it leaves. RUN",
@@ -42,6 +49,7 @@
     "zh_trans": "在电梯离开之前赶上它。快跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -52,8 +60,10 @@
     "zh_trans": "电梯门正在打开。它将在15秒后关闭！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "It will close in 5 seconds!!!",
@@ -61,8 +71,10 @@
     "zh_trans": "它将在5秒后关闭！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The elevator door is closing.",
@@ -70,6 +82,7 @@
     "zh_trans": "电梯门正在关闭。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -80,6 +93,7 @@
     "zh_trans": "电梯门正在打开。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -90,8 +104,10 @@
     "zh_trans": "僵尸将在 5 秒后传送！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Run Run",
@@ -99,6 +115,7 @@
     "zh_trans": "快跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -109,8 +126,10 @@
     "zh_trans": "门将在20秒后打开。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 5 seconds.",
@@ -118,8 +137,10 @@
     "zh_trans": "门将在5秒后打开。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door opened GO BACK",
@@ -127,6 +148,7 @@
     "zh_trans": "门开了，撤！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -137,8 +159,10 @@
     "zh_trans": "僵尸将在10秒后传送。快跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Through the door.",
@@ -146,6 +170,7 @@
     "zh_trans": "穿过这扇门。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -156,6 +181,7 @@
     "zh_trans": "防守左右两边的门。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -166,6 +192,7 @@
     "zh_trans": "门开了。GO GO",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -176,8 +203,10 @@
     "zh_trans": "进入电梯，它将在15秒后关闭。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Run, run, run. 5 seconds left.",
@@ -185,8 +214,10 @@
     "zh_trans": "润，润，润。还剩 5 秒。 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "to the next floor.",
@@ -194,6 +225,7 @@
     "zh_trans": "到下一层。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -204,6 +236,7 @@
     "zh_trans": "完成跑酷",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -214,8 +247,10 @@
     "zh_trans": "10 秒后，僵尸门将会打开。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie door is opening",
@@ -223,6 +258,7 @@
     "zh_trans": "僵尸门正在打开。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -233,6 +269,7 @@
     "zh_trans": "尽快完成跑酷。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -243,6 +280,7 @@
     "zh_trans": "简单路已开启。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -253,6 +291,7 @@
     "zh_trans": "不要防守，快跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -263,8 +302,10 @@
     "zh_trans": "距离僵尸传送还剩20秒。快跑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie tp 20 sec !",
@@ -272,8 +313,10 @@
     "zh_trans": "僵尸将在20秒后传送！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 20 seconds. Finish the maze.",
@@ -281,8 +324,10 @@
     "zh_trans": "门将在20秒后打开。完成这个迷宫。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie teleported",
@@ -290,6 +335,7 @@
     "zh_trans": "僵尸已传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -300,6 +346,7 @@
     "zh_trans": "门开了，快跑，快跑。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -310,8 +357,10 @@
     "zh_trans": "僵尸将在 10 秒后传送！快跑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The barrier will break in 15 seconds.",
@@ -319,8 +368,10 @@
     "zh_trans": "屏障将在 15 秒后破裂。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Run",
@@ -328,6 +379,7 @@
     "zh_trans": "跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -338,8 +390,10 @@
     "zh_trans": "僵尸将在10秒后传送，快跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The zombie barrier will break after 10 seconds.",
@@ -347,8 +401,10 @@
     "zh_trans": "僵尸屏障将在10秒后被打破。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Go to the exit door, zombies will come soon.",
@@ -356,6 +412,7 @@
     "zh_trans": "前往出口门，僵尸很快就会来了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -366,8 +423,10 @@
     "zh_trans": "僵尸将在 5 秒后传送！快跑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Get in the elevator, it'll close in 10 seconds.",
@@ -375,8 +434,10 @@
     "zh_trans": "进入电梯，它将在10秒后关闭。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Run Run, The elevator will close in 10 seconds.",
@@ -384,8 +445,10 @@
     "zh_trans": "跑，跑，电梯将在10秒后关闭。 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie doors will open in 20 seconds.",
@@ -393,8 +456,10 @@
     "zh_trans": "僵尸门将在20秒后打开。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Zombie teleport !",
@@ -402,6 +467,7 @@
     "zh_trans": "僵尸传送！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -412,6 +478,7 @@
     "zh_trans": "僵尸门开启 ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -422,6 +489,7 @@
     "zh_trans": "钥匙找到了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -432,6 +500,7 @@
     "zh_trans": "人类传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -442,6 +511,7 @@
     "zh_trans": "别走！！！守住电梯。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -452,6 +522,7 @@
     "zh_trans": "僵尸传送！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -462,8 +533,10 @@
     "zh_trans": "电梯将在15秒后运行。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "defend the RIGHT and the LEFT.",
@@ -471,6 +544,7 @@
     "zh_trans": "防守右边和左边。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -481,8 +555,10 @@
     "zh_trans": "电梯将在20秒后运行。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Take the right or left exit. Protect the exit doors!",
@@ -490,6 +566,7 @@
     "zh_trans": "走右边或左边的出口。保护好出口的门！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -500,8 +577,10 @@
     "zh_trans": "僵尸将在7秒后传送！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "GO TO THE CONTROL ROOM, PRESS THE BUTTON. DON'T TOUCH THE LASERS, THEY KILL.",
@@ -509,6 +588,7 @@
     "zh_trans": "前往控制室，按下按钮。不要触碰激光，它们有杀伤力。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -519,6 +599,7 @@
     "zh_trans": "防守左右两边的门。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -529,6 +610,7 @@
     "zh_trans": "前往控制室启动直升机。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -539,8 +621,10 @@
     "zh_trans": "在直升机起飞前我们有20秒的时间。守好，别错过直升机。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "In 10 seconds the helicopter will take off. Get in the helicopter.",
@@ -548,8 +632,10 @@
     "zh_trans": "10 秒后直升机将起飞。上直升机。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Hurry up, 5 seconds left.",
@@ -557,8 +643,10 @@
     "zh_trans": "快点，还剩5秒。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The helicopter took off.",
@@ -566,6 +654,7 @@
     "zh_trans": "直升机起飞了。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -576,6 +665,7 @@
     "zh_trans": "人类胜利！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -586,6 +676,7 @@
     "zh_trans": "钥匙已找到，用这把钥匙开门。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -596,8 +687,10 @@
     "zh_trans": "直升机将在20秒后起飞！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "10 SEC HELI, RUN RUN RUN !!!",
@@ -605,8 +698,10 @@
     "zh_trans": "距直升机起飞还有10秒，跑，跑，跑！！！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "GO TO THE HELICOPTER",
@@ -614,6 +709,7 @@
     "zh_trans": "上直升机",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -624,8 +720,10 @@
     "zh_trans": ">>>4<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>3<<<",
@@ -633,8 +731,10 @@
     "zh_trans": ">>>3<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>2<<<",
@@ -642,8 +742,10 @@
     "zh_trans": ">>>2<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>>1<<<",
@@ -651,8 +753,10 @@
     "zh_trans": ">>>1<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DONT DEFEND, RUN RUN RUN",
@@ -660,6 +764,7 @@
     "zh_trans": "不要防守，跑，跑，跑。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -670,6 +775,7 @@
     "zh_trans": "不要防守！跑！跑！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -680,8 +786,10 @@
     "zh_trans": "5秒后僵尸屏障将会被打破。",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE DOOR OPENED !",
@@ -689,8 +797,20 @@
     "zh_trans": "僵尸门打开了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "Zombie tp 10 sec !",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
