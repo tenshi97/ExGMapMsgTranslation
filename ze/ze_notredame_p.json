@@ -2,7 +2,7 @@
   {
     "original": "###Gutter Gate Will Open in 30 Seconds...Survive###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 排水沟的门将在30秒后打开，找个地方活下来！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -13,51 +13,51 @@
   {
     "original": "###Gutter Gate Open...Run!###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 门开了，快走！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "###Map Made By Mononoke###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 地图作者：Mononoke ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "###Press E to use items###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 翻译：水木、 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "###All items have 1 Minute Cooldown###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 所有神器都是按E使用，CD都是60秒 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "###Doors will Open in 20 Seconds...Survive###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 门将在20秒后开启 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,62 +68,62 @@
   {
     "original": "### Viola Active: Super Boost 5s###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 维欧拉技能：5秒内获得大幅加速 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "### Super Boost Active for 5 seconds ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 维欧拉已使用技能：5秒加速生效中 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "### Hunchback Active: Shotgun ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 驼背的人技能: 霰弹枪（击退面前僵尸） ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Shotgun Fired! ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 霰弹枪已使用！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Super Boost Charged ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 加速已失效 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "###Wine Cellar Door will Close in 30 Seconds...Survive###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 酒窖的门将在30秒后关闭，小心上面侧路僵尸空降 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,12 +134,12 @@
   {
     "original": "### Shotgun Reloaded ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 霰弹枪冷却中 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
