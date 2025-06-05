@@ -5,6 +5,7 @@
     "zh_trans": ">>夜晚<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,6 +16,7 @@
     "zh_trans": ">>欢迎来到侏罗纪公园<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -25,6 +27,7 @@
     "zh_trans": ">>进办公室,然后按下按钮<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -35,6 +38,7 @@
     "zh_trans": ">>僵尸使用按钮打开了门<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -45,8 +49,10 @@
     "zh_trans": ">>地图作者LeGrem.(翻译:Shootin Stars)<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": ">>SYSTEM CHECKING PROCESS<<",
@@ -54,6 +60,7 @@
     "zh_trans": ">>系统自检中...<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -64,6 +71,7 @@
     "zh_trans": ">>门安全系统:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -74,6 +82,7 @@
     "zh_trans": ">>电网:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -84,6 +93,7 @@
     "zh_trans": ">>电话通讯:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -94,6 +104,7 @@
     "zh_trans": ">>视频系统:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -104,6 +115,7 @@
     "zh_trans": ">>备份系统:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -114,6 +126,7 @@
     "zh_trans": ">>检查围场<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -124,6 +137,7 @@
     "zh_trans": ">>三角龙围场<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -134,6 +148,7 @@
     "zh_trans": ">>保护区 1:已禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -144,6 +159,7 @@
     "zh_trans": ">>保护区 2:已禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -154,6 +170,7 @@
     "zh_trans": ">>请你们掩护到霸王龙进攻<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -164,6 +181,7 @@
     "zh_trans": ">>双嵴龙保护区:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -174,6 +192,7 @@
     "zh_trans": ">>腕龙保护区:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -184,6 +203,7 @@
     "zh_trans": ">>似鸡龙保护区:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -194,6 +214,7 @@
     "zh_trans": ">>游客乘车系统:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -204,6 +225,7 @@
     "zh_trans": ">>霸王龙保护区:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -214,6 +236,7 @@
     "zh_trans": ">>全球围栏周边:禁用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -224,6 +247,7 @@
     "zh_trans": ">>所有系统全部瘫痪<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -234,6 +258,7 @@
     "zh_trans": ">>请你掩护到霸王龙冲破栅栏<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -244,6 +269,7 @@
     "zh_trans": ">>安放C4炸药摧毁大树<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -254,8 +280,10 @@
     "zh_trans": ">>25秒后爆炸<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>PLANK BROKEN ! FIND THE HOLE IN THE FENCE ON LEFT<<",
@@ -263,6 +291,7 @@
     "zh_trans": ">>木板破裂!在左边的围栏上找到那个洞<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -273,6 +302,7 @@
     "zh_trans": ">>走!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -283,6 +313,7 @@
     "zh_trans": ">>顺着发光的绳子爬到树上!不要掉下去了!<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -293,6 +324,7 @@
     "zh_trans": ">>僵尸爬上了山头<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -303,6 +335,7 @@
     "zh_trans": ">>前往地堡,恢复电力<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -313,6 +346,7 @@
     "zh_trans": ">>重启侏罗纪公园的电力<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -323,6 +357,7 @@
     "zh_trans": ">>沿着头上的红管子走<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -333,6 +368,7 @@
     "zh_trans": ">>恢复开门电源<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -343,6 +379,7 @@
     "zh_trans": ">>逃生路线：码头<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -353,6 +390,7 @@
     "zh_trans": ">>前往控制室,重新启动系统<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -363,6 +401,7 @@
     "zh_trans": ">>跟着墙上的标志走<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -373,6 +412,7 @@
     "zh_trans": ">>逃生路线：地堡<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -383,6 +423,7 @@
     "zh_trans": ">>白天<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -393,6 +434,7 @@
     "zh_trans": ">>逃生路线：停机坪<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -403,6 +445,7 @@
     "zh_trans": ">>>>泰瑟枪已被捡起<<<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -413,8 +456,10 @@
     "zh_trans": ">>防御系统将在40秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 40,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>COVER THE DOOR<<",
@@ -422,6 +467,7 @@
     "zh_trans": ">>守住大门<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -432,6 +478,7 @@
     "zh_trans": ">>那个窗户看起来不是很坚固<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -442,6 +489,7 @@
     "zh_trans": ">>小心<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -452,8 +500,10 @@
     "zh_trans": ">>防御系统将在20秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>SYSTEM ENABLE IN 5s<<",
@@ -461,8 +511,10 @@
     "zh_trans": ">>防御系统将在5秒后启用<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>TAKE THE LADDER ! BREAKING IN 10s<<",
@@ -470,8 +522,10 @@
     "zh_trans": ">>上梯子! 10秒后梯子就碎了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>TAKE THE LADDER ! BREAKING IN 5s<<",
@@ -479,8 +533,10 @@
     "zh_trans": ">>上梯子! 5秒后梯子就碎了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>LADDER BROKEN ! YOU ARE DEAD IF YOU STILL THERE<<",
@@ -488,6 +544,7 @@
     "zh_trans": ">>梯子断了!如果你还在那里,你就死定了<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -498,6 +555,7 @@
     "zh_trans": ">>火焰喷射器已被捡起<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -508,6 +566,7 @@
     "zh_trans": ">>等等,霸王龙会来帮忙<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -518,6 +577,7 @@
     "zh_trans": ">>准备掩护<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -528,8 +588,10 @@
     "zh_trans": ">>掩护6秒<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 6,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>RUN. REX BLOCK THE ZOMBIES<<",
@@ -537,6 +599,7 @@
     "zh_trans": ">>跑.霸王龙挡住了僵尸<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -547,8 +610,10 @@
     "zh_trans": ">>第二辆吉普车将在8秒后离开，第一辆将在倒计时3秒时离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>BUNKER LOCKDOWN IN 45s<<",
@@ -556,8 +621,10 @@
     "zh_trans": ">>地堡将在 45 秒后封锁<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>BUNKER LOCKDOWN IN 20s<<",
@@ -565,8 +632,10 @@
     "zh_trans": ">地堡将在 20 秒后封锁><<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>LYSINE CONTINGENGY ACTIVATION IN 15s<<",
@@ -574,8 +643,10 @@
     "zh_trans": ">>赖氨酸应急激活将在 15 秒后启动<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>BUNKER LOCKDOWN IN 5s<<",
@@ -583,8 +654,10 @@
     "zh_trans": ">>地堡将在 5 秒后封锁<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>LYSINE CONTINGENGY ACTIVATED<<",
@@ -592,6 +665,7 @@
     "zh_trans": ">>赖氨酸应急已激活<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -602,6 +676,7 @@
     "zh_trans": ">>前往正门<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -612,8 +687,10 @@
     "zh_trans": ">>船将在 45 秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>BOAT LEAVING IN 20s<<",
@@ -621,8 +698,10 @@
     "zh_trans": ">>船将在 20 秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>BOAT LEAVING IN 5s<<",
@@ -630,8 +709,10 @@
     "zh_trans": ">>船将在 5 秒后离开<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>THE BOAT IS LEAVING THE DOCK<<",
@@ -639,6 +720,7 @@
     "zh_trans": ">>船正在离开码头<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -649,6 +731,7 @@
     "zh_trans": ">>快前往地堡<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -659,8 +742,10 @@
     "zh_trans": ">>45 秒后封锁<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 45,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>LOCKDOWN IN 20s<<",
@@ -668,8 +753,10 @@
     "zh_trans": ">>20 秒后封锁<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>LOCKDOWN IN 5s<<",
@@ -677,8 +764,10 @@
     "zh_trans": ">>5 秒后封锁<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>HELICOPTER ON WAY<<",
@@ -686,6 +775,7 @@
     "zh_trans": ">>直升机正在赶来的路上<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -696,8 +786,10 @@
     "zh_trans": ">>15秒后起飞<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>TAKEOFF IN 10s<<",
@@ -705,8 +797,10 @@
     "zh_trans": ">>10秒后起飞<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>TAKEOFF IN 5s<<",
@@ -714,8 +808,10 @@
     "zh_trans": ">>5秒后起飞<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">>TAKEOFF<<",
@@ -723,8 +819,20 @@
     "zh_trans": ">>起飞<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": ">>EXPLOSION IN 35s !<<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
