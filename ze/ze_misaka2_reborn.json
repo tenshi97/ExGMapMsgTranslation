@@ -519,7 +519,7 @@
   {
     "original": "*** Mapper: I will help you from the next round ***",
     "en_trans": "",
-    "zh_trans": "*** 御坂：我可以帮助你们... ***",
+    "zh_trans": "*** 御坂：我可以帮助你们 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -530,7 +530,7 @@
   {
     "original": "*** Mapper: Only if you can complete this challenge!!! **",
     "en_trans": "",
-    "zh_trans": "*** 御坂：前提是你们得有资格成为我的队友! **",
+    "zh_trans": "*** 御坂：但前提是你们得有资格成为我的队友! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": "<< Fallen Sky >>",
     "en_trans": "",
-    "zh_trans": "<< 天空坠落 --- 头顶的板子会按顺序依次下落 >>",
+    "zh_trans": "<< 天空坠落 --- 注意头顶板子 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -650,6 +650,17 @@
   },
   {
     "original": "<<僵尸神器已禁用>>",
+    "en_trans": "",
+    "zh_trans": "<< 僵尸神器已被禁用 >>",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "<<僵尸神器已启用>>",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
