@@ -596,7 +596,7 @@
   {
     "original": "-=[ Normal Mode :: CT/T > 2 < 4 ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 普通模式 :: 人类数量是僵尸的2倍到4倍之间 ]=-",
+    "zh_trans": "-=[ 普通模式 :: 人类数量大约是僵尸的3倍 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "-=[ Killing zombies in 5 ]=-",
     "en_trans": "",
-    "zh_trans": "-=[ 5 秒内消灭僵尸 ]=-",
+    "zh_trans": "-=[ 5 秒后消灭僵尸 ]=-",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -743,9 +743,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "-=[ Make your way to the highway ]=-",
