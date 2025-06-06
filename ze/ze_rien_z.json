@@ -68,12 +68,12 @@
   {
     "original": "** There's zombies at the end. Clean them up! **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 清掉剩余的僵尸! **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
