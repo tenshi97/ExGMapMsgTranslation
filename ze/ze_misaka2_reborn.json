@@ -662,111 +662,111 @@
   {
     "original": "<<僵尸神器已启用>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸现在可以使用神器了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Misaka will help you >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂将会帮助你们 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< The cannon will deactive if misaka pick other magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 如果御坂捡到别的神器了那她的超电磁炮会失效 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< CANNON READY >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂的超电磁炮已就绪 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< CANNON >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 轨道炮 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hunting Instinct >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 狩猎本能 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Starfall >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 星坠 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Flame of Revenge >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 火焰复仇 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< FALL OF EARTH >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 大地陨落 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Misaka will release the power in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂将在20秒后释放终极 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
