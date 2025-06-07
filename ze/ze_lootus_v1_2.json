@@ -228,39 +228,39 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> Congratulations! <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 恭喜你！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> You beat this map <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你已通关此地图 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">> type RTV <<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 按Y在聊天栏输入“rtv”发起换图投票 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
