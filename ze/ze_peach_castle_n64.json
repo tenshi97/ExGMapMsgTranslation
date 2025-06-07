@@ -2,7 +2,7 @@
   {
     "original": "*** HE SEEMS FRIENDLY, LET'S ESCAPE WITH HIM ***",
     "en_trans": "",
-    "zh_trans": "*** 他看起来很友好，跟他一起逃吧！ ***",
+    "zh_trans": "*** 他看起来很友好，跳上去一起逃吧！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "*** SHOOT THE LOCKS TO OPEN THE BRIDGE ***",
     "en_trans": "",
-    "zh_trans": "*** 射击锁链打开桥梁 ***",
+    "zh_trans": "*** 射击黄色的锁孔打开桥梁 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": "*** WAIT 20 SECONDS FOR THE FLAME TO GO OFF ***",
     "en_trans": "",
-    "zh_trans": "*** 火焰将在 20 秒后熄灭 ***",
+    "zh_trans": "*** 火焰将在 20 秒后熄灭（不想死就别靠近火焰） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "*** LOOK UP ! ***",
     "en_trans": "",
-    "zh_trans": "*** 看上面！ ***",
+    "zh_trans": "*** 看上面！需要有人活下来才能继续前进 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,7 +860,7 @@
   {
     "original": "*** BREAK THE BOX THE OLDSCHOOL WAY ! ***",
     "en_trans": "",
-    "zh_trans": "*** 用复古方式打破箱子！ ***",
+    "zh_trans": "*** 用复古方式打破箱子！（跳起来顶箱子） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "*** DEFEND ! THE CASTLE WILL OPEN SOON ***",
     "en_trans": "",
-    "zh_trans": "*** 防守！城堡即将开启 ***",
+    "zh_trans": "*** 防守！城堡即将开启（进房间的画里跳起来就能投票选关） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
