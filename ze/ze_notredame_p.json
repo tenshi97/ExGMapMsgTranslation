@@ -233,51 +233,51 @@
   {
     "original": "** Nades do more damage **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** 不想被boss刨死就多丢点雷！ **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Jack has been defeated! Escape! ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 杰克死了！快走！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Quickly Run for the Roof ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 快点去屋顶上面 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### The entire place is falling down! Get to the top of the Tower for Saftey ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 整个建筑都濒临崩溃！只有塔的顶部是安全的！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "###Trap Door Closes in 30 seconds###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 天窗将在30秒后关闭！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,12 +288,12 @@
   {
     "original": "###This is the last stand! Fight for your life###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 这里就是我们的最后一站！不要让僵尸上来！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
