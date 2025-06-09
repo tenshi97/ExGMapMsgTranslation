@@ -13,7 +13,7 @@
   {
     "original": "Map by vueru",
     "en_trans": "",
-    "zh_trans": "地图作者:vueru 翻译:Shooting stars 技能补充：水木、",
+    "zh_trans": "地图作者:vueru 翻译:Shooting stars",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "< Meat - Waters >",
     "en_trans": "",
-    "zh_trans": "< 涡旋 - 对boss按s抵抗吸力 >",
+    "zh_trans": "< 不朽虫王 - 涡旋 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_key_down",
@@ -266,7 +266,7 @@
   {
     "original": "< Meat - Fire >",
     "en_trans": "",
-    "zh_trans": "< 火焰 - 上两边栏杆 >",
+    "zh_trans": "< 不朽虫王 - 火焰 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_fire",
@@ -277,7 +277,7 @@
   {
     "original": "< Meat - Sand Dust >",
     "en_trans": "",
-    "zh_trans": "< 沙尘 - 蹲下 >",
+    "zh_trans": "< 不朽虫王 - 沙尘 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "< Meat - Space Cocoon >",
     "en_trans": "",
-    "zh_trans": "< 空间传送 - 贴近boss但别贴死 >",
+    "zh_trans": "< 不朽虫王 - 空间传送 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,7 +354,7 @@
   {
     "original": "ZE_Aooka3 Map by vueru",
     "en_trans": "",
-    "zh_trans": "ZE_Aooka3 地图作者:vueru 翻译:Shooting stars 技能补充：水木、",
+    "zh_trans": "ZE_Aooka3 地图作者:vueru 翻译:Shooting stars",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -442,7 +442,7 @@
   {
     "original": "< Boot - Mire >",
     "en_trans": "",
-    "zh_trans": "< 泥潭 - 上栏杆 >",
+    "zh_trans": "< 追猎傀儡 - 泥潭 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_fire",
@@ -453,7 +453,7 @@
   {
     "original": "< Boot - Poison >",
     "en_trans": "",
-    "zh_trans": "< 毒 - 先去中间再去外圈 >",
+    "zh_trans": "< 追猎傀儡 - 毒气 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -464,7 +464,7 @@
   {
     "original": "< Boot - Vortex >",
     "en_trans": "",
-    "zh_trans": "< 涡旋 - 抵抗中间吸力（不要站对角线上抵抗） >",
+    "zh_trans": "< 追猎傀儡 - 涡旋 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_key_down",
@@ -475,7 +475,7 @@
   {
     "original": "< Boot - Snow >",
     "en_trans": "",
-    "zh_trans": "< 雪环 - 远离特效 >",
+    "zh_trans": "< 追猎傀儡 - 雪环 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,7 +486,7 @@
   {
     "original": "< Boot - Starfall >",
     "en_trans": "",
-    "zh_trans": "< 星之落 - 先去外圈再去中间 >",
+    "zh_trans": "< 追猎傀儡 - 星之落 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -596,7 +596,7 @@
   {
     "original": "< Soul - Nibble Away Up >",
     "en_trans": "",
-    "zh_trans": "BOSS即将苏醒",
+    "zh_trans": "< 灵魂 - 蚕食 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -629,7 +629,7 @@
   {
     "original": "< Spider - Dark Light >",
     "en_trans": "",
-    "zh_trans": "< 黑暗之光 - 先远离光圈，等周围出现黑色特效之后再进入光圈躲避 >",
+    "zh_trans": "< 灾厄蛛后 - 黑暗之光 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -640,7 +640,7 @@
   {
     "original": "< Spider - Twins >",
     "en_trans": "",
-    "zh_trans": "< 双生 - 前后躲避特效 >",
+    "zh_trans": "< 灾厄蛛后 - 双生 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -651,18 +651,18 @@
   {
     "original": "< Spider - Gemini >",
     "en_trans": "",
-    "zh_trans": "双星",
+    "zh_trans": "< 灾厄蛛后 - 双星 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< Spider - Lock Star >",
     "en_trans": "",
-    "zh_trans": "< 星锁 - 停枪，提前去场地中间 >",
+    "zh_trans": "< 灾厄蛛后 - 星锁 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_no",
@@ -673,7 +673,7 @@
   {
     "original": "< Spider - Solution Star >",
     "en_trans": "",
-    "zh_trans": "< 星解 - 去中间规避伤害 >",
+    "zh_trans": "< 灾厄蛛后 - 星解 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -684,7 +684,7 @@
   {
     "original": "< Spider - Death Star >",
     "en_trans": "",
-    "zh_trans": "< 死亡之星 - 远离中间 >",
+    "zh_trans": "< 灾厄蛛后 - 死亡之星 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,7 +695,7 @@
   {
     "original": "< Spider - Ask Spirit >",
     "en_trans": "",
-    "zh_trans": "< 灵魂汲取 - boss回血，提前蹲下 >",
+    "zh_trans": "< 灾厄蛛后 - 灵魂汲取 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": "< Soul - Electric >",
     "en_trans": "",
-    "zh_trans": "< 电球 - 远离电球正面 >",
+    "zh_trans": "< 灵魂 - 电球 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -717,7 +717,7 @@
   {
     "original": "< Spider - Heavenly Sin >",
     "en_trans": "",
-    "zh_trans": "< 天罪 - 蹲下 >",
+    "zh_trans": "< 灾厄蛛后 - 天罚 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": "< Spider - Time Cocoon >",
     "en_trans": "",
-    "zh_trans": "< 时间之茧 - 从左上角开始按顺时针依次移动躲避四次伤害 >",
+    "zh_trans": "< 灾厄蛛后 - 时间之茧 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -739,7 +739,7 @@
   {
     "original": "< Spider - Sand Wind >",
     "en_trans": "",
-    "zh_trans": "< 沙暴 - 按s抵抗 >",
+    "zh_trans": "< 灾厄蛛后 - 沙暴 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_key_down",
@@ -750,13 +750,13 @@
   {
     "original": "< Soul - Rise Nibble Away Up >",
     "en_trans": "",
-    "zh_trans": "< 加速蚕食 - 再次进入“金轮”的范围规避秒杀---5s >",
+    "zh_trans": "< 灵魂 - 加速蚕食 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">* 5 seconds *<",
@@ -827,7 +827,7 @@
   {
     "original": "< Meat - Fire of Shield >",
     "en_trans": "",
-    "zh_trans": "< 火焰护盾 - 停枪，随机出现半场火场 >",
+    "zh_trans": "< 不朽虫王 - 火焰护盾 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_no",
@@ -838,7 +838,7 @@
   {
     "original": "< Meat - Holy >",
     "en_trans": "",
-    "zh_trans": "< 神圣-贴紧两边尸笼 >",
+    "zh_trans": "< 不朽虫王 - 神圣 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -849,7 +849,7 @@
   {
     "original": "< Meat - Gravity >",
     "en_trans": "",
-    "zh_trans": "< 重力 - 按s抵抗BOSS方向的吸力 >",
+    "zh_trans": "< 不朽虫王 - 黑洞 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_key_down",
@@ -860,7 +860,7 @@
   {
     "original": "< Meat - Thunder >",
     "en_trans": "",
-    "zh_trans": "< 雷霆 - 去没有电球和特效的区域 >",
+    "zh_trans": "< 不朽虫王 - 雷霆 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_run",
@@ -871,7 +871,7 @@
   {
     "original": "< Meat - Fire of Cure >",
     "en_trans": "",
-    "zh_trans": "< 火焰治疗 - BOSS回血，随机出现半场火场 >",
+    "zh_trans": "< 不朽虫王 - 火焰治疗 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_fire",
@@ -882,7 +882,7 @@
   {
     "original": "< Meat - Wind >",
     "en_trans": "",
-    "zh_trans": "< 飓风 - 按s抵抗门方向的推力 >",
+    "zh_trans": "< 不朽虫王 - 飓风 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_key_down",
@@ -981,7 +981,7 @@
   {
     "original": "< Meat - Ice Blade >",
     "en_trans": "",
-    "zh_trans": "< 冰刃 - 躲避特效 >",
+    "zh_trans": "< 不朽虫王 - 冰刃 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -992,7 +992,7 @@
   {
     "original": "< Boot - Repair >",
     "en_trans": "",
-    "zh_trans": "< 自我修复 - 停枪 >",
+    "zh_trans": "< 追猎傀儡 - 自我修复 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_no",
@@ -1047,7 +1047,7 @@
   {
     "original": "< Meat - Ultima >",
     "en_trans": "",
-    "zh_trans": "< 终极-贴紧内侧门框（注意是内侧） >",
+    "zh_trans": "< 不朽虫王 - 终极 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_alert",
