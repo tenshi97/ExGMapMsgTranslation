@@ -24,7 +24,7 @@
   {
     "original": "<< A player has picked up electro magic >>",
     "en_trans": "",
-    "zh_trans": "<< 一位玩家拾取了电 >>",
+    "zh_trans": "<< 一位玩家拾取了电 （可使用两次，全部释放后才会进入CD） >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,7 +244,7 @@
   {
     "original": "<< A zombie has picked up zmshiel >>",
     "en_trans": "",
-    "zh_trans": "<< 一名僵尸拾取了盾（紫墙） >>",
+    "zh_trans": "<< 一名僵尸拾取了盾（迷你紫墙） >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "<< wait for a few seconds >>",
     "en_trans": "",
-    "zh_trans": "<< 再等一会 >>",
+    "zh_trans": "<< 再守一会 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -662,117 +662,117 @@
   {
     "original": "<<僵尸神器已启用>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 僵尸现在可以使用神器了 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Misaka will help you >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂会帮助你们 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< The cannon will deactive if misaka pick other magic >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 如果御坂捡到了其它神器手枪那她的超电磁炮会失效 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< CANNON READY >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂的超电磁炮已就绪 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< CANNON >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 轨道炮 --- 去找没有轨道炮的平台，一共两波 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Hunting Instinct >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 狩猎本能 --- boss方向随机高低刀 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Starfall >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 星坠 --- 抬头打光球 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Flame of Revenge >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 火焰复仇 --- 尸笼 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< FALL OF EARTH >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 大地陨落 --- 外围冒火的雕像代表对应平台会下沉 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<< Misaka will release the power in 20 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 御坂将在20秒后释放终极 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "<< The final fence will break in 120 seconds >>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< 终点的栅栏将在120秒后被破坏 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,12 +783,12 @@
   {
     "original": "<<僵尸护盾与刀锋已禁用>>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "<< [zm]护盾和[zm]刀锋已被禁用 >>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
