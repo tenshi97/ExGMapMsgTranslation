@@ -24,7 +24,7 @@
   {
     "original": "< CS2 Porter: Shana >",
     "en_trans": "",
-    "zh_trans": "< CS2版本由Shana移植 >由 水木、为各位rtv关逃课保驾护航（前提是你们守得住）",
+    "zh_trans": "< CS2版本由Shana移植 由水木、为各位的rtv关逃课保驾护航 >（前提是你们守得住）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -255,7 +255,7 @@
   {
     "original": "< Stage RTV1 >",
     "en_trans": "",
-    "zh_trans": "< rtv1 --- 你们大约需要生存190秒 >（",
+    "zh_trans": "< rtv1 --- 你们需要生存190秒 >（有尸笼，笼子的僵尸会在逃课平台中间复活） ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -277,12 +277,12 @@
   {
     "original": "< You must to kill out all the zombies on the plane >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 人类和僵尸只能有一方坐飞机离开！ >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
