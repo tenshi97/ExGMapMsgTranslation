@@ -2,18 +2,18 @@
   {
     "original": ">>MISSION 1: INTERCEPTION (EASY)<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 任务 1：拦截（简单） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": ">>HOLD THE COMPOUND FOR 50 SECONDS<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚守基地 50 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": ">>10 SECONDS LEFT<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 剩余 10 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,40 +35,40 @@
   {
     "original": ">>FALL BACK<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 撤退 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>SPLIT UP! GO TOP AND BOTTOM<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 分散行动！走上路和下路 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚守到大门被破解 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>HOLD FOR 40 SECONDS<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚守 40 秒 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,18 +79,18 @@
   {
     "original": ">>DOORS ARE OPEN! FALL BACK<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 大门已开！撤！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ELEVATOR LEAVING IN 15 SECONDS<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 电梯将在 15 秒后离开 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": ">>Laboratory door seals in 30 seconds!! Hold the lab!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 实验室的门将在 30 秒后封闭！！坚守实验室！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,18 +112,18 @@
   {
     "original": ">>Hit the green button on the computer!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 按下电脑那的绿色按钮！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Door re-opens in 25 seconds! Escape!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 门将在 25 秒后重新打开！快跑！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,56 +134,56 @@
   {
     "original": ">>You've awoken some sort of prototype...<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 你唤醒了某种原型体... <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Guards are on their way!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 守卫正在赶来！！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ESCAPE THROUGH THE OPEN DOOR!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 通过打开的门逃跑！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>DEFENSE FIELD STILL ACTIVE!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 防御力场仍在生效！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 往后方的哨塔扔手雷！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

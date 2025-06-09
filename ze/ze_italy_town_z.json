@@ -101,7 +101,7 @@
   {
     "original": "+++ Defend for 25 seconds +++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+++ 防守 25 秒 +++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "+++ 10 seconds left!!! +++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+++ 剩余 10 秒！！！ +++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,12 +123,12 @@
   {
     "original": "+++ The door is opening +++",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "+++ 门正在打开 +++",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

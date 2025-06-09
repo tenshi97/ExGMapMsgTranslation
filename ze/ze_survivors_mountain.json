@@ -13,7 +13,7 @@
   {
     "original": "<!!!> COLD MOUNTAIN <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 沿着路上的标识走，不要迷失在寒冷山脉里了 <!!!>",
+    "zh_trans": "<!!!> 地图作者:JB_GAMBLE 文本翻译:星荧铃 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "<!!!> THE COLD HURTS <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 寒冷的天气使玩家生命值持续流失，随时注意自己的“护甲”和“生命值” <!!!>",
+    "zh_trans": "<!!!> 寒冷的天气会使玩家生命值持续流失，烤火能恢复生命值。 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "<!!!> FIRE BARRELS HEALS <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 烤火能恢复生命值 <!!!>",
+    "zh_trans": "<!!!> 路上的箭头标识代表正确的路。逃亡时要注意自己的“护甲”和“生命值” <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "<!!!> USE THE RADIO <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 使用无线电设备呼叫救援 <!!!>",
+    "zh_trans": "<!!!> 在打开的集装箱里 <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -222,7 +222,7 @@
   {
     "original": "<!!!> IN THE OPEN CONTAINER <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 在打开的集装箱里 <!!!> ",
+    "zh_trans": "<!!!> 使用无线电设备呼叫救援 <!!!> ",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,24 +233,24 @@
   {
     "original": "<!!!> WAIT FOR HELICOPTER <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 守到直升机来接我们 <!!!>",
+    "zh_trans": "<!!!> 等直升机来接我们（大概60秒） <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 60,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> FALL BACK TO HELICOPTER <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 直升机来了，撤退 <!!!>",
+    "zh_trans": "<!!!> 直升机来了，撤退（大概20秒后离开） <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "<!!!> HELICOPTER LEAVING <!!!>",
@@ -266,7 +266,7 @@
   {
     "original": "<!!!> MAP COMPLETE <!!!>",
     "en_trans": "",
-    "zh_trans": "<!!!> 全图通关，感谢游玩！地图作者:JB (文本翻译:星荧铃) <!!!>",
+    "zh_trans": "<!!!> 全图通关，感谢游玩！ <!!!>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

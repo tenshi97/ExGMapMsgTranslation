@@ -2,7 +2,7 @@
   {
     "original": "*** HE SEEMS FRIENDLY, LET'S ESCAPE WITH HIM ***",
     "en_trans": "",
-    "zh_trans": "*** 他看起来很友好，跟他一起逃吧！ ***",
+    "zh_trans": "*** 他看起来很友好，跳上飞碟一起逃吧！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "*** LET'S GO BACK TO THE CASTLE AND HIDE IN THE BASEMENT ***",
     "en_trans": "",
-    "zh_trans": "*** 让我们回到城堡，躲到地下室去！ ***",
+    "zh_trans": "*** 让我们回城堡，躲到地下室去！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "*** PUSH THIS BOMP ALL THE WAY BACK ! ***",
     "en_trans": "",
-    "zh_trans": "*** 把这个炸弹一路推回去！ ***",
+    "zh_trans": "*** 把这个石头一路推回去！（里面有个硬币） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,7 +266,7 @@
   {
     "original": "*** SHOOT THE LOCKS TO OPEN THE BRIDGE ***",
     "en_trans": "",
-    "zh_trans": "*** 射击锁链打开桥梁 ***",
+    "zh_trans": "*** 射击黄色的锁孔打开桥梁 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -343,7 +343,7 @@
   {
     "original": "*** EVERYONE LET'S GO ***",
     "en_trans": "",
-    "zh_trans": "*** 所有人出发 ***",
+    "zh_trans": "*** 出发！（别急着走，雪人会压死人） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": "*** WAIT 20 SECONDS FOR THE FLAME TO GO OFF ***",
     "en_trans": "",
-    "zh_trans": "*** 火焰将在 20 秒后熄灭 ***",
+    "zh_trans": "*** 火焰将在 20 秒后熄灭（不想死就别靠近火焰） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": "*** LOOK UP ! ***",
     "en_trans": "",
-    "zh_trans": "*** 看上面！ ***",
+    "zh_trans": "*** 抬头躲天坠！（需要有人活下来才能继续前进） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -783,7 +783,7 @@
   {
     "original": "*** OK TEAM YOU CAN FALL BACK NOW ***",
     "en_trans": "",
-    "zh_trans": "*** 好的，现在可以撤退了 ***",
+    "zh_trans": "*** 是弹幕糕手，我们有救了！现在可以撤退了 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -860,7 +860,7 @@
   {
     "original": "*** BREAK THE BOX THE OLDSCHOOL WAY ! ***",
     "en_trans": "",
-    "zh_trans": "*** 用复古方式打破箱子！ ***",
+    "zh_trans": "*** 用复古方式打破箱子！（跳起来顶箱子） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1212,7 +1212,7 @@
   {
     "original": "*** DEFEND ! THE CASTLE WILL OPEN SOON ***",
     "en_trans": "",
-    "zh_trans": "*** 防守！城堡即将开启 ***",
+    "zh_trans": "*** 防守！城堡即将开启（每个房间的画后面有暗格，在里面跳起来就能投票选关） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1311,7 +1311,7 @@
   {
     "original": "*** THIS IS THE WHOMP KING ! ITS ONLY WEAKNESS IS IN ITS BACK ! ***",
     "en_trans": "",
-    "zh_trans": "*** 这是碎碎岩王！它的弱点在背部！ ***",
+    "zh_trans": "*** 这是碎碎岩王！它的弱点在背部！（趁倒下时打它背后） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1333,7 +1333,7 @@
   {
     "original": "*** JUMP RIGHT BEFORE IT LANDS TO AVOID BEING THROWN AWAY ***",
     "en_trans": "",
-    "zh_trans": "*** 在它落地前跳跃避免被震飞 ***",
+    "zh_trans": "*** 在它落地前“跳跃”避免被震飞 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "*** THIS IS THE LAIR OF MAW-RAY ! ***",
     "en_trans": "",
-    "zh_trans": "*** 这是深渊鳐鱼‌的巢穴！ ***",
+    "zh_trans": "*** 这是深海鳗鱼‌的巢穴！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1399,7 +1399,7 @@
   {
     "original": "*** WE KILLED THE MAW-RAY !! ***",
     "en_trans": "",
-    "zh_trans": "*** 我们干掉了深渊鳐！ ***",
+    "zh_trans": "*** 我们干掉了深海鳗！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1454,7 +1454,7 @@
   {
     "original": "*** HE CAN SUMMON ICEROCKS, BETTER DODGE IT WHILE SHOOTING THE WIZARD ***",
     "en_trans": "",
-    "zh_trans": "*** 他能召唤冰岩，最好边躲边射击 ***",
+    "zh_trans": "*** 他能召唤冰岩，最好边躲边射击（带护甲一下扣20血，注意自己的血量） ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1509,7 +1509,7 @@
   {
     "original": "*** CROUCH TO AVOID BEING SHOT ! ***",
     "en_trans": "",
-    "zh_trans": "*** 蹲下躲避炮击！ ***",
+    "zh_trans": "*** “蹲下”躲避炮击！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1520,7 +1520,7 @@
   {
     "original": "*** THE DOORS WILL OPEN IN 20 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 大门将在 20 秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1531,7 +1531,7 @@
   {
     "original": "*** DEFEND 15 SECONDS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守 15 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1542,7 +1542,7 @@
   {
     "original": "*** DEFEND 20 SECONDS WHILE I'M OPENING THE PATH ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 我会开一条路，先防守 20 秒 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
