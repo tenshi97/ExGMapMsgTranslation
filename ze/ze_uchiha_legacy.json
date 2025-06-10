@@ -5,6 +5,7 @@
     "zh_trans": "第一关 - 宇智波鼬",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,8 +16,10 @@
     "zh_trans": "** 左侧门 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** PLAYER HAS PICKED UP SUITON **",
@@ -24,6 +27,7 @@
     "zh_trans": "** 玩家习得了 水遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -34,8 +38,10 @@
     "zh_trans": "** 大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GATE OPENS IN 25 SECONDS**",
@@ -43,8 +49,10 @@
     "zh_trans": "** 大门 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GATE OPENS IN 20 SECONDS**",
@@ -52,8 +60,10 @@
     "zh_trans": "** 大门 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** PLAYER HAS PICKED UP RAITON **",
@@ -61,6 +71,7 @@
     "zh_trans": "** 玩家习得了 雷遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -71,8 +82,10 @@
     "zh_trans": "** 大门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> PLAYER HAS PICKED UP DOTON <<",
@@ -80,6 +93,7 @@
     "zh_trans": ">> 玩家习得了 土遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -90,8 +104,10 @@
     "zh_trans": "** 与宇智波鼬决战的大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** PLAYER HAS PICKED UP CHAKRA **",
@@ -99,6 +115,7 @@
     "zh_trans": "** 玩家获得了 查克拉 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -109,6 +126,7 @@
     "zh_trans": "** 快进去 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -119,6 +137,7 @@
     "zh_trans": "** 别放僵尸进来 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -129,6 +148,7 @@
     "zh_trans": "** 宇智波鼬离开了，快撤退! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -139,8 +159,10 @@
     "zh_trans": "** 门 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**FINAL GATE OPEN IN 15 SECONDS**",
@@ -148,8 +170,10 @@
     "zh_trans": "** 最后的大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DODGE ITACHI KATON **",
@@ -157,6 +181,7 @@
     "zh_trans": "** 躲开宇智波鼬的火遁! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -167,6 +192,7 @@
     "zh_trans": "第二关 - 宇智波佐助",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -177,8 +203,10 @@
     "zh_trans": "** 右侧大门 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**DOOR OPENS IN 20 SECONDS**",
@@ -186,8 +214,10 @@
     "zh_trans": "** 大门 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** PLAYER HAS PICKED UP KATON **",
@@ -195,6 +225,7 @@
     "zh_trans": "** 玩家习得了 火遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -205,8 +236,10 @@
     "zh_trans": "** 10 秒后传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GATES OPENS IN 15 SECONDS**",
@@ -214,8 +247,10 @@
     "zh_trans": "** 大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**CAVE GATE OPENS IN 15 SECONDS**",
@@ -223,8 +258,10 @@
     "zh_trans": "** 洞穴入口 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**TELEPORT IN 5 SECONDS**",
@@ -232,8 +269,10 @@
     "zh_trans": "** 5 秒后传送**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** PLAYER HAS PICKED UP FUTON **",
@@ -241,6 +280,7 @@
     "zh_trans": "** 玩家习得了 风遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -251,8 +291,10 @@
     "zh_trans": "** 大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**GATES OPENS IN 20 SECONDS**",
@@ -260,8 +302,10 @@
     "zh_trans": "** 大门 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**DEFEND UNTIL SOMETHING HAPPEN**",
@@ -269,6 +313,7 @@
     "zh_trans": "** 防守至Boss出现 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -279,6 +324,7 @@
     "zh_trans": "** 手雷能造成更多伤害 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -289,8 +335,10 @@
     "zh_trans": "** 最后的大门 60 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 60,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GET TO THE END **",
@@ -298,6 +346,7 @@
     "zh_trans": "** 快去到终点 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -308,8 +357,10 @@
     "zh_trans": "** 守住桥梁 25 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**THIS IS YOUR LAST CHANCE**",
@@ -317,6 +368,7 @@
     "zh_trans": "** 这是你最后的机会 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -327,6 +379,7 @@
     "zh_trans": "** 赶快杀了他!!!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -337,8 +390,10 @@
     "zh_trans": "** 还剩 30 秒 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**YOU WON STAGE 2**",
@@ -346,6 +401,7 @@
     "zh_trans": "** 第二关 通关 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -356,6 +412,7 @@
     "zh_trans": "第三关 - 宇智波带土",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -366,8 +423,10 @@
     "zh_trans": "** 中间的门 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**CAVE ENTRANCE OPENS IN 15 SECONDS**",
@@ -375,8 +434,10 @@
     "zh_trans": "** 洞穴入口 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**DOOR OPENS IN 30 SECONDS**",
@@ -384,8 +445,10 @@
     "zh_trans": "** 大门 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "**OBITO ARENA DOOR OPENS IN 15 SECONDS**",
@@ -393,8 +456,10 @@
     "zh_trans": "** 与带土战斗的决斗场 15 秒后开启",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** OBITO IS USING ALTERNATE DIMENSION **",
@@ -402,6 +467,7 @@
     "zh_trans": "** 万花筒写轮眼 - 瞳术·神威 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -412,6 +478,7 @@
     "zh_trans": "** 躲在卡卡西后面!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -422,6 +489,7 @@
     "zh_trans": "** 干得漂亮，带土现在被强制传走了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -432,6 +500,7 @@
     "zh_trans": "** 触摸水晶启动传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -442,8 +511,10 @@
     "zh_trans": "** 传送 10 秒后准备就绪 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ZM TELEPORT IN 5 SECONDS **",
@@ -451,8 +522,10 @@
     "zh_trans": "** 僵尸 5 秒后传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** FINAL GATE OPENS IN 25 SECONDS **",
@@ -460,8 +533,10 @@
     "zh_trans": "** 最后的大门 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** LOW GRAVITY ENABLED **",
@@ -469,6 +544,7 @@
     "zh_trans": "** 低重力已启用 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -479,6 +555,7 @@
     "zh_trans": "** 爬上中间并守住 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -489,6 +566,7 @@
     "zh_trans": "** 带土转变为了十尾人柱力 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -499,6 +577,7 @@
     "zh_trans": "** 准备好迎接他最后的攻击 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -509,6 +588,7 @@
     "zh_trans": "** 第三关 - 完成 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -519,6 +599,7 @@
     "zh_trans": "第四关 - 宇智波斑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -529,8 +610,10 @@
     "zh_trans": "** 中间偏左侧的门 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GATES OPENS IN 15 SECONDS **",
@@ -538,8 +621,10 @@
     "zh_trans": "** 大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** CAVE DOOR OPENS IN 30 SECONDS **",
@@ -547,8 +632,10 @@
     "zh_trans": "** 洞穴入口 30 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 25 SECONDS **",
@@ -556,8 +643,10 @@
     "zh_trans": "** 大门 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** MIDDLE WAY OPENING SOON.. **",
@@ -565,6 +654,7 @@
     "zh_trans": "** 中间的道路正在开启.. **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -575,6 +665,7 @@
     "zh_trans": "** 巨石挡住了我们的去路，继续防御 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -585,8 +676,10 @@
     "zh_trans": "** 巨石 10 秒后爆破 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** FIND THE LEVER UNDER THE BRIDGE **",
@@ -594,6 +687,7 @@
     "zh_trans": "** 找到桥下的拉杆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -604,8 +698,10 @@
     "zh_trans": "** 道路 35 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 35,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** TELEPORT ENABLE IN 20 SECONDS **",
@@ -613,8 +709,10 @@
     "zh_trans": "** 传送 20 秒后启用 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** ZM TELEPORT IN 10 SECONDS **",
@@ -622,8 +720,10 @@
     "zh_trans": "** 僵尸 10 秒后传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** GATE OPENS IN 10 SECONDS **",
@@ -631,8 +731,10 @@
     "zh_trans": "** 大门 10 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** FIND THE LEVER UNDER THE WATERFALL TO OPEN THE LEFT DOOR **",
@@ -640,6 +742,7 @@
     "zh_trans": "** 找到瀑布下的拉杆，以开启左侧大门 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -650,6 +753,7 @@
     "zh_trans": "** 右侧大门不会开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -660,8 +764,10 @@
     "zh_trans": "** 左侧大门 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** PLAYER HAS PICKED UP MOKUTON **",
@@ -669,6 +775,7 @@
     "zh_trans": "** 玩家习得了 木遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -679,6 +786,7 @@
     "zh_trans": "** 玩家习得了 通灵之术·罗生门 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -689,8 +797,10 @@
     "zh_trans": "** 侧路 5 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 20 SECONDS **",
@@ -698,8 +808,10 @@
     "zh_trans": "** 大门 20 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** DOOR OPENS IN 15 SECONDS **",
@@ -707,8 +819,10 @@
     "zh_trans": "** 大门 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** MADARA ARENA DOOR OPENS IN 15 SECONDS **",
@@ -716,8 +830,10 @@
     "zh_trans": "** 与宇智波斑战斗的决斗场 15 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** NADES DO MORE DAMAGE **",
@@ -725,6 +841,7 @@
     "zh_trans": "** 手雷能造成更多伤害 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -735,6 +852,7 @@
     "zh_trans": "** 斑正在充能 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -745,6 +863,7 @@
     "zh_trans": "** 轮墓·边狱 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -755,6 +874,7 @@
     "zh_trans": "** 岚遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -765,6 +885,7 @@
     "zh_trans": "** 影分身之术 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -775,6 +896,7 @@
     "zh_trans": "** 干得漂亮，但仍未结束.. **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -785,6 +907,7 @@
     "zh_trans": "** 斑释放了须佐能乎 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -795,6 +918,7 @@
     "zh_trans": "** 击败他! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -805,6 +929,7 @@
     "zh_trans": "** 僵尸正在传送 !!**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -815,6 +940,7 @@
     "zh_trans": "** 干得漂亮 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -825,6 +951,7 @@
     "zh_trans": "** 正在传送 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -835,6 +962,7 @@
     "zh_trans": "** 再次激活瀑布下的拉杆 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -845,8 +973,10 @@
     "zh_trans": "** 最后的大门 25 秒后开启 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "** MADARA WAS WAITING FOR YOU **",
@@ -854,6 +984,7 @@
     "zh_trans": "** 宇智波斑：你们来了啊 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -864,6 +995,7 @@
     "zh_trans": "** 现在终结他!! **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -874,6 +1006,7 @@
     "zh_trans": "** 准备好迎接他最后的攻击 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -884,6 +1017,7 @@
     "zh_trans": "** 你们是真正的忍者 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -894,6 +1028,7 @@
     "zh_trans": "** 第四关 - 通关 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -904,6 +1039,7 @@
     "zh_trans": "** 幻术 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -914,6 +1050,7 @@
     "zh_trans": "** 待在中间 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -924,8 +1061,10 @@
     "zh_trans": "> 不限地速已关闭以测试卡顿 <",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
-    "enable_timer": 0
+    "enable_timer": 0,
+    "force_hint": 0
   },
   {
     "original": "** ZOMBIE DETECTED **",
@@ -933,6 +1072,7 @@
     "zh_trans": "** 检测到僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -943,6 +1083,7 @@
     "zh_trans": "** 僵尸 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -953,6 +1094,7 @@
     "zh_trans": "** 宇智波反射 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -963,6 +1105,7 @@
     "zh_trans": "** 宇智波斑出现了 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -973,6 +1116,7 @@
     "zh_trans": "** 要么打败他，要么闪到一边去 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -983,6 +1127,7 @@
     "zh_trans": "** 无印治愈 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -993,6 +1138,7 @@
     "zh_trans": "** 轮回眼 - 封术吸印 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1003,6 +1149,7 @@
     "zh_trans": "** 火遁 - 豪火灭失 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1013,6 +1160,7 @@
     "zh_trans": "**火遁 - 火雨之术**",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1023,6 +1171,7 @@
     "zh_trans": "** 火遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1033,6 +1182,7 @@
     "zh_trans": "** 天碍震星 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1043,6 +1193,7 @@
     "zh_trans": "** 要么摧毁陨石，要么现在就死 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1053,6 +1204,7 @@
     "zh_trans": "** 木遁 - 花树界降临 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1063,6 +1215,7 @@
     "zh_trans": "** 仙法·阴遁雷派 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1073,6 +1226,7 @@
     "zh_trans": "** 木遁 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1083,6 +1237,7 @@
     "zh_trans": "** 关卡 3 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1093,6 +1248,7 @@
     "zh_trans": "** 关卡 1 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1103,8 +1259,20 @@
     "zh_trans": "** 关卡 2 **",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "** STAGE 4 **",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 4,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
