@@ -178,7 +178,7 @@
   {
     "original": ">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<",
     "en_trans": "",
-    "zh_trans": ">> 往后方的哨塔扔手雷！<<",
+    "zh_trans": ">> 往后方哨塔的窗口里扔手雷！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -189,18 +189,18 @@
   {
     "original": ">>NICE JOB! Shields powering down...<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 干得漂亮！护盾正在关闭...<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>Hold for 20 seconds...<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 坚守 20 秒... <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,51 +211,51 @@
   {
     "original": ">>SHIELDS ARE DOWN! RUN TO THE CHOPPER!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 护盾已失效！快去停机坪！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>ENEMY HELICOPTER INCOMING!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 敌方直升机出现！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 开枪打直升机，一部分人守僵尸！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">>HELICOPTER WILL ATTACK IN 1 MINUTE!!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 在 60 秒内解决敌方直升机！！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 60,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": ">>NICE JOB! Helicopter leaving in 5 seconds<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 干得漂亮！我方直升机 5 秒后撤离！<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,12 +266,12 @@
   {
     "original": ">>YOU COMPLETED MISSION 1<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 任务 1 完成<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   }
 ]
