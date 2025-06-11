@@ -101,13 +101,13 @@
   {
     "original": "[MAP INFO] The gate is slowly opening, hold this area! ***",
     "en_trans": "",
-    "zh_trans": "[地图信息] 大门正在缓慢开启，守住这个区域！***",
+    "zh_trans": "[地图信息] 大门正在缓慢开启，守住这个区域！（55秒）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 55,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[MAP INFO] *** Hold here for 25 seconds! ***",
@@ -178,13 +178,13 @@
   {
     "original": "[MAP INFO] *** Button has been pressed, hold area until gate opens! ***",
     "en_trans": "",
-    "zh_trans": "[地图信息] *** 按钮已被按下，守住该区域直至大门开启！***",
+    "zh_trans": "[地图信息] *** 按钮已被按下，守住该区域直至大门开启！（25秒）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[MAP INFO] *** Gate has opened up, move move move! ***",
@@ -200,13 +200,13 @@
   {
     "original": "[MAP INFO] *** Keep this area until we get sent to the next world! ***",
     "en_trans": "",
-    "zh_trans": "[地图信息] *** 在我们被传送到下一个世界之前守住这个区域！***",
+    "zh_trans": "[地图信息] *** 在我们被传送到下一个世界之前守住这个区域！（25秒）***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 25,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "[MAP INFO] *** Zombies get sent to the new world in 10 seconds!***",
