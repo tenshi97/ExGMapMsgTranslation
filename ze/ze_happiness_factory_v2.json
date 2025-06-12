@@ -354,18 +354,18 @@
   {
     "original": "*右边的电梯快到了*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*右边的电梯快到了*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*木板将在 20 秒后破碎*",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*木板将在 20 秒后破碎*",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",

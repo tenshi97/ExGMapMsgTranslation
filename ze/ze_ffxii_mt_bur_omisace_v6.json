@@ -292,9 +292,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Nades do more damage**",
@@ -303,9 +303,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**A player has picked up Aqua Magick**",
@@ -651,7 +651,7 @@
   {
     "original": "**Sanctuary Keeper has casted Carnage of Phantoms!**",
     "en_trans": "",
-    "zh_trans": "**圣殿守护者刮起了一阵风！（按S抵抗吸力）**",
+    "zh_trans": "**圣殿守护者刮起了一阵风！（去两边按S抵抗吸力，别碰龙头）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1080,7 +1080,7 @@
   {
     "original": "**Judge Bergan has casted Dedication Aura!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长使用了反伤魔法(Dedication Aura)！**",
+    "zh_trans": "**贝甘审判长使用了反伤魔法(Dedication Aura)！别开枪！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1124,7 +1124,7 @@
   {
     "original": "**Judge Bergan has casted 1000 Needles!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长施展了千针刺(1000 Needles)！**",
+    "zh_trans": "**贝甘审判长施展了千针刺(1000 Needles)！蹲下！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1157,7 +1157,7 @@
   {
     "original": "**Judge Bergan summons Esper Shemhazai!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长召唤出了 [告密者]修米哈萨(Shemhazai)，全体点名，准备远离脚底特效！**",
+    "zh_trans": "**贝甘审判长召唤出了 [告密者]修米哈萨(Shemhazai)，全体去场地边缘，脚底出现特效马上躲避！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1344,7 +1344,7 @@
   {
     "original": "**Judge Bergan has casted Frost Fury!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长施展了冰霜之怒(Frost Fury)，全屏减速！**",
+    "zh_trans": "**贝甘审判长施展了冰霜之怒(Frost Fury)，全屏伤害！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1366,7 +1366,7 @@
   {
     "original": "**Judge Bergan has casted Aura of Water!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长施展了狂风魔法(Aura of Water)，不要被推下去了！**",
+    "zh_trans": "**贝甘审判长施展了狂风魔法(Aura of Water)，抵抗推力！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1377,7 +1377,7 @@
   {
     "original": "**Judge Bergan has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长施展了寒冰魔法(Frost Bolt)！**",
+    "zh_trans": "**贝甘审判长施展了寒冰魔法(Frost Bolt)！全屏伤害！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1421,7 +1421,7 @@
   {
     "original": "**[Vaan] Look! There is clean path! Keep running!**",
     "en_trans": "",
-    "zh_trans": "**[梵]看！有一条畅通的路！继续跑！**",
+    "zh_trans": "**[梵]看！有一条畅通的路！继续跑！（准备跳刀打BOSS，高中低随机）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1575,7 +1575,7 @@
   {
     "original": "**Judge Bergan has casted Wind Salvo!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长施展了风铠(Wind Salvo)！**",
+    "zh_trans": "**贝甘审判长施展了风铠(Wind Salvo)！别被推下去了**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1586,7 +1586,7 @@
   {
     "original": "**Judge Bergan summons Esper Chaos!**",
     "en_trans": "",
-    "zh_trans": "**贝甘审判长召唤了 [轮回王] 卡奥斯(Chaos)，它会对一名玩家召唤闪电！**",
+    "zh_trans": "**贝甘审判长召唤了 [轮回王] 卡奥斯(Chaos)，对一名玩家召唤10道跟踪闪电，动起来！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1854,9 +1854,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Catwalk Gate will open in 20 seconds**",
@@ -1894,7 +1894,7 @@
   {
     "original": "**Judge Gabranth summons Esper Mateus!**",
     "en_trans": "",
-    "zh_trans": "**伽布拉斯召唤了 [背德皇帝] 玛提乌斯 **",
+    "zh_trans": "**伽布拉斯召唤了 [背德皇帝] 玛提乌斯，去中间 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1993,7 +1993,7 @@
   {
     "original": "**Judge Bergan has casted Spell of Demon Fire!**",
     "en_trans": "",
-    "zh_trans": "贝甘审判长使用了火焰魔法",
+    "zh_trans": "贝甘审判长使用了火焰魔法，远离环形火焰",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2059,7 +2059,7 @@
   {
     "original": "**Judge Gabranth has casted Frost Bolt!**",
     "en_trans": "",
-    "zh_trans": "伽布拉斯使用了冰霜魔法",
+    "zh_trans": "伽布拉斯使用了冰霜魔法，全屏伤害",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2158,7 +2158,7 @@
   {
     "original": "**Judge Gabranth summons Esper Exodus!**",
     "en_trans": "",
-    "zh_trans": "伽布拉斯召唤了[审判灵树] 艾克斯迪斯，",
+    "zh_trans": "伽布拉斯召唤了[审判灵树] 艾克斯迪斯，致盲效果",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2400,7 +2400,7 @@
   {
     "original": "**[Gabranth] Ha Defend?! You!?**",
     "en_trans": "",
-    "zh_trans": "**[伽布拉斯] 哈，想打败我?! 就你!?**",
+    "zh_trans": "**[伽布拉斯] 我被打败了?! 你!?（上飞船再跳三刀，高中低随机）**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -2492,9 +2492,9 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
-    "enable_timer": 1,
-    "force_hint": 0
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "**Map Update: 01/05/2025**",
