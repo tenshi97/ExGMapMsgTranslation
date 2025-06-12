@@ -5,6 +5,7 @@
     "zh_trans": "欢迎来到ShIzO",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -15,8 +16,10 @@
     "zh_trans": "10秒钟后启动传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "### LEVEL : SCHIZO ###",
@@ -24,6 +27,7 @@
     "zh_trans": "### 关卡 : SCHIZO ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -34,6 +38,7 @@
     "zh_trans": "人类传送点",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -44,6 +49,7 @@
     "zh_trans": "测!地图崩坏了乐!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -54,6 +60,7 @@
     "zh_trans": "粪图!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -64,6 +71,7 @@
     "zh_trans": "传送系统正在重新上线",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -74,6 +82,7 @@
     "zh_trans": "可以，恢复运行了！",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -84,8 +93,10 @@
     "zh_trans": "僵尸将在7秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "In 20 seconds, the doors will open.",
@@ -93,8 +104,10 @@
     "zh_trans": "20秒后开启大门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN",
@@ -102,6 +115,7 @@
     "zh_trans": "开门咯，润!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -112,8 +126,10 @@
     "zh_trans": "15秒后开启大门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE TP 5 SEC",
@@ -121,8 +137,10 @@
     "zh_trans": "僵尸将在5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DONT DEFEND! GO GO",
@@ -130,6 +148,7 @@
     "zh_trans": "快去贴门划刀!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -140,8 +159,10 @@
     "zh_trans": "僵尸将在5秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BREAK THE WALLS AND MOVE ON",
@@ -149,6 +170,7 @@
     "zh_trans": "击碎这道墙继续前进!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -159,8 +181,10 @@
     "zh_trans": "僵尸将在5秒后传送!!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN! RUN",
@@ -168,6 +192,7 @@
     "zh_trans": "门开了!润!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -178,8 +203,10 @@
     "zh_trans": "僵尸将在7秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "TAKE THE RIGHT OR LEFT ROAD!",
@@ -187,6 +214,7 @@
     "zh_trans": "挑一个喜欢的方向前进!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -197,8 +225,10 @@
     "zh_trans": "30秒后地板破碎,守住里面!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "LAST 10 SECONDS! PULL BACK!!!",
@@ -206,8 +236,10 @@
     "zh_trans": "最后10秒钟!快撤!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">3<",
@@ -215,8 +247,10 @@
     "zh_trans": ">3<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">2<",
@@ -224,8 +258,10 @@
     "zh_trans": ">2<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">1<",
@@ -233,8 +269,10 @@
     "zh_trans": ">1<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "time is over",
@@ -242,6 +280,7 @@
     "zh_trans": "到点了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -252,6 +291,7 @@
     "zh_trans": "侦测到僵尸!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -262,6 +302,7 @@
     "zh_trans": ">>> 任务失败 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -272,6 +313,7 @@
     "zh_trans": ">>> 人类获胜 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -282,8 +324,10 @@
     "zh_trans": "别急, 等 15 秒传送就会开了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "### LEVEL : MEGA SCHIZO ###",
@@ -291,6 +335,7 @@
     "zh_trans": "### 关卡 : MEGA SCHIZO ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -301,6 +346,7 @@
     "zh_trans": "按下桥接左右两侧的按钮.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -311,8 +357,10 @@
     "zh_trans": "僵尸 7 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE TP 8 SEC !",
@@ -320,8 +368,10 @@
     "zh_trans": "僵尸 8 秒后传送 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 8,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE TP 4 SEC !",
@@ -329,8 +379,10 @@
     "zh_trans": "僵尸 4 秒后传送 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The bridge will open in 25 seconds.",
@@ -338,8 +390,10 @@
     "zh_trans": "桥会在 25 秒后出现.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Bridge is Opening !",
@@ -347,6 +401,7 @@
     "zh_trans": "桥出现了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -357,8 +412,10 @@
     "zh_trans": "僵尸 10 秒后传送 ! 撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 20 seconds.",
@@ -366,8 +423,10 @@
     "zh_trans": "大门将在 20 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 5 seconds.",
@@ -375,8 +434,10 @@
     "zh_trans": "大门将在 5 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN ! GO BACK !",
@@ -384,6 +445,7 @@
     "zh_trans": "大门开了 ! 该润了 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -394,6 +456,7 @@
     "zh_trans": "远离长满青苔的石头!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -404,8 +467,10 @@
     "zh_trans": "僵尸 10 秒后传送!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 30 seconds.",
@@ -413,8 +478,10 @@
     "zh_trans": "大门将在 30 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPENING !",
@@ -422,6 +489,7 @@
     "zh_trans": "大门正在开启 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -432,6 +500,7 @@
     "zh_trans": "大门正在关闭 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -442,8 +511,10 @@
     "zh_trans": "大门将在 25 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "AFTER 10 SECONDS THE DOOR WILL CLOSE!!",
@@ -451,8 +522,10 @@
     "zh_trans": "还有 10 秒大门就会关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR CLOSING 5 SEC !",
@@ -460,8 +533,10 @@
     "zh_trans": "大门 5 秒后关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE BARRIER WILL BE BROKEN IN 7 SECONDS!",
@@ -469,8 +544,10 @@
     "zh_trans": "阻挡僵尸的屏障会在 7 秒后被破坏!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 7,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The door will open in 15 seconds.",
@@ -478,8 +555,10 @@
     "zh_trans": "大门将在 15 秒后打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN ! RUN RUN",
@@ -487,6 +566,7 @@
     "zh_trans": "大门开了 ! 跑跑跑",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -497,8 +577,10 @@
     "zh_trans": "僵尸 10 秒后传送 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "The bridge will open in 15 seconds.",
@@ -506,8 +588,10 @@
     "zh_trans": "桥会在 15 秒后出现.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "THE BRIDGE IS OPEN, STAND BACK!",
@@ -515,6 +599,7 @@
     "zh_trans": "桥出现了, 该撤退了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -525,6 +610,7 @@
     "zh_trans": "不要断后 ! 直接润 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -535,8 +621,10 @@
     "zh_trans": "通往 BOSS 的大门会在 25 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BOSS DOOR WILL OPEN IN 5 SECONDS!",
@@ -544,8 +632,10 @@
     "zh_trans": "通往 BOSS 的大门会在 5 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "BOSS DOOR OPENING !",
@@ -553,6 +643,7 @@
     "zh_trans": "BOSS 的大门正在打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -563,6 +654,7 @@
     "zh_trans": "BOSS 的大门正在关闭",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -573,6 +665,7 @@
     "zh_trans": "前往 BOSS 平台, 路会断的!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -583,6 +676,7 @@
     "zh_trans": "欢迎来到 BOSS 房间, 哈哈哈准备受死吧 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -593,6 +687,7 @@
     "zh_trans": "消灭巫师!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -603,6 +698,7 @@
     "zh_trans": ">>> 跳刀激活 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -613,6 +709,7 @@
     "zh_trans": ">>> 从简单到困难 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -623,6 +720,7 @@
     "zh_trans": "!!! 看头顶 !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -633,6 +731,7 @@
     "zh_trans": "躲在缝隙里",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -643,6 +742,7 @@
     "zh_trans": " BOSS 想要把你拉上头顶!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -653,6 +753,7 @@
     "zh_trans": ">>> 蹲蹲蹲蹲蹲蹲蹲蹲! <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -663,6 +764,7 @@
     "zh_trans": "在 BOSS 平台上检测到僵尸!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -673,6 +775,7 @@
     "zh_trans": "<<< 任务失败 >>>",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -683,6 +786,7 @@
     "zh_trans": " BOSS 的推力要来了 !!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -693,6 +797,7 @@
     "zh_trans": "努力按 w 往前走和不要跳!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -703,6 +808,7 @@
     "zh_trans": "僵尸的路要出现了! 速速防守僵尸!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -713,6 +819,7 @@
     "zh_trans": "左边和右边都有",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -723,6 +830,7 @@
     "zh_trans": "你可以站起来了!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -733,6 +841,7 @@
     "zh_trans": "芜湖, 你击杀了巫师",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -743,6 +852,7 @@
     "zh_trans": "你现在是最强大的巫师.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -753,6 +863,7 @@
     "zh_trans": "感谢你的游玩",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -763,6 +874,7 @@
     "zh_trans": ">>> 人类胜利 <<<",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -773,6 +885,7 @@
     "zh_trans": "WeLcOmE SchIzO",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -783,6 +896,7 @@
     "zh_trans": "桥出现了 !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -793,6 +907,7 @@
     "zh_trans": "### 添加关卡 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -803,6 +918,7 @@
     "zh_trans": "## 关卡 : EXTREME MEGA SCHIZO ##",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -813,6 +929,7 @@
     "zh_trans": "冲 冲 冲 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -823,8 +940,10 @@
     "zh_trans": "僵尸会在 10 秒后传送. 该润了 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "You can go on the right or left side.",
@@ -832,6 +951,7 @@
     "zh_trans": "你可以走右边或者左边.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -842,8 +962,10 @@
     "zh_trans": "得坚持 30 秒, 大门才会打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "In 10 seconds, the door will open.",
@@ -851,8 +973,10 @@
     "zh_trans": "得坚持 10 秒, 大门才会打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door open RUN !",
@@ -860,6 +984,7 @@
     "zh_trans": "大门打开了 润 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -870,8 +995,10 @@
     "zh_trans": "僵尸会在 20 秒后传送.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 20,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE TP 10 SEC ! RUN",
@@ -879,8 +1006,10 @@
     "zh_trans": "僵尸会在 10 秒后传送 ! 润",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIES TELEPORT !",
@@ -888,6 +1017,7 @@
     "zh_trans": "僵尸传送 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -898,8 +1028,10 @@
     "zh_trans": "得坚持 25 秒, 大门才会打开.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 25,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Door Open ! RUN",
@@ -907,6 +1039,7 @@
     "zh_trans": "大门打开了 ! 润 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -917,6 +1050,7 @@
     "zh_trans": "守住这个区域 并让一个工具人去触发.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -927,8 +1061,10 @@
     "zh_trans": "僵尸将在 15 秒后传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN! RUN RUN !!",
@@ -936,6 +1072,7 @@
     "zh_trans": "大门打开了! 润 润 !!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -946,8 +1083,10 @@
     "zh_trans": "僵尸还有 10 秒传送! 该远离传送点了",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZOMBIE TP 5 SEC!",
@@ -955,8 +1094,10 @@
     "zh_trans": "僵尸还有 5 秒传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DONT DEFEND! BACK",
@@ -964,6 +1105,7 @@
     "zh_trans": "别断后! 直接撤退",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -974,6 +1116,7 @@
     "zh_trans": "别断后 !直接冲",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -984,8 +1127,10 @@
     "zh_trans": "僵尸还有 15 秒传送! 润",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Choose the path you want, be fast!",
@@ -993,6 +1138,7 @@
     "zh_trans": "选择你想要走的路, 赶紧的!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1003,6 +1149,7 @@
     "zh_trans": "跑跑跑 !!!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1013,8 +1160,10 @@
     "zh_trans": "僵尸 15 秒后传送 ! 润",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "DOOR OPEN ! GO",
@@ -1022,6 +1171,7 @@
     "zh_trans": "大门打开了 ! 冲",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1032,6 +1182,7 @@
     "zh_trans": "僵尸传送",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1042,8 +1193,10 @@
     "zh_trans": "通往 BOSS 的大门会在 30 秒后打开",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 30,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "In 15 seconds, the door will open.",
@@ -1051,8 +1204,10 @@
     "zh_trans": "15 秒后才会大门",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "Move to the gate, don't get left behind!",
@@ -1060,6 +1215,7 @@
     "zh_trans": "保持移动至大门, 不要掉队!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1070,8 +1226,10 @@
     "zh_trans": " BOSS 传送将在10秒后开启!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "ZM TP 5 SEC!",
@@ -1079,8 +1237,10 @@
     "zh_trans": "僵尸 5 秒后传送!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "GO !",
@@ -1088,6 +1248,7 @@
     "zh_trans": "冲 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1098,6 +1259,7 @@
     "zh_trans": "前往 BOSS 的平台",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1108,6 +1270,7 @@
     "zh_trans": "欢迎来到 BOSS 的战斗回合",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1118,6 +1281,7 @@
     "zh_trans": "摧毁立方体 !",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1128,6 +1292,7 @@
     "zh_trans": "立方体正在推你.",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1138,6 +1303,7 @@
     "zh_trans": "# 也许可以按 F (W?) #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1148,6 +1314,7 @@
     "zh_trans": "立方体吸引着你. ",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1158,6 +1325,7 @@
     "zh_trans": "# 也许可以按 G (S?) #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1168,6 +1336,7 @@
     "zh_trans": "平台将会着火!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1178,6 +1347,7 @@
     "zh_trans": "去边缘侧凹处!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1188,6 +1358,7 @@
     "zh_trans": "前往该地区!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1198,6 +1369,7 @@
     "zh_trans": "僵尸大门正在打开!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1208,8 +1380,10 @@
     "zh_trans": "4!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 4,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "3!",
@@ -1217,8 +1391,10 @@
     "zh_trans": "3!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 3,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "2!",
@@ -1226,8 +1402,10 @@
     "zh_trans": "2!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 2,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "1!",
@@ -1235,8 +1413,10 @@
     "zh_trans": "1!",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 1,
-    "enable_timer": 1
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": "# DESTROYED CUBE #",
@@ -1244,6 +1424,7 @@
     "zh_trans": "# 被毁坏的立方体 #",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1254,6 +1435,7 @@
     "zh_trans": "地图已结束 ggWP",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1264,6 +1446,7 @@
     "zh_trans": "### 调关房 ###",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1274,6 +1457,7 @@
     "zh_trans": "调关至 关卡 : 3 (EXTREME MEGA SCHIZO)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1284,6 +1468,7 @@
     "zh_trans": "调关至 关卡 : 2 (MEGA SCHIZO)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -1294,8 +1479,20 @@
     "zh_trans": "调关至 关卡 : 1 (SCHIZO)",
     "jp_trans": "",
     "kr_trans": "",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
+  },
+  {
+    "original": "已加载地图关卡逻辑因天空盒子未加载失效问题修复stripper(by bxzl)",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 0
   }
 ]
