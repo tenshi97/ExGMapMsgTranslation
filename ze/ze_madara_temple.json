@@ -79,7 +79,7 @@
   {
     "original": ">> Touch the blue particle to disable the portal <<",
     "en_trans": "",
-    "zh_trans": ">> 触碰蓝色特效禁用传送 <<",
+    "zh_trans": ">> 需要有人触碰蓝色特效才能继续前进 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,7 +145,7 @@
   {
     "original": ">> Defend until the particle reaches the shield <<",
     "en_trans": "",
-    "zh_trans": ">> 防守到特效抵达护盾那里 <<",
+    "zh_trans": ">> 守到低重力出现 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": ">> Find the blue particle to disable the shield <<",
     "en_trans": "",
-    "zh_trans": ">> 寻找蓝色特效禁用护盾 <<",
+    "zh_trans": ">> 找到蓝色特效才能继续前进（触发的人要跳刀） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": ">> Madara is unleashing a FINAL ATTACK ! <<",
     "en_trans": "",
-    "zh_trans": ">> 宇智波·斑 正在释放最终攻击 ! <<",
+    "zh_trans": ">> 宇智波·斑 正在释放 火遁·豪火灭却 ! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": ">> Madara has casted ultima <<",
     "en_trans": "",
-    "zh_trans": ">> 宇智波·斑 施放究极忍术（快贴墙） <<",
+    "zh_trans": ">> 宇智波·斑 施放 终极（快贴墙） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
