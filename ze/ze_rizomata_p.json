@@ -167,7 +167,7 @@
   {
     "original": "*** FREEZING COFFIN ***",
     "en_trans": "",
-    "zh_trans": "冰之柩（去中间）",
+    "zh_trans": "冰之柩（去中间。水面上升阶段：去水下）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "*** FROZEN WATER ***",
     "en_trans": "",
-    "zh_trans": "水面冻结",
+    "zh_trans": "水面冻结（水面上升阶段：浮上水面，跳上四个角落的柱子）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": "*** RISING WATER ***",
     "en_trans": "",
-    "zh_trans": "水面上升",
+    "zh_trans": "阶段：水面上升",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
