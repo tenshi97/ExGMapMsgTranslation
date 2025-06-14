@@ -647,5 +647,16 @@
     "timer_num": 15,
     "enable_timer": 1,
     "force_hint": 0
+  },
+  {
+    "original": ">> DOOR OPENING IN 20 SECONDS <<",
+    "en_trans": "",
+    "zh_trans": "",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 20,
+    "enable_timer": 1,
+    "force_hint": 0
   }
 ]
