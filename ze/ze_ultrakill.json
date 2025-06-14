@@ -893,23 +893,23 @@
   {
     "original": "*** DEFEND WHILE YOUR TEAMMATES LIGHT THE FIRE PITS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 防守，同时你的队友去点燃火炬 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** FIRE PITS LIT DOOR OPENING ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 火炬已点燃，门正在打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
