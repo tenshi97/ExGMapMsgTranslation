@@ -145,13 +145,13 @@
   {
     "original": ">> Defend until the particle reaches the shield <<",
     "en_trans": "",
-    "zh_trans": ">> 守到低重力出现 <<",
+    "zh_trans": ">> 守到低重力出现（35秒） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> Teleport will be enabled in 30 seconds <<",
@@ -420,7 +420,7 @@
   {
     "original": ">> Run to the portal under the waterfall <<",
     "en_trans": "",
-    "zh_trans": ">> 前往瀑布下的传送门 <<",
+    "zh_trans": ">> 前往瀑布山洞里的传送门 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": ">> Cross the bridge and run to the last door ! <<",
     "en_trans": "",
-    "zh_trans": ">> 穿过桥并跑向最后一道门!（25秒后僵尸方向来刀） <<",
+    "zh_trans": ">> 穿过桥并跑向最后一道门!（25秒后僵尸方向来刀，进最后的门就不用跳刀了） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
