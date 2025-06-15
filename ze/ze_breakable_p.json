@@ -40,7 +40,7 @@
   {
     "original": ">>>PREPARE TO RUN - TAKE THE RIGHT DOOR<<<",
     "en_trans": "",
-    "zh_trans": ">>>准备跑-走右边的门<<",
+    "zh_trans": ">>>准备跑-走右边亮着绿灯的门（面对僵尸左边）<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -155,7 +155,7 @@
   {
     "original": ">>>PREPARE TO RUN - TAKE THE LEFT DOOR<<<",
     "en_trans": "",
-    "zh_trans": ">>>准备逃跑——从左边的门走<<<",
+    "zh_trans": ">>>准备逃跑——从左边亮着绿灯的门走（面对僵尸右边）<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -165,7 +165,7 @@
   {
     "original": ">>>PREPARE TO RUN - TAKE THE MIDDLE DOOR<<<",
     "en_trans": "",
-    "zh_trans": ">>准备逃跑 - 走中间的门<<<<",
+    "zh_trans": ">>准备逃跑 - 走中间亮着绿灯的门<<<<",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -178,9 +178,9 @@
     "zh_trans": ">> 桥梁会在倒计时结束前断裂 <<",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 1,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> ENDING NOW <<",

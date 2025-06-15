@@ -79,7 +79,7 @@
   {
     "original": ">> Touch the blue particle to disable the portal <<",
     "en_trans": "",
-    "zh_trans": ">> 触碰蓝色特效禁用传送 <<",
+    "zh_trans": ">> 需要有人触碰蓝色特效才能继续前进 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -145,13 +145,13 @@
   {
     "original": ">> Defend until the particle reaches the shield <<",
     "en_trans": "",
-    "zh_trans": ">> 防守到特效抵达护盾那里 <<",
+    "zh_trans": ">> 守到结界消失（大概需要35秒） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
-    "force_hint": 1
+    "timer_num": 35,
+    "enable_timer": 1,
+    "force_hint": 0
   },
   {
     "original": ">> Teleport will be enabled in 30 seconds <<",
@@ -178,7 +178,7 @@
   {
     "original": ">> Find the blue particle to disable the shield <<",
     "en_trans": "",
-    "zh_trans": ">> 寻找蓝色特效禁用护盾 <<",
+    "zh_trans": ">> 找到蓝色特效才能继续前进（触发的人要跳刀） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,7 +211,7 @@
   {
     "original": ">> Madara is unleashing a FINAL ATTACK ! <<",
     "en_trans": "",
-    "zh_trans": ">> 宇智波·斑 正在释放最终攻击 ! <<",
+    "zh_trans": ">> 宇智波·斑 正在释放 火遁·豪火灭却 ! <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": ">> PLAYER HAS PICKED UP HEAL <<",
     "en_trans": "",
-    "zh_trans": ">> 玩家已拾取 治疗 <<",
+    "zh_trans": ">> 玩家已拾取 治疗(奶+无限子弹) <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": ">> Madara has casted ultima <<",
     "en_trans": "",
-    "zh_trans": ">> 宇智波·斑 施放究极忍术（快贴墙） <<",
+    "zh_trans": ">> 宇智波·斑 施放 终极（快贴墙） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": ">> Run to the portal under the waterfall <<",
     "en_trans": "",
-    "zh_trans": ">> 前往瀑布下的传送门 <<",
+    "zh_trans": ">> 结界消失了，乘着低重力上去，前往水帘洞里的传送门 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": ">> Cross the bridge and run to the last door ! <<",
     "en_trans": "",
-    "zh_trans": ">> 穿过桥并跑向最后一道门!（25秒后僵尸方向来刀） <<",
+    "zh_trans": ">> 穿过桥并跑向最后一道门!（25秒后僵尸方向来刀，进最后的门就不用跳刀了） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": ">> Try to find the elevator button <<",
     "en_trans": "",
-    "zh_trans": ">> 尝试寻找电梯按钮 <<",
+    "zh_trans": ">> 寻找电梯按钮 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,7 +486,7 @@
   {
     "original": ">> LOADING ULTIMA 20 SECONDS <<",
     "en_trans": "",
-    "zh_trans": ">> 正在释放终极 - 20 秒 <<",
+    "zh_trans": ">> 正在释放终极 - 20 秒（神器HUD面板上终极的冷却时间就是生效倒计时） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
