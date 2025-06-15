@@ -46,7 +46,7 @@
   {
     "original": "人类的 >渴血症<",
     "en_trans": "",
-    "zh_trans": "人类的 >渴血症<",
+    "zh_trans": "人类的 > 渴血症 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "僵尸的 >神风敢死队< !",
     "en_trans": "",
-    "zh_trans": "僵尸的 >神风敢死队< !",
+    "zh_trans": "僵尸的 > 神风敢死队 < !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -178,7 +178,7 @@
   {
     "original": "<有人为下局选择了 米纳斯 神图模式！>",
     "en_trans": "",
-    "zh_trans": "<有人为下局选择了 米纳斯 神图模式！>",
+    "zh_trans": "< 有人为下局选择了 米纳斯 神图模式！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -585,7 +585,7 @@
   {
     "original": "<有人为下局选择了 克隆大作战 模式！>",
     "en_trans": "",
-    "zh_trans": "<有人为下局选择了 克隆大作战 模式！>",
+    "zh_trans": "< 有人为下局选择了 克隆大作战 模式！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -607,7 +607,7 @@
   {
     "original": ">即死事件< 已触发！",
     "en_trans": "",
-    "zh_trans": ">即死事件< 已触发！",
+    "zh_trans": "> 即死事件 < 已触发！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -618,7 +618,7 @@
   {
     "original": ">即死事件< 双方使用近战决定本局胜负！",
     "en_trans": "",
-    "zh_trans": ">即死事件< 双方使用近战决定本局胜负！",
+    "zh_trans": "> 即死事件 < 双方使用近战决定本局胜负！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -640,7 +640,7 @@
   {
     "original": ">10秒后将传送所有人至决斗平台！",
     "en_trans": "",
-    "zh_trans": ">10秒后将传送所有人至决斗平台！",
+    "zh_trans": "> 10秒后将传送所有人至决斗平台！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -695,7 +695,7 @@
   {
     "original": ">?!",
     "en_trans": "",
-    "zh_trans": ">?!",
+    "zh_trans": "> ?!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -706,7 +706,7 @@
   {
     "original": ">水位线好像正在上升",
     "en_trans": "",
-    "zh_trans": ">水位线好像正在上升",
+    "zh_trans": "> 水位线好像正在上升",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -717,7 +717,7 @@
   {
     "original": ">该特么跑路咯",
     "en_trans": "",
-    "zh_trans": ">该特么跑路咯",
+    "zh_trans": "> 该特么跑路咯",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -728,7 +728,7 @@
   {
     "original": ">作者告诉我水位线一定高度会暂时停下来",
     "en_trans": "",
-    "zh_trans": ">作者告诉我水位线到达一定高度会暂时停下来",
+    "zh_trans": "> 作者告诉我水位线到达一定高度会暂时停下来",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -739,7 +739,7 @@
   {
     "original": ">别告诉其他人哦",
     "en_trans": "",
-    "zh_trans": ">别告诉其他人哦",
+    "zh_trans": "> 别告诉其他人哦",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -761,7 +761,7 @@
   {
     "original": ">牛魔的这水位线还在上涨",
     "en_trans": "",
-    "zh_trans": ">牛魔的这水位线还在上涨",
+    "zh_trans": "> 牛魔的这水位线还在上涨",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -772,7 +772,7 @@
   {
     "original": ">嘻嘻我一定要活下来口牙",
     "en_trans": "",
-    "zh_trans": ">嘻嘻我一定要活下来口牙",
+    "zh_trans": "> 嘻嘻我一定要活下来口牙",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -805,24 +805,24 @@
   {
     "original": "< 当前模式: 神图模式:米纳斯·纯净版 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 当前模式: 神图模式:米纳斯·纯净版 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "正在播放.. Never Let it Go - 祖堅正慶",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在播放.. Never Let it Go - 祖堅正慶",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 赞助者 水银灯 加入了派对! >",
@@ -860,68 +860,68 @@
   {
     "original": "<有人为下局选择了 上古卷轴 神图模式！>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 有人为下局选择了 上古卷轴 神图模式！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸的 >超杀左轮< !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的 > 超杀左轮 < !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "正在播放.. манго нектар - IRXD7",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在播放.. манго нектар - IRXD7",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">老虎机受到核爆影响,要爆了哦!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 老虎机受到核爆影响,要爆了哦!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "?!",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "?!",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">闪电正在往山头靠拢...",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 闪电正在往山头靠拢...",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 赞助者 夜医仙 加入了派对! >",
@@ -937,24 +937,24 @@
   {
     "original": "人类的 >超级霰弹枪<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类的 > 超级霰弹枪 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸的 >暗影法袍< !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的 > 暗影法袍 < !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 有人类拾取了[3级]神器 圣杯 !>",
@@ -970,68 +970,68 @@
   {
     "original": "<有人为下局选择了 米纳斯 神图模式·纯净版！>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 有人为下局选择了 米纳斯 神图模式·纯净版！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">僵尸腐蚀< 事件已触发！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 僵尸腐蚀 < 事件已触发！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">全体僵尸在5秒后进入低血量腐蚀状态！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 全体僵尸在5秒后进入低血量腐蚀状态！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "人类的 >立体机动<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类的 > 立体机动 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸的 >硫磺火< !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的 > 硫磺火 < !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "正在播放.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "正在播放.. The Less I Know The Better X Sexy Back - Leron Hinds.Timbaland",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 有僵尸拾取了[3级]神器 超杀左轮 !>",
