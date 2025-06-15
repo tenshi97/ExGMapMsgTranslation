@@ -145,7 +145,7 @@
   {
     "original": ">> Defend until the particle reaches the shield <<",
     "en_trans": "",
-    "zh_trans": ">> 守到低重力出现（35秒） <<",
+    "zh_trans": ">> 守到结界消失（大概需要35秒） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": ">> Run to the portal under the waterfall <<",
     "en_trans": "",
-    "zh_trans": ">> 前往瀑布山洞里的传送门 <<",
+    "zh_trans": ">> 结界消失了，乘着低重力上去，前往水帘洞里的传送门 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -464,7 +464,7 @@
   {
     "original": ">> Try to find the elevator button <<",
     "en_trans": "",
-    "zh_trans": ">> 尝试寻找电梯按钮 <<",
+    "zh_trans": ">> 寻找电梯按钮 <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -486,7 +486,7 @@
   {
     "original": ">> LOADING ULTIMA 20 SECONDS <<",
     "en_trans": "",
-    "zh_trans": ">> 正在释放终极 - 20 秒 <<",
+    "zh_trans": ">> 正在释放终极 - 20 秒（神器HUD面板上终极的冷却时间就是生效倒计时） <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
