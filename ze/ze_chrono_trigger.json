@@ -2,18 +2,18 @@
   {
     "original": "*** ze_Chrono_Trigger. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "欢迎来到时空之轮(Chrono Trigger)",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Teleporter activating in 25 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 25 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "*** Teleporter activating in 15 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 15 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,7 +35,7 @@
   {
     "original": "*** Teleporter activating in 5 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 5 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -46,51 +46,51 @@
   {
     "original": "*** Teleporter active! ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门已激活！ ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Requesting access from Zeal Palace. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 正在请求访问权限 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Access granted. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 已授予访问权限 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Stay away from the teleporter as it activates. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 在传送门激活时请远离 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** Teleporter activating in 35 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 35 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -101,7 +101,7 @@
   {
     "original": "*** Teleporter activating in 30 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 30 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "*** Zombies teleporting in 3 seconds... ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 僵尸将在 3 秒后传送... ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "*** Teleporter activating in 20 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 20 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,7 +134,7 @@
   {
     "original": "*** Teleporter activating in 10 seconds. ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 传送门将在 10 秒后启动 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
