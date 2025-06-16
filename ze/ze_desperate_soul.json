@@ -860,11 +860,11 @@
   {
     "original": "**Door has opened**",
     "en_trans": "",
-    "zh_trans": "**门开了**",
+    "zh_trans": "** 门开了，撤退！**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 1,
+    "timer_num": 3,
     "enable_timer": 1,
     "force_hint": 0
   },
@@ -1553,7 +1553,7 @@
   {
     "original": "**Nade do more damage in 10 seconds**",
     "en_trans": "",
-    "zh_trans": ">> 手雷造成不了多少伤害，建议刷枪 --- 10s <<",
+    "zh_trans": ">> 社区的陨石技能随机秒杀人类，在boss放陨石之前快刷枪秒了它！ --- 10s <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
