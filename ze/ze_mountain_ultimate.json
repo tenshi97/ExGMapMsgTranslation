@@ -1047,56 +1047,56 @@
   {
     "original": "<有人为下局选择了 老虎机 模式！>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 有人为下局选择了 老虎机 模式！>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">火车踩踩背< 事件已触发！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 火车踩踩背 < 事件已触发！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">火车将在5秒后出站！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 火车将在5秒后出站！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 5,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "人类的 >二段跳教科书<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类的 > 二段跳教科书 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸的 >蹦床< !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的 > 蹦床 < !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
