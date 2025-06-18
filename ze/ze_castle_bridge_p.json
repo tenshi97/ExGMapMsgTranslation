@@ -18,8 +18,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 5,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***THE DOORS WILL OPEN IN 40 SECONDS***",
@@ -62,8 +62,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 10,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "***THE GATES WILL OPEN IN 20 SECONDS***",
@@ -101,10 +101,10 @@
   {
     "original": "Castle of God",
     "en_trans": "",
-    "zh_trans": "天 神 堡 垒",
+    "zh_trans": "天  神  堡  垒",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_caution",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -178,10 +178,10 @@
   {
     "original": "Castle of dark",
     "en_trans": "",
-    "zh_trans": "暗 黑 城 堡",
+    "zh_trans": "暗  黑  城  堡",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_caution",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -233,10 +233,10 @@
   {
     "original": "Castle of the balance",
     "en_trans": "",
-    "zh_trans": "太 平 城 堡",
+    "zh_trans": "太  平  城  堡",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_caution",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -266,10 +266,10 @@
   {
     "original": "Guardian tower",
     "en_trans": "",
-    "zh_trans": "守 护 之 塔",
+    "zh_trans": "守  护  之  塔",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_caution",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -288,10 +288,10 @@
   {
     "original": "Castle of the light",
     "en_trans": "",
-    "zh_trans": "光 明 城 堡",
+    "zh_trans": "光  明  城  堡",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_caution",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -332,10 +332,10 @@
   {
     "original": "Bridge between the worlds",
     "en_trans": "",
-    "zh_trans": "世 界 之 间 的 桥 梁",
+    "zh_trans": "世  界  之  间  的  桥  梁",
     "jp_trans": "",
     "kr_trans": "",
-    "icon_name": "icon_caution",
+    "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
     "force_hint": 1
@@ -365,7 +365,7 @@
   {
     "original": "***THE DOORS OF THIRD CASTLE WILL OPEN IN 40 SECONDS***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 第一个城堡大门将于40秒后打开 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
