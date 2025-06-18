@@ -420,7 +420,7 @@
   {
     "original": ">>Throw a red cube into this! (Hint: Drop the weapon)<<",
     "en_trans": "",
-    "zh_trans": ">> 将“红色”魔方投入此装置！（提示：把手枪扔进“蓝色”装置）<<",
+    "zh_trans": ">> 将“红色”核心投入此装置！（提示：把手枪扔进“蓝色”装置）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,7 +431,7 @@
   {
     "original": ">>Throw a blue cube into this! (Hint: Drop the weapon)<<",
     "en_trans": "",
-    "zh_trans": ">> 将“蓝色”魔方投入此装置！（提示：把手枪扔进“红色”装置）<<",
+    "zh_trans": ">> 将“蓝色”核心投入此装置！（提示：把手枪扔进“红色”装置）<<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -519,12 +519,12 @@
   {
     "original": ">>Rotating stopped! Nice Job!<<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": ">> 停止旋转了！干得好！ <<",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]

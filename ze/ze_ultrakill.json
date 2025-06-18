@@ -948,23 +948,23 @@
   {
     "original": "*** KILL THE HIDEOUS MASS ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 消灭丑陋的怪物 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*** TOTAL SECRETS FOUND 4/11 ***",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "*** 彩蛋收集总量 4/11 ***",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
