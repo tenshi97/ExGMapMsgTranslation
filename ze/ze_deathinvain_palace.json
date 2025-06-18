@@ -211,24 +211,24 @@
   {
     "original": "**A player has picked up Cure Scroll**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家拾取了治愈卷轴（大奶+无限子弹） **",
+    "zh_trans": "** 一位玩家拾取了治愈卷轴（大奶+无限子弹，大奶有延迟吃不到的话左右动一动） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "**A player has picked up Saint Diana's shelter**",
     "en_trans": "",
-    "zh_trans": "** 一位玩家获得了圣嘉然的佑护（小奶+免抓） **",
+    "zh_trans": "** 一位玩家获得了圣嘉然的佑护（瞬时小奶+免抓） **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<DOUBLE HIT>",
@@ -343,7 +343,7 @@
   {
     "original": "<Take it!Ready to return to the main hall!>",
     "en_trans": "",
-    "zh_trans": "*< 带上它！然后准备回到主大厅去！>**",
+    "zh_trans": "*< 带上它！然后回到出生点的大厅！>**",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "<SHINING SUN>",
     "en_trans": "",
-    "zh_trans": "< 闪耀之光 > --- 使用任意奶神器硬抗伤害",
+    "zh_trans": "< 闪耀之光 > --- 使用嘉然神器（小奶）硬抗伤害",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -844,7 +844,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "<Get what you need and go!>",
