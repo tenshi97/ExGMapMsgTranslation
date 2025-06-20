@@ -453,7 +453,7 @@
   {
     "original": "二楼门30秒后打开喵！",
     "en_trans": "",
-    "zh_trans": "二楼门 30 秒后打开喵！",
+    "zh_trans": "二楼门 30 秒后打开喵！（15秒后开放侧路）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -469,8 +469,8 @@
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 15,
-    "enable_timer": 1,
-    "force_hint": 0
+    "enable_timer": 0,
+    "force_hint": 1
   },
   {
     "original": "试试走哨站再绕进酒馆！",
@@ -842,7 +842,7 @@
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
+    "timer_num": 10,
     "enable_timer": 0,
     "force_hint": 1
   },
@@ -1278,7 +1278,7 @@
   {
     "original": "**55sec**",
     "en_trans": "",
-    "zh_trans": "**55秒**",
+    "zh_trans": "** 55秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1289,7 +1289,7 @@
   {
     "original": "**15sec**",
     "en_trans": "",
-    "zh_trans": "**15秒**",
+    "zh_trans": "** 15秒 **",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1504,7 +1504,7 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "*Mapper hualian_HL*",

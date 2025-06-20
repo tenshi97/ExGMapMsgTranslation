@@ -299,45 +299,45 @@
   {
     "original": "### Undead Priest Active: Flame Thrower###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 亡灵牧师：喷火器 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Flame On ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 喷火器已使用 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "### Flame Charged ###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 喷火器准备就绪 ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "###You Survived! Well Done!###",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "### 你活下来了！干得漂亮！ ###",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
