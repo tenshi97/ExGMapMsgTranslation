@@ -13,7 +13,7 @@
   {
     "original": "## Doors Will Open in 10 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 10 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -24,7 +24,7 @@
   {
     "original": "## Doors Will Open in 5 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 5 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -35,18 +35,18 @@
   {
     "original": "## Doors Open RUN ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门开了，快跑！##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Lift Leaving in 30 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 电梯将在 30 秒后离开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -57,7 +57,7 @@
   {
     "original": "## Lift Leaving in 10 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 电梯将在 10 秒后离开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -68,7 +68,7 @@
   {
     "original": "## Lift Leaving in 5 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 电梯将在 5 秒后离开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -79,29 +79,29 @@
   {
     "original": "## Lift Leaving ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 电梯正在离开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Careful of the collapsing Floor! ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 小心，地板正在消失！##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Trap Door Opening in 30 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 地板将在 30 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -112,7 +112,7 @@
   {
     "original": "## Trap Door Opening in 10 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 地板将在 10 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -123,7 +123,7 @@
   {
     "original": "## Trap Door Opening in 5 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 地板将在 5 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -134,18 +134,18 @@
   {
     "original": "## Trap Door OPEN FALL BACK ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 地板门已打开，撤退 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "##Door Opens 40 Seconds##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 40 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -156,40 +156,40 @@
   {
     "original": "##Each Block will turn red when a zombie is in the corridor##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 当通道中有僵尸时，方块将变为红色 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "##Each Block will turn green when the corridor is clear##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 当通道清空时，方块将变为绿色 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "##Zombies can Break the Blocks sooo DEFEND##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 僵尸可以破坏方块，所以请守住！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "##Door Opens 20 Seconds##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 20 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -200,7 +200,7 @@
   {
     "original": "##Door Opens 10 Seconds##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 10 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -211,18 +211,18 @@
   {
     "original": "##Door Open RUNNN##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门已打开，快跑！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "##Door Opening in 25 Seconds Defend!##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 25 秒后打开，防御！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -233,7 +233,7 @@
   {
     "original": "##Door Opening in 10 Seconds Defend!##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门将在 10 秒后打开，防御！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -244,18 +244,18 @@
   {
     "original": "##Door Open FALL BACK##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门开了，撤退 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Final Door Opening 40 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 最后一道门将在 40 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -266,18 +266,18 @@
   {
     "original": "## HOLD and DEFEND ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 守住！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Final Door Opening 20 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 最后一道门将在 20 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -288,7 +288,7 @@
   {
     "original": "## Final Door Opening 10 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 最后一道门将在 10 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -299,7 +299,7 @@
   {
     "original": "## Final Door Opening 5 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 最后一道门将在 5 秒后打开 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -310,18 +310,18 @@
   {
     "original": "## Door Open Run ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 门开了，快跑！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Boss Room Door Closing 10 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## Boss 房将在 10 秒后关闭 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -332,18 +332,18 @@
   {
     "original": "## All Players if not in the boss room will be teleported ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 所有未进入 Boss 房的玩家将被传送进尸笼 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## Boss Room Door Closing 5 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## Boss 房将在 5 秒后关闭 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -354,51 +354,51 @@
   {
     "original": "## Boss Room Door Closed...Prepare for BATTLE ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## Boss 房已关闭...准备战斗！（不想死的话就用手雷砸BOSS） ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## REAPER SPLITTER KILL IT ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 是收割者分裂体，解决掉它！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "## You have 2 minutes till the boss room explodes! Kill it Quick! ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## Boss 房将在 120 秒后爆炸！快击杀它！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 2,
+    "timer_num": 120,
     "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "## Reaper Splitter Killed ESCAPE ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 收割者分裂体已被击杀，快逃！ ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
-    "timer_num": 0,
-    "enable_timer": 0,
+    "timer_num": 1,
+    "enable_timer": 1,
     "force_hint": 0
   },
   {
     "original": "## 25 Seconds to reach SafeZone ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 还有 25 秒时间到达安全区 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -409,7 +409,7 @@
   {
     "original": "## Zombies will be released in 10 Seconds ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 僵尸将在 10 秒后释放 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -420,7 +420,7 @@
   {
     "original": "## 5 Seconds to reach SafeZone ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 还有 5 秒时间到达安全区 ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -431,12 +431,12 @@
   {
     "original": "## END GAME ##",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "## 游戏结束（翻译:星荧铃） ##",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   }
 ]
