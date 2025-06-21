@@ -189,13 +189,13 @@
   {
     "original": "< 有人类拾取了[3级]神器 立体机动 !>",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 有人类拾取了[3级]神器 立体机动 !>",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 有人类拾取了[3级]神器 超级霰弹枪 !>",
@@ -354,7 +354,7 @@
   {
     "original": "< 当前模式: 外星入侵 >",
     "en_trans": "",
-    "zh_trans": "< 当前模式: 外星入侵 >",
+    "zh_trans": "< 当前模式: 外星入侵 >（必要时人类请用枪击落天上的UFO）",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
@@ -1102,16 +1102,16 @@
   {
     "original": "人类的 >圣心<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类的 > 圣心 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
-    "original": "僵尸的 >年糕王< !",
+    "original": "僵尸的 > 年糕王 < !",
     "en_trans": "",
     "zh_trans": "",
     "jp_trans": "",
@@ -1119,72 +1119,138 @@
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">特殊·即死事件< 已触发！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 特殊·即死事件 < 已触发！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">特殊·即死事件< 双方使用神器决定本局胜负！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 特殊·即死事件 < 双方使用神器决定本局胜负！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": ">人类有一颗超新星已完全进化！",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "> 人类有一颗超新星已完全进化！",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "< 当前模式: 神图模式:老滚 天际省 >",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "< 当前模式: 神图模式:老滚 天际省 >",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "人类的 >超级蘑菇<",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "人类的 > 超级蘑菇 <",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
-    "force_hint": 0
+    "force_hint": 1
   },
   {
     "original": "僵尸的 >大运< !",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "僵尸的 > 大运 < !",
     "jp_trans": "",
     "kr_trans": "",
     "icon_name": "icon_tip",
     "timer_num": 0,
     "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": "** PORTAL OPEN IN 60 SEC! **",
+    "en_trans": "",
+    "zh_trans": "** 传送将在60秒后启用 **",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 60,
+    "enable_timer": 1,
     "force_hint": 0
-  }  
+  },
+  {
+    "original": "***Helicopter explode in 3s***",
+    "en_trans": "",
+    "zh_trans": "*** 直升机将在3秒后放奏see you again的高潮部分 ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 3,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": "***A PLAYER BLOW UP WITH HELICOPTER***",
+    "en_trans": "",
+    "zh_trans": "*** 一名乘客跟着直升机见牢大去了（ ° ͜ ʖ ° ） ***",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">> Kill the Dragonpriest! <<",
+    "en_trans": "",
+    "zh_trans": ">> 杀死龙祭祀！ <<",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 0,
+    "enable_timer": 0,
+    "force_hint": 1
+  },
+  {
+    "original": ">10秒后外围平台将会消失！",
+    "en_trans": "",
+    "zh_trans": "> 10秒后外围平台将会消失！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 10,
+    "enable_timer": 1,
+    "force_hint": 0
+  },
+  {
+    "original": ">5秒后外围平台将会消失！",
+    "en_trans": "",
+    "zh_trans": "> 5秒后外围平台将会消失！",
+    "jp_trans": "",
+    "kr_trans": "",
+    "icon_name": "icon_tip",
+    "timer_num": 5,
+    "enable_timer": 1,
+    "force_hint": 0
+  } 
 ]
